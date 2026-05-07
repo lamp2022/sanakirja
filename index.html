@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sanakirja — Finnish ↔ English Dictionary</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #fafafa; color: #222; }
+.wrap { max-width: 920px; margin: 0 auto; padding: 24px 16px 64px; }
+h1 { font-size: 24px; margin-bottom: 2px; }
+.sub { color: #666; margin-bottom: 18px; font-size: 13px; }
+.tabs { display: flex; gap: 4px; margin-bottom: 12px; }
+.tab { padding: 8px 16px; background: #eee; border-radius: 6px 6px 0 0; cursor: pointer; user-select: none; font-size: 14px; }
+.tab.active { background: #fff; font-weight: 600; box-shadow: 0 -1px 0 0 #e5e5e5 inset; }
+.search { width: 100%; padding: 11px 14px; font-size: 16px; border: 1px solid #ccc; border-radius: 6px; margin-bottom: 12px; background: #fff; }
+.search:focus { outline: none; border-color: #0070f3; box-shadow: 0 0 0 2px rgba(0,112,243,.18); }
+.stats { color: #888; font-size: 13px; margin-bottom: 8px; }
+.list { background: #fff; border: 1px solid #e5e5e5; border-radius: 6px; overflow: hidden; }
+.row { display: grid; grid-template-columns: minmax(140px, 1fr) 64px 2fr; gap: 12px; padding: 9px 14px; border-bottom: 1px solid #f0f0f0; align-items: baseline; }
+.row:last-child { border-bottom: 0; }
+.row:hover { background: #fafbff; }
+.fi { font-weight: 600; }
+.en { color: #1d1d1f; }
+.alt { color: #888; font-size: 13px; }
+.pos { font-size: 11px; background: #eef1f4; color: #555; padding: 2px 7px; border-radius: 999px; text-align: center; font-weight: 500; letter-spacing: .2px; text-transform: uppercase; justify-self: start; }
+.empty { padding: 40px; text-align: center; color: #888; }
+.loading { padding: 40px; text-align: center; color: #aaa; }
+.footer { text-align: center; color: #aaa; font-size: 12px; margin-top: 24px; }
+.footer a { color: #888; text-decoration: none; }
+.footer a:hover { text-decoration: underline; }
+@media (max-width: 600px) {
+  .row { grid-template-columns: 1fr 56px; }
+  .row .en, .row .fi:nth-child(3) { grid-column: 1 / -1; padding-top: 4px; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Sanakirja</h1>
+  <div class="sub">Finnish ↔ English dictionary · 4,795 lemmas</div>
+  <div class="tabs">
+    <div class="tab active" data-tab="fi-en">Finnish → English</div>
+    <div class="tab" data-tab="en-fi">English → Finnish</div>
+  </div>
+  <input class="search" id="q" placeholder="Search…" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+  <div class="stats" id="stats"></div>
+  <div class="list" id="list"><div class="loading">Loading dictionary…</div></div>
+  <div class="footer">
+    <a href="https://github.com/lamp2022/sanakirja">github.com/lamp2022/sanakirja</a>
+  </div>
+</div>
+<script>
+const ESC_MAP = { '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' };
+const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ESC_MAP[c]);
+
+let fiEn = [], enFi = [], current = 'fi-en';
+
+async function load() {
+  try {
+    [fiEn, enFi] = await Promise.all([
+      fetch('data.json').then(r => r.json()),
+      fetch('en_fi_data.json').then(r => r.json()),
+    ]);
+    render();
+  } catch (e) {
+    document.getElementById('list').innerHTML =
+      '<div class="empty">Failed to load dictionary data.</div>';
+  }
+}
+
+function asArr(v) { return Array.isArray(v) ? v : (v == null ? [] : [v]); }
+
+function render() {
+  const q = document.getElementById('q').value.toLowerCase().trim();
+  const data = current === 'fi-en' ? fiEn : enFi;
+  const filtered = q
+    ? data.filter(d => {
+        const fi = asArr(d.fi).join(' ').toLowerCase();
+        const en = asArr(d.en).join(' ').toLowerCase();
+        return fi.includes(q) || en.includes(q);
+      })
+    : data;
+
+  document.getElementById('stats').textContent =
+    filtered.length.toLocaleString() + ' entries' +
+    (q ? ' (filtered from ' + data.length.toLocaleString() + ')' : '');
+
+  const list = document.getElementById('list');
+  if (!filtered.length) {
+    list.innerHTML = '<div class="empty">No results.</div>';
+    return;
+  }
+  const slice = filtered.slice(0, 500);
+  list.innerHTML = slice.map(d => {
+    const fi = asArr(d.fi);
+    const en = asArr(d.en);
+    const pos = esc(d.pos || '');
+    const posBadge = pos ? `<span class="pos">${pos}</span>` : '<span></span>';
+    if (current === 'fi-en') {
+      const altEn = en.length > 1
+        ? ` <span class="alt">· ${esc(en.slice(1).join(', '))}</span>`
+        : '';
+      return `<div class="row">
+        <div class="fi">${esc(fi[0] || '')}</div>
+        ${posBadge}
+        <div class="en">${esc(en[0] || '')}${altEn}</div>
+      </div>`;
+    } else {
+      const altFi = fi.length > 1
+        ? ` <span class="alt">· ${esc(fi.slice(1).join(', '))}</span>`
+        : '';
+      return `<div class="row">
+        <div class="en">${esc(en[0] || '')}</div>
+        ${posBadge}
+        <div class="fi">${esc(fi[0] || '')}${altFi}</div>
+      </div>`;
+    }
+  }).join('');
+  if (filtered.length > 500) {
+    list.innerHTML += `<div class="empty">…and ${(filtered.length - 500).toLocaleString()} more — refine search.</div>`;
+  }
+}
+
+document.querySelectorAll('.tab').forEach(t => {
+  t.onclick = () => {
+    document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
+    t.classList.add('active');
+    current = t.dataset.tab;
+    render();
+  };
+});
+document.getElementById('q').addEventListener('input', render);
+document.getElementById('q').focus();
+load();
+</script>
+</body>
+</html>
