@@ -7,7 +7,7 @@ Exits 0 on success, 1 on failure.
 import json, re, sys
 
 OUTPUT       = "data.json"
-MIN_ROWS     = 1500
+MIN_ROWS     = 1000
 MAX_ROWS     = 5000
 
 SKIP_PATTERNS = [

@@ -18,9 +18,6 @@ FIXTURE_FILE = "fixture.json"
 BATCH_SIZE  = 100
 LANGS = [
     ("fi", "fi_top.csv"),
-    ("sv", "sv_top.csv"),
-    ("it", "it_top.csv"),
-    ("fr", "fr_top.csv"),
 ]
 
 
@@ -59,6 +56,8 @@ def build_fi_kaikki_index(csc_ranks):
             pos = e.get("pos", "")
             if not is_content_pos(pos):
                 continue
+            if normalize_pos(pos) == "adv":
+                continue
             word = e.get("word", "").strip()
             if not word or not re.match(r"^[a-zäöåA-ZÄÖÅ\-']+$", word):
                 continue
@@ -96,6 +95,8 @@ def extract_source_entries(csv_path, lang_code):
         for r in csv.DictReader(f):
             pos = r.get("pos", "")
             if not is_content_pos(pos):
+                continue
+            if normalize_pos(pos) == "adv":
                 continue
             defs = r.get("defs", "")
             first_def = defs.split(" | ")[0] if defs else ""

@@ -24,23 +24,46 @@ LANGS_CSVS   = [("sv", "sv_top.csv"), ("it", "it_top.csv"), ("fr", "fr_top.csv")
 
 
 def load_approved():
-    """Concatenate all batch decisions. Returns {(fi, fi_pos): en_final}."""
+    """Load all batch rows, applying explicit decisions as overrides.
+    Rows with no decision (auto-approved by eyeball) use the original EN value.
+    Returns {(fi, fi_pos): en_final}.
+    """
+    import glob
     approved = {}
-    b = 1
-    while True:
-        path = f"fi_en_batch_{b:02d}_decisions.json"
-        if not os.path.exists(path):
-            break
-        with open(path, encoding="utf-8") as f:
+    rejected = set()
+
+    # Collect explicit decisions from all decisions files including review batch
+    decisions = {}
+    for dec_path in sorted(glob.glob("fi_en_batch_*_decisions.json")):
+        with open(dec_path, encoding="utf-8") as f:
             data = json.load(f)
         for dec in data.get("decisions", []):
-            if dec.get("action") == "reject":
-                continue
-            fi, fi_pos, en = dec.get("fi"), dec.get("fi_pos"), dec.get("en_final")
-            if fi and fi_pos and en:
-                approved[(fi, fi_pos)] = en
-        b += 1
-    print(f"Loaded {len(approved)} approved pairs from {b - 1} batch files")
+            fi, fi_pos = dec.get("fi"), dec.get("fi_pos")
+            if fi and fi_pos:
+                decisions[(fi, fi_pos)] = dec
+
+    # Load all batch rows; apply decisions or fall back to original EN
+    batch_files = sorted(glob.glob("fi_en_batch_[0-9][0-9].json"))
+    for batch_path in batch_files:
+        with open(batch_path, encoding="utf-8") as f:
+            rows = json.load(f)
+        for row in rows:
+            key = (row["fi"], row["fi_pos"])
+            dec = decisions.get(key)
+            if dec:
+                if dec.get("action") == "reject":
+                    rejected.add(key)
+                    continue
+                en = dec.get("en_final") or row["en"]
+            else:
+                en = row["en"]
+            approved[key] = en
+
+    for key in rejected:
+        approved.pop(key, None)
+
+    print(f"Loaded {len(approved)} approved pairs from {len(batch_files)} batch files "
+          f"({len(decisions)} explicit decisions, {len(rejected)} rejected)")
     return approved
 
 

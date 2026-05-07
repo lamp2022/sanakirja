@@ -3,33 +3,68 @@
 Step 10: Local QC server for FI<->EN batch review.
 
 Usage:
-    python3 10_qc_server.py 1      # review fi_en_batch_01.json at localhost:8000
-    python3 10_qc_server.py 2      # review fi_en_batch_02.json
+    python3 10_qc_server.py [batch_number]   # default batch 1
 
+Navigate between batches with the Prev/Next buttons in the browser.
 Keyboard: Tab/Enter = approve, type to correct, '-' + Enter = reject.
 Mouse:    [✓] = approve, [✗] = reject.
 Saves to: fi_en_batch_NN_decisions.json
 """
-import http.server, json, os, socketserver, sys, webbrowser
-
+import http.server, json, os, socketserver, sys, urllib.parse, webbrowser
 
 PORT = 8000
 
 
-def make_html(batch_num: int, batch_data: list) -> str:
+def find_batches():
+    return sorted(
+        int(f[len("fi_en_batch_"):-len(".json")])
+        for f in os.listdir(".")
+        if f.startswith("fi_en_batch_") and f.endswith(".json") and "_decisions" not in f
+        and f != "fi_en_batch_review.json"
+    )
+
+
+def load_batch(num):
+    path = f"fi_en_batch_{num:02d}.json" if isinstance(num, int) else f"fi_en_batch_{num}.json"
+    if not os.path.exists(path):
+        return None
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def load_saved_decisions(batch_num):
+    path = f"fi_en_batch_{batch_num:02d}_decisions.json" if isinstance(batch_num, int) else f"fi_en_batch_{batch_num}_decisions.json"
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    return {str(d["id"]): d for d in data.get("decisions", [])}
+
+
+def make_html(batch_num, batch_data, batches):
     batch_json = json.dumps(batch_data, ensure_ascii=False)
+    saved_json = json.dumps(load_saved_decisions(batch_num), ensure_ascii=False)
+    total = len(batches)
+    pos = batches.index(batch_num) + 1 if batch_num in batches else 0
+    prev_num = batches[batches.index(batch_num) - 1] if batch_num in batches and batches.index(batch_num) > 0 else None
+    next_num = batches[batches.index(batch_num) + 1] if batch_num in batches and batches.index(batch_num) < len(batches) - 1 else None
+    prev_btn = f'<a class="nav-btn" href="#" onclick="saveAndGo(\'/?batch={prev_num}\')">← Prev</a>' if prev_num else '<span class="nav-btn disabled">← Prev</span>'
+    next_btn = f'<a class="nav-btn" href="#" onclick="saveAndGo(\'/?batch={next_num}\')">Next →</a>' if next_num else '<span class="nav-btn disabled">Next →</span>'
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>FI↔EN QC — Batch {batch_num}</title>
+<title>FI↔EN QC — Batch {batch_num}/{total}</title>
 <style>
 *{{box-sizing:border-box;font-family:system-ui,sans-serif;margin:0;padding:0}}
 body{{padding:1rem;background:#f5f5f5}}
-header{{display:flex;align-items:center;gap:1rem;margin-bottom:1rem;flex-wrap:wrap}}
+header{{display:flex;align-items:center;gap:.6rem;margin-bottom:1rem;flex-wrap:wrap}}
 h1{{font-size:1.1rem}}
-#progress{{font-size:.85rem;color:#666}}
+#progress{{font-size:.85rem;color:#666;margin-right:.4rem}}
+.nav-btn{{padding:.3rem .75rem;background:#e5e7eb;color:#111;border:none;border-radius:4px;cursor:pointer;font-size:.85rem;text-decoration:none;display:inline-block}}
+.nav-btn:hover{{background:#d1d5db}}
+.nav-btn.disabled{{color:#aaa;pointer-events:none}}
 #save-btn{{padding:.35rem .9rem;background:#0070f3;color:#fff;border:none;border-radius:4px;cursor:pointer;font-size:.85rem}}
 #save-btn:hover{{background:#0060df}}
 table{{width:100%;border-collapse:collapse;background:#fff;border-radius:8px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.1)}}
@@ -42,6 +77,7 @@ tr.borderline td:first-child{{border-left:3px solid #ef4444}}
 tr.done-approve{{background:#f0fdf4}}
 tr.done-reject{{background:#fff0f0}}
 tr.done-edit{{background:#eff6ff}}
+tr:focus-within:not(.done-reject){{background:#fefce8 !important;outline:2px solid #eab308;outline-offset:-2px}}
 input.en-input{{border:1px solid #ccc;border-radius:4px;padding:.2rem .45rem;width:155px;font-size:.85rem}}
 input.en-input:focus{{outline:none;border-color:#0070f3;box-shadow:0 0 0 2px rgba(0,112,243,.2)}}
 .action-btns{{display:flex;gap:.2rem}}
@@ -61,23 +97,27 @@ input.en-input:focus{{outline:none;border-color:#0070f3;box-shadow:0 0 0 2px rgb
 </head>
 <body>
 <header>
-  <h1>FI↔EN QC — Batch {batch_num}</h1>
+  <h1>Batch {batch_num} / {total}</h1>
   <span id="progress">0 / {len(batch_data)} reviewed</span>
-  <button id="save-btn" onclick="saveBatch()">Save batch</button>
+  {prev_btn}
+  {next_btn}
+  <button id="save-btn" onclick="saveBatch()">Save</button>
 </header>
 <table>
 <thead><tr>
-  <th>#</th><th>FI</th><th>POS</th><th>EN (edit to correct)</th>
+  <th>#</th><th>FI</th><th>EN (edit to correct)</th><th>POS</th>
   <th>Source</th><th>Conf</th><th>Action</th><th>Status</th>
 </tr></thead>
 <tbody id="rows"></tbody>
 </table>
 <script>
 const BATCH={batch_json};
+const BATCH_NUM={json.dumps(batch_num)};
+const SAVED={saved_json};
 const FINGERPRINT=BATCH.map(r=>r.id+r.fi).join(',');
 const STORAGE_KEY='sanakirja_batch_{batch_num}_'+btoa(FINGERPRINT).slice(0,12);
-let state={{}};
-try{{const s=localStorage.getItem(STORAGE_KEY);if(s)state=JSON.parse(s);}}catch(e){{}}
+let state=Object.assign({{}},SAVED);
+try{{const s=localStorage.getItem(STORAGE_KEY);if(s)Object.assign(state,JSON.parse(s));}}catch(e){{}}
 
 function esc(s){{return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}}
 
@@ -130,9 +170,9 @@ function buildTable(){{
     return `<tr id="tr-${{row.id}}" class="${{cls}}" onclick="document.getElementById('inp-${{row.id}}').focus()">
       <td>${{i+1}}</td>
       <td><strong>${{esc(row.fi)}}</strong></td>
-      <td><span class="pos">${{esc(row.fi_pos)}}</span></td>
-      <td><input class="en-input" id="inp-${{row.id}}" value="${{esc(row.en)}}" data-id="${{row.id}}" data-orig="${{esc(row.en)}}"
+      <td><input class="en-input" id="inp-${{row.id}}" value="${{esc(d&&d.action==='edit'?d.en_final:row.en)}}" data-id="${{row.id}}" data-orig="${{esc(row.en)}}"
            onkeydown="handleKey(event,${{row.id}})" onblur="if(!state[${{row.id}}])approve(${{row.id}})"></td>
+      <td><span class="pos">${{esc(row.fi_pos)}}</span></td>
       <td>${{esc(src)}}</td>
       <td><span class="conf conf-${{row.confidence}}">${{row.confidence}}</span></td>
       <td class="action-btns">
@@ -151,7 +191,8 @@ function handleKey(e,id){{
   if(e.key==='Enter'||(e.key==='Tab'&&!e.shiftKey)){{
     e.preventDefault();
     const inp=document.getElementById('inp-'+id);
-    if(inp&&inp.value.trim()==='-'){{reject(id);inp.value='';}}
+    const v=inp?inp.value.trim():'';
+    if(v==='-'||v==='0'){{reject(id);inp.value='';}}
     else{{approve(id);}}
     focusNext(id,1);
   }}else if(e.key==='Tab'&&e.shiftKey){{
@@ -166,12 +207,17 @@ function focusNext(currentId,dir){{
   if(next)next.focus();
 }}
 
+async function saveAndGo(url){{
+  await saveBatch();
+  window.location.href=url;
+}}
+
 async function saveBatch(){{
   const btn=document.getElementById('save-btn');
   btn.textContent='Saving...';btn.disabled=true;
   try{{
     const resp=await fetch('/save',{{method:'POST',headers:{{'Content-Type':'application/json'}},
-      body:JSON.stringify({{batch:{batch_num},decisions:Object.values(state)}})}});
+      body:JSON.stringify({{batch:BATCH_NUM,decisions:Object.values(state)}})}});
     btn.textContent=resp.ok?'Saved ✓':'Error — retry';
     setTimeout(()=>{{btn.textContent='Save batch';btn.disabled=false;}},2000);
   }}catch(err){{btn.textContent='Error — retry';btn.disabled=false;}}
@@ -184,12 +230,22 @@ buildTable();
 
 
 class QCHandler(http.server.BaseHTTPRequestHandler):
-    batch_num = None
-    batch_data = None
+    default_batch = 1
 
     def do_GET(self):
-        if self.path in ("/", "/index.html"):
-            body = make_html(self.batch_num, self.batch_data).encode("utf-8")
+        parsed = urllib.parse.urlparse(self.path)
+        if parsed.path in ("/", "/index.html"):
+            params = urllib.parse.parse_qs(parsed.query)
+            raw = params.get("batch", [str(self.default_batch)])[0]
+            batch_num = "review" if raw == "review" else int(raw) if raw.isdigit() else self.default_batch
+
+            batches = find_batches()
+            batch_data = load_batch(batch_num)
+            if batch_data is None:
+                self.send_response(404); self.end_headers()
+                return
+
+            body = make_html(batch_num, batch_data, batches).encode("utf-8")
             self.send_response(200)
             self.send_header("Content-Type", "text/html; charset=utf-8")
             self.send_header("Content-Length", str(len(body)))
@@ -198,8 +254,21 @@ class QCHandler(http.server.BaseHTTPRequestHandler):
         else:
             self.send_response(404); self.end_headers()
 
+    def _origin_ok(self):
+        # Reject cross-origin POSTs: only accept requests whose Origin (or
+        # Host fallback) targets our own localhost:PORT. Prevents CSRF / DNS
+        # rebinding from any other tab clobbering decisions files.
+        allowed = {f"http://localhost:{PORT}", f"http://127.0.0.1:{PORT}"}
+        origin = self.headers.get("Origin")
+        if origin is not None:
+            return origin in allowed
+        host = self.headers.get("Host", "")
+        return host in {f"localhost:{PORT}", f"127.0.0.1:{PORT}"}
+
     def do_POST(self):
         if self.path == "/save":
+            if not self._origin_ok():
+                self.send_response(403); self.end_headers(); return
             length = int(self.headers.get("Content-Length", 0))
             body = self.rfile.read(length)
             try:
@@ -207,7 +276,16 @@ class QCHandler(http.server.BaseHTTPRequestHandler):
             except json.JSONDecodeError:
                 self.send_response(400); self.end_headers(); return
 
-            out = f"fi_en_batch_{self.batch_num:02d}_decisions.json"
+            batch_num = data.get("batch", self.default_batch)
+            valid_batches = set(find_batches())
+            if isinstance(batch_num, int):
+                if batch_num not in valid_batches:
+                    self.send_response(400); self.end_headers(); return
+                out = f"fi_en_batch_{batch_num:02d}_decisions.json"
+            elif batch_num == "review":
+                out = "fi_en_batch_review_decisions.json"
+            else:
+                self.send_response(400); self.end_headers(); return
             with open(out, "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -215,7 +293,7 @@ class QCHandler(http.server.BaseHTTPRequestHandler):
             approved = sum(1 for d in decisions if d.get("action") == "approve")
             edited   = sum(1 for d in decisions if d.get("action") == "edit")
             rejected = sum(1 for d in decisions if d.get("action") == "reject")
-            print(f"\nBatch {self.batch_num} → {out}")
+            print(f"\nBatch {batch_num} → {out}")
             print(f"  Approved {approved}  Edited {edited}  Rejected {rejected}")
 
             self.send_response(200)
@@ -226,33 +304,36 @@ class QCHandler(http.server.BaseHTTPRequestHandler):
             self.send_response(404); self.end_headers()
 
     def log_message(self, fmt, *args):
-        pass  # suppress access logs
+        pass
 
 
 def main():
-    if len(sys.argv) < 2:
-        print("Usage: python3 10_qc_server.py <batch_number>")
+    arg = sys.argv[1] if len(sys.argv) > 1 else "1"
+    batch_num = "review" if arg == "review" else int(arg)
+
+    batches = find_batches()
+    if not batches and batch_num != "review":
+        print("No fi_en_batch_NN.json files found. Run 09_build_fi_en_pairs.py first.")
+        sys.exit(1)
+    if isinstance(batch_num, int) and batch_num not in batches:
+        print(f"Batch {batch_num} not found. Available: {batches}")
+        sys.exit(1)
+    if batch_num == "review" and not os.path.exists("fi_en_batch_review.json"):
+        print("fi_en_batch_review.json not found.")
         sys.exit(1)
 
-    batch_num = int(sys.argv[1])
-    batch_file = f"fi_en_batch_{batch_num:02d}.json"
+    QCHandler.default_batch = batch_num
 
-    if not os.path.exists(batch_file):
-        print(f"Error: {batch_file} not found. Run 09_build_fi_en_pairs.py first.")
-        sys.exit(1)
-
-    with open(batch_file, encoding="utf-8") as f:
-        batch_data = json.load(f)
-
-    QCHandler.batch_num = batch_num
-    QCHandler.batch_data = batch_data
-
-    print(f"Batch {batch_num}: {len(batch_data)} rows at http://localhost:{PORT}")
+    if batch_num == "review":
+        print(f"QC server: review batch at http://localhost:{PORT}")
+    else:
+        print(f"QC server: {len(batches)} batches at http://localhost:{PORT}")
+        print(f"  Starting at batch {batch_num}. Use Prev/Next buttons to navigate.")
     print("  Tab/Enter = approve  |  edit + Enter = correct  |  '-' + Enter = reject")
     print("  Ctrl+C to stop")
 
     socketserver.TCPServer.allow_reuse_address = True
-    with socketserver.TCPServer(("", PORT), QCHandler) as httpd:
+    with socketserver.TCPServer(("127.0.0.1", PORT), QCHandler) as httpd:
         webbrowser.open(f"http://localhost:{PORT}")
         httpd.serve_forever()
 

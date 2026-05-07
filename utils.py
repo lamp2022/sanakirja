@@ -1,4 +1,6 @@
 # utils.py
+import json
+import os
 import re
 
 SKIP_PREFIXES = (
@@ -42,6 +44,15 @@ def first_gloss_first_token(gloss: str) -> str | None:
     token = token.strip(".'\" ")
     if not token or len(token) < 2:
         return None
+    # Strip indefinite articles always; strip "the" only before lowercase words
+    low = token.lower()
+    if low.startswith("a ") or low.startswith("an "):
+        token = token.split(" ", 1)[1]
+    elif low.startswith("the ") and len(token) > 4 and token[4].islower():
+        token = token[4:]
+    token = token.strip()
+    if not token or len(token) < 2:
+        return None
     words = token.split()
     max_words = 4 if token.lower().startswith("to ") else 3
     if len(words) > max_words:
@@ -65,3 +76,14 @@ def is_content_pos(pos: str) -> bool:
 def normalize_pos(pos: str) -> str:
     """Normalize POS label to canonical form (adjective -> adj, adverb -> adv)."""
     return POS_NORMALIZE.get(pos.lower().strip(), pos.lower().strip())
+
+
+def atomic_write_json(path: str, data, indent: int = 2) -> None:
+    """Write JSON to a temp file in the same dir, then os.replace into place.
+
+    Prevents data.json corruption if the process is killed mid-write.
+    """
+    tmp = f"{path}.tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=indent)
+    os.replace(tmp, path)
