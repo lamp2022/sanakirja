@@ -46,6 +46,9 @@ h1 { font-size: 22px; margin-bottom: 4px; }
   <div class="list" id="list"></div>
 </div>
 <script>
+const ESC_MAP = { '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' };
+const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ESC_MAP[c]);
+
 let fiEn = [], enFi = [], current = 'fi-en';
 
 async function load() {
@@ -79,11 +82,13 @@ function render() {
     const fi = Array.isArray(d.fi) ? d.fi : [d.fi];
     const en = Array.isArray(d.en) ? d.en : [d.en];
     if (current === 'fi-en') {
-      return `<div class="row"><div class="fi">${fi[0] || ''}</div>
-        <div class="en">${en[0] || ''}${en.length > 1 ? ` <span class="alt">· ${en.slice(1).join(', ')}</span>` : ''}</div></div>`;
+      const altEn = en.length > 1 ? ` <span class="alt">· ${esc(en.slice(1).join(', '))}</span>` : '';
+      return `<div class="row"><div class="fi">${esc(fi[0] || '')}</div>
+        <div class="en">${esc(en[0] || '')}${altEn}</div></div>`;
     } else {
-      return `<div class="row"><div class="en">${en[0] || ''}</div>
-        <div class="fi">${fi[0] || ''}${fi.length > 1 ? ` <span class="alt">· ${fi.slice(1).join(', ')}</span>` : ''}</div></div>`;
+      const altFi = fi.length > 1 ? ` <span class="alt">· ${esc(fi.slice(1).join(', '))}</span>` : '';
+      return `<div class="row"><div class="en">${esc(en[0] || '')}</div>
+        <div class="fi">${esc(fi[0] || '')}${altFi}</div></div>`;
     }
   }).join('');
   if (filtered.length > 500) {
@@ -105,18 +110,28 @@ load();
 </body></html>"""
 
 
+ALLOWED_FILES = {'/data.json', '/en_fi_data.json'}
+
+
 class Handler(http.server.SimpleHTTPRequestHandler):
     def do_GET(self):
-        if self.path == '/' or self.path == '/index.html':
+        if self.path in ('/', '/index.html'):
             self.send_response(200)
             self.send_header('Content-type', 'text/html; charset=utf-8')
             self.end_headers()
             self.wfile.write(HTML.encode('utf-8'))
             return
-        return super().do_GET()
+        if self.path in ALLOWED_FILES:
+            return super().do_GET()
+        # Reject anything else — no path traversal, no checkpoints, no .git/
+        self.send_response(404)
+        self.end_headers()
+
+    def log_message(self, fmt, *args):
+        pass
 
 
-with socketserver.TCPServer(("", PORT), Handler) as httpd:
+with socketserver.TCPServer(("127.0.0.1", PORT), Handler) as httpd:
     url = f"http://localhost:{PORT}"
     print(f"Browsing dictionary at {url}")
     webbrowser.open(url)

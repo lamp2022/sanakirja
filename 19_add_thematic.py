@@ -7,7 +7,8 @@ weather, time, professions, common verbs, common adjectives.
 Approach: my own Finnish knowledge → verify with GT → add only those that match.
 """
 
-import json, time, requests
+import json, time
+from utils import atomic_write_json, gt
 
 DATA_FILE = "data.json"
 
@@ -386,12 +387,6 @@ CURATED = [
 ]
 
 
-def gt(word):
-    url = 'https://translate.googleapis.com/translate_a/single'
-    params = {'client': 'gtx', 'sl': 'fi', 'tl': 'en', 'dt': 't', 'q': word}
-    return requests.get(url, params=params, timeout=8).json()[0][0][0].strip().lower()
-
-
 def main():
     with open(DATA_FILE) as f:
         data = json.load(f)
@@ -403,29 +398,27 @@ def main():
     print(f"Already in data: {len(CURATED) - len(new)}")
     print(f"To add: {len(new)}")
 
-    # Verify each with GT — flag if disagrees significantly
+    # Verify each with GT — only append on match; flagged entries stay out
     added = 0
     flagged = []
     for i, (fi, en, pos) in enumerate(new):
-        try:
-            gt_en = gt(fi)
-            # GT verification: substring match either way is OK
-            our_en_low = en.lower()
-            match = (gt_en == our_en_low or gt_en in our_en_low or our_en_low in gt_en)
-            entry = {'fi': fi, 'en': en, 'pos': pos}
-            data.append(entry)
-            added += 1
-            if not match:
-                flagged.append((fi, en, gt_en))
-            if (i+1) % 50 == 0:
-                print(f"  {i+1}/{len(new)}")
-            time.sleep(0.12)
-        except Exception as ex:
-            print(f"  err {fi}: {ex}")
+        gt_en = gt(fi)
+        if gt_en is None:
+            flagged.append((fi, en, "<gt-unavailable>"))
             time.sleep(1)
+            continue
+        our_en_low = en.lower()
+        match = (gt_en == our_en_low or gt_en in our_en_low or our_en_low in gt_en)
+        if match:
+            data.append({'fi': fi, 'en': en, 'pos': pos})
+            added += 1
+        else:
+            flagged.append((fi, en, gt_en))
+        if (i+1) % 50 == 0:
+            print(f"  {i+1}/{len(new)}")
+        time.sleep(0.12)
 
-    with open(DATA_FILE, 'w') as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+    atomic_write_json(DATA_FILE, data)
 
     print(f"\nAdded: {added}")
     print(f"Flagged (GT disagrees, manual review): {len(flagged)}")

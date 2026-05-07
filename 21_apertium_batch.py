@@ -8,20 +8,14 @@ Usage:
     python3 21_apertium_batch.py [batch_num]    # default batch 1
 """
 
-import json, csv, re, time, requests, sys, os
-from utils import atomic_write_json
+import json, csv, re, time, sys, os
+from utils import atomic_write_json, gt
 
 DATA_FILE     = "data.json"
 APERTIUM_FILE = "apertium/fin-eng.dix"
 FREQ_FILE     = "fi_top.csv"
 CHECKPOINT    = "apertium_verify_checkpoint.jsonl"
 BATCH_SIZE    = 150
-
-
-def gt(word):
-    url = 'https://translate.googleapis.com/translate_a/single'
-    params = {'client': 'gtx', 'sl': 'fi', 'tl': 'en', 'dt': 't', 'q': word}
-    return requests.get(url, params=params, timeout=8).json()[0][0][0].strip().lower()
 
 
 def normalize(s):

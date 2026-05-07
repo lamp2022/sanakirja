@@ -2,6 +2,8 @@
 import json
 import os
 import re
+import tempfile
+import time
 
 SKIP_PREFIXES = (
     "inflection of", "plural of", "past participle of", "present participle of",
@@ -79,11 +81,58 @@ def normalize_pos(pos: str) -> str:
 
 
 def atomic_write_json(path: str, data, indent: int = 2) -> None:
-    """Write JSON to a temp file in the same dir, then os.replace into place.
+    """Write JSON to a unique temp file in the same dir, then os.replace into place.
 
-    Prevents data.json corruption if the process is killed mid-write.
+    Hardened against:
+      - symlink attacks: mkstemp uses O_EXCL+O_CREAT, won't follow a pre-placed symlink
+      - concurrent process races: each call gets a unique tmp name in the target dir
+      - mid-write crashes: target file is only swapped via atomic os.replace
     """
-    tmp = f"{path}.tmp"
-    with open(tmp, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=indent)
-    os.replace(tmp, path)
+    target_dir = os.path.dirname(os.path.abspath(path)) or "."
+    fd, tmp = tempfile.mkstemp(prefix=".sanakirja-tmp-", suffix=".json", dir=target_dir)
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=indent)
+        os.replace(tmp, path)
+    except BaseException:
+        try:
+            os.unlink(tmp)
+        except OSError:
+            pass
+        raise
+
+
+def gt(word: str, sl: str = "fi", tl: str = "en", retries: int = 3) -> str | None:
+    """Translate a single word via the unauthenticated Google Translate endpoint.
+
+    Returns the lowercased first translation, or None on failure. Handles:
+      - 429 rate-limit / HTML responses (won't crash on .json()[0][0][0])
+      - transient network errors (retry with exponential backoff)
+      - unexpected response shape (returns None instead of IndexError)
+
+    Caller must still rate-limit (~0.12s between requests is courteous).
+    """
+    import requests  # lazy: only callers that touch GT pay the import cost
+    url = "https://translate.googleapis.com/translate_a/single"
+    params = {"client": "gtx", "sl": sl, "tl": tl, "dt": "t", "q": word}
+    headers = {"User-Agent": "sanakirja-builder/1.0 (https://github.com/lamp2022/sanakirja)"}
+    for attempt in range(retries):
+        try:
+            r = requests.get(url, params=params, headers=headers, timeout=10)
+            if r.status_code == 429 or r.status_code >= 500:
+                time.sleep(2 ** attempt)
+                continue
+            r.raise_for_status()
+            ct = r.headers.get("Content-Type", "")
+            if "json" not in ct.lower():
+                # Google sometimes returns HTML on rate-limit / blocked
+                time.sleep(2 ** attempt)
+                continue
+            data = r.json()
+            return data[0][0][0].strip().lower()
+        except (requests.RequestException, ValueError, IndexError, KeyError, TypeError):
+            if attempt < retries - 1:
+                time.sleep(2 ** attempt)
+                continue
+            return None
+    return None

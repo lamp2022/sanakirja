@@ -7,7 +7,8 @@ Usage:
     python3 20_jukka_verify.py [batch_num]    # default batch 1
 """
 
-import json, csv, re, time, requests, sys, os
+import json, csv, re, time, sys, os
+from utils import gt
 
 DATA_FILE      = "data.json"
 JUKKA_FILE     = "jukka_enriched.csv"
@@ -37,12 +38,6 @@ def first_meaning(jukka_en):
 
 def normalize(s):
     return re.sub(r'^(to |a |an )', '', s.lower().strip())
-
-
-def gt(word):
-    url = 'https://translate.googleapis.com/translate_a/single'
-    params = {'client': 'gtx', 'sl': 'fi', 'tl': 'en', 'dt': 't', 'q': word}
-    return requests.get(url, params=params, timeout=8).json()[0][0][0].strip().lower()
 
 
 def main():

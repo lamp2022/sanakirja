@@ -6,8 +6,8 @@ Pipeline: GT primary + kaikki secondary, same cleaning rules as 13_build_meaning
 Resumable via gt_missing_checkpoint.jsonl — append-only.
 """
 
-import json, csv, re, os, time, requests
-from utils import atomic_write_json
+import json, csv, re, os, time
+from utils import atomic_write_json, gt
 
 DATA_FILE      = "data.json"
 FREQ_FILE      = "fi_top.csv"
@@ -16,13 +16,6 @@ KAIKKI_CHECK   = "kaikki_glosses_checkpoint.json"
 KAIKKI_FILE    = "kaikki_finnish.jsonl"
 
 ALLOW_POS = {'noun', 'verb', 'adj', 'adv'}
-
-
-def gt(word):
-    url = 'https://translate.googleapis.com/translate_a/single'
-    params = {'client': 'gtx', 'sl': 'fi', 'tl': 'en', 'dt': 't', 'q': word}
-    r = requests.get(url, params=params, timeout=8)
-    return r.json()[0][0][0].strip()
 
 
 def clean_gloss(raw):
