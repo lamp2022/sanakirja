@@ -88,6 +88,17 @@ class TestBestTarget(unittest.TestCase):
         # "to play" with fi_pos=verb should match "spela" which is indexed under "to play"
         self.assertEqual(best_target("to play", "verb", self.idx), "spela")
 
+    def test_verb_to_fallback_strips_prefix(self):
+        # Index only has "play" (without "to "), but we search for "to play"
+        idx_no_to = build_target_index_from_rows([
+            {"lemma": "spela", "pos": "verb", "defs": "play (a game)", "rank": "1"},
+        ])
+        # Direct lookup "to play" fails, fallback to "play" should succeed
+        self.assertNotIn("to play", idx_no_to)  # confirm index has "play" not "to play"
+        self.assertIn("play", idx_no_to)
+        result = best_target("to play", "verb", idx_no_to)
+        self.assertEqual(result, "spela")
+
 
 if __name__ == "__main__":
     unittest.main()

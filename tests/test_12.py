@@ -4,8 +4,9 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 
 SKIP_PATTERNS = [
     r"inflection of", r"plural of", r"past participle",
-    r"third.person", r"alternative form of", r"obsolete form of",
-    r"definite singular",
+    r"third.person", r"first.person", r"second.person",
+    r"alternative form of", r"obsolete form of",
+    r"definite singular", r"definite plural",
 ]
 import re
 
@@ -33,6 +34,8 @@ def validate_data(data):
                 seen_fi[fi] = i
     if len(data) < 1500:
         errors.append(f"Too few rows: {len(data)}")
+    if len(data) > 5000:
+        errors.append(f"Too many rows: {len(data)}")
     return errors
 
 
@@ -75,6 +78,10 @@ class TestValidation(unittest.TestCase):
     def test_too_few_rows(self):
         errors = validate_data([self._row(fi=f"fi{i}") for i in range(10)])
         self.assertTrue(any("Too few rows" in e for e in errors))
+
+    def test_too_many_rows(self):
+        errors = validate_data([self._row(fi=f"fi{i}", en=f"word{i}") for i in range(5001)])
+        self.assertTrue(any("Too many rows" in e for e in errors))
 
 
 if __name__ == "__main__":

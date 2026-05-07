@@ -148,7 +148,11 @@ function buildTable(){{
 
 function handleKey(e,id){{
   if(e.key==='Enter'||(e.key==='Tab'&&!e.shiftKey)){{
-    e.preventDefault();approve(id);focusNext(id,1);
+    e.preventDefault();
+    const inp=document.getElementById('inp-'+id);
+    if(inp&&inp.value.trim()==='-'){{reject(id);inp.value='';}}
+    else{{approve(id);}}
+    focusNext(id,1);
   }}else if(e.key==='Tab'&&e.shiftKey){{
     e.preventDefault();focusNext(id,-1);
   }}
@@ -246,6 +250,7 @@ def main():
     print("  Tab/Enter = approve  |  edit + Enter = correct  |  '-' + Enter = reject")
     print("  Ctrl+C to stop")
 
+    socketserver.TCPServer.allow_reuse_address = True
     with socketserver.TCPServer(("", PORT), QCHandler) as httpd:
         webbrowser.open(f"http://localhost:{PORT}")
         httpd.serve_forever()

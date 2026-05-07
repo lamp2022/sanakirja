@@ -136,6 +136,9 @@ class TestNormalizePos(unittest.TestCase):
     def test_unknown_passthrough(self):
         self.assertEqual(normalize_pos("character"), "character")
 
+    def test_case_insensitive(self):
+        self.assertEqual(normalize_pos("Adjective"), "adj")
+
 
 if __name__ == "__main__":
     unittest.main()

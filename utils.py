@@ -9,20 +9,20 @@ SKIP_PREFIXES = (
     "gerund of", "imperative of", "feminine of", "masculine of",
 )
 
-CONTENT_POS = {"noun", "verb", "adj", "adjective", "adv", "adverb"}
-
 POS_NORMALIZE = {
     "noun": "noun", "verb": "verb",
     "adj": "adj", "adjective": "adj",
     "adv": "adv", "adverb": "adv",
 }
 
+CONTENT_POS = set(POS_NORMALIZE.keys()) | set(POS_NORMALIZE.values())
+
 
 def first_gloss_first_token(gloss: str) -> str | None:
     """Extract the first clean English token from a kaikki gloss string.
 
-    Preserves 'to ' prefix for verbs. Takes first comma/semicolon token.
-    Drops parenthetical content.
+    Preserves 'to ' prefix if already present in the gloss. Takes first comma/semicolon token.
+    Drops parenthetical content. Returns None for empty, None, or too-short input.
     """
     if not gloss:
         return None

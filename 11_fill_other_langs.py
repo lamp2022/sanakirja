@@ -164,11 +164,13 @@ def main():
 
     total = len(final)
     all6 = sum(1 for r in final if all(k in r for k in ("fi","en","sv","it","fr","de")))
-    fi_en_only = sum(1 for r in final if set(r.keys()) <= {"fi","en","fi_pos"})
+    fi_en_only = sum(1 for r in final if set(r.keys()) - {"fi_pos"} <= {"fi","en"})
     per_lang = {l: sum(1 for r in final if l in r) for l in ("en","sv","it","fr","de")}
 
+    # Strip fi_pos — output schema does not expose POS
+    output_rows = [{k: v for k, v in row.items() if k != "fi_pos"} for row in final]
     with open(OUTPUT, "w", encoding="utf-8") as f:
-        json.dump(final, f, ensure_ascii=False, indent=2)
+        json.dump(output_rows, f, ensure_ascii=False, indent=2)
 
     print(f"\n{OUTPUT}: {os.path.getsize(OUTPUT):,} bytes")
     print(f"  Total rows: {total:,}")
