@@ -7,6 +7,16 @@ SKIP_PREFIXES = (
     "alternative form of", "obsolete form of", "definite singular", "definite plural",
     "comparative of", "superlative of", "genitive of", "dative of", "accusative of",
     "gerund of", "imperative of", "feminine of", "masculine of",
+    "abbreviation of", "initialism of", "acronym of", "synonym of",
+    "misspelling of", "common misspelling of", "frequentative of",
+    "diminutive of", "augmentative of", "archaic form of", "dated form of",
+)
+
+# Catch Finnish/Germanic inflection references anywhere in gloss
+SKIP_CONTAINS = (
+    "singular of", "plural of", " form of", " case of",
+    "participle of", "connegative of", " tense of", "potential of",
+    "verbal noun of", "infinitive of",
 )
 
 POS_NORMALIZE = {
@@ -32,6 +42,10 @@ def first_gloss_first_token(gloss: str) -> str | None:
     token = token.strip(".'\" ")
     if not token or len(token) < 2:
         return None
+    words = token.split()
+    max_words = 4 if token.lower().startswith("to ") else 3
+    if len(words) > max_words:
+        return None
     return token
 
 
@@ -40,7 +54,7 @@ def should_skip_gloss(gloss: str | None) -> bool:
     if not gloss:
         return True
     g = gloss.strip().lower()
-    return any(g.startswith(p) for p in SKIP_PREFIXES)
+    return any(g.startswith(p) for p in SKIP_PREFIXES) or any(p in g for p in SKIP_CONTAINS)
 
 
 def is_content_pos(pos: str) -> bool:

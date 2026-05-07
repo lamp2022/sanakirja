@@ -74,7 +74,8 @@ input.en-input:focus{{outline:none;border-color:#0070f3;box-shadow:0 0 0 2px rgb
 </table>
 <script>
 const BATCH={batch_json};
-const STORAGE_KEY='sanakirja_batch_{batch_num}';
+const FINGERPRINT=BATCH.map(r=>r.id+r.fi).join(',');
+const STORAGE_KEY='sanakirja_batch_{batch_num}_'+btoa(FINGERPRINT).slice(0,12);
 let state={{}};
 try{{const s=localStorage.getItem(STORAGE_KEY);if(s)state=JSON.parse(s);}}catch(e){{}}
 
