@@ -3352,7 +3352,8 @@
     "fi": "omistaa",
     "en": [
       "to own",
-      "to dedicate"
+      "to dedicate",
+      "to have"
     ],
     "sv": "äga",
     "fr": "posséder",
@@ -4215,10 +4216,7 @@
   },
   {
     "fi": "nauttia",
-    "en": [
-      "have",
-      "to enjoy"
-    ],
+    "en": "to enjoy",
     "sv": "njuta",
     "it": "godere",
     "de": "genießen",
@@ -7205,11 +7203,6 @@
     ],
     "de": "gelehrt",
     "pos": "adj"
-  },
-  {
-    "fi": "ota",
-    "en": "take",
-    "pos": "noun"
   },
   {
     "fi": "petturi",
@@ -14948,14 +14941,6 @@
     "en": "participant"
   },
   {
-    "fi": "san",
-    "pos": "noun",
-    "en": [
-      "say",
-      "san"
-    ]
-  },
-  {
     "fi": "perua",
     "pos": "verb",
     "en": [
@@ -21811,7 +21796,8 @@
     "fi": "saada",
     "en": [
       "to get",
-      "to receive"
+      "to receive",
+      "to have"
     ],
     "pos": "verb"
   },

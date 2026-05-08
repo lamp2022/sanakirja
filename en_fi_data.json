@@ -16,8 +16,8 @@
     "en": "to have",
     "fi": [
       "olla",
-      "omata",
-      "sairastaa"
+      "saada",
+      "omistaa"
     ],
     "rank": 1
   },
@@ -1212,11 +1212,6 @@
     "en": "to state",
     "fi": "todeta",
     "rank": 115
-  },
-  {
-    "en": "take",
-    "fi": "ota",
-    "rank": 116
   },
   {
     "en": "attempt",
@@ -8760,11 +8755,6 @@
     "en": "to resist",
     "fi": "vastustaa",
     "rank": 927
-  },
-  {
-    "en": "have",
-    "fi": "nauttia",
-    "rank": 929
   },
   {
     "en": "to check",
@@ -20884,16 +20874,6 @@
       "osallistuja"
     ],
     "rank": 3260
-  },
-  {
-    "en": "san",
-    "fi": "san",
-    "rank": 3261
-  },
-  {
-    "en": "say",
-    "fi": "san",
-    "rank": 3261
   },
   {
     "en": "to retract",
