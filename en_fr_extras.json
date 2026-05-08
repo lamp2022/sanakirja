@@ -1,0 +1,13 @@
+{
+  "_doc": "High-confidence EN→FR additions for common words missing from the EN base.",
+
+  "extras": [
+    {"en": "not", "fr": "pas", "rank": 25},
+    {"en": "from", "fr": "de", "rank": 70},
+    {"en": "she", "fr": "elle", "rank": 30},
+    {"en": "to exist", "fr": "exister", "rank": 1500},
+    {"en": "no one", "fr": "personne", "rank": 800}
+  ],
+
+  "overrides": []
+}

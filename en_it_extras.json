@@ -1,0 +1,13 @@
+{
+  "_doc": "High-confidence EN→IT additions for common words missing from the EN base.",
+
+  "extras": [
+    {"en": "not", "it": "non", "rank": 25},
+    {"en": "from", "it": "da", "rank": 70},
+    {"en": "she", "it": "lei", "rank": 30},
+    {"en": "to exist", "it": "esistere", "rank": 1500},
+    {"en": "no one", "it": "nessuno", "rank": 800}
+  ],
+
+  "overrides": []
+}

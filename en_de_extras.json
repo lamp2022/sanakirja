@@ -1,0 +1,16 @@
+{
+  "_doc": "High-confidence EN→DE additions for very common words missing from the EN base. Same pattern as en_sv_extras.json.",
+
+  "extras": [
+    {"en": "not", "de": "nicht", "rank": 25},
+    {"en": "from", "de": "von", "rank": 70},
+    {"en": "she", "de": "sie", "rank": 30},
+    {"en": "her", "de": ["ihr", "ihre"], "rank": 100},
+    {"en": "to exist", "de": "existieren", "rank": 1500},
+    {"en": "no one", "de": "niemand", "rank": 800}
+  ],
+
+  "overrides": [
+    {"en": "no", "de": "nein"}
+  ]
+}

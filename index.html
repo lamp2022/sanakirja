@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Sanakirja — Finnish ↔ English ↔ Swedish Dictionary</title>
+<title>Sanakirja — Finnish ↔ English ↔ Swedish ↔ German Dictionary</title>
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #fafafa; color: #222; }
@@ -17,7 +17,7 @@ h1 { font-size: 24px; margin-bottom: 2px; }
 .search:focus { outline: none; border-color: #0070f3; box-shadow: 0 0 0 2px rgba(0,112,243,.18); }
 .stats { color: #888; font-size: 13px; margin-bottom: 8px; }
 .list { background: #fff; border: 1px solid #e5e5e5; border-radius: 6px; overflow: hidden; }
-.row { display: grid; grid-template-columns: minmax(120px, 1fr) 56px 1.5fr 1.5fr; gap: 10px; padding: 9px 14px; border-bottom: 1px solid #f0f0f0; align-items: baseline; }
+.row { display: grid; grid-template-columns: minmax(100px, 1fr) 46px 1.1fr 1.1fr 1.1fr 1.1fr 1.1fr; gap: 7px; padding: 9px 14px; border-bottom: 1px solid #f0f0f0; align-items: baseline; }
 .row:last-child { border-bottom: 0; }
 .row:hover { background: #fafbff; }
 .row.match-exact { background: #fffbe6; box-shadow: inset 3px 0 0 0 #f5c518; }
@@ -25,8 +25,11 @@ h1 { font-size: 24px; margin-bottom: 2px; }
 .fi { font-weight: 600; }
 .en { color: #1d1d1f; }
 .sv { color: #1d1d1f; }
+.de { color: #1d1d1f; }
+.it { color: #1d1d1f; }
+.fr { color: #1d1d1f; }
 .alt { color: #888; font-size: 13px; }
-.flag { font-size: 11px; color: #999; margin-right: 4px; }
+.flag { font-size: 10px; color: #999; margin-right: 3px; }
 .pos { font-size: 11px; background: #eef1f4; color: #555; padding: 2px 7px; border-radius: 999px; text-align: center; font-weight: 500; letter-spacing: .2px; text-transform: uppercase; justify-self: start; }
 .empty { padding: 40px; text-align: center; color: #888; }
 .loading { padding: 40px; text-align: center; color: #aaa; }
@@ -34,19 +37,22 @@ h1 { font-size: 24px; margin-bottom: 2px; }
 .footer a { color: #888; text-decoration: none; }
 .footer a:hover { text-decoration: underline; }
 @media (max-width: 600px) {
-  .row { grid-template-columns: 1fr 56px; }
-  .row .en, .row .fi:nth-child(3), .row .sv { grid-column: 1 / -1; padding-top: 2px; }
+  .row { grid-template-columns: 1fr 50px; }
+  .row .en, .row .fi:nth-child(3), .row .sv, .row .de, .row .it, .row .fr { grid-column: 1 / -1; padding-top: 2px; }
 }
 </style>
 </head>
 <body>
 <div class="wrap">
   <h1>Sanakirja</h1>
-  <div class="sub">Finnish ↔ English ↔ Swedish dictionary · 4,795 Finnish lemmas · 5,252 English lemmas with Swedish</div>
+  <div class="sub">Finnish ↔ English ↔ Swedish ↔ German ↔ Italian ↔ French dictionary</div>
   <div class="tabs">
-    <div class="tab active" data-tab="fi-en">Finnish → English / Swedish</div>
-    <div class="tab" data-tab="en-fi">English → Finnish / Swedish</div>
-    <div class="tab" data-tab="sv-en">Swedish → English</div>
+    <div class="tab active" data-tab="fi-en">FI → all</div>
+    <div class="tab" data-tab="en-fi">EN → all</div>
+    <div class="tab" data-tab="sv-en">SV → EN</div>
+    <div class="tab" data-tab="de-en">DE → EN</div>
+    <div class="tab" data-tab="it-en">IT → EN</div>
+    <div class="tab" data-tab="fr-en">FR → EN</div>
   </div>
   <input class="search" id="q" placeholder="Search…" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
   <div class="stats" id="stats"></div>
@@ -59,21 +65,30 @@ h1 { font-size: 24px; margin-bottom: 2px; }
 const ESC_MAP = { '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' };
 const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ESC_MAP[c]);
 
-let fiEn = [], enFi = [], svEn = [], enSvMap = {}, current = 'fi-en';
+let fiEn = [], enFi = [], svEn = [], deEn = [], itEn = [], frEn = [];
+let enSvMap = {}, enDeMap = {}, enItMap = {}, enFrMap = {};
+let current = 'fi-en';
 
 async function load() {
   try {
-    const [a, b, c, d] = await Promise.all([
+    const fetches = [
       fetch('data.json').then(r => r.json()),
       fetch('en_fi_data.json').then(r => r.json()),
       fetch('en_sv.json').then(r => r.json()).catch(() => []),
       fetch('sv_en.json').then(r => r.json()).catch(() => []),
-    ]);
-    fiEn = a; enFi = b; svEn = d;
-    // Build EN→SV lookup (lowercased EN key → SV value)
-    for (const e of c) {
-      enSvMap[String(e.en).toLowerCase()] = e.sv;
-    }
+      fetch('en_de.json').then(r => r.json()).catch(() => []),
+      fetch('de_en.json').then(r => r.json()).catch(() => []),
+      fetch('en_it.json').then(r => r.json()).catch(() => []),
+      fetch('it_en.json').then(r => r.json()).catch(() => []),
+      fetch('en_fr.json').then(r => r.json()).catch(() => []),
+      fetch('fr_en.json').then(r => r.json()).catch(() => []),
+    ];
+    const [a, b, csv, dsv, cde, dde, cit, dit, cfr, dfr] = await Promise.all(fetches);
+    fiEn = a; enFi = b; svEn = dsv; deEn = dde; itEn = dit; frEn = dfr;
+    for (const e of csv) enSvMap[String(e.en).toLowerCase()] = e.sv;
+    for (const e of cde) enDeMap[String(e.en).toLowerCase()] = e.de;
+    for (const e of cit) enItMap[String(e.en).toLowerCase()] = e.it;
+    for (const e of cfr) enFrMap[String(e.en).toLowerCase()] = e.fr;
     render();
   } catch (e) {
     document.getElementById('list').innerHTML =
@@ -90,9 +105,35 @@ function svFor(enWord) {
   return asArr(v).join(', ');
 }
 
+function deFor(enWord) {
+  if (!enWord) return '';
+  const v = enDeMap[String(enWord).toLowerCase()];
+  if (!v) return '';
+  return asArr(v).join(', ');
+}
+
+function itFor(enWord) {
+  if (!enWord) return '';
+  const v = enItMap[String(enWord).toLowerCase()];
+  if (!v) return '';
+  return asArr(v).join(', ');
+}
+
+function frFor(enWord) {
+  if (!enWord) return '';
+  const v = enFrMap[String(enWord).toLowerCase()];
+  if (!v) return '';
+  return asArr(v).join(', ');
+}
+
 function render() {
   const q = document.getElementById('q').value.toLowerCase().trim();
-  const data = current === 'fi-en' ? fiEn : current === 'en-fi' ? enFi : svEn;
+  const data = current === 'fi-en' ? fiEn
+    : current === 'en-fi' ? enFi
+    : current === 'sv-en' ? svEn
+    : current === 'de-en' ? deEn
+    : current === 'it-en' ? itEn
+    : frEn;
   // Score each entry: 0 = exact match, 1 = word-boundary prefix, 2 = prefix anywhere,
   // 3 = substring. Lower is better. Within a tier, shorter primary headword wins.
   function scoreEntry(d, q) {
@@ -100,6 +141,9 @@ function render() {
       asArr(d.fi).map(s => String(s).toLowerCase()),
       asArr(d.en).map(s => String(s).toLowerCase()),
       asArr(d.sv).map(s => String(s).toLowerCase()),
+      asArr(d.de).map(s => String(s).toLowerCase()),
+      asArr(d.it).map(s => String(s).toLowerCase()),
+      asArr(d.fr).map(s => String(s).toLowerCase()),
     ];
     let best = 99;
     for (const list of fields) {
@@ -152,45 +196,55 @@ function render() {
     const en = asArr(d.en);
     const pos = esc(d.pos || '');
     const posBadge = pos ? `<span class="pos">${pos}</span>` : '<span></span>';
-    if (current === 'fi-en') {
+    function makeCell(cls, label, val) {
+      return val
+        ? `<div class="${cls}"><span class="flag">${label}</span>${esc(val)}</div>`
+        : `<div class="${cls}"></div>`;
+    }
+    if (current === 'fi-en' || current === 'en-fi') {
       const altEn = en.length > 1
         ? ` <span class="alt">· ${esc(en.slice(1).join(', '))}</span>`
         : '';
-      const sv = svFor(en[0]);
-      const svCell = sv
-        ? `<div class="sv"><span class="flag">SV</span>${esc(sv)}</div>`
-        : `<div class="sv"></div>`;
-      return `<div class="row${scoreOf(d) === 0 ? ' match-exact' : ''}">
-        <div class="fi">${esc(fi[0] || '')}</div>
-        ${posBadge}
-        <div class="en"><span class="flag">EN</span>${esc(en[0] || '')}${altEn}</div>
-        ${svCell}
-      </div>`;
-    } else if (current === 'en-fi') {
       const altFi = fi.length > 1
         ? ` <span class="alt">· ${esc(fi.slice(1).join(', '))}</span>`
         : '';
       const sv = svFor(en[0]);
-      const svCell = sv
-        ? `<div class="sv"><span class="flag">SV</span>${esc(sv)}</div>`
-        : `<div class="sv"></div>`;
+      const de = deFor(en[0]);
+      const it = itFor(en[0]);
+      const fr = frFor(en[0]);
+      const headLeft = current === 'fi-en'
+        ? `<div class="fi">${esc(fi[0] || '')}</div>`
+        : `<div class="en">${esc(en[0] || '')}</div>`;
+      const otherCell = current === 'fi-en'
+        ? `<div class="en"><span class="flag">EN</span>${esc(en[0] || '')}${altEn}</div>`
+        : `<div class="fi"><span class="flag">FI</span>${esc(fi[0] || '')}${altFi}</div>`;
       return `<div class="row${scoreOf(d) === 0 ? ' match-exact' : ''}">
-        <div class="en">${esc(en[0] || '')}</div>
+        ${headLeft}
         ${posBadge}
-        <div class="fi"><span class="flag">FI</span>${esc(fi[0] || '')}${altFi}</div>
-        ${svCell}
+        ${otherCell}
+        ${makeCell('sv', 'SV', sv)}
+        ${makeCell('de', 'DE', de)}
+        ${makeCell('it', 'IT', it)}
+        ${makeCell('fr', 'FR', fr)}
       </div>`;
     } else {
-      // sv-en
-      const sv = asArr(d.sv);
+      // X→EN reverse views (sv-en, de-en, it-en, fr-en)
+      const headField = current === 'sv-en' ? d.sv
+        : current === 'de-en' ? d.de
+        : current === 'it-en' ? d.it
+        : d.fr;
+      const head = asArr(headField);
       const altEn = en.length > 1
         ? ` <span class="alt">· ${esc(en.slice(1).join(', '))}</span>`
         : '';
       return `<div class="row${scoreOf(d) === 0 ? ' match-exact' : ''}">
-        <div class="fi">${esc(sv[0] || '')}</div>
+        <div class="fi">${esc(head[0] || '')}</div>
         <span></span>
         <div class="en"><span class="flag">EN</span>${esc(en[0] || '')}${altEn}</div>
         <div class="sv"></div>
+        <div class="de"></div>
+        <div class="it"></div>
+        <div class="fr"></div>
       </div>`;
     }
   }).join('');
