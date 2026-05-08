@@ -69,17 +69,22 @@ def load_sv_freq(path: str) -> dict[str, int]:
     return freq
 
 
-def load_folkets_en_sv(path: str) -> dict[str, list[str]]:
-    """Parse Folkets EN→SV XML. Returns {en_word: [sv_translations]}."""
+def load_folkets_en_sv(path: str) -> dict[str, dict[str, list[str]]]:
+    """Parse Folkets EN→SV XML. Returns {en_word: {pos_class: [sv_translations]}}.
+    POS class is the Folkets 'class' attribute (nn=noun, vb=verb, jj=adjective,
+    ab=adverb, ''=unspecified). Used to filter translations to the dominant
+    English POS for multi-sense words like 'reason' (noun vs verb).
+    """
     print(f"Parsing {path} …")
     tree = ET.parse(path)
     root = tree.getroot()
-    lookup: dict[str, list[str]] = {}
+    lookup: dict[str, dict[str, list[str]]] = {}
 
     for word_elem in root.iter("word"):
         value = word_elem.get("value", "").strip().lower()
         if not value:
             continue
+        pos = word_elem.get("class", "").strip()
         translations = []
         for trans in word_elem.iter("translation"):
             tv = trans.get("value", "").strip()
@@ -87,12 +92,14 @@ def load_folkets_en_sv(path: str) -> dict[str, list[str]]:
                 translations.append(tv.lower())
         if translations:
             if value not in lookup:
-                lookup[value] = []
+                lookup[value] = {}
+            if pos not in lookup[value]:
+                lookup[value][pos] = []
             for t in translations:
-                if t not in lookup[value]:
-                    lookup[value].append(t)
+                if t not in lookup[value][pos]:
+                    lookup[value][pos].append(t)
 
-    print(f"  Folkets EN→SV: {len(lookup):,} EN entries loaded")
+    print(f"  Folkets EN→SV: {len(lookup):,} EN entries loaded (with POS)")
     return lookup
 
 
@@ -114,6 +121,89 @@ def load_jsonl_cache(path: str, key_field: str) -> dict[str, str]:
             except json.JSONDecodeError:
                 pass
     return cache
+
+
+_DOMINANT_POS_CACHE: dict[str, str] = {}
+
+def dominant_en_pos(en_word: str) -> str:
+    """Return Folkets POS class ('nn'/'vb'/'jj'/'ab') matching the dominant
+    WordNet sense of the English word. Returns '' if WordNet has no entry or
+    if synset counts are tied (caller falls back to first available)."""
+    if en_word in _DOMINANT_POS_CACHE:
+        return _DOMINANT_POS_CACHE[en_word]
+    try:
+        from nltk.corpus import wordnet as wn
+    except ImportError:
+        _DOMINANT_POS_CACHE[en_word] = ""
+        return ""
+    # Use last word for compounds like "old man" → "man"
+    lookup_word = en_word.split()[-1] if " " in en_word else en_word
+    try:
+        # lemma_count() is corpus-tagged frequency (semcor) — better proxy for actual usage
+        # than raw synset count.
+        def lc(pos):
+            return sum(l.count() for s in wn.synsets(lookup_word, pos=pos)
+                       for l in s.lemmas() if l.name().lower() == lookup_word)
+        n, v, a, r = lc("n"), lc("v"), lc("a"), lc("r")
+        # If lemma counts are all zero (rare word), fall back to synset counts
+        if n + v + a + r == 0:
+            n = len(wn.synsets(lookup_word, pos="n"))
+            v = len(wn.synsets(lookup_word, pos="v"))
+            a = len(wn.synsets(lookup_word, pos="a"))
+            r = len(wn.synsets(lookup_word, pos="r"))
+    except LookupError:
+        _DOMINANT_POS_CACHE[en_word] = ""
+        return ""
+    counts = {"nn": n, "vb": v, "jj": a, "ab": r}
+    best = max(counts, key=lambda k: counts[k])
+    if counts[best] == 0:
+        result = ""
+    else:
+        # Tie: don't override
+        sorted_counts = sorted(counts.values(), reverse=True)
+        if sorted_counts[0] == sorted_counts[1]:
+            result = ""
+        else:
+            result = best
+    _DOMINANT_POS_CACHE[en_word] = result
+    return result
+
+
+def _reorder_prefer_single_word(translations: list[str]) -> list[str]:
+    """Within a same-POS list, move single-word translations ahead of multi-word
+    ones. Folkets often lists idiomatic phrases before the simple lemma
+    (e.g. 'book' nouns: 'lista över ingångna vad' before 'bok'). Preserves
+    relative order within each tier.
+    """
+    single = [t for t in translations if " " not in t.strip()]
+    multi = [t for t in translations if " " in t.strip()]
+    return single + multi
+
+
+def select_folkets_by_pos(folkets_entry: dict[str, list[str]], en_word: str) -> list[str]:
+    """Pick the right Folkets translation list for an EN word using POS info.
+
+    Priority:
+    1. If EN starts with 'to ' → prefer 'vb' class
+    2. If WordNet says EN is dominantly noun/verb/adj/adv → prefer that class
+    3. Fall back to flattening all classes (preserving entry order)
+    Within the chosen list, single-word lemmas are reordered ahead of multi-word.
+    """
+    if not folkets_entry:
+        return []
+    en_lc = en_word.lower().strip()
+    if en_lc.startswith("to ") and "vb" in folkets_entry:
+        return _reorder_prefer_single_word(list(folkets_entry["vb"]))
+    pos = dominant_en_pos(en_lc[3:] if en_lc.startswith("to ") else en_lc)
+    if pos and pos in folkets_entry:
+        return _reorder_prefer_single_word(list(folkets_entry[pos]))
+    # Flatten preserving discovery order
+    flat: list[str] = []
+    for trans_list in folkets_entry.values():
+        for t in trans_list:
+            if t not in flat:
+                flat.append(t)
+    return _reorder_prefer_single_word(flat)
 
 
 def is_lemma(sv: str, max_words: int = 4) -> bool:
@@ -148,13 +238,16 @@ def _norm(s: str) -> str:
 
 def consensus_override(folkets_primary: str, sv_gt: str, claude_sv: str,
                        apert_sv_primary: str) -> str | None:
-    """Return consensus word (original form, e.g. 'att vinna') if 2+ secondary sources agree
-    on a normalized form different from Folkets primary."""
+    """Return consensus word (original form, e.g. 'att vinna') if GT+Claude agree
+    on a normalized form different from Folkets primary.
+    Apertium is excluded — it has too many archaic/concatenated entries to trust as
+    a translation source. It is kept only as a soft confidence signal elsewhere.
+    """
+    _ = apert_sv_primary  # ignored; kept in signature for backwards compat
     fp = _norm(folkets_primary)
-    raw_candidates = [s for s in [sv_gt, claude_sv, apert_sv_primary] if s]
+    raw_candidates = [s for s in [sv_gt, claude_sv] if s]
     if not raw_candidates:
         return None
-    # Map normalized form → first raw form seen (GT preferred as first)
     norm_to_raw: dict[str, str] = {}
     counts: dict[str, int] = {}
     for c in raw_candidates:
@@ -164,7 +257,7 @@ def consensus_override(folkets_primary: str, sv_gt: str, claude_sv: str,
         counts[nc] = counts.get(nc, 0) + 1
     best_norm = max(counts, key=lambda k: counts[k])
     if counts[best_norm] >= 2 and best_norm != fp:
-        return norm_to_raw[best_norm]  # return original form (preserves 'att ' prefix)
+        return norm_to_raw[best_norm]
     return None
 
 
@@ -292,8 +385,10 @@ def main():
         if folkets_key.startswith("to "):
             folkets_key = folkets_key[3:]
 
-        # Filter Folkets to lemmas only (drop example sentences), cap at 3
-        raw_folkets = folkets.get(folkets_key, [])
+        # POS-aware Folkets lookup: pick translations matching dominant EN POS
+        folkets_entry = folkets.get(folkets_key, {})
+        raw_folkets = select_folkets_by_pos(folkets_entry, en_norm)
+        # Filter to lemmas only (drop example sentences), cap at 3
         folkets_svs = [sv for sv in raw_folkets if is_lemma(sv)][:3]
         has_folkets = bool(folkets_svs)
         if has_folkets:
@@ -364,10 +459,33 @@ def main():
                     primary_sv = promoted
                     sv_all = [promoted] + [s for s in folkets_svs if s != promoted][:2]
                     stats["gt_secondary_promoted"] = stats.get("gt_secondary_promoted", 0) + 1
-        elif apert_sv_primary:
-            primary_sv = apert_sv_primary
-            sv_all = apert_svs[:2]
+            # Level 5: GT-no-backing override.
+            # If Folkets primary has no Apertium/Claude backing AND GT gives a different word
+            # AND GT's word is at least as common as Folkets in the freq list → prefer GT.
+            # Catches Folkets archaic/concatenated/wrong-sense entries (gig→harpun, somehow→
+            # påettellerannatsätt, accurately→ackurat, old man→gammal man).
+            if (primary_sv == folkets_svs[0]
+                    and sv_gt
+                    and sv_freq
+                    and _norm(sv_gt) != _norm(primary_sv)):
+                folkets_norm = _norm(primary_sv)
+                apert_backs = bool(apert_sv_primary) and _norm(apert_sv_primary) == folkets_norm
+                claude_backs = bool(claude_sv) and _norm(claude_sv) == folkets_norm
+                if not apert_backs and not claude_backs:
+                    sv_gt_clean = sv_gt[4:] if sv_gt.startswith("för att ") else sv_gt
+                    gt_n = _norm(sv_gt_clean).rstrip("!-").strip()
+                    gt_root = gt_n.split()[0] if gt_n else ""
+                    prim_root = folkets_norm.rstrip("!-").strip().split()[0] if folkets_norm else ""
+                    if gt_root and prim_root:
+                        prim_rank = sv_freq.get(prim_root, 99999)
+                        gt_rank = sv_freq.get(gt_root, 99999)
+                        if gt_rank < prim_rank:
+                            primary_sv = sv_gt_clean
+                            sv_all = [sv_gt_clean]
+                            stats["gt_no_backing_overridden"] = stats.get("gt_no_backing_overridden", 0) + 1
         elif sv_gt:
+            # Apertium intentionally not used as primary — too many archaic/
+            # concatenated entries (ackurat, harpun, påettellerannatsätt).
             primary_sv = sv_gt
             sv_all = [sv_gt]
         elif claude_sv:
@@ -404,6 +522,36 @@ def main():
             entry["sv_apert"] = apert_sv_primary
         results.append(entry)
 
+    # Merge extras: high-confidence common-word additions and overrides for EN
+    # entries missing from or wrong in the FI base (en_fi_data.json).
+    # See en_sv_extras.json for rationale per entry.
+    extras_path = "en_sv_extras.json"
+    if os.path.exists(extras_path):
+        with open(extras_path) as f:
+            extras = json.load(f)
+        # Case-insensitive lookup — EN base uses mixed case (e.g. 'No' rank 1)
+        en_to_idx = {e["en"].lower(): i for i, e in enumerate(results)}
+        added, overridden = 0, 0
+        for x in extras.get("overrides", []):
+            key = x["en"].lower()
+            if key in en_to_idx:
+                idx = en_to_idx[key]
+                results[idx]["sv"] = x["sv"]
+                results[idx]["confidence"] = "extras_override"
+                overridden += 1
+        for x in extras.get("extras", []):
+            if x["en"].lower() not in en_to_idx:
+                results.append({
+                    "en": x["en"],
+                    "sv": x["sv"],
+                    "rank": x.get("rank", 9999),
+                    "confidence": "extras",
+                })
+                added += 1
+        if added or overridden:
+            stats["extras_added"] = added
+            stats["extras_overridden"] = overridden
+
     print(f"\n--- Coverage stats ---")
     print(f"Total EN keys:              {stats['total']:>6}")
     print(f"Has Folkets match:          {stats['has_folkets']:>6}  ({stats['has_folkets']/stats['total']*100:.1f}%)")
@@ -413,7 +561,11 @@ def main():
     print(f"Consensus override applied: {stats.get('consensus_overridden',0):>6}")
     print(f"GT-secondary promotion:     {stats.get('gt_secondary_promoted',0):>6}")
     print(f"GT-frequency override:      {stats.get('gt_freq_overridden',0):>6}")
+    print(f"GT-no-backing override:     {stats.get('gt_no_backing_overridden',0):>6}")
     print(f"Verb-noun mismatch fixed:   {stats.get('verb_noun_overridden',0):>6}")
+    if stats.get("extras_added") or stats.get("extras_overridden"):
+        print(f"Extras added:               {stats.get('extras_added',0):>6}")
+        print(f"Extras overrode:            {stats.get('extras_overridden',0):>6}")
     print(f"4-source agreement:         {stats.get('4sources',0):>6}")
     print(f"3-source agreement:         {stats.get('3sources',0):>6}")
     no_match = stats["total"] - len(results)

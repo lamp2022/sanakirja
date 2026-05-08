@@ -1,0 +1,18 @@
+{
+  "_doc": "High-confidence EN→SV additions for very common words missing from the EN base (en_fi_data.json). Each entry must be unambiguous and the translation universally accepted. These get merged into en_sv.json by 32_build_en_sv.py with confidence='extras'. Eventually these EN keys should be added to the FI base — see future-todos.md.",
+  "_overrides": "EN keys already in the base whose primary needs correcting",
+  "_note_no": "EN 'no' currently builds to SV 'inga' (plural negation). The standard answer 'no' is 'nej'.",
+
+  "extras": [
+    {"en": "not", "sv": "inte", "rank": 25},
+    {"en": "from", "sv": "från", "rank": 70},
+    {"en": "she", "sv": "hon", "rank": 30},
+    {"en": "her", "sv": ["henne", "hennes"], "rank": 100},
+    {"en": "to exist", "sv": "att finnas", "rank": 1500},
+    {"en": "no one", "sv": "ingen", "rank": 800}
+  ],
+
+  "overrides": [
+    {"en": "no", "sv": "nej"}
+  ]
+}

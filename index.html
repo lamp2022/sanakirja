@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Sanakirja — Finnish ↔ English Dictionary</title>
+<title>Sanakirja — Finnish ↔ English ↔ Swedish Dictionary</title>
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #fafafa; color: #222; }
@@ -17,12 +17,14 @@ h1 { font-size: 24px; margin-bottom: 2px; }
 .search:focus { outline: none; border-color: #0070f3; box-shadow: 0 0 0 2px rgba(0,112,243,.18); }
 .stats { color: #888; font-size: 13px; margin-bottom: 8px; }
 .list { background: #fff; border: 1px solid #e5e5e5; border-radius: 6px; overflow: hidden; }
-.row { display: grid; grid-template-columns: minmax(140px, 1fr) 64px 2fr; gap: 12px; padding: 9px 14px; border-bottom: 1px solid #f0f0f0; align-items: baseline; }
+.row { display: grid; grid-template-columns: minmax(120px, 1fr) 56px 1.5fr 1.5fr; gap: 10px; padding: 9px 14px; border-bottom: 1px solid #f0f0f0; align-items: baseline; }
 .row:last-child { border-bottom: 0; }
 .row:hover { background: #fafbff; }
 .fi { font-weight: 600; }
 .en { color: #1d1d1f; }
+.sv { color: #1d1d1f; }
 .alt { color: #888; font-size: 13px; }
+.flag { font-size: 11px; color: #999; margin-right: 4px; }
 .pos { font-size: 11px; background: #eef1f4; color: #555; padding: 2px 7px; border-radius: 999px; text-align: center; font-weight: 500; letter-spacing: .2px; text-transform: uppercase; justify-self: start; }
 .empty { padding: 40px; text-align: center; color: #888; }
 .loading { padding: 40px; text-align: center; color: #aaa; }
@@ -31,17 +33,18 @@ h1 { font-size: 24px; margin-bottom: 2px; }
 .footer a:hover { text-decoration: underline; }
 @media (max-width: 600px) {
   .row { grid-template-columns: 1fr 56px; }
-  .row .en, .row .fi:nth-child(3) { grid-column: 1 / -1; padding-top: 4px; }
+  .row .en, .row .fi:nth-child(3), .row .sv { grid-column: 1 / -1; padding-top: 2px; }
 }
 </style>
 </head>
 <body>
 <div class="wrap">
   <h1>Sanakirja</h1>
-  <div class="sub">Finnish ↔ English dictionary · 4,795 lemmas</div>
+  <div class="sub">Finnish ↔ English ↔ Swedish dictionary · 4,795 Finnish lemmas · 5,252 English lemmas with Swedish</div>
   <div class="tabs">
-    <div class="tab active" data-tab="fi-en">Finnish → English</div>
-    <div class="tab" data-tab="en-fi">English → Finnish</div>
+    <div class="tab active" data-tab="fi-en">Finnish → English / Swedish</div>
+    <div class="tab" data-tab="en-fi">English → Finnish / Swedish</div>
+    <div class="tab" data-tab="sv-en">Swedish → English</div>
   </div>
   <input class="search" id="q" placeholder="Search…" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
   <div class="stats" id="stats"></div>
@@ -54,14 +57,21 @@ h1 { font-size: 24px; margin-bottom: 2px; }
 const ESC_MAP = { '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' };
 const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ESC_MAP[c]);
 
-let fiEn = [], enFi = [], current = 'fi-en';
+let fiEn = [], enFi = [], svEn = [], enSvMap = {}, current = 'fi-en';
 
 async function load() {
   try {
-    [fiEn, enFi] = await Promise.all([
+    const [a, b, c, d] = await Promise.all([
       fetch('data.json').then(r => r.json()),
       fetch('en_fi_data.json').then(r => r.json()),
+      fetch('en_sv.json').then(r => r.json()).catch(() => []),
+      fetch('sv_en.json').then(r => r.json()).catch(() => []),
     ]);
+    fiEn = a; enFi = b; svEn = d;
+    // Build EN→SV lookup (lowercased EN key → SV value)
+    for (const e of c) {
+      enSvMap[String(e.en).toLowerCase()] = e.sv;
+    }
     render();
   } catch (e) {
     document.getElementById('list').innerHTML =
@@ -71,14 +81,22 @@ async function load() {
 
 function asArr(v) { return Array.isArray(v) ? v : (v == null ? [] : [v]); }
 
+function svFor(enWord) {
+  if (!enWord) return '';
+  const v = enSvMap[String(enWord).toLowerCase()];
+  if (!v) return '';
+  return asArr(v).join(', ');
+}
+
 function render() {
   const q = document.getElementById('q').value.toLowerCase().trim();
-  const data = current === 'fi-en' ? fiEn : enFi;
+  const data = current === 'fi-en' ? fiEn : current === 'en-fi' ? enFi : svEn;
   const filtered = q
     ? data.filter(d => {
         const fi = asArr(d.fi).join(' ').toLowerCase();
         const en = asArr(d.en).join(' ').toLowerCase();
-        return fi.includes(q) || en.includes(q);
+        const sv = asArr(d.sv).join(' ').toLowerCase();
+        return fi.includes(q) || en.includes(q) || sv.includes(q);
       })
     : data;
 
@@ -101,19 +119,41 @@ function render() {
       const altEn = en.length > 1
         ? ` <span class="alt">· ${esc(en.slice(1).join(', '))}</span>`
         : '';
+      const sv = svFor(en[0]);
+      const svCell = sv
+        ? `<div class="sv"><span class="flag">SV</span>${esc(sv)}</div>`
+        : `<div class="sv"></div>`;
       return `<div class="row">
         <div class="fi">${esc(fi[0] || '')}</div>
         ${posBadge}
-        <div class="en">${esc(en[0] || '')}${altEn}</div>
+        <div class="en"><span class="flag">EN</span>${esc(en[0] || '')}${altEn}</div>
+        ${svCell}
       </div>`;
-    } else {
+    } else if (current === 'en-fi') {
       const altFi = fi.length > 1
         ? ` <span class="alt">· ${esc(fi.slice(1).join(', '))}</span>`
         : '';
+      const sv = svFor(en[0]);
+      const svCell = sv
+        ? `<div class="sv"><span class="flag">SV</span>${esc(sv)}</div>`
+        : `<div class="sv"></div>`;
       return `<div class="row">
         <div class="en">${esc(en[0] || '')}</div>
         ${posBadge}
-        <div class="fi">${esc(fi[0] || '')}${altFi}</div>
+        <div class="fi"><span class="flag">FI</span>${esc(fi[0] || '')}${altFi}</div>
+        ${svCell}
+      </div>`;
+    } else {
+      // sv-en
+      const sv = asArr(d.sv);
+      const altEn = en.length > 1
+        ? ` <span class="alt">· ${esc(en.slice(1).join(', '))}</span>`
+        : '';
+      return `<div class="row">
+        <div class="fi">${esc(sv[0] || '')}</div>
+        <span></span>
+        <div class="en"><span class="flag">EN</span>${esc(en[0] || '')}${altEn}</div>
+        <div class="sv"></div>
       </div>`;
     }
   }).join('');

@@ -1,0 +1,161 @@
+{
+  "_comment": "Hand-curated SV inflection→lemma map for irregular forms simplemma gets wrong. Used by 37_build_sv_lemmas.py. Source: own knowledge of Swedish, validated against Folkets and freq corpus.",
+
+  "är": "vara",
+  "var": "vara",
+  "varit": "vara",
+  "vore": "vara",
+
+  "har": "ha",
+  "hade": "ha",
+  "haft": "ha",
+
+  "kan": "kunna",
+  "kunde": "kunna",
+  "kunnat": "kunna",
+
+  "ska": "skola",
+  "skall": "skola",
+  "skulle": "skola",
+
+  "vill": "vilja",
+  "ville": "vilja",
+  "velat": "vilja",
+
+  "vet": "veta",
+  "visste": "veta",
+  "vetat": "veta",
+
+  "sa": "säga",
+  "sade": "säga",
+  "säger": "säga",
+  "sagt": "säga",
+
+  "ser": "se",
+  "såg": "se",
+  "sett": "se",
+
+  "går": "gå",
+  "gick": "gå",
+  "gått": "gå",
+
+  "gör": "göra",
+  "gjorde": "göra",
+  "gjort": "göra",
+
+  "kom": "komma",
+  "kommer": "komma",
+  "kommit": "komma",
+
+  "tar": "ta",
+  "tog": "ta",
+  "tagit": "ta",
+
+  "får": "få",
+  "fick": "få",
+  "fått": "få",
+
+  "ger": "ge",
+  "gav": "ge",
+  "gett": "ge",
+  "givit": "ge",
+
+  "blir": "bli",
+  "blev": "bli",
+  "blivit": "bli",
+
+  "tror": "tro",
+  "trodde": "tro",
+  "trott": "tro",
+
+  "finns": "finnas",
+  "fanns": "finnas",
+  "funnits": "finnas",
+
+  "behöver": "behöva",
+  "behövde": "behöva",
+  "behövt": "behöva",
+
+  "håller": "hålla",
+  "höll": "hålla",
+  "hållit": "hålla",
+
+  "låter": "låta",
+  "lät": "låta",
+  "låtit": "låta",
+
+  "lägger": "lägga",
+  "la": "lägga",
+  "lade": "lägga",
+  "lagt": "lägga",
+
+  "sätter": "sätta",
+  "satte": "sätta",
+  "satt": "sätta",
+
+  "stannar": "stanna",
+  "stod": "stå",
+  "står": "stå",
+  "stått": "stå",
+
+  "ligger": "ligga",
+  "låg": "ligga",
+  "legat": "ligga",
+
+  "äter": "äta",
+  "åt": "äta",
+  "ätit": "äta",
+
+  "dricker": "dricka",
+  "drack": "dricka",
+  "druckit": "dricka",
+
+  "skriver": "skriva",
+  "skrev": "skriva",
+  "skrivit": "skriva",
+
+  "läser": "läsa",
+  "läste": "läsa",
+  "läst": "läsa",
+
+  "_pronouns": "object/possessive forms → nominative lemma",
+  "mig": "jag",
+  "min": "jag",
+  "mitt": "jag",
+  "mina": "jag",
+  "dig": "du",
+  "din": "du",
+  "ditt": "du",
+  "dina": "du",
+  "honom": "han",
+  "hans": "han",
+  "henne": "hon",
+  "hennes": "hon",
+  "oss": "vi",
+  "vår": "vi",
+  "vårt": "vi",
+  "våra": "vi",
+  "er": "ni",
+  "ert": "ni",
+  "era": "ni",
+  "dem": "de",
+  "deras": "de",
+  "sig": "sig",
+  "sin": "sig",
+  "sitt": "sig",
+  "sina": "sig",
+
+  "_demonstratives": "den/det/de = pronouns and articles",
+  "den": "den",
+  "det": "det",
+
+  "_irregular_nouns": "common noun plurals to lemma",
+  "män": "man",
+  "kvinnor": "kvinna",
+  "barn": "barn",
+  "händer": "hand",
+  "ögon": "öga",
+  "öron": "öra",
+  "fötter": "fot",
+  "böcker": "bok"
+}

@@ -24,10 +24,7 @@
   },
   {
     "sv": "det",
-    "en": [
-      "it",
-      "there"
-    ],
+    "en": "it",
     "rank": 3
   },
   {
@@ -44,8 +41,8 @@
     "sv": "som",
     "en": [
       "which",
-      "as",
-      "like"
+      "who",
+      "as"
     ],
     "rank": 6
   },
@@ -84,8 +81,11 @@
     "rank": 9
   },
   {
-    "sv": "enda rätta",
-    "en": "only",
+    "sv": "först",
+    "en": [
+      "only",
+      "at first"
+    ],
     "rank": 9
   },
   {
@@ -107,8 +107,11 @@
     "rank": 12
   },
   {
-    "sv": "lägga av med",
-    "en": "can",
+    "sv": "sparka",
+    "en": [
+      "can",
+      "kick"
+    ],
     "rank": 13
   },
   {
@@ -120,7 +123,8 @@
     "sv": "att komma",
     "en": [
       "to come",
-      "to arrive"
+      "to arrive",
+      "to agree"
     ],
     "rank": 14
   },
@@ -143,7 +147,7 @@
     "rank": 16
   },
   {
-    "sv": "å!",
+    "sv": "åh",
     "en": "oh",
     "rank": 16
   },
@@ -151,7 +155,8 @@
     "sv": "att göra",
     "en": [
       "to make",
-      "to do"
+      "to hurt",
+      "to resist"
     ],
     "rank": 16
   },
@@ -246,6 +251,11 @@
     "rank": 25
   },
   {
+    "sv": "inte",
+    "en": "not",
+    "rank": 25
+  },
+  {
     "sv": "ja",
     "en": [
       "yes",
@@ -293,11 +303,13 @@
     "rank": 30
   },
   {
+    "sv": "hon",
+    "en": "she",
+    "rank": 30
+  },
+  {
     "sv": "eller",
-    "en": [
-      "or",
-      "to nor"
-    ],
+    "en": "or",
     "rank": 31
   },
   {
@@ -310,7 +322,7 @@
     "en": [
       "much",
       "very",
-      "a lot"
+      "considerable"
     ],
     "rank": 33
   },
@@ -399,14 +411,6 @@
     "rank": 47
   },
   {
-    "sv": "vem",
-    "en": [
-      "who",
-      "whom"
-    ],
-    "rank": 47
-  },
-  {
     "sv": "man",
     "en": [
       "man",
@@ -463,6 +467,11 @@
     "rank": 57
   },
   {
+    "sv": "dit",
+    "en": "there",
+    "rank": 58
+  },
+  {
     "sv": "arbete",
     "en": "work",
     "rank": 58
@@ -484,6 +493,7 @@
     "sv": "att ta",
     "en": [
       "to take",
+      "to deal with",
       "to run out"
     ],
     "rank": 59
@@ -495,7 +505,10 @@
   },
   {
     "sv": "att ge",
-    "en": "to give",
+    "en": [
+      "to give",
+      "to advise"
+    ],
     "rank": 61
   },
   {
@@ -550,11 +563,8 @@
     "rank": 65
   },
   {
-    "sv": "sig",
-    "en": [
-      "self",
-      "itself"
-    ],
+    "sv": "själv",
+    "en": "self",
     "rank": 67
   },
   {
@@ -591,6 +601,11 @@
     "rank": 70
   },
   {
+    "sv": "från",
+    "en": "from",
+    "rank": 70
+  },
+  {
     "sv": "tre",
     "en": "three",
     "rank": 71
@@ -604,8 +619,8 @@
     "sv": "att gå",
     "en": [
       "to go",
-      "to walk",
-      "to go for"
+      "to go around",
+      "to walk"
     ],
     "rank": 71
   },
@@ -625,7 +640,10 @@
   },
   {
     "sv": "område",
-    "en": "area",
+    "en": [
+      "area",
+      "region"
+    ],
     "rank": 75
   },
   {
@@ -638,10 +656,7 @@
   },
   {
     "sv": "hel",
-    "en": [
-      "whole",
-      "full"
-    ],
+    "en": "whole",
     "rank": 75
   },
   {
@@ -650,6 +665,11 @@
       "to and not",
       "to and don't"
     ],
+    "rank": 76
+  },
+  {
+    "sv": "till nor",
+    "en": "to nor",
     "rank": 76
   },
   {
@@ -728,7 +748,10 @@
   },
   {
     "sv": "verkligen",
-    "en": "really",
+    "en": [
+      "really",
+      "indeed"
+    ],
     "rank": 85
   },
   {
@@ -737,7 +760,7 @@
     "rank": 86
   },
   {
-    "sv": "den yngre",
+    "sv": "junior",
     "en": "minor",
     "rank": 86
   },
@@ -774,12 +797,10 @@
   },
   {
     "sv": "andra",
-    "en": "other",
-    "rank": 91
-  },
-  {
-    "sv": "sekund",
-    "en": "second",
+    "en": [
+      "other",
+      "second"
+    ],
     "rank": 91
   },
   {
@@ -839,7 +860,8 @@
     "sv": "något",
     "en": [
       "anything",
-      "something"
+      "something",
+      "slightly"
     ],
     "rank": 97
   },
@@ -849,7 +871,7 @@
     "rank": 98
   },
   {
-    "sv": "dam",
+    "sv": "lady",
     "en": "lady",
     "rank": 98
   },
@@ -879,6 +901,11 @@
     "rank": 100
   },
   {
+    "sv": "henne",
+    "en": "her",
+    "rank": 100
+  },
+  {
     "sv": "till exempel",
     "en": [
       "for example",
@@ -890,7 +917,7 @@
     "sv": "ganska",
     "en": [
       "quite",
-      "enough"
+      "pretty"
     ],
     "rank": 101
   },
@@ -926,10 +953,7 @@
   },
   {
     "sv": "marknad",
-    "en": [
-      "marketplace",
-      "market"
-    ],
+    "en": "marketplace",
     "rank": 108
   },
   {
@@ -976,12 +1000,15 @@
     "rank": 112
   },
   {
-    "sv": "anföra som exempel",
-    "en": "instance",
+    "sv": "exempel",
+    "en": [
+      "instance",
+      "example"
+    ],
     "rank": 113
   },
   {
-    "sv": "idag",
+    "sv": "i dag",
     "en": "today",
     "rank": 113
   },
@@ -1012,10 +1039,7 @@
   },
   {
     "sv": "hjälp",
-    "en": [
-      "help",
-      "aid"
-    ],
+    "en": "help",
     "rank": 118
   },
   {
@@ -1080,7 +1104,7 @@
     "en": [
       "place",
       "locus",
-      "location"
+      "seat"
     ],
     "rank": 123
   },
@@ -1090,7 +1114,7 @@
     "rank": 124
   },
   {
-    "sv": "läget sådant det är",
+    "sv": "göra",
     "en": "score",
     "rank": 125
   },
@@ -1115,7 +1139,7 @@
     "rank": 127
   },
   {
-    "sv": "slut",
+    "sv": "avsluta",
     "en": "finish",
     "rank": 128
   },
@@ -1153,12 +1177,12 @@
     "rank": 131
   },
   {
-    "sv": "mängd",
+    "sv": "belopp",
     "en": "amount",
     "rank": 133
   },
   {
-    "sv": "eld",
+    "sv": "brand",
     "en": "fire",
     "rank": 133
   },
@@ -1212,13 +1236,18 @@
     "sv": "i",
     "en": [
       "in",
+      "tomorrow",
       "yesterday"
     ],
     "rank": 138
   },
   {
-    "sv": "in i",
-    "en": "into",
+    "sv": "till",
+    "en": [
+      "into",
+      "to purpose",
+      "to interest"
+    ],
     "rank": 138
   },
   {
@@ -1319,7 +1348,10 @@
   },
   {
     "sv": "polis",
-    "en": "police",
+    "en": [
+      "police",
+      "cop"
+    ],
     "rank": 147
   },
   {
@@ -1364,8 +1396,11 @@
     "rank": 152
   },
   {
-    "sv": "passa upp",
-    "en": "wait",
+    "sv": "vänta",
+    "en": [
+      "wait",
+      "waiting"
+    ],
     "rank": 152
   },
   {
@@ -1507,7 +1542,7 @@
     "rank": 164
   },
   {
-    "sv": "användning",
+    "sv": "använda",
     "en": "use",
     "rank": 165
   },
@@ -1517,12 +1552,12 @@
     "rank": 166
   },
   {
-    "sv": "orsak",
+    "sv": "orsaka",
     "en": "cause",
     "rank": 167
   },
   {
-    "sv": "resonera",
+    "sv": "förnuft",
     "en": "reason",
     "rank": 167
   },
@@ -1543,7 +1578,10 @@
   },
   {
     "sv": "liv",
-    "en": "life",
+    "en": [
+      "life",
+      "living"
+    ],
     "rank": 170
   },
   {
@@ -1558,11 +1596,6 @@
     "sv": "att ordna",
     "en": "to arrange",
     "rank": 171
-  },
-  {
-    "sv": "lite grann",
-    "en": "slightly",
-    "rank": 172
   },
   {
     "sv": "att bedriva",
@@ -1584,7 +1617,7 @@
     "rank": 173
   },
   {
-    "sv": "tävling",
+    "sv": "konkurrens",
     "en": "competition",
     "rank": 173
   },
@@ -1682,7 +1715,7 @@
     "rank": 184
   },
   {
-    "sv": "inledningsvis",
+    "sv": "i början",
     "en": "initially",
     "rank": 185
   },
@@ -1697,13 +1730,8 @@
     "rank": 186
   },
   {
-    "sv": "termin",
+    "sv": "kalla",
     "en": "term",
-    "rank": 186
-  },
-  {
-    "sv": "imorgon",
-    "en": "tomorrow",
     "rank": 186
   },
   {
@@ -1733,6 +1761,11 @@
     "rank": 188
   },
   {
+    "sv": "vem",
+    "en": "whom",
+    "rank": 189
+  },
+  {
     "sv": "tio",
     "en": [
       "ten",
@@ -1756,7 +1789,7 @@
     "rank": 193
   },
   {
-    "sv": "stat",
+    "sv": "ange",
     "en": "state",
     "rank": 193
   },
@@ -1812,7 +1845,7 @@
     "rank": 196
   },
   {
-    "sv": "anfall",
+    "sv": "färdig",
     "en": "fit",
     "rank": 197
   },
@@ -1883,7 +1916,8 @@
     "sv": "framåt",
     "en": [
       "onward",
-      "ahead"
+      "ahead",
+      "along"
     ],
     "rank": 204
   },
@@ -1893,12 +1927,20 @@
     "rank": 205
   },
   {
-    "sv": "uppsättning",
+    "sv": "tillräckligt",
+    "en": [
+      "enough",
+      "sufficiently"
+    ],
+    "rank": 207
+  },
+  {
+    "sv": "sätta",
     "en": "set",
     "rank": 207
   },
   {
-    "sv": "avfyra ett skott",
+    "sv": "fri",
     "en": "loose",
     "rank": 209
   },
@@ -1923,7 +1965,10 @@
   },
   {
     "sv": "att titta",
-    "en": "to look",
+    "en": [
+      "to look",
+      "to watch"
+    ],
     "rank": 211
   },
   {
@@ -1967,8 +2012,12 @@
     "rank": 216
   },
   {
-    "sv": "hård press",
-    "en": "drive",
+    "sv": "slå",
+    "en": [
+      "drive",
+      "bet",
+      "beat"
+    ],
     "rank": 217
   },
   {
@@ -2025,8 +2074,11 @@
     "rank": 219
   },
   {
-    "sv": "svenska",
-    "en": "Swedish",
+    "sv": "svensk",
+    "en": [
+      "Swedish",
+      "swede"
+    ],
     "rank": 220
   },
   {
@@ -2035,7 +2087,7 @@
     "rank": 221
   },
   {
-    "sv": "miss",
+    "sv": "missa",
     "en": "Miss",
     "rank": 222
   },
@@ -2043,8 +2095,7 @@
     "sv": "slag",
     "en": [
       "kind",
-      "lapel",
-      "punch"
+      "lapel"
     ],
     "rank": 223
   },
@@ -2070,14 +2121,22 @@
     "sv": "helt",
     "en": [
       "completely",
-      "totally",
-      "entirely"
+      "entirely",
+      "wholly"
     ],
     "rank": 225
   },
   {
     "sv": "utrymme",
     "en": "space",
+    "rank": 225
+  },
+  {
+    "sv": "totalt",
+    "en": [
+      "totally",
+      "in total"
+    ],
     "rank": 225
   },
   {
@@ -2113,11 +2172,8 @@
     "rank": 231
   },
   {
-    "sv": "tilldelning",
-    "en": [
-      "assignment",
-      "allocation"
-    ],
+    "sv": "uppdrag",
+    "en": "assignment",
     "rank": 232
   },
   {
@@ -2126,11 +2182,8 @@
     "rank": 232
   },
   {
-    "sv": "deltagare",
-    "en": [
-      "party",
-      "participant"
-    ],
+    "sv": "part",
+    "en": "party",
     "rank": 233
   },
   {
@@ -2169,7 +2222,10 @@
   },
   {
     "sv": "upprätt",
-    "en": "upright",
+    "en": [
+      "upright",
+      "erect"
+    ],
     "rank": 238
   },
   {
@@ -2187,11 +2243,16 @@
     "rank": 239
   },
   {
+    "sv": "handla",
+    "en": "deal",
+    "rank": 240
+  },
+  {
     "sv": "affär",
     "en": [
-      "deal",
       "shop",
-      "business"
+      "business",
+      "store"
     ],
     "rank": 240
   },
@@ -2225,6 +2286,7 @@
     "sv": "vacker",
     "en": [
       "beautiful",
+      "glorious",
       "handsome"
     ],
     "rank": 242
@@ -2423,10 +2485,7 @@
   },
   {
     "sv": "besvärlig",
-    "en": [
-      "awkward",
-      "nasty"
-    ],
+    "en": "awkward",
     "rank": 266
   },
   {
@@ -2459,7 +2518,10 @@
   },
   {
     "sv": "snygg",
-    "en": "good-looking",
+    "en": [
+      "good-looking",
+      "neat"
+    ],
     "rank": 269
   },
   {
@@ -2478,9 +2540,13 @@
     "rank": 272
   },
   {
+    "sv": "utfärda",
+    "en": "issue",
+    "rank": 273
+  },
+  {
     "sv": "fråga",
     "en": [
-      "issue",
       "question",
       "interrogation"
     ],
@@ -2545,7 +2611,7 @@
     "rank": 280
   },
   {
-    "sv": "att sträva",
+    "sv": "att sträva efter",
     "en": "to strive",
     "rank": 280
   },
@@ -2596,8 +2662,11 @@
     "rank": 283
   },
   {
-    "sv": "programmera",
-    "en": "program",
+    "sv": "program",
+    "en": [
+      "program",
+      "ticket"
+    ],
     "rank": 284
   },
   {
@@ -2760,14 +2829,6 @@
     "rank": 299
   },
   {
-    "sv": "avsikt",
-    "en": [
-      "to purpose",
-      "intention"
-    ],
-    "rank": 299
-  },
-  {
     "sv": "att söka",
     "en": "to seek",
     "rank": 300
@@ -2874,7 +2935,7 @@
     "rank": 318
   },
   {
-    "sv": "elak",
+    "sv": "ont",
     "en": "evil",
     "rank": 320
   },
@@ -2910,7 +2971,7 @@
     "rank": 322
   },
   {
-    "sv": "tillintetgöra",
+    "sv": "schackmatt",
     "en": "checkmate",
     "rank": 323
   },
@@ -2943,7 +3004,7 @@
     "rank": 326
   },
   {
-    "sv": "makt",
+    "sv": "driva",
     "en": "power",
     "rank": 327
   },
@@ -2953,8 +3014,11 @@
     "rank": 328
   },
   {
-    "sv": "ändamål",
-    "en": "purpose",
+    "sv": "avsikt",
+    "en": [
+      "purpose",
+      "intention"
+    ],
     "rank": 328
   },
   {
@@ -2963,7 +3027,7 @@
     "rank": 328
   },
   {
-    "sv": "måla upp",
+    "sv": "måla",
     "en": "paint",
     "rank": 330
   },
@@ -2971,8 +3035,8 @@
     "sv": "dålig",
     "en": [
       "bad",
-      "poorly",
-      "grim"
+      "foul",
+      "poor"
     ],
     "rank": 331
   },
@@ -2992,7 +3056,7 @@
     "rank": 333
   },
   {
-    "sv": "byta om",
+    "sv": "ändra",
     "en": "change",
     "rank": 333
   },
@@ -3010,7 +3074,6 @@
     "sv": "levande",
     "en": [
       "alive",
-      "living",
       "vivid"
     ],
     "rank": 335
@@ -3109,7 +3172,7 @@
     "rank": 345
   },
   {
-    "sv": "springa",
+    "sv": "fjäder",
     "en": "spring",
     "rank": 345
   },
@@ -3169,7 +3232,7 @@
     "rank": 349
   },
   {
-    "sv": "framtida",
+    "sv": "framtid",
     "en": "future",
     "rank": 350
   },
@@ -3200,10 +3263,7 @@
   },
   {
     "sv": "skick",
-    "en": [
-      "condition",
-      "repair"
-    ],
+    "en": "condition",
     "rank": 355
   },
   {
@@ -3218,10 +3278,7 @@
   },
   {
     "sv": "plan",
-    "en": [
-      "plane",
-      "plan"
-    ],
+    "en": "plane",
     "rank": 356
   },
   {
@@ -3240,27 +3297,27 @@
     "rank": 359
   },
   {
-    "sv": "ankomst",
+    "sv": "kommande",
     "en": "coming",
     "rank": 360
   },
   {
     "sv": "inkomst",
-    "en": "income",
-    "rank": 360
-  },
-  {
-    "sv": "intäkt",
-    "en": "revenue",
+    "en": [
+      "income",
+      "revenue"
+    ],
     "rank": 360
   },
   {
     "sv": "centrum",
-    "en": [
-      "center",
-      "seat"
-    ],
+    "en": "center",
     "rank": 361
+  },
+  {
+    "sv": "full",
+    "en": "full",
+    "rank": 362
   },
   {
     "sv": "full av",
@@ -3318,8 +3375,11 @@
     "rank": 369
   },
   {
-    "sv": "dela ut",
-    "en": "share",
+    "sv": "dela",
+    "en": [
+      "share",
+      "separate"
+    ],
     "rank": 369
   },
   {
@@ -3356,13 +3416,16 @@
     "rank": 371
   },
   {
-    "sv": "antingen",
+    "sv": "heller",
     "en": "either",
     "rank": 373
   },
   {
-    "sv": "arsle",
-    "en": "asshole",
+    "sv": "idiot",
+    "en": [
+      "asshole",
+      "idiot"
+    ],
     "rank": 374
   },
   {
@@ -3475,7 +3538,10 @@
   },
   {
     "sv": "att skriva",
-    "en": "to write",
+    "en": [
+      "to write",
+      "to sign"
+    ],
     "rank": 387
   },
   {
@@ -3607,8 +3673,11 @@
     "rank": 402
   },
   {
-    "sv": "invånare",
-    "en": "resident",
+    "sv": "gäst",
+    "en": [
+      "resident",
+      "guest"
+    ],
     "rank": 403
   },
   {
@@ -3658,8 +3727,11 @@
     "rank": 409
   },
   {
-    "sv": "rock",
-    "en": "rock",
+    "sv": "sten",
+    "en": [
+      "rock",
+      "stone"
+    ],
     "rank": 410
   },
   {
@@ -3691,7 +3763,7 @@
     "rank": 414
   },
   {
-    "sv": "samtal",
+    "sv": "konversation",
     "en": "conversation",
     "rank": 415
   },
@@ -3760,8 +3832,12 @@
     "rank": 423
   },
   {
-    "sv": "åtskillnad",
-    "en": "distinction",
+    "sv": "betydelse",
+    "en": [
+      "distinction",
+      "importance",
+      "meaning"
+    ],
     "rank": 423
   },
   {
@@ -3775,16 +3851,13 @@
     "rank": 425
   },
   {
-    "sv": "rang",
+    "sv": "led",
     "en": "rank",
     "rank": 425
   },
   {
     "sv": "värde",
-    "en": [
-      "value",
-      "worth"
-    ],
+    "en": "value",
     "rank": 425
   },
   {
@@ -3806,8 +3879,8 @@
     "sv": "tråkig",
     "en": [
       "tedious",
-      "stupid",
-      "boring"
+      "boring",
+      "dull"
     ],
     "rank": 426
   },
@@ -3832,10 +3905,7 @@
   },
   {
     "sv": "samhälle",
-    "en": [
-      "society",
-      "community"
-    ],
+    "en": "society",
     "rank": 432
   },
   {
@@ -3879,8 +3949,11 @@
     "rank": 438
   },
   {
-    "sv": "lyckas med",
-    "en": "pull",
+    "sv": "dra",
+    "en": [
+      "pull",
+      "draw"
+    ],
     "rank": 439
   },
   {
@@ -3916,7 +3989,7 @@
     "rank": 442
   },
   {
-    "sv": "in-",
+    "sv": "in",
     "en": "inside",
     "rank": 445
   },
@@ -3951,7 +4024,7 @@
     "rank": 449
   },
   {
-    "sv": "avslöja",
+    "sv": "ta reda på",
     "en": "find out",
     "rank": 451
   },
@@ -4017,11 +4090,6 @@
     "rank": 460
   },
   {
-    "sv": "att ta itu med",
-    "en": "to deal with",
-    "rank": 460
-  },
-  {
     "sv": "lätt",
     "en": [
       "easy",
@@ -4031,7 +4099,7 @@
     "rank": 461
   },
   {
-    "sv": "avsluta",
+    "sv": "komplett",
     "en": "complete",
     "rank": 463
   },
@@ -4066,6 +4134,11 @@
     "rank": 464
   },
   {
+    "sv": "dum",
+    "en": "stupid",
+    "rank": 464
+  },
+  {
     "sv": "åtta",
     "en": "eight",
     "rank": 465
@@ -4082,7 +4155,10 @@
   },
   {
     "sv": "lag",
-    "en": "law",
+    "en": [
+      "law",
+      "crew"
+    ],
     "rank": 467
   },
   {
@@ -4104,11 +4180,6 @@
     "sv": "sanning",
     "en": "truth",
     "rank": 470
-  },
-  {
-    "sv": "idiot",
-    "en": "idiot",
-    "rank": 471
   },
   {
     "sv": "att lösa",
@@ -4137,15 +4208,12 @@
     "rank": 476
   },
   {
-    "sv": "dyr",
-    "en": [
-      "dear",
-      "expensive"
-    ],
+    "sv": "kär",
+    "en": "dear",
     "rank": 476
   },
   {
-    "sv": "bevisföremål",
+    "sv": "uppvisa",
     "en": "exhibit",
     "rank": 476
   },
@@ -4158,15 +4226,12 @@
     "rank": 476
   },
   {
-    "sv": "koppling",
-    "en": [
-      "connection",
-      "coupling"
-    ],
+    "sv": "förbindelse",
+    "en": "connection",
     "rank": 477
   },
   {
-    "sv": "eventuell smittobärare",
+    "sv": "kontakt",
     "en": "contact",
     "rank": 477
   },
@@ -4242,11 +4307,14 @@
   },
   {
     "sv": "utveckling",
-    "en": "development",
+    "en": [
+      "development",
+      "expansion"
+    ],
     "rank": 484
   },
   {
-    "sv": "bemästra",
+    "sv": "husse",
     "en": "master",
     "rank": 484
   },
@@ -4329,8 +4397,11 @@
     "rank": 492
   },
   {
-    "sv": "påettellerannatsätt",
-    "en": "somehow",
+    "sv": "på något sätt",
+    "en": [
+      "somehow",
+      "in any way"
+    ],
     "rank": 493
   },
   {
@@ -4370,7 +4441,7 @@
     "rank": 496
   },
   {
-    "sv": "vård",
+    "sv": "bry sig om",
     "en": "care",
     "rank": 497
   },
@@ -4383,7 +4454,7 @@
     "rank": 498
   },
   {
-    "sv": "behov",
+    "sv": "behöva",
     "en": "need",
     "rank": 498
   },
@@ -4393,7 +4464,7 @@
     "rank": 498
   },
   {
-    "sv": "general",
+    "sv": "allmän",
     "en": "general",
     "rank": 499
   },
@@ -4411,8 +4482,14 @@
     "sv": "känd",
     "en": [
       "known",
-      "famous"
+      "famous",
+      "renowned"
     ],
+    "rank": 502
+  },
+  {
+    "sv": "planera",
+    "en": "plan",
     "rank": 502
   },
   {
@@ -4435,7 +4512,10 @@
   },
   {
     "sv": "riktning",
-    "en": "direction",
+    "en": [
+      "direction",
+      "channel"
+    ],
     "rank": 505
   },
   {
@@ -4450,11 +4530,6 @@
     "sv": "jätte",
     "en": "giant",
     "rank": 508
-  },
-  {
-    "sv": "jaså",
-    "en": "indeed",
-    "rank": 509
   },
   {
     "sv": "att blockera",
@@ -4543,11 +4618,6 @@
     "rank": 521
   },
   {
-    "sv": "mycket angenäm",
-    "en": "glorious",
-    "rank": 522
-  },
-  {
     "sv": "lysande",
     "en": "shining",
     "rank": 522
@@ -4558,8 +4628,11 @@
     "rank": 523
   },
   {
-    "sv": "till synes",
-    "en": "apparently",
+    "sv": "tydligen",
+    "en": [
+      "apparently",
+      "obviously"
+    ],
     "rank": 524
   },
   {
@@ -4581,6 +4654,7 @@
     "sv": "kort",
     "en": [
       "short",
+      "brief",
       "card"
     ],
     "rank": 525
@@ -4621,12 +4695,17 @@
     "rank": 530
   },
   {
+    "sv": "marknadsföra",
+    "en": "market",
+    "rank": 531
+  },
+  {
     "sv": "för en... inte",
     "en": "for one ... not",
     "rank": 532
   },
   {
-    "sv": "helt och hållet",
+    "sv": "alldeles",
     "en": "altogether",
     "rank": 533
   },
@@ -4636,11 +4715,6 @@
       "anywhere",
       "somewhere"
     ],
-    "rank": 533
-  },
-  {
-    "sv": "totalt",
-    "en": "in total",
     "rank": 533
   },
   {
@@ -4672,7 +4746,7 @@
     "rank": 539
   },
   {
-    "sv": "folk",
+    "sv": "personer",
     "en": "people",
     "rank": 540
   },
@@ -4733,14 +4807,6 @@
     "sv": "att ingripa",
     "en": "to intervene",
     "rank": 549
-  },
-  {
-    "sv": "betydelse",
-    "en": [
-      "importance",
-      "meaning"
-    ],
-    "rank": 551
   },
   {
     "sv": "i mitten",
@@ -4917,8 +4983,11 @@
     "rank": 576
   },
   {
-    "sv": "senior",
-    "en": "senior",
+    "sv": "äldre",
+    "en": [
+      "senior",
+      "senior citizen"
+    ],
     "rank": 576
   },
   {
@@ -4948,16 +5017,14 @@
     "sv": "ämne",
     "en": [
       "subject",
-      "topic"
+      "topic",
+      "substance"
     ],
     "rank": 578
   },
   {
-    "sv": "bevis",
-    "en": [
-      "to evidence",
-      "evidence"
-    ],
+    "sv": "till bevis",
+    "en": "to evidence",
     "rank": 578
   },
   {
@@ -4971,7 +5038,7 @@
     "rank": 579
   },
   {
-    "sv": "gå fram och tillbaka",
+    "sv": "takt",
     "en": "pace",
     "rank": 580
   },
@@ -5014,7 +5081,7 @@
     "rank": 583
   },
   {
-    "sv": "bli förvånad",
+    "sv": "undra",
     "en": "wonder",
     "rank": 583
   },
@@ -5057,7 +5124,7 @@
     "rank": 590
   },
   {
-    "sv": "fylla",
+    "sv": "till grejer",
     "en": "to stuff",
     "rank": 590
   },
@@ -5072,7 +5139,7 @@
     "rank": 591
   },
   {
-    "sv": "skynda",
+    "sv": "skynda sig",
     "en": "hurry",
     "rank": 591
   },
@@ -5108,7 +5175,10 @@
   },
   {
     "sv": "byggnad",
-    "en": "building",
+    "en": [
+      "building",
+      "frame"
+    ],
     "rank": 597
   },
   {
@@ -5160,11 +5230,8 @@
     "rank": 604
   },
   {
-    "sv": "dumbom",
-    "en": [
-      "silly",
-      "goose"
-    ],
+    "sv": "medvetslös",
+    "en": "silly",
     "rank": 604
   },
   {
@@ -5172,7 +5239,7 @@
     "en": [
       "fast",
       "rapid",
-      "flash"
+      "speedy"
     ],
     "rank": 605
   },
@@ -5216,10 +5283,7 @@
   },
   {
     "sv": "skog",
-    "en": [
-      "forest",
-      "wood"
-    ],
+    "en": "forest",
     "rank": 613
   },
   {
@@ -5339,7 +5403,7 @@
     "rank": 627
   },
   {
-    "sv": "flyga upp",
+    "sv": "flyga",
     "en": "fly",
     "rank": 627
   },
@@ -5405,7 +5469,7 @@
     "rank": 634
   },
   {
-    "sv": "inföding",
+    "sv": "födelse-",
     "en": "native",
     "rank": 634
   },
@@ -5420,8 +5484,21 @@
     "rank": 635
   },
   {
+    "sv": "dåligt",
+    "en": [
+      "poorly",
+      "badly"
+    ],
+    "rank": 636
+  },
+  {
     "sv": "träd",
     "en": "tree",
+    "rank": 636
+  },
+  {
+    "sv": "trä",
+    "en": "wood",
     "rank": 636
   },
   {
@@ -5430,24 +5507,13 @@
     "rank": 637
   },
   {
-    "sv": "nåd",
-    "en": [
-      "honor",
-      "grace"
-    ],
-    "rank": 638
-  },
-  {
-    "sv": "att gå runt",
-    "en": "to go around",
+    "sv": "ära",
+    "en": "honor",
     "rank": 638
   },
   {
     "sv": "nyckel",
-    "en": [
-      "key",
-      "passport"
-    ],
+    "en": "key",
     "rank": 639
   },
   {
@@ -5502,7 +5568,7 @@
     "rank": 644
   },
   {
-    "sv": "underlag",
+    "sv": "förse med underlag",
     "en": "underlay",
     "rank": 645
   },
@@ -5540,14 +5606,9 @@
     "rank": 649
   },
   {
-    "sv": "som kan tas emot",
+    "sv": "fordran",
     "en": "receivable",
     "rank": 649
-  },
-  {
-    "sv": "på något sätt",
-    "en": "in any way",
-    "rank": 651
   },
   {
     "sv": "att förlora",
@@ -5608,11 +5669,6 @@
     "rank": 658
   },
   {
-    "sv": "region",
-    "en": "region",
-    "rank": 659
-  },
-  {
     "sv": "glänta",
     "en": "clearing",
     "rank": 660
@@ -5625,14 +5681,6 @@
   {
     "sv": "musikinstrument",
     "en": "musical instrument",
-    "rank": 661
-  },
-  {
-    "sv": "bästa",
-    "en": [
-      "to interest",
-      "top"
-    ],
     "rank": 661
   },
   {
@@ -5661,7 +5709,10 @@
   },
   {
     "sv": "varm",
-    "en": "hot",
+    "en": [
+      "hot",
+      "warm"
+    ],
     "rank": 663
   },
   {
@@ -5670,7 +5721,7 @@
     "rank": 663
   },
   {
-    "sv": "göra visit",
+    "sv": "samtal",
     "en": "call",
     "rank": 664
   },
@@ -5680,7 +5731,7 @@
     "rank": 664
   },
   {
-    "sv": "omkring",
+    "sv": "runda",
     "en": "round",
     "rank": 664
   },
@@ -5788,7 +5839,7 @@
     "rank": 676
   },
   {
-    "sv": "slentrian",
+    "sv": "räffla",
     "en": "groove",
     "rank": 676
   },
@@ -5801,11 +5852,6 @@
     "sv": "falsk",
     "en": "false",
     "rank": 677
-  },
-  {
-    "sv": "nytta",
-    "en": "to profit",
-    "rank": 679
   },
   {
     "sv": "att ta hänsyn till",
@@ -5866,7 +5912,7 @@
     "rank": 686
   },
   {
-    "sv": "för närvarande; tillsvidare",
+    "sv": "varelse",
     "en": "being",
     "rank": 687
   },
@@ -5883,11 +5929,6 @@
   {
     "sv": "sammansättning",
     "en": "composition",
-    "rank": 688
-  },
-  {
-    "sv": "att göra ont",
-    "en": "to hurt",
     "rank": 688
   },
   {
@@ -5936,7 +5977,7 @@
     "rank": 697
   },
   {
-    "sv": "stiga upp",
+    "sv": "stiga",
     "en": "rise",
     "rank": 698
   },
@@ -5961,7 +6002,7 @@
     "rank": 701
   },
   {
-    "sv": "satsvis bearbetning",
+    "sv": "sats",
     "en": "batch",
     "rank": 702
   },
@@ -5969,13 +6010,12 @@
     "sv": "i förväg",
     "en": [
       "ahead of time",
-      "beforehand",
       "in advance"
     ],
     "rank": 704
   },
   {
-    "sv": "tidig sort",
+    "sv": "tidig",
     "en": "early",
     "rank": 704
   },
@@ -6008,7 +6048,7 @@
     "rank": 706
   },
   {
-    "sv": "ha tur",
+    "sv": "tur-",
     "en": "lucky",
     "rank": 707
   },
@@ -6036,7 +6076,7 @@
     "rank": 709
   },
   {
-    "sv": "uppför trappan",
+    "sv": "på övervåningen",
     "en": "upstairs",
     "rank": 710
   },
@@ -6059,7 +6099,7 @@
     "rank": 715
   },
   {
-    "sv": "domare",
+    "sv": "bedöma",
     "en": "judge",
     "rank": 716
   },
@@ -6084,7 +6124,7 @@
     "rank": 717
   },
   {
-    "sv": "luder",
+    "sv": "hora",
     "en": "whore",
     "rank": 717
   },
@@ -6119,27 +6159,14 @@
     "rank": 721
   },
   {
-    "sv": "längs",
-    "en": "along",
+    "sv": "familje-",
+    "en": "domestic",
     "rank": 722
   },
   {
-    "sv": "inhemsk",
-    "en": [
-      "domestic",
-      "indigenous"
-    ],
-    "rank": 722
-  },
-  {
-    "sv": "rakt igenom",
+    "sv": "över hela",
     "en": "throughout",
     "rank": 722
-  },
-  {
-    "sv": "dåligt",
-    "en": "badly",
-    "rank": 723
   },
   {
     "sv": "minister",
@@ -6286,8 +6313,11 @@
     "rank": 747
   },
   {
-    "sv": "bevaka",
-    "en": "cover",
+    "sv": "täcka",
+    "en": [
+      "cover",
+      "coat"
+    ],
     "rank": 748
   },
   {
@@ -6314,7 +6344,8 @@
     "sv": "miljö",
     "en": [
       "environment",
-      "surroundings"
+      "surroundings",
+      "setting"
     ],
     "rank": 750
   },
@@ -6398,8 +6429,11 @@
     "rank": 763
   },
   {
-    "sv": "misslyckas med",
-    "en": "bomb",
+    "sv": "förmögenhet",
+    "en": [
+      "bomb",
+      "fortune"
+    ],
     "rank": 764
   },
   {
@@ -6461,12 +6495,7 @@
     "rank": 769
   },
   {
-    "sv": "informera",
-    "en": "brief",
-    "rank": 770
-  },
-  {
-    "sv": "stålar",
+    "sv": "jack",
     "en": "jack",
     "rank": 770
   },
@@ -6484,12 +6513,16 @@
     "rank": 771
   },
   {
-    "sv": "just",
-    "en": "exactly",
+    "sv": "exakt",
+    "en": [
+      "exactly",
+      "accurate",
+      "exact"
+    ],
     "rank": 772
   },
   {
-    "sv": "nuförtiden",
+    "sv": "numera",
     "en": "nowadays",
     "rank": 772
   },
@@ -6502,6 +6535,14 @@
     "sv": "mat",
     "en": "food",
     "rank": 775
+  },
+  {
+    "sv": "värd",
+    "en": [
+      "worth",
+      "host"
+    ],
+    "rank": 776
   },
   {
     "sv": "tills vidare",
@@ -6572,7 +6613,7 @@
     "rank": 786
   },
   {
-    "sv": "kompis",
+    "sv": "kuk",
     "en": "cock",
     "rank": 787
   },
@@ -6608,12 +6649,10 @@
   },
   {
     "sv": "tom",
-    "en": "blank",
-    "rank": 791
-  },
-  {
-    "sv": "tömma",
-    "en": "empty",
+    "en": [
+      "blank",
+      "empty"
+    ],
     "rank": 791
   },
   {
@@ -6640,6 +6679,11 @@
     "sv": "morgontidning",
     "en": "morning paper",
     "rank": 795
+  },
+  {
+    "sv": "dyr",
+    "en": "expensive",
+    "rank": 796
   },
   {
     "sv": "att bry sig",
@@ -6673,6 +6717,11 @@
     "sv": "lever",
     "en": "liver",
     "rank": 799
+  },
+  {
+    "sv": "ingen",
+    "en": "no one",
+    "rank": 800
   },
   {
     "sv": "sheriffen",
@@ -6724,10 +6773,7 @@
   },
   {
     "sv": "päls",
-    "en": [
-      "fur",
-      "coat"
-    ],
+    "en": "fur",
     "rank": 806
   },
   {
@@ -6895,7 +6941,7 @@
     "rank": 831
   },
   {
-    "sv": "disk",
+    "sv": "cd",
     "en": "disk",
     "rank": 832
   },
@@ -6950,21 +6996,13 @@
     "rank": 837
   },
   {
-    "sv": "en massa",
-    "en": "considerable",
-    "rank": 838
-  },
-  {
     "sv": "ganska mycket",
     "en": "quite a lot",
     "rank": 838
   },
   {
     "sv": "agera",
-    "en": [
-      "act",
-      "star"
-    ],
+    "en": "act",
     "rank": 839
   },
   {
@@ -6993,21 +7031,13 @@
     "rank": 844
   },
   {
-    "sv": "gäst",
-    "en": "guest",
-    "rank": 844
-  },
-  {
     "sv": "obekant",
     "en": "unfamiliar",
     "rank": 844
   },
   {
     "sv": "blodig",
-    "en": [
-      "bloody",
-      "rare"
-    ],
+    "en": "bloody",
     "rank": 845
   },
   {
@@ -7054,7 +7084,7 @@
     "rank": 852
   },
   {
-    "sv": "facilitet",
+    "sv": "lätthet",
     "en": "facility",
     "rank": 853
   },
@@ -7065,7 +7095,10 @@
   },
   {
     "sv": "lura",
-    "en": "fool",
+    "en": [
+      "fool",
+      "trick"
+    ],
     "rank": 854
   },
   {
@@ -7086,14 +7119,6 @@
     "sv": "att gå ur",
     "en": "to exit",
     "rank": 855
-  },
-  {
-    "sv": "exakt",
-    "en": [
-      "accurate",
-      "exact"
-    ],
-    "rank": 856
   },
   {
     "sv": "för att få plats",
@@ -7172,7 +7197,7 @@
     "rank": 865
   },
   {
-    "sv": "knipa",
+    "sv": "se stick",
     "en": "stuck",
     "rank": 865
   },
@@ -7199,7 +7224,7 @@
     "rank": 868
   },
   {
-    "sv": "avresa",
+    "sv": "avvikelse",
     "en": "departure",
     "rank": 869
   },
@@ -7240,8 +7265,7 @@
     "sv": "bredvid",
     "en": [
       "beside",
-      "next to",
-      "to beside"
+      "next to"
     ],
     "rank": 875
   },
@@ -7254,11 +7278,6 @@
     "sv": "att uppfinna",
     "en": "to invent",
     "rank": 876
-  },
-  {
-    "sv": "exempel",
-    "en": "example",
-    "rank": 878
   },
   {
     "sv": "sol",
@@ -7295,7 +7314,7 @@
     "rank": 879
   },
   {
-    "sv": "amerikan",
+    "sv": "amerikansk",
     "en": "American",
     "rank": 880
   },
@@ -7338,12 +7357,15 @@
     "rank": 883
   },
   {
-    "sv": "bekämpa",
-    "en": "combat",
+    "sv": "strid",
+    "en": [
+      "combat",
+      "contention"
+    ],
     "rank": 884
   },
   {
-    "sv": "kämpa för",
+    "sv": "bekämpa",
     "en": "fight",
     "rank": 884
   },
@@ -7406,7 +7428,7 @@
     "rank": 889
   },
   {
-    "sv": "mörda",
+    "sv": "mord",
     "en": "murder",
     "rank": 890
   },
@@ -7434,7 +7456,7 @@
     "rank": 893
   },
   {
-    "sv": "att skylla",
+    "sv": "att skylla på",
     "en": "to blame",
     "rank": 893
   },
@@ -7444,7 +7466,7 @@
     "rank": 894
   },
   {
-    "sv": "ge första erfarenhet",
+    "sv": "blod",
     "en": "blood",
     "rank": 895
   },
@@ -7461,6 +7483,11 @@
   {
     "sv": "av sig själv",
     "en": "by itself",
+    "rank": 897
+  },
+  {
+    "sv": "sig",
+    "en": "itself",
     "rank": 897
   },
   {
@@ -7516,15 +7543,6 @@
     "rank": 905
   },
   {
-    "sv": "till",
-    "en": [
-      "to appropriate",
-      "to life",
-      "to head"
-    ],
-    "rank": 905
-  },
-  {
     "sv": "till svin",
     "en": "to hog",
     "rank": 905
@@ -7573,23 +7591,24 @@
     "rank": 910
   },
   {
-    "sv": "uppföljare",
-    "en": "sequel",
+    "sv": "fortsättning",
+    "en": [
+      "sequel",
+      "continuation"
+    ],
     "rank": 911
   },
   {
-    "sv": "någon annanstans",
+    "sv": "någon",
     "en": "elsewhere",
     "rank": 913
   },
   {
     "sv": "syn",
-    "en": "outlook",
-    "rank": 913
-  },
-  {
-    "sv": "se",
-    "en": "view",
+    "en": [
+      "outlook",
+      "view"
+    ],
     "rank": 913
   },
   {
@@ -7673,11 +7692,6 @@
     "rank": 927
   },
   {
-    "sv": "att göra motstånd",
-    "en": "to resist",
-    "rank": 927
-  },
-  {
     "sv": "att njuta",
     "en": "to enjoy",
     "rank": 929
@@ -7696,11 +7710,6 @@
     "rank": 933
   },
   {
-    "sv": "ackurat",
-    "en": "accurately",
-    "rank": 933
-  },
-  {
     "sv": "fiende",
     "en": "enemy",
     "rank": 934
@@ -7716,12 +7725,12 @@
     "rank": 935
   },
   {
-    "sv": "dra ut",
+    "sv": "extrahera",
     "en": "extract",
     "rank": 935
   },
   {
-    "sv": "grepp",
+    "sv": "förstå",
     "en": "grasp",
     "rank": 935
   },
@@ -7837,7 +7846,7 @@
     "rank": 946
   },
   {
-    "sv": "tillbringa veckoslutet",
+    "sv": "helgen",
     "en": "weekend",
     "rank": 946
   },
@@ -7877,11 +7886,6 @@
     "rank": 950
   },
   {
-    "sv": "först",
-    "en": "at first",
-    "rank": 951
-  },
-  {
     "sv": "kvalitet",
     "en": "quality",
     "rank": 951
@@ -7915,7 +7919,7 @@
     "rank": 956
   },
   {
-    "sv": "alldeles",
+    "sv": "massor",
     "en": "plenty",
     "rank": 956
   },
@@ -7925,9 +7929,9 @@
     "rank": 958
   },
   {
-    "sv": "följd",
-    "en": "consequence",
-    "rank": 959
+    "sv": "inhemsk",
+    "en": "indigenous",
+    "rank": 958
   },
   {
     "sv": "naturlig följd",
@@ -8019,7 +8023,7 @@
     "rank": 967
   },
   {
-    "sv": "fosterland",
+    "sv": "hemland",
     "en": "homeland",
     "rank": 967
   },
@@ -8064,17 +8068,8 @@
     "rank": 974
   },
   {
-    "sv": "prov",
-    "en": [
-      "test",
-      "sample",
-      "specimen"
-    ],
-    "rank": 974
-  },
-  {
-    "sv": "att gå vidare",
-    "en": "to progress",
+    "sv": "testa",
+    "en": "test",
     "rank": 974
   },
   {
@@ -8191,8 +8186,11 @@
     "rank": 988
   },
   {
-    "sv": "likvärdig",
-    "en": "equivalent",
+    "sv": "motsvarighet",
+    "en": [
+      "equivalent",
+      "counterpart"
+    ],
     "rank": 988
   },
   {
@@ -8201,7 +8199,7 @@
     "rank": 989
   },
   {
-    "sv": "söder om",
+    "sv": "söder",
     "en": "south",
     "rank": 989
   },
@@ -8211,7 +8209,7 @@
     "rank": 989
   },
   {
-    "sv": "åsikt",
+    "sv": "omdöme",
     "en": "opinion",
     "rank": 990
   },
@@ -8286,12 +8284,8 @@
     "rank": 1000
   },
   {
-    "sv": "ren",
-    "en": [
-      "clean",
-      "downright",
-      "reindeer"
-    ],
+    "sv": "rena",
+    "en": "clean",
     "rank": 1000
   },
   {
@@ -8335,11 +8329,6 @@
     "rank": 1008
   },
   {
-    "sv": "byte",
-    "en": "cop",
-    "rank": 1010
-  },
-  {
     "sv": "att bevara",
     "en": "to preserve",
     "rank": 1010
@@ -8370,12 +8359,12 @@
     "rank": 1016
   },
   {
-    "sv": "utsiktslös",
+    "sv": "meningslös",
     "en": "futile",
     "rank": 1016
   },
   {
-    "sv": "onyttig",
+    "sv": "lönlös",
     "en": "useless",
     "rank": 1016
   },
@@ -8393,11 +8382,6 @@
     "sv": "i sänder",
     "en": "at a time",
     "rank": 1020
-  },
-  {
-    "sv": "jättekul",
-    "en": "neat",
-    "rank": 1021
   },
   {
     "sv": "arbetslös",
@@ -8425,7 +8409,7 @@
     "rank": 1028
   },
   {
-    "sv": "bön",
+    "sv": "kostym",
     "en": "suit",
     "rank": 1028
   },
@@ -8475,9 +8459,18 @@
     "rank": 1033
   },
   {
-    "sv": "enslig",
-    "en": "solitary",
+    "sv": "enda",
+    "en": [
+      "solitary",
+      "single",
+      "sole"
+    ],
     "rank": 1034
+  },
+  {
+    "sv": "stjärna",
+    "en": "star",
+    "rank": 1036
   },
   {
     "sv": "att bekänna",
@@ -8500,17 +8493,12 @@
     "rank": 1039
   },
   {
-    "sv": "liten och nätt",
-    "en": "pretty",
-    "rank": 1040
-  },
-  {
     "sv": "spanien",
     "en": "Spain",
     "rank": 1041
   },
   {
-    "sv": "vakt",
+    "sv": "skydda",
     "en": "guard",
     "rank": 1041
   },
@@ -8628,11 +8616,6 @@
     "rank": 1053
   },
   {
-    "sv": "berömd",
-    "en": "renowned",
-    "rank": 1054
-  },
-  {
     "sv": "att försvinna",
     "en": "to disappear",
     "rank": 1054
@@ -8653,7 +8636,7 @@
     "rank": 1055
   },
   {
-    "sv": "färdighet",
+    "sv": "skicklighet",
     "en": "skill",
     "rank": 1057
   },
@@ -8663,11 +8646,13 @@
     "rank": 1058
   },
   {
+    "sv": "i synnerhet",
+    "en": "notably",
+    "rank": 1058
+  },
+  {
     "sv": "framgångsrik",
-    "en": [
-      "successful",
-      "golden"
-    ],
+    "en": "successful",
     "rank": 1058
   },
   {
@@ -8686,6 +8671,11 @@
   {
     "sv": "ondsint",
     "en": "malicious",
+    "rank": 1062
+  },
+  {
+    "sv": "otäck",
+    "en": "nasty",
     "rank": 1062
   },
   {
@@ -8794,7 +8784,7 @@
     "rank": 1080
   },
   {
-    "sv": "lång tid",
+    "sv": "evighet",
     "en": "age",
     "rank": 1081
   },
@@ -8854,11 +8844,6 @@
     "rank": 1092
   },
   {
-    "sv": "äldre",
-    "en": "senior citizen",
-    "rank": 1092
-  },
-  {
     "sv": "att injicera",
     "en": "to inject",
     "rank": 1093
@@ -8909,7 +8894,7 @@
     "rank": 1102
   },
   {
-    "sv": "dans",
+    "sv": "dansa",
     "en": "dance",
     "rank": 1102
   },
@@ -9006,7 +8991,10 @@
   },
   {
     "sv": "dom",
-    "en": "judgment",
+    "en": [
+      "judgment",
+      "sentence"
+    ],
     "rank": 1115
   },
   {
@@ -9105,7 +9093,7 @@
     "rank": 1127
   },
   {
-    "sv": "efterrätt",
+    "sv": "ljuv",
     "en": "sweet",
     "rank": 1130
   },
@@ -9113,6 +9101,7 @@
     "sv": "fånga",
     "en": [
       "mesh",
+      "catch",
       "arrest"
     ],
     "rank": 1131
@@ -9139,7 +9128,7 @@
     "rank": 1135
   },
   {
-    "sv": "grind",
+    "sv": "gate",
     "en": "gate",
     "rank": 1136
   },
@@ -9172,13 +9161,8 @@
     "rank": 1139
   },
   {
-    "sv": "orolig",
+    "sv": "bekymrad",
     "en": "concerned",
-    "rank": 1141
-  },
-  {
-    "sv": "smutsa ned",
-    "en": "foul",
     "rank": 1141
   },
   {
@@ -9245,7 +9229,7 @@
     "rank": 1150
   },
   {
-    "sv": "faster",
+    "sv": "moster",
     "en": "aunt",
     "rank": 1151
   },
@@ -9361,11 +9345,6 @@
     "rank": 1166
   },
   {
-    "sv": "att komma överens",
-    "en": "to agree",
-    "rank": 1167
-  },
-  {
     "sv": "att värdera",
     "en": "to value",
     "rank": 1168
@@ -9452,11 +9431,6 @@
     "rank": 1182
   },
   {
-    "sv": "sten",
-    "en": "stone",
-    "rank": 1182
-  },
-  {
     "sv": "gods",
     "en": "goods",
     "rank": 1183
@@ -9520,7 +9494,6 @@
     "sv": "enkel",
     "en": [
       "simple",
-      "single",
       "humble"
     ],
     "rank": 1191
@@ -9648,7 +9621,7 @@
     "rank": 1206
   },
   {
-    "sv": "efterfrågan",
+    "sv": "begära",
     "en": "demand",
     "rank": 1208
   },
@@ -9709,7 +9682,7 @@
     "rank": 1213
   },
   {
-    "sv": "socialistisk",
+    "sv": "socialist",
     "en": "socialist",
     "rank": 1214
   },
@@ -9768,18 +9741,16 @@
   },
   {
     "sv": "bröllop",
-    "en": "wedding",
+    "en": [
+      "wedding",
+      "marriage"
+    ],
     "rank": 1223
   },
   {
     "sv": "intressant",
     "en": "interesting",
     "rank": 1225
-  },
-  {
-    "sv": "svensk",
-    "en": "swede",
-    "rank": 1226
   },
   {
     "sv": "i enlighet med",
@@ -9822,7 +9793,7 @@
     "rank": 1233
   },
   {
-    "sv": "rapport",
+    "sv": "berätta",
     "en": "report",
     "rank": 1234
   },
@@ -9837,8 +9808,11 @@
     "rank": 1237
   },
   {
-    "sv": "special",
-    "en": "special",
+    "sv": "särskild",
+    "en": [
+      "special",
+      "particular"
+    ],
     "rank": 1238
   },
   {
@@ -9878,14 +9852,11 @@
   },
   {
     "sv": "gård",
-    "en": [
-      "yard",
-      "farm"
-    ],
+    "en": "yard",
     "rank": 1245
   },
   {
-    "sv": "intern",
+    "sv": "inre",
     "en": "internal",
     "rank": 1246
   },
@@ -9905,7 +9876,7 @@
     "rank": 1248
   },
   {
-    "sv": "att skilja sig åt",
+    "sv": "att skilja",
     "en": "to differ",
     "rank": 1249
   },
@@ -9935,7 +9906,7 @@
     "rank": 1252
   },
   {
-    "sv": "drömma",
+    "sv": "månen",
     "en": "moon",
     "rank": 1252
   },
@@ -10013,7 +9984,7 @@
     "rank": 1263
   },
   {
-    "sv": "gissning",
+    "sv": "gissa",
     "en": "guess",
     "rank": 1264
   },
@@ -10046,11 +10017,6 @@
     "sv": "förmån",
     "en": "benefit",
     "rank": 1266
-  },
-  {
-    "sv": "trick",
-    "en": "trick",
-    "rank": 1269
   },
   {
     "sv": "låg",
@@ -10086,6 +10052,11 @@
     "sv": "fisk",
     "en": "fish",
     "rank": 1277
+  },
+  {
+    "sv": "gemenskap",
+    "en": "community",
+    "rank": 1278
   },
   {
     "sv": "tyska",
@@ -10163,7 +10134,7 @@
     "rank": 1287
   },
   {
-    "sv": "jordbruk",
+    "sv": "lantbruk",
     "en": "agriculture",
     "rank": 1287
   },
@@ -10178,7 +10149,7 @@
     "rank": 1288
   },
   {
-    "sv": "bestämt",
+    "sv": "speciellt",
     "en": "specifically",
     "rank": 1288
   },
@@ -10188,13 +10159,8 @@
     "rank": 1289
   },
   {
-    "sv": "avbryta",
+    "sv": "skära",
     "en": "cut",
-    "rank": 1290
-  },
-  {
-    "sv": "det väsentliga",
-    "en": "substance",
     "rank": 1290
   },
   {
@@ -10271,7 +10237,7 @@
     "rank": 1302
   },
   {
-    "sv": "driva på",
+    "sv": "pressa",
     "en": "urge",
     "rank": 1302
   },
@@ -10296,7 +10262,7 @@
     "rank": 1306
   },
   {
-    "sv": "i säkerhet",
+    "sv": "säkra",
     "en": "secure",
     "rank": 1308
   },
@@ -10348,6 +10314,14 @@
     "rank": 1312
   },
   {
+    "sv": "sällsynt",
+    "en": [
+      "rare",
+      "infrequent"
+    ],
+    "rank": 1313
+  },
+  {
     "sv": "under wraps",
     "en": "under wraps",
     "rank": 1313
@@ -10395,11 +10369,6 @@
   {
     "sv": "själ",
     "en": "soul",
-    "rank": 1319
-  },
-  {
-    "sv": "biljett",
-    "en": "ticket",
     "rank": 1319
   },
   {
@@ -10456,7 +10425,7 @@
     "rank": 1329
   },
   {
-    "sv": "växel",
+    "sv": "redskap",
     "en": "gear",
     "rank": 1330
   },
@@ -10543,10 +10512,7 @@
   },
   {
     "sv": "överföring",
-    "en": [
-      "transmission",
-      "transfer"
-    ],
+    "en": "transmission",
     "rank": 1341
   },
   {
@@ -10560,8 +10526,11 @@
     "rank": 1342
   },
   {
-    "sv": "laddning",
-    "en": "charge",
+    "sv": "anfalla",
+    "en": [
+      "charge",
+      "strike"
+    ],
     "rank": 1343
   },
   {
@@ -10608,7 +10577,7 @@
     "rank": 1349
   },
   {
-    "sv": "harpun",
+    "sv": "spelning",
     "en": "gig",
     "rank": 1350
   },
@@ -10623,11 +10592,6 @@
     "rank": 1351
   },
   {
-    "sv": "värma",
-    "en": "warm",
-    "rank": 1351
-  },
-  {
     "sv": "karelen",
     "en": "Karelia",
     "rank": 1353
@@ -10638,7 +10602,7 @@
     "rank": 1353
   },
   {
-    "sv": "före",
+    "sv": "innan",
     "en": "before",
     "rank": 1353
   },
@@ -10661,8 +10625,8 @@
     "sv": "fast",
     "en": [
       "consistent",
-      "erect",
-      "firm"
+      "firm",
+      "solid"
     ],
     "rank": 1355
   },
@@ -10687,11 +10651,8 @@
     "rank": 1357
   },
   {
-    "sv": "prognos",
-    "en": [
-      "forecast",
-      "prognosis"
-    ],
+    "sv": "förutsäga",
+    "en": "forecast",
     "rank": 1359
   },
   {
@@ -10757,7 +10718,7 @@
     "rank": 1370
   },
   {
-    "sv": "vistelse",
+    "sv": "förbli",
     "en": "stay",
     "rank": 1371
   },
@@ -10911,10 +10872,7 @@
   },
   {
     "sv": "odjur",
-    "en": [
-      "beast",
-      "horror"
-    ],
+    "en": "beast",
     "rank": 1394
   },
   {
@@ -10971,11 +10929,6 @@
     "rank": 1401
   },
   {
-    "sv": "budskap",
-    "en": "to message",
-    "rank": 1401
-  },
-  {
     "sv": "att berömma",
     "en": "to praise",
     "rank": 1401
@@ -11010,6 +10963,14 @@
     "rank": 1406
   },
   {
+    "sv": "bästa",
+    "en": [
+      "top",
+      "interest"
+    ],
+    "rank": 1406
+  },
+  {
     "sv": "tillträde",
     "en": "access",
     "rank": 1408
@@ -11025,7 +10986,7 @@
     "rank": 1409
   },
   {
-    "sv": "härska över",
+    "sv": "kontroll",
     "en": "control",
     "rank": 1410
   },
@@ -11033,6 +10994,11 @@
     "sv": "tillsyn",
     "en": "supervision",
     "rank": 1410
+  },
+  {
+    "sv": "gyllene",
+    "en": "golden",
+    "rank": 1411
   },
   {
     "sv": "förfrågan",
@@ -11053,14 +11019,16 @@
     "sv": "lager",
     "en": [
       "layer",
-      "supply",
       "warehouse"
     ],
     "rank": 1412
   },
   {
     "sv": "oro",
-    "en": "concern",
+    "en": [
+      "concern",
+      "anxiety"
+    ],
     "rank": 1413
   },
   {
@@ -11084,11 +11052,6 @@
     "rank": 1417
   },
   {
-    "sv": "att titta på",
-    "en": "to watch",
-    "rank": 1417
-  },
-  {
     "sv": "dagligen",
     "en": "daily",
     "rank": 1418
@@ -11097,11 +11060,6 @@
     "sv": "roman",
     "en": "novel",
     "rank": 1418
-  },
-  {
-    "sv": "förmögenhet",
-    "en": "fortune",
-    "rank": 1419
   },
   {
     "sv": "röv",
@@ -11120,8 +11078,7 @@
     "sv": "röra",
     "en": [
       "mess",
-      "touch",
-      "cream"
+      "touch"
     ],
     "rank": 1421
   },
@@ -11166,11 +11123,6 @@
     "rank": 1426
   },
   {
-    "sv": "att skriva under",
-    "en": "to sign",
-    "rank": 1427
-  },
-  {
     "sv": "läger",
     "en": "camp",
     "rank": 1429
@@ -11201,13 +11153,11 @@
     "rank": 1434
   },
   {
-    "sv": "strukturera",
-    "en": "structure",
-    "rank": 1434
-  },
-  {
     "sv": "struktur",
-    "en": "texture",
+    "en": [
+      "structure",
+      "texture"
+    ],
     "rank": 1434
   },
   {
@@ -11297,10 +11247,7 @@
   },
   {
     "sv": "hobby",
-    "en": [
-      "hobby",
-      "hobbyist"
-    ],
+    "en": "hobby",
     "rank": 1452
   },
   {
@@ -11380,10 +11327,7 @@
   },
   {
     "sv": "utbyte",
-    "en": [
-      "substitution",
-      "exchange"
-    ],
+    "en": "substitution",
     "rank": 1460
   },
   {
@@ -11397,7 +11341,7 @@
     "rank": 1461
   },
   {
-    "sv": "hänförd recension",
+    "sv": "yra",
     "en": "rave",
     "rank": 1462
   },
@@ -11408,7 +11352,10 @@
   },
   {
     "sv": "att bryta",
-    "en": "to break",
+    "en": [
+      "to break",
+      "to violate"
+    ],
     "rank": 1463
   },
   {
@@ -11427,8 +11374,11 @@
     "rank": 1465
   },
   {
-    "sv": "befrielse från förpliktelse",
-    "en": "excuse",
+    "sv": "ursäkt",
+    "en": [
+      "excuse",
+      "apology"
+    ],
     "rank": 1467
   },
   {
@@ -11487,15 +11437,9 @@
     "sv": "skrämmande",
     "en": [
       "frightening",
-      "scary",
-      "to horribly"
+      "scary"
     ],
     "rank": 1476
-  },
-  {
-    "sv": "vänta",
-    "en": "waiting",
-    "rank": 1477
   },
   {
     "sv": "princip",
@@ -11508,7 +11452,7 @@
     "rank": 1479
   },
   {
-    "sv": "vise versa",
+    "sv": "vice versa",
     "en": "vice versa",
     "rank": 1479
   },
@@ -11531,6 +11475,14 @@
     "sv": "att lugna ner sig",
     "en": "to calm down",
     "rank": 1483
+  },
+  {
+    "sv": "sprida",
+    "en": [
+      "flash",
+      "spread"
+    ],
+    "rank": 1485
   },
   {
     "sv": "blixt",
@@ -11571,7 +11523,7 @@
     "rank": 1490
   },
   {
-    "sv": "västerut",
+    "sv": "väster",
     "en": "west",
     "rank": 1490
   },
@@ -11621,6 +11573,11 @@
     "rank": 1498
   },
   {
+    "sv": "att finnas",
+    "en": "to exist",
+    "rank": 1500
+  },
+  {
     "sv": "passagerare",
     "en": "passenger",
     "rank": 1501
@@ -11662,7 +11619,7 @@
     "rank": 1505
   },
   {
-    "sv": "ledig, avslappnad",
+    "sv": "vardagligt",
     "en": "casually",
     "rank": 1507
   },
@@ -11731,11 +11688,6 @@
     "rank": 1515
   },
   {
-    "sv": "tillräckligt",
-    "en": "sufficiently",
-    "rank": 1516
-  },
-  {
     "sv": "version",
     "en": "version",
     "rank": 1516
@@ -11769,7 +11721,7 @@
     "rank": 1524
   },
   {
-    "sv": "aning",
+    "sv": "antyda",
     "en": "hint",
     "rank": 1526
   },
@@ -11830,11 +11782,6 @@
     "rank": 1534
   },
   {
-    "sv": "fattig",
-    "en": "poor",
-    "rank": 1535
-  },
-  {
     "sv": "stackaren",
     "en": "poor thing",
     "rank": 1535
@@ -11855,7 +11802,7 @@
     "rank": 1539
   },
   {
-    "sv": "drämma till",
+    "sv": "klå",
     "en": "wallop",
     "rank": 1540
   },
@@ -11896,7 +11843,7 @@
     "rank": 1544
   },
   {
-    "sv": "enkelt",
+    "sv": "helt enkelt",
     "en": "simply",
     "rank": 1544
   },
@@ -11929,15 +11876,6 @@
     "rank": 1549
   },
   {
-    "sv": "slå",
-    "en": [
-      "bet",
-      "beat",
-      "pool"
-    ],
-    "rank": 1550
-  },
-  {
     "sv": "öster",
     "en": "east",
     "rank": 1551
@@ -11951,11 +11889,6 @@
     "sv": "fredlig",
     "en": "peaceful",
     "rank": 1553
-  },
-  {
-    "sv": "intresse",
-    "en": "interest",
-    "rank": 1554
   },
   {
     "sv": "oberoende",
@@ -12004,7 +11937,7 @@
     "rank": 1562
   },
   {
-    "sv": "sömn",
+    "sv": "sova",
     "en": "sleep",
     "rank": 1563
   },
@@ -12030,11 +11963,6 @@
     "sv": "min anledning",
     "en": "my reason",
     "rank": 1564
-  },
-  {
-    "sv": "att bryta mot",
-    "en": "to violate",
-    "rank": 1565
   },
   {
     "sv": "att såra",
@@ -12067,7 +11995,7 @@
     "rank": 1573
   },
   {
-    "sv": "bli",
+    "sv": "vax",
     "en": "wax",
     "rank": 1574
   },
@@ -12122,7 +12050,7 @@
     "rank": 1580
   },
   {
-    "sv": "förlorad",
+    "sv": "vilse",
     "en": "lost",
     "rank": 1585
   },
@@ -12165,7 +12093,7 @@
     "rank": 1592
   },
   {
-    "sv": "björn",
+    "sv": "bära",
     "en": "bear",
     "rank": 1593
   },
@@ -12298,12 +12226,7 @@
     "rank": 1616
   },
   {
-    "sv": "strejk",
-    "en": "strike",
-    "rank": 1616
-  },
-  {
-    "sv": "ha utsikt",
+    "sv": "titt",
     "en": "look",
     "rank": 1617
   },
@@ -12318,7 +12241,7 @@
     "rank": 1618
   },
   {
-    "sv": "bricka",
+    "sv": "servitör",
     "en": "Waiter",
     "rank": 1619
   },
@@ -12431,7 +12354,7 @@
     "rank": 1649
   },
   {
-    "sv": "rally",
+    "sv": "samla",
     "en": "rally",
     "rank": 1650
   },
@@ -12502,10 +12425,7 @@
   },
   {
     "sv": "kanal",
-    "en": [
-      "canal",
-      "channel"
-    ],
+    "en": "canal",
     "rank": 1668
   },
   {
@@ -12522,8 +12442,7 @@
     "sv": "fysisk",
     "en": [
       "physical education",
-      "physical",
-      "bodily"
+      "physical"
     ],
     "rank": 1671
   },
@@ -12531,6 +12450,11 @@
     "sv": "fenomen",
     "en": "phenomenon",
     "rank": 1674
+  },
+  {
+    "sv": "hjälpa",
+    "en": "aid",
+    "rank": 1676
   },
   {
     "sv": "historisk",
@@ -12551,7 +12475,7 @@
     "rank": 1685
   },
   {
-    "sv": "avkastning",
+    "sv": "ge",
     "en": "yield",
     "rank": 1687
   },
@@ -12566,7 +12490,7 @@
     "rank": 1689
   },
   {
-    "sv": "anledning till klagomål",
+    "sv": "comeback",
     "en": "comeback",
     "rank": 1691
   },
@@ -12667,11 +12591,6 @@
     "rank": 1729
   },
   {
-    "sv": "sällsynt",
-    "en": "infrequent",
-    "rank": 1732
-  },
-  {
     "sv": "sällsynt, ovanlig",
     "en": "sparse",
     "rank": 1732
@@ -12735,7 +12654,7 @@
     "rank": 1754
   },
   {
-    "sv": "duk",
+    "sv": "trasa",
     "en": "cloth",
     "rank": 1758
   },
@@ -12861,7 +12780,7 @@
     "rank": 1790
   },
   {
-    "sv": "föda upp",
+    "sv": "höja",
     "en": "raise",
     "rank": 1793
   },
@@ -12884,11 +12803,6 @@
     "sv": "spring",
     "en": "running",
     "rank": 1802
-  },
-  {
-    "sv": "särskild",
-    "en": "particular",
-    "rank": 1807
   },
   {
     "sv": "krona",
@@ -12983,7 +12897,7 @@
     "rank": 1835
   },
   {
-    "sv": "åtgärd",
+    "sv": "mäta",
     "en": "measure",
     "rank": 1836
   },
@@ -12993,7 +12907,7 @@
     "rank": 1837
   },
   {
-    "sv": "betäcka med rimfrost",
+    "sv": "frost",
     "en": "frost",
     "rank": 1838
   },
@@ -13016,12 +12930,8 @@
     "rank": 1845
   },
   {
-    "sv": "obligatorisk",
-    "en": [
-      "inevitable",
-      "compulsory",
-      "obligatory"
-    ],
+    "sv": "oundviklig",
+    "en": "inevitable",
     "rank": 1846
   },
   {
@@ -13068,13 +12978,16 @@
     "rank": 1855
   },
   {
-    "sv": "körning",
+    "sv": "driv-",
     "en": "driving",
     "rank": 1858
   },
   {
     "sv": "rida",
-    "en": "riding",
+    "en": [
+      "riding",
+      "ride"
+    ],
     "rank": 1858
   },
   {
@@ -13101,7 +13014,7 @@
     "rank": 1864
   },
   {
-    "sv": "besvär",
+    "sv": "överklagande",
     "en": "appeal",
     "rank": 1865
   },
@@ -13159,13 +13072,11 @@
     "rank": 1884
   },
   {
-    "sv": "häck",
-    "en": "hurdle",
-    "rank": 1884
-  },
-  {
     "sv": "hinder",
-    "en": "obstacle",
+    "en": [
+      "hurdle",
+      "obstacle"
+    ],
     "rank": 1884
   },
   {
@@ -13197,7 +13108,7 @@
     "rank": 1893
   },
   {
-    "sv": "parkera",
+    "sv": "park",
     "en": "park",
     "rank": 1894
   },
@@ -13217,12 +13128,12 @@
     "rank": 1898
   },
   {
-    "sv": "bonde",
+    "sv": "jordbrukare",
     "en": "farmer",
     "rank": 1899
   },
   {
-    "sv": "avstånd mellan två etapper",
+    "sv": "etapp",
     "en": "stage",
     "rank": 1901
   },
@@ -13309,6 +13220,11 @@
     "sv": "frihet",
     "en": "freedom",
     "rank": 1928
+  },
+  {
+    "sv": "utbyta",
+    "en": "exchange",
+    "rank": 1931
   },
   {
     "sv": "akademi",
@@ -13434,11 +13350,6 @@
     "rank": 1965
   },
   {
-    "sv": "strid",
-    "en": "contention",
-    "rank": 1965
-  },
-  {
     "sv": "att aktivera",
     "en": [
       "to enable",
@@ -13558,7 +13469,7 @@
     "rank": 2010
   },
   {
-    "sv": "kristen",
+    "sv": "christian",
     "en": "Christian",
     "rank": 2012
   },
@@ -13709,7 +13620,7 @@
     "rank": 2049
   },
   {
-    "sv": "dåligt uppträdande",
+    "sv": "prestanda",
     "en": "performance",
     "rank": 2052
   },
@@ -13729,21 +13640,13 @@
     "rank": 2054
   },
   {
-    "sv": "enskild",
+    "sv": "individ",
     "en": "individual",
     "rank": 2056
   },
   {
     "sv": "fristående",
     "en": "detached",
-    "rank": 2058
-  },
-  {
-    "sv": "dela sig",
-    "en": [
-      "separate",
-      "fork"
-    ],
     "rank": 2058
   },
   {
@@ -13777,13 +13680,16 @@
     "rank": 2068
   },
   {
-    "sv": "studie",
+    "sv": "studera",
     "en": "study",
     "rank": 2068
   },
   {
     "sv": "ansökan",
-    "en": "application",
+    "en": [
+      "application",
+      "petition"
+    ],
     "rank": 2070
   },
   {
@@ -13805,6 +13711,11 @@
     "sv": "handlare",
     "en": "trader",
     "rank": 2074
+  },
+  {
+    "sv": "fullkomligt",
+    "en": "downright",
+    "rank": 2077
   },
   {
     "sv": "rättstvist",
@@ -13832,7 +13743,7 @@
     "rank": 2087
   },
   {
-    "sv": "bombardemang",
+    "sv": "bombardemeng",
     "en": "bombardment",
     "rank": 2088
   },
@@ -13847,7 +13758,7 @@
     "rank": 2091
   },
   {
-    "sv": "fakta",
+    "sv": "faktum",
     "en": "fact",
     "rank": 2093
   },
@@ -13887,7 +13798,7 @@
     "rank": 2108
   },
   {
-    "sv": "funktion",
+    "sv": "fungera",
     "en": "function",
     "rank": 2113
   },
@@ -14014,7 +13925,7 @@
     "rank": 2148
   },
   {
-    "sv": "spole",
+    "sv": "lägga i ringlar",
     "en": "coil",
     "rank": 2150
   },
@@ -14044,7 +13955,7 @@
     "rank": 2156
   },
   {
-    "sv": "strängeligen",
+    "sv": "strikt",
     "en": "strictly",
     "rank": 2158
   },
@@ -14130,7 +14041,7 @@
     "rank": 2184
   },
   {
-    "sv": "förlängd",
+    "sv": "långvarig",
     "en": "prolonged",
     "rank": 2184
   },
@@ -14140,16 +14051,11 @@
     "rank": 2185
   },
   {
-    "sv": "vanligen",
+    "sv": "allmänt",
     "en": [
       "commonly",
       "widely"
     ],
-    "rank": 2187
-  },
-  {
-    "sv": "i allmänhet",
-    "en": "generally",
     "rank": 2187
   },
   {
@@ -14163,7 +14069,7 @@
     "rank": 2193
   },
   {
-    "sv": "förvånansvärt",
+    "sv": "förvånande",
     "en": "surprisingly",
     "rank": 2195
   },
@@ -14264,7 +14170,7 @@
     "rank": 2222
   },
   {
-    "sv": "fotografera",
+    "sv": "fotografi",
     "en": "photograph",
     "rank": 2224
   },
@@ -14310,10 +14216,7 @@
   },
   {
     "sv": "besökare",
-    "en": [
-      "visitor",
-      "caller"
-    ],
+    "en": "visitor",
     "rank": 2236
   },
   {
@@ -14355,6 +14258,11 @@
     "sv": "separat",
     "en": "separately",
     "rank": 2247
+  },
+  {
+    "sv": "leverera",
+    "en": "supply",
+    "rank": 2249
   },
   {
     "sv": "att driva",
@@ -14435,13 +14343,8 @@
     "rank": 2273
   },
   {
-    "sv": "pump",
+    "sv": "pumpa",
     "en": "pump",
-    "rank": 2274
-  },
-  {
-    "sv": "rider",
-    "en": "ride",
     "rank": 2274
   },
   {
@@ -14599,8 +14502,7 @@
     "sv": "skugga",
     "en": [
       "shadow",
-      "shade",
-      "ghost"
+      "shade"
     ],
     "rank": 2328
   },
@@ -14683,7 +14585,7 @@
     "rank": 2360
   },
   {
-    "sv": "släkting",
+    "sv": "relativ",
     "en": "relative",
     "rank": 2360
   },
@@ -14774,11 +14676,6 @@
     "sv": "logisk grund",
     "en": "rationale",
     "rank": 2394
-  },
-  {
-    "sv": "att ge råd",
-    "en": "to advise",
-    "rank": 2395
   },
   {
     "sv": "att rådgöra",
@@ -14891,7 +14788,7 @@
     "rank": 2415
   },
   {
-    "sv": "västern",
+    "sv": "västra",
     "en": "western",
     "rank": 2416
   },
@@ -14931,12 +14828,12 @@
     "rank": 2424
   },
   {
-    "sv": "skörd",
+    "sv": "skörda",
     "en": "harvest",
     "rank": 2427
   },
   {
-    "sv": "ställa upp",
+    "sv": "stå",
     "en": "stand",
     "rank": 2428
   },
@@ -14976,7 +14873,7 @@
     "rank": 2437
   },
   {
-    "sv": "att koppla ur",
+    "sv": "att koppla",
     "en": "to disengage",
     "rank": 2439
   },
@@ -15109,7 +15006,7 @@
     "rank": 2476
   },
   {
-    "sv": "resa omkring i",
+    "sv": "tur",
     "en": "tour",
     "rank": 2478
   },
@@ -15190,7 +15087,10 @@
   },
   {
     "sv": "konflikt",
-    "en": "conflict",
+    "en": [
+      "conflict",
+      "collision"
+    ],
     "rank": 2499
   },
   {
@@ -15312,12 +15212,12 @@
     "rank": 2534
   },
   {
-    "sv": "enhetlig",
+    "sv": "uniform",
     "en": "uniform",
     "rank": 2535
   },
   {
-    "sv": "backe",
+    "sv": "kulle",
     "en": "hill",
     "rank": 2539
   },
@@ -15377,7 +15277,7 @@
     "rank": 2554
   },
   {
-    "sv": "palestinier",
+    "sv": "palestinska",
     "en": "Palestinian",
     "rank": 2555
   },
@@ -15421,10 +15321,7 @@
   },
   {
     "sv": "ram",
-    "en": [
-      "framework",
-      "frame"
-    ],
+    "en": "framework",
     "rank": 2566
   },
   {
@@ -15484,6 +15381,11 @@
     "rank": 2584
   },
   {
+    "sv": "hobbyist",
+    "en": "hobbyist",
+    "rank": 2584
+  },
+  {
     "sv": "åka",
     "en": "ski",
     "rank": 2585
@@ -15529,8 +15431,18 @@
     "rank": 2596
   },
   {
-    "sv": "sil",
+    "sv": "prognos",
+    "en": "prognosis",
+    "rank": 2597
+  },
+  {
+    "sv": "fixa",
     "en": "fix",
+    "rank": 2598
+  },
+  {
+    "sv": "reparera",
+    "en": "repair",
     "rank": 2598
   },
   {
@@ -15564,13 +15476,11 @@
     "rank": 2604
   },
   {
-    "sv": "elektriskt tåg",
-    "en": "electric",
-    "rank": 2605
-  },
-  {
     "sv": "elektrisk",
-    "en": "electrical",
+    "en": [
+      "electric",
+      "electrical"
+    ],
     "rank": 2605
   },
   {
@@ -15657,12 +15567,12 @@
     "rank": 2627
   },
   {
-    "sv": "betecknande nog",
+    "sv": "väsentligt",
     "en": "significantly",
     "rank": 2629
   },
   {
-    "sv": "dagdröm",
+    "sv": "dagdrömma",
     "en": "daydream",
     "rank": 2633
   },
@@ -15692,7 +15602,7 @@
     "rank": 2640
   },
   {
-    "sv": "handelsresande",
+    "sv": "kommersiell",
     "en": "commercial",
     "rank": 2643
   },
@@ -15720,16 +15630,13 @@
     "rank": 2653
   },
   {
-    "sv": "objekt",
+    "sv": "föremål",
     "en": "object",
     "rank": 2653
   },
   {
-    "sv": "komplex",
-    "en": [
-      "block",
-      "complex"
-    ],
+    "sv": "blockera",
+    "en": "block",
     "rank": 2659
   },
   {
@@ -15748,7 +15655,7 @@
     "rank": 2662
   },
   {
-    "sv": "leda",
+    "sv": "måttlig",
     "en": "moderate",
     "rank": 2667
   },
@@ -15773,11 +15680,8 @@
     "rank": 2672
   },
   {
-    "sv": "bekymmer",
-    "en": [
-      "to trouble",
-      "trouble"
-    ],
+    "sv": "till problem",
+    "en": "to trouble",
     "rank": 2673
   },
   {
@@ -15786,7 +15690,7 @@
     "rank": 2674
   },
   {
-    "sv": "filosofie magisterexamen",
+    "sv": "master of arts",
     "en": "Master of Arts",
     "rank": 2675
   },
@@ -15816,16 +15720,6 @@
     "rank": 2680
   },
   {
-    "sv": "äktenskap",
-    "en": "marriage",
-    "rank": 2681
-  },
-  {
-    "sv": "lagra",
-    "en": "store",
-    "rank": 2682
-  },
-  {
     "sv": "att behaga",
     "en": "to please",
     "rank": 2684
@@ -15851,6 +15745,11 @@
     "rank": 2687
   },
   {
+    "sv": "bekymmer",
+    "en": "trouble",
+    "rank": 2688
+  },
+  {
     "sv": "britt",
     "en": "Briton",
     "rank": 2689
@@ -15866,7 +15765,7 @@
     "rank": 2693
   },
   {
-    "sv": "att röra vid",
+    "sv": "att röra",
     "en": "to touch",
     "rank": 2695
   },
@@ -15876,7 +15775,7 @@
     "rank": 2696
   },
   {
-    "sv": "gerilla",
+    "sv": "gerillasoldat",
     "en": "guerrilla",
     "rank": 2696
   },
@@ -15914,7 +15813,7 @@
     "rank": 2703
   },
   {
-    "sv": "konstituerande",
+    "sv": "beståndsdel",
     "en": "constituent",
     "rank": 2704
   },
@@ -16042,7 +15941,7 @@
     "rank": 2734
   },
   {
-    "sv": "skeppsvarv",
+    "sv": "varv",
     "en": "shipyard",
     "rank": 2734
   },
@@ -16070,7 +15969,7 @@
     "rank": 2740
   },
   {
-    "sv": "spara",
+    "sv": "rädda",
     "en": "save",
     "rank": 2740
   },
@@ -16183,24 +16082,17 @@
     "rank": 2766
   },
   {
-    "sv": "intimitet",
-    "en": "intimacy",
-    "rank": 2768
-  },
-  {
     "sv": "närhet",
     "en": [
+      "intimacy",
       "proximity",
       "vicinity"
     ],
     "rank": 2768
   },
   {
-    "sv": "bevarande",
-    "en": [
-      "conservation",
-      "preservation"
-    ],
+    "sv": "beskydd",
+    "en": "conservation",
     "rank": 2771
   },
   {
@@ -16347,11 +16239,6 @@
     "sv": "anställningsförhållande",
     "en": "employment relationship",
     "rank": 2811
-  },
-  {
-    "sv": "rekylera mot",
-    "en": "kick",
-    "rank": 2812
   },
   {
     "sv": "titel",
@@ -16540,19 +16427,9 @@
     "rank": 2875
   },
   {
-    "sv": "fast kropp",
-    "en": "solid",
-    "rank": 2875
-  },
-  {
     "sv": "barnomsorg",
     "en": "day care",
     "rank": 2878
-  },
-  {
-    "sv": "värd",
-    "en": "host",
-    "rank": 2879
   },
   {
     "sv": "avdragare",
@@ -16590,12 +16467,7 @@
     "rank": 2886
   },
   {
-    "sv": "tydligen",
-    "en": "obviously",
-    "rank": 2886
-  },
-  {
-    "sv": "ompröva",
+    "sv": "recension",
     "en": "review",
     "rank": 2889
   },
@@ -16616,14 +16488,6 @@
       "somber"
     ],
     "rank": 2897
-  },
-  {
-    "sv": "förlängning",
-    "en": [
-      "continuation",
-      "extension"
-    ],
-    "rank": 2900
   },
   {
     "sv": "symptom",
@@ -16681,7 +16545,7 @@
     "rank": 2917
   },
   {
-    "sv": "välkommen",
+    "sv": "välkomna",
     "en": "welcome",
     "rank": 2918
   },
@@ -16736,6 +16600,11 @@
     "rank": 2928
   },
   {
+    "sv": "uppringare",
+    "en": "caller",
+    "rank": 2929
+  },
+  {
     "sv": "nära framtid",
     "en": "near future",
     "rank": 2930
@@ -16761,7 +16630,7 @@
     "rank": 2935
   },
   {
-    "sv": "avtalat möte",
+    "sv": "utnämning",
     "en": "appointment",
     "rank": 2936
   },
@@ -16841,7 +16710,7 @@
     "rank": 2964
   },
   {
-    "sv": "köpa sig",
+    "sv": "köpa",
     "en": "purchase",
     "rank": 2965
   },
@@ -16851,7 +16720,7 @@
     "rank": 2966
   },
   {
-    "sv": "plöja sig fram",
+    "sv": "plog",
     "en": "plough",
     "rank": 2966
   },
@@ -16922,7 +16791,10 @@
   },
   {
     "sv": "missbruk",
-    "en": "abuse",
+    "en": [
+      "abuse",
+      "addiction"
+    ],
     "rank": 2991
   },
   {
@@ -16941,14 +16813,17 @@
     "rank": 2995
   },
   {
+    "sv": "prov",
+    "en": [
+      "sample",
+      "specimen"
+    ],
+    "rank": 2996
+  },
+  {
     "sv": "att sönderdela",
     "en": "to decompose",
     "rank": 2997
-  },
-  {
-    "sv": "börja brinna",
-    "en": "catch",
-    "rank": 2999
   },
   {
     "sv": "uppträdande",
@@ -16964,11 +16839,6 @@
     "sv": "skidåkare",
     "en": "skier",
     "rank": 3008
-  },
-  {
-    "sv": "import",
-    "en": "import",
-    "rank": 3009
   },
   {
     "sv": "att ådra sig",
@@ -17069,6 +16939,14 @@
     "rank": 3048
   },
   {
+    "sv": "obligatorisk",
+    "en": [
+      "compulsory",
+      "obligatory"
+    ],
+    "rank": 3051
+  },
+  {
     "sv": "primärval",
     "en": "primary election",
     "rank": 3055
@@ -17099,7 +16977,7 @@
     "rank": 3064
   },
   {
-    "sv": "konkurrenskraft",
+    "sv": "se competitive",
     "en": "competitiveness",
     "rank": 3065
   },
@@ -17316,11 +17194,6 @@
     "rank": 3119
   },
   {
-    "sv": "besättning",
-    "en": "crew",
-    "rank": 3120
-  },
-  {
     "sv": "manskap",
     "en": "rank and file",
     "rank": 3120
@@ -17391,7 +17264,7 @@
     "rank": 3133
   },
   {
-    "sv": "lägre",
+    "sv": "sänka",
     "en": "lower",
     "rank": 3133
   },
@@ -17436,8 +17309,11 @@
     "rank": 3148
   },
   {
-    "sv": "två, parallell",
-    "en": "dual",
+    "sv": "dubbel",
+    "en": [
+      "dual",
+      "double"
+    ],
     "rank": 3149
   },
   {
@@ -17505,12 +17381,10 @@
   },
   {
     "sv": "osäker",
-    "en": "insecure",
-    "rank": 3174
-  },
-  {
-    "sv": "oviss",
-    "en": "uncertain",
+    "en": [
+      "insecure",
+      "uncertain"
+    ],
     "rank": 3174
   },
   {
@@ -17558,7 +17432,7 @@
     "rank": 3183
   },
   {
-    "sv": "fälg",
+    "sv": "borg",
     "en": "rim",
     "rank": 3183
   },
@@ -17646,11 +17520,6 @@
     "rank": 3208
   },
   {
-    "sv": "expansion",
-    "en": "expansion",
-    "rank": 3209
-  },
-  {
     "sv": "att formulera",
     "en": "to formulate",
     "rank": 3210
@@ -17661,7 +17530,7 @@
     "rank": 3210
   },
   {
-    "sv": "komma överens",
+    "sv": "klara",
     "en": "get along",
     "rank": 3212
   },
@@ -17681,7 +17550,7 @@
     "rank": 3217
   },
   {
-    "sv": "ovettig",
+    "sv": "orimlig",
     "en": "unreasonable",
     "rank": 3217
   },
@@ -17711,7 +17580,7 @@
     "rank": 3224
   },
   {
-    "sv": "belöna",
+    "sv": "belöning",
     "en": "reward",
     "rank": 3225
   },
@@ -17746,6 +17615,11 @@
     "rank": 3233
   },
   {
+    "sv": "förlängning",
+    "en": "extension",
+    "rank": 3234
+  },
+  {
     "sv": "att omge",
     "en": "to surround",
     "rank": 3235
@@ -17766,12 +17640,12 @@
     "rank": 3245
   },
   {
-    "sv": "korsa sig",
+    "sv": "korsa",
     "en": "cross",
     "rank": 3246
   },
   {
-    "sv": "borde",
+    "sv": "skall",
     "en": "should",
     "rank": 3248
   },
@@ -17816,13 +17690,16 @@
     "rank": 3259
   },
   {
-    "sv": "spännande tilldragelse",
-    "en": "excitement",
-    "rank": 3267
+    "sv": "deltagare",
+    "en": "participant",
+    "rank": 3260
   },
   {
     "sv": "spänning",
-    "en": "tension",
+    "en": [
+      "excitement",
+      "tension"
+    ],
     "rank": 3267
   },
   {
@@ -17831,8 +17708,11 @@
     "rank": 3270
   },
   {
-    "sv": "ställa till med",
-    "en": "throw",
+    "sv": "kasta",
+    "en": [
+      "throw",
+      "dash"
+    ],
     "rank": 3272
   },
   {
@@ -17944,11 +17824,6 @@
     "rank": 3301
   },
   {
-    "sv": "sättning",
-    "en": "setting",
-    "rank": 3304
-  },
-  {
     "sv": "stilleben",
     "en": "still life",
     "rank": 3304
@@ -18004,16 +17879,18 @@
     "rank": 3322
   },
   {
+    "sv": "överföra",
+    "en": "transfer",
+    "rank": 3326
+  },
+  {
     "sv": "brandy",
     "en": "brandy",
     "rank": 3327
   },
   {
-    "sv": "alkoholhaltig dryck",
-    "en": [
-      "liquor",
-      "alcoholic beverage"
-    ],
+    "sv": "sprit",
+    "en": "liquor",
     "rank": 3327
   },
   {
@@ -18060,11 +17937,6 @@
     "sv": "existens",
     "en": "existence",
     "rank": 3338
-  },
-  {
-    "sv": "artikel",
-    "en": "article",
-    "rank": 3339
   },
   {
     "sv": "session",
@@ -18157,7 +18029,7 @@
     "rank": 3367
   },
   {
-    "sv": "tysta ner",
+    "sv": "tystnad",
     "en": "silence",
     "rank": 3367
   },
@@ -18303,18 +18175,11 @@
     "rank": 3425
   },
   {
-    "sv": "dubbel",
-    "en": "double",
-    "rank": 3427
-  },
-  {
     "sv": "demonstrant",
-    "en": "demonstrator",
-    "rank": 3428
-  },
-  {
-    "sv": "protestant",
-    "en": "protester",
+    "en": [
+      "demonstrator",
+      "protester"
+    ],
     "rank": 3428
   },
   {
@@ -18333,7 +18198,7 @@
     "rank": 3431
   },
   {
-    "sv": "handla med tjuvgods",
+    "sv": "staket",
     "en": "fence",
     "rank": 3432
   },
@@ -18542,7 +18407,7 @@
     "rank": 3492
   },
   {
-    "sv": "est",
+    "sv": "estniska",
     "en": "Estonian",
     "rank": 3495
   },
@@ -18607,11 +18472,6 @@
     "rank": 3515
   },
   {
-    "sv": "dra",
-    "en": "draw",
-    "rank": 3516
-  },
-  {
     "sv": "att sakta ner",
     "en": [
       "to slow",
@@ -18630,7 +18490,7 @@
     "rank": 3519
   },
   {
-    "sv": "säkerhetsråd i fn",
+    "sv": "säkerhetsrådet",
     "en": "Security Council",
     "rank": 3520
   },
@@ -18663,7 +18523,7 @@
     "rank": 3531
   },
   {
-    "sv": "för hög",
+    "sv": "skarp",
     "en": "sharp",
     "rank": 3532
   },
@@ -18693,7 +18553,7 @@
     "rank": 3540
   },
   {
-    "sv": "lönsamhet",
+    "sv": "räntabilitet",
     "en": "profitability",
     "rank": 3541
   },
@@ -18824,6 +18684,11 @@
     "rank": 3568
   },
   {
+    "sv": "kroppsligt",
+    "en": "bodily",
+    "rank": 3569
+  },
+  {
     "sv": "med våld",
     "en": "by force",
     "rank": 3569
@@ -18924,6 +18789,11 @@
     "rank": 3589
   },
   {
+    "sv": "koppling",
+    "en": "coupling",
+    "rank": 3590
+  },
+  {
     "sv": "arbetsförmedlingen",
     "en": "employment office",
     "rank": 3592
@@ -18970,7 +18840,7 @@
     "rank": 3613
   },
   {
-    "sv": "på dåligt humör",
+    "sv": "öm",
     "en": "sore",
     "rank": 3614
   },
@@ -18990,7 +18860,7 @@
     "rank": 3621
   },
   {
-    "sv": "att smula sönder",
+    "sv": "att smula",
     "en": "to crumble",
     "rank": 3622
   },
@@ -19126,11 +18996,6 @@
     "rank": 3661
   },
   {
-    "sv": "att dra åt",
-    "en": "to tighten",
-    "rank": 3666
-  },
-  {
     "sv": "fiskare",
     "en": [
       "fisher",
@@ -19157,7 +19022,7 @@
     "rank": 3672
   },
   {
-    "sv": "arbetssätt",
+    "sv": "arbetande",
     "en": "working",
     "rank": 3673
   },
@@ -19172,7 +19037,7 @@
     "rank": 3674
   },
   {
-    "sv": "restaurering",
+    "sv": "återställning",
     "en": "restoration",
     "rank": 3675
   },
@@ -19205,6 +19070,11 @@
     "rank": 3687
   },
   {
+    "sv": "bevis",
+    "en": "evidence",
+    "rank": 3690
+  },
+  {
     "sv": "testmatch",
     "en": "test match",
     "rank": 3694
@@ -19218,6 +19088,11 @@
     "sv": "stol",
     "en": "chair",
     "rank": 3697
+  },
+  {
+    "sv": "till bredvid",
+    "en": "to beside",
+    "rank": 3699
   },
   {
     "sv": "att bjuda",
@@ -19283,7 +19158,7 @@
     "rank": 3718
   },
   {
-    "sv": "kreditera",
+    "sv": "kredit",
     "en": "credit",
     "rank": 3721
   },
@@ -19333,7 +19208,7 @@
     "rank": 3736
   },
   {
-    "sv": "värnpliktig",
+    "sv": "kalla in till militärtjänstgöring",
     "en": "conscript",
     "rank": 3739
   },
@@ -19348,14 +19223,17 @@
     "rank": 3747
   },
   {
-    "sv": "oklar",
-    "en": "indistinct",
+    "sv": "otydlig",
+    "en": [
+      "indistinct",
+      "unclear"
+    ],
     "rank": 3748
   },
   {
-    "sv": "otydlig",
-    "en": "unclear",
-    "rank": 3748
+    "sv": "odla",
+    "en": "farm",
+    "rank": 3749
   },
   {
     "sv": "torsdag kväll",
@@ -19383,7 +19261,7 @@
     "rank": 3756
   },
   {
-    "sv": "kar",
+    "sv": "moms",
     "en": "VAT",
     "rank": 3758
   },
@@ -19398,7 +19276,7 @@
     "rank": 3759
   },
   {
-    "sv": "biträdande",
+    "sv": "dotterföretag",
     "en": "subsidiary",
     "rank": 3761
   },
@@ -19661,7 +19539,7 @@
     "rank": 3839
   },
   {
-    "sv": "progression",
+    "sv": "ton|gång",
     "en": "progression",
     "rank": 3846
   },
@@ -19716,7 +19594,7 @@
     "rank": 3861
   },
   {
-    "sv": "leende",
+    "sv": "le",
     "en": "smile",
     "rank": 3864
   },
@@ -19836,11 +19714,6 @@
     "rank": 3895
   },
   {
-    "sv": "anhålla om",
-    "en": "petition",
-    "rank": 3896
-  },
-  {
     "sv": "vädjan",
     "en": "plea",
     "rank": 3896
@@ -19848,11 +19721,6 @@
   {
     "sv": "kort sagt",
     "en": "in brief",
-    "rank": 3899
-  },
-  {
-    "sv": "inom kort",
-    "en": "shortly",
     "rank": 3899
   },
   {
@@ -19896,7 +19764,7 @@
     "rank": 3915
   },
   {
-    "sv": "publikation",
+    "sv": "offentliggörande",
     "en": "publication",
     "rank": 3921
   },
@@ -19966,6 +19834,11 @@
     "rank": 3939
   },
   {
+    "sv": "komplex",
+    "en": "complex",
+    "rank": 3942
+  },
+  {
     "sv": "komplicerad",
     "en": "complicated",
     "rank": 3942
@@ -19994,11 +19867,6 @@
     "sv": "att återkalla",
     "en": "to revoke",
     "rank": 3947
-  },
-  {
-    "sv": "motsvarighet",
-    "en": "counterpart",
-    "rank": 3949
   },
   {
     "sv": "simning",
@@ -20146,7 +20014,12 @@
     "rank": 3993
   },
   {
-    "sv": "fluktuation",
+    "sv": "bevarande",
+    "en": "preservation",
+    "rank": 3994
+  },
+  {
+    "sv": "skiftning",
     "en": "fluctuation",
     "rank": 3999
   },
@@ -20224,7 +20097,7 @@
     "rank": 4017
   },
   {
-    "sv": "snutt",
+    "sv": "utdrag",
     "en": "snippet",
     "rank": 4017
   },
@@ -20234,7 +20107,7 @@
     "rank": 4019
   },
   {
-    "sv": "helt ärligt",
+    "sv": "uppriktigt sagt",
     "en": "frankly",
     "rank": 4020
   },
@@ -20385,7 +20258,7 @@
     "rank": 4052
   },
   {
-    "sv": "av högsta kvalitet",
+    "sv": "överlägsen",
     "en": "superior",
     "rank": 4053
   },
@@ -20410,7 +20283,7 @@
     "rank": 4057
   },
   {
-    "sv": "veterligen",
+    "sv": "medvetet",
     "en": "knowingly",
     "rank": 4059
   },
@@ -20431,12 +20304,10 @@
   },
   {
     "sv": "e-post",
-    "en": "e-mail",
-    "rank": 4063
-  },
-  {
-    "sv": "epost",
-    "en": "email",
+    "en": [
+      "e-mail",
+      "email"
+    ],
     "rank": 4063
   },
   {
@@ -20494,11 +20365,6 @@
       "summer theatre"
     ],
     "rank": 4076
-  },
-  {
-    "sv": "att göra sig av med",
-    "en": "to dispose of",
-    "rank": 4078
   },
   {
     "sv": "utdelning",
@@ -20589,7 +20455,7 @@
     "rank": 4102
   },
   {
-    "sv": "ännu mycket mindre",
+    "sv": "än mindre",
     "en": "let alone",
     "rank": 4104
   },
@@ -20602,6 +20468,11 @@
     "sv": "förväntat",
     "en": "expectedly",
     "rank": 4107
+  },
+  {
+    "sv": "ren",
+    "en": "reindeer",
+    "rank": 4108
   },
   {
     "sv": "försörjningsstöd",
@@ -20654,7 +20525,7 @@
     "rank": 4126
   },
   {
-    "sv": "lovande person",
+    "sv": "komma",
     "en": "comer",
     "rank": 4128
   },
@@ -20669,7 +20540,7 @@
     "rank": 4129
   },
   {
-    "sv": "kolonn",
+    "sv": "kolumn",
     "en": "column",
     "rank": 4131
   },
@@ -20679,12 +20550,12 @@
     "rank": 4133
   },
   {
-    "sv": "minnesgudstjänst",
+    "sv": "minnesmärke",
     "en": "memorial",
     "rank": 4135
   },
   {
-    "sv": "bli tunnare",
+    "sv": "tunn",
     "en": "thin",
     "rank": 4138
   },
@@ -20737,6 +20608,11 @@
     "sv": "regionalpolitik",
     "en": "regional policy",
     "rank": 4146
+  },
+  {
+    "sv": "smäller",
+    "en": "punch",
+    "rank": 4147
   },
   {
     "sv": "transportminister",
@@ -20905,12 +20781,12 @@
     "rank": 4193
   },
   {
-    "sv": "skjuts",
+    "sv": "lyfta",
     "en": "lift",
     "rank": 4194
   },
   {
-    "sv": "underst",
+    "sv": "lägst",
     "en": "lowest",
     "rank": 4196
   },
@@ -21159,7 +21035,7 @@
     "rank": 4265
   },
   {
-    "sv": "tunnel",
+    "sv": "bygga",
     "en": "tunnel",
     "rank": 4266
   },
@@ -21200,6 +21076,11 @@
     "sv": "rask",
     "en": "brisk",
     "rank": 4274
+  },
+  {
+    "sv": "nåd",
+    "en": "grace",
+    "rank": 4276
   },
   {
     "sv": "portfölj",
@@ -21252,11 +21133,6 @@
   {
     "sv": "klausul",
     "en": "clause",
-    "rank": 4287
-  },
-  {
-    "sv": "döma",
-    "en": "sentence",
     "rank": 4287
   },
   {
@@ -21313,7 +21189,7 @@
     "rank": 4301
   },
   {
-    "sv": "akademiker",
+    "sv": "akademisk",
     "en": "academic",
     "rank": 4305
   },
@@ -21339,11 +21215,6 @@
     "sv": "tveksamt",
     "en": "questionable",
     "rank": 4312
-  },
-  {
-    "sv": "misslyckande",
-    "en": "failure",
-    "rank": 4315
   },
   {
     "sv": "kanadensisk",
@@ -21386,7 +21257,7 @@
     "rank": 4327
   },
   {
-    "sv": "schweizisk",
+    "sv": "schweiziska",
     "en": "Swiss",
     "rank": 4328
   },
@@ -21446,7 +21317,7 @@
     "rank": 4350
   },
   {
-    "sv": "bedrägeri",
+    "sv": "bedragare",
     "en": "fraud",
     "rank": 4350
   },
@@ -21507,6 +21378,11 @@
     "sv": "av hyvinkää",
     "en": "of hyvinkää",
     "rank": 4369
+  },
+  {
+    "sv": "fasa",
+    "en": "horror",
+    "rank": 4372
   },
   {
     "sv": "statsmakten",
@@ -21697,10 +21573,7 @@
   },
   {
     "sv": "hög nivå",
-    "en": [
-      "high level",
-      "high-level"
-    ],
+    "en": "high level",
     "rank": 4441
   },
   {
@@ -21749,7 +21622,7 @@
     "rank": 4459
   },
   {
-    "sv": "anständig",
+    "sv": "hygglig",
     "en": "decent",
     "rank": 4460
   },
@@ -21837,11 +21710,6 @@
     "rank": 4487
   },
   {
-    "sv": "kollision",
-    "en": "collision",
-    "rank": 4488
-  },
-  {
     "sv": "affärsmässigt",
     "en": "businesslike",
     "rank": 4489
@@ -21892,7 +21760,7 @@
     "rank": 4502
   },
   {
-    "sv": "skogsbruk",
+    "sv": "skogsvetenskap",
     "en": "forestry",
     "rank": 4503
   },
@@ -21907,7 +21775,7 @@
     "rank": 4504
   },
   {
-    "sv": "trumfa",
+    "sv": "trumf",
     "en": "trump",
     "rank": 4507
   },
@@ -21922,11 +21790,6 @@
     "rank": 4509
   },
   {
-    "sv": "sprida",
-    "en": "spread",
-    "rank": 4511
-  },
-  {
     "sv": "utmanare",
     "en": "challenger",
     "rank": 4514
@@ -21937,9 +21800,9 @@
     "rank": 4517
   },
   {
-    "sv": "känna av",
-    "en": "sense",
-    "rank": 4523
+    "sv": "till hemskt",
+    "en": "to horribly",
+    "rank": 4525
   },
   {
     "sv": "panel",
@@ -22113,7 +21976,7 @@
     "rank": 4579
   },
   {
-    "sv": "dragning",
+    "sv": "ritning",
     "en": "drawing",
     "rank": 4582
   },
@@ -22151,6 +22014,11 @@
     "sv": "specialskede",
     "en": "special stage",
     "rank": 4597
+  },
+  {
+    "sv": "pass",
+    "en": "passport",
+    "rank": 4599
   },
   {
     "sv": "bombattack",
@@ -22276,7 +22144,7 @@
     "rank": 4630
   },
   {
-    "sv": "hal, halkigt, slipprigt",
+    "sv": "hal",
     "en": "slippery",
     "rank": 4631
   },
@@ -22561,11 +22429,6 @@
     "rank": 9999
   },
   {
-    "sv": "hängivenhet",
-    "en": "addiction",
-    "rank": 9999
-  },
-  {
     "sv": "adjektiv",
     "en": "adjective",
     "rank": 9999
@@ -22596,7 +22459,7 @@
     "rank": 9999
   },
   {
-    "sv": "agnostiker",
+    "sv": "agnostisk",
     "en": "agnostic",
     "rank": 9999
   },
@@ -22626,6 +22489,11 @@
     "rank": 9999
   },
   {
+    "sv": "alkoholhaltig dryck",
+    "en": "alcoholic beverage",
+    "rank": 9999
+  },
+  {
     "sv": "algebra",
     "en": "algebra",
     "rank": 9999
@@ -22648,6 +22516,11 @@
   {
     "sv": "allergisk",
     "en": "allergic",
+    "rank": 9999
+  },
+  {
+    "sv": "tilldelning",
+    "en": "allocation",
     "rank": 9999
   },
   {
@@ -22746,7 +22619,7 @@
     "rank": 9999
   },
   {
-    "sv": "ankare",
+    "sv": "kasta ankar",
     "en": "anchor",
     "rank": 9999
   },
@@ -22776,11 +22649,6 @@
     "rank": 9999
   },
   {
-    "sv": "ångest",
-    "en": "anxiety",
-    "rank": 9999
-  },
-  {
     "sv": "lägenhet",
     "en": "apartment",
     "rank": 9999
@@ -22793,11 +22661,6 @@
   {
     "sv": "apati",
     "en": "apathy",
-    "rank": 9999
-  },
-  {
-    "sv": "ursäkt",
-    "en": "apology",
     "rank": 9999
   },
   {
@@ -22905,7 +22768,7 @@
     "rank": 9999
   },
   {
-    "sv": "grävling",
+    "sv": "tjata",
     "en": "badger",
     "rank": 9999
   },
@@ -22953,7 +22816,7 @@
     "rank": 9999
   },
   {
-    "sv": "bi",
+    "sv": "träff",
     "en": "bee",
     "rank": 9999
   },
@@ -23001,12 +22864,12 @@
     "rank": 9999
   },
   {
-    "sv": "starta",
+    "sv": "känga",
     "en": "boot",
     "rank": 9999
   },
   {
-    "sv": "binda om",
+    "sv": "stötta",
     "en": "brace",
     "rank": 9999
   },
@@ -23032,7 +22895,10 @@
   },
   {
     "sv": "brud",
-    "en": "bride",
+    "en": [
+      "bride",
+      "skirt"
+    ],
     "rank": 9999
   },
   {
@@ -23186,6 +23052,11 @@
     "rank": 9999
   },
   {
+    "sv": "grädde",
+    "en": "cream",
+    "rank": 9999
+  },
+  {
     "sv": "kreativ tänkare",
     "en": "creative thinker",
     "rank": 9999
@@ -23203,11 +23074,6 @@
   {
     "sv": "mörkblå",
     "en": "dark blue",
-    "rank": 9999
-  },
-  {
-    "sv": "rusa",
-    "en": "dash",
     "rank": 9999
   },
   {
@@ -23274,7 +23140,7 @@
     "rank": 9999
   },
   {
-    "sv": "anka",
+    "sv": "smita",
     "en": "duck",
     "rank": 9999
   },
@@ -23349,7 +23215,7 @@
     "rank": 9999
   },
   {
-    "sv": "eldvapen",
+    "sv": "skjutvapen",
     "en": "firearm",
     "rank": 9999
   },
@@ -23374,7 +23240,7 @@
     "rank": 9999
   },
   {
-    "sv": "göra förvirrad",
+    "sv": "dimma",
     "en": "fog",
     "rank": 9999
   },
@@ -23396,6 +23262,11 @@
   {
     "sv": "förlåtande",
     "en": "forgiving",
+    "rank": 9999
+  },
+  {
+    "sv": "gaffel",
+    "en": "fork",
     "rank": 9999
   },
   {
@@ -23434,6 +23305,11 @@
     "rank": 9999
   },
   {
+    "sv": "spöke",
+    "en": "ghost",
+    "rank": 9999
+  },
+  {
     "sv": "nådgåva",
     "en": "gift of grace",
     "rank": 9999
@@ -23444,7 +23320,7 @@
     "rank": 9999
   },
   {
-    "sv": "att aldrig få nog",
+    "sv": "matvrak",
     "en": "glutton",
     "rank": 9999
   },
@@ -23456,6 +23332,11 @@
   {
     "sv": "bra för intet",
     "en": "good-for-naught",
+    "rank": 9999
+  },
+  {
+    "sv": "gås",
+    "en": "goose",
     "rank": 9999
   },
   {
@@ -23489,7 +23370,7 @@
     "rank": 9999
   },
   {
-    "sv": "förse med galler",
+    "sv": "galler",
     "en": "grate",
     "rank": 9999
   },
@@ -23695,10 +23576,7 @@
   },
   {
     "sv": "lila",
-    "en": [
-      "lilac",
-      "purple"
-    ],
+    "en": "lilac",
     "rank": 9999
   },
   {
@@ -23827,7 +23705,7 @@
     "rank": 9999
   },
   {
-    "sv": "mikrovåg",
+    "sv": "mikrovågsugn",
     "en": "microwave",
     "rank": 9999
   },
@@ -23847,7 +23725,7 @@
     "rank": 9999
   },
   {
-    "sv": "betydelsefullt verk",
+    "sv": "monument",
     "en": "monument",
     "rank": 9999
   },
@@ -24042,7 +23920,7 @@
     "rank": 9999
   },
   {
-    "sv": "fläskkött",
+    "sv": "fläsk",
     "en": "pork",
     "rank": 9999
   },
@@ -24102,6 +23980,11 @@
     "rank": 9999
   },
   {
+    "sv": "purpur",
+    "en": "purple",
+    "rank": 9999
+  },
+  {
     "sv": "kanin",
     "en": "rabbit",
     "rank": 9999
@@ -24137,12 +24020,12 @@
     "rank": 9999
   },
   {
-    "sv": "kokt ris",
+    "sv": "ris",
     "en": "rice",
     "rank": 9999
   },
   {
-    "sv": "vägbana",
+    "sv": "körbana",
     "en": "roadway",
     "rank": 9999
   },
@@ -24157,7 +24040,7 @@
     "rank": 9999
   },
   {
-    "sv": "första grunder",
+    "sv": "rudimenta",
     "en": "rudiments",
     "rank": 9999
   },
@@ -24177,7 +24060,7 @@
     "rank": 9999
   },
   {
-    "sv": "sandwich",
+    "sv": "smörgås",
     "en": "sandwich",
     "rank": 9999
   },
@@ -24187,12 +24070,12 @@
     "rank": 9999
   },
   {
-    "sv": "skarf",
+    "sv": "scarf",
     "en": "scarf",
     "rank": 9999
   },
   {
-    "sv": "moppe",
+    "sv": "skoter",
     "en": "scooter",
     "rank": 9999
   },
@@ -24248,10 +24131,7 @@
   },
   {
     "sv": "kjol",
-    "en": [
-      "skirt",
-      "skirted"
-    ],
+    "en": "skirted",
     "rank": 9999
   },
   {
@@ -24260,18 +24140,13 @@
     "rank": 9999
   },
   {
-    "sv": "hårt slag",
+    "sv": "socka",
     "en": "sock",
     "rank": 9999
   },
   {
     "sv": "soffa",
     "en": "sofa",
-    "rank": 9999
-  },
-  {
-    "sv": "enda",
-    "en": "sole",
     "rank": 9999
   },
   {
@@ -24335,7 +24210,7 @@
     "rank": 9999
   },
   {
-    "sv": "undermedveten",
+    "sv": "undermedvetna",
     "en": "subconscious",
     "rank": 9999
   },
@@ -24375,7 +24250,7 @@
     "rank": 9999
   },
   {
-    "sv": "svall",
+    "sv": "svalla",
     "en": "surge",
     "rank": 9999
   },
@@ -24575,7 +24450,7 @@
     "rank": 9999
   },
   {
-    "sv": "att dröja kvar",
+    "sv": "att dröja",
     "en": "to linger",
     "rank": 9999
   },
@@ -24642,11 +24517,6 @@
   {
     "sv": "att kapitulera",
     "en": "to surrender",
-    "rank": 9999
-  },
-  {
-    "sv": "beräkna tiden för",
-    "en": "to time",
     "rank": 9999
   },
   {
@@ -24725,7 +24595,7 @@
     "rank": 9999
   },
   {
-    "sv": "underutvecklad",
+    "sv": "underutvecklade",
     "en": "underdeveloped",
     "rank": 9999
   },
@@ -24765,7 +24635,7 @@
     "rank": 9999
   },
   {
-    "sv": "ogrundad",
+    "sv": "ogrundat",
     "en": "unfounded",
     "rank": 9999
   },
@@ -24855,7 +24725,7 @@
     "rank": 9999
   },
   {
-    "sv": "blöta",
+    "sv": "våt",
     "en": "wet",
     "rank": 9999
   },
@@ -24875,7 +24745,7 @@
     "rank": 9999
   },
   {
-    "sv": "stackare",
+    "sv": "mask",
     "en": "worm",
     "rank": 9999
   },
