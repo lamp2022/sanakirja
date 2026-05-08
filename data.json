@@ -788,7 +788,10 @@
   },
   {
     "fi": "tärkeä",
-    "en": "important",
+    "en": [
+      "important",
+      "self-important"
+    ],
     "sv": "viktig",
     "it": "importante",
     "fr": "important",
@@ -1253,7 +1256,11 @@
   },
   {
     "fi": "tuntea",
-    "en": "to feel",
+    "en": [
+      "to feel",
+      "to know",
+      "to recognize"
+    ],
     "sv": "känna",
     "it": "sentire",
     "fr": "ressentir",
@@ -1759,7 +1766,10 @@
   },
   {
     "fi": "maali",
-    "en": "paint",
+    "en": [
+      "paint",
+      "finish"
+    ],
     "de": "Anstrichfarbe",
     "pos": "noun"
   },
@@ -2045,7 +2055,11 @@
   },
   {
     "fi": "kari",
-    "en": "rock",
+    "en": [
+      "rock",
+      "skerry",
+      "ground"
+    ],
     "de": "Lei",
     "pos": "noun"
   },
@@ -2389,7 +2403,10 @@
   },
   {
     "fi": "ranska",
-    "en": "France",
+    "en": [
+      "France",
+      "french"
+    ],
     "sv": "fransk",
     "it": "francese",
     "fr": "français",
@@ -2563,7 +2580,11 @@
   },
   {
     "fi": "kohde",
-    "en": "target",
+    "en": [
+      "target",
+      "destination",
+      "bogey"
+    ],
     "fr": "cible",
     "de": "Ziel",
     "pos": "noun"
@@ -3299,7 +3320,11 @@
   },
   {
     "fi": "nousu",
-    "en": "rise",
+    "en": [
+      "rise",
+      "raise",
+      "getting on"
+    ],
     "pos": "noun"
   },
   {
@@ -4216,7 +4241,10 @@
   },
   {
     "fi": "nauttia",
-    "en": "to enjoy",
+    "en": [
+      "to enjoy",
+      "to ingest"
+    ],
     "sv": "njuta",
     "it": "godere",
     "de": "genießen",
@@ -4783,7 +4811,10 @@
   },
   {
     "fi": "tanska",
-    "en": "Denmark",
+    "en": [
+      "Denmark",
+      "danish"
+    ],
     "sv": "dansk",
     "de": "dänisch",
     "pos": "noun"
@@ -4900,7 +4931,10 @@
   },
   {
     "fi": "taata",
-    "en": "to guarantee",
+    "en": [
+      "to guarantee",
+      "to warrant"
+    ],
     "pos": "verb"
   },
   {
@@ -5540,7 +5574,10 @@
   },
   {
     "fi": "tamperelainen",
-    "en": "from Tampere",
+    "en": [
+      "from Tampere",
+      "person from"
+    ],
     "de": "Helgoländer",
     "pos": "noun"
   },
@@ -6348,7 +6385,11 @@
   },
   {
     "fi": "ikävä",
-    "en": "sad",
+    "en": [
+      "sad",
+      "tedious",
+      "bad"
+    ],
     "de": "ermüdend",
     "pos": "adj"
   },
@@ -6525,13 +6566,20 @@
   },
   {
     "fi": "poikia",
-    "en": "to calve",
+    "en": [
+      "to calve",
+      "to litter",
+      "to cause"
+    ],
     "de": "kalben",
     "pos": "verb"
   },
   {
     "fi": "rakas",
-    "en": "dear",
+    "en": [
+      "dear",
+      "eager"
+    ],
     "it": "caro",
     "fr": "cher",
     "de": "Lieber",
@@ -6665,7 +6713,10 @@
   },
   {
     "fi": "kukkia",
-    "en": "to flower",
+    "en": [
+      "to flower",
+      "to blossom"
+    ],
     "de": "erblühen",
     "pos": "verb"
   },
@@ -6942,7 +6993,10 @@
   },
   {
     "fi": "sääli",
-    "en": "pity",
+    "en": [
+      "pity",
+      "mercy"
+    ],
     "fr": "pitié",
     "de": "Mitleid",
     "pos": "noun"
@@ -7019,7 +7073,10 @@
   },
   {
     "fi": "hyvänen",
-    "en": "a good one",
+    "en": [
+      "a good one",
+      "good"
+    ],
     "sv": "bra",
     "it": "buono",
     "fr": "bien",
@@ -7356,7 +7413,11 @@
   },
   {
     "fi": "äijä",
-    "en": "guy",
+    "en": [
+      "guy",
+      "old man",
+      "bro"
+    ],
     "it": "vecchio",
     "pos": "noun"
   },
@@ -7414,7 +7475,10 @@
   {
     "fi": "enää",
     "pos": "adv",
-    "en": "only"
+    "en": [
+      "only",
+      "any more"
+    ]
   },
   {
     "fi": "joten",
@@ -8354,7 +8418,11 @@
   {
     "fi": "tekeminen",
     "pos": "noun",
-    "en": "making"
+    "en": [
+      "making",
+      "something to do",
+      "anything laborious"
+    ]
   },
   {
     "fi": "kokonaan",
@@ -8973,7 +9041,10 @@
   {
     "fi": "vaihdella",
     "pos": "verb",
-    "en": "to vary"
+    "en": [
+      "to vary",
+      "to fluctuate"
+    ]
   },
   {
     "fi": "puoliksi",
@@ -9061,7 +9132,11 @@
   {
     "fi": "vesa",
     "pos": "noun",
-    "en": "sprout"
+    "en": [
+      "sprout",
+      "young tree",
+      "scion"
+    ]
   },
   {
     "fi": "taatusti",
@@ -9322,7 +9397,10 @@
   {
     "fi": "turkulainen",
     "pos": "noun",
-    "en": "from Turku"
+    "en": [
+      "from Turku",
+      "person from"
+    ]
   },
   {
     "fi": "sekopää",
@@ -9741,7 +9819,11 @@
   {
     "fi": "harrastus",
     "pos": "noun",
-    "en": "recreation"
+    "en": [
+      "recreation",
+      "hobby",
+      "interest"
+    ]
   },
   {
     "fi": "kaikkialta",
@@ -10027,7 +10109,11 @@
   {
     "fi": "onneton",
     "pos": "adj",
-    "en": "miserable"
+    "en": [
+      "miserable",
+      "unhappy",
+      "unfortunate"
+    ]
   },
   {
     "fi": "osoittautua",
@@ -10451,7 +10537,10 @@
   {
     "fi": "mustasukkainen",
     "pos": "adj",
-    "en": "jealous"
+    "en": [
+      "jealous",
+      "black-socked"
+    ]
   },
   {
     "fi": "sitoutua",
@@ -10614,7 +10703,10 @@
   {
     "fi": "tulkita",
     "pos": "verb",
-    "en": "to interpret"
+    "en": [
+      "to interpret",
+      "to decode"
+    ]
   },
   {
     "fi": "ympäristökeskus",
@@ -10751,7 +10843,10 @@
   {
     "fi": "saaminen",
     "pos": "noun",
-    "en": "claim"
+    "en": [
+      "claim",
+      "receivable"
+    ]
   },
   {
     "fi": "tori",
@@ -11533,7 +11628,11 @@
   {
     "fi": "suku",
     "pos": "noun",
-    "en": "family"
+    "en": [
+      "family",
+      "genus",
+      "extended family"
+    ]
   },
   {
     "fi": "keskenään",
@@ -11578,7 +11677,10 @@
   {
     "fi": "helsinkiläinen",
     "pos": "adj",
-    "en": "from Helsinki"
+    "en": [
+      "from Helsinki",
+      "helsinkian"
+    ]
   },
   {
     "fi": "suoritus",
@@ -11729,7 +11831,10 @@
   {
     "fi": "ajankohta",
     "pos": "noun",
-    "en": "timing"
+    "en": [
+      "timing",
+      "point in time"
+    ]
   },
   {
     "fi": "tavoittaa",
@@ -12588,7 +12693,10 @@
   {
     "fi": "tiedottaja",
     "pos": "noun",
-    "en": "spokesman"
+    "en": [
+      "spokesman",
+      "public communicator"
+    ]
   },
   {
     "fi": "esim",
@@ -21739,7 +21847,11 @@
   },
   {
     "fi": "vain",
-    "en": "only",
+    "en": [
+      "only",
+      "ever",
+      "go ahead"
+    ],
     "pos": "adv"
   },
   {
@@ -21749,7 +21861,10 @@
   },
   {
     "fi": "jo",
-    "en": "already",
+    "en": [
+      "already",
+      "now"
+    ],
     "pos": "adv"
   },
   {
@@ -21774,7 +21889,10 @@
   },
   {
     "fi": "kyllä",
-    "en": "yes",
+    "en": [
+      "yes",
+      "enough"
+    ],
     "pos": "adv"
   },
   {
@@ -21824,7 +21942,10 @@
   },
   {
     "fi": "koskaan",
-    "en": "never",
+    "en": [
+      "never",
+      "ever"
+    ],
     "pos": "adv"
   },
   {
@@ -21834,7 +21955,10 @@
   },
   {
     "fi": "todella",
-    "en": "really",
+    "en": [
+      "really",
+      "very"
+    ],
     "pos": "adv"
   },
   {
@@ -21952,27 +22076,44 @@
   },
   {
     "fi": "suomi",
-    "en": "The Finnish language",
+    "en": [
+      "The Finnish language",
+      "finnish language"
+    ],
     "pos": "noun"
   },
   {
     "fi": "hyvä",
-    "en": "good",
+    "en": [
+      "good",
+      "dear",
+      "happy"
+    ],
     "pos": "adj"
   },
   {
     "fi": "markka",
-    "en": "markka",
+    "en": [
+      "markka",
+      "mark",
+      "money or wealth"
+    ],
     "pos": "noun"
   },
   {
     "fi": "oma",
-    "en": "own",
+    "en": [
+      "own",
+      "friendly"
+    ],
     "pos": "adj"
   },
   {
     "fi": "mies",
-    "en": "man",
+    "en": [
+      "man",
+      "husband"
+    ],
     "pos": "noun"
   },
   {
@@ -21985,7 +22126,10 @@
   },
   {
     "fi": "ensimmäinen",
-    "en": "first",
+    "en": [
+      "first",
+      "former"
+    ],
     "pos": "adj"
   },
   {
@@ -22011,7 +22155,10 @@
   },
   {
     "fi": "kaupunki",
-    "en": "town",
+    "en": [
+      "town",
+      "city"
+    ],
     "pos": "noun"
   },
   {
@@ -22037,27 +22184,46 @@
   },
   {
     "fi": "päivä",
-    "en": "day",
+    "en": [
+      "day",
+      "sun",
+      "event"
+    ],
     "pos": "noun"
   },
   {
     "fi": "hallitus",
-    "en": "cabinet",
+    "en": [
+      "cabinet",
+      "government",
+      "board"
+    ],
     "pos": "noun"
   },
   {
     "fi": "toimia",
-    "en": "to serve",
+    "en": [
+      "to serve",
+      "to act",
+      "to work"
+    ],
     "pos": "verb"
   },
   {
     "fi": "ensi",
-    "en": "next",
+    "en": [
+      "next",
+      "first"
+    ],
     "pos": "adj"
   },
   {
     "fi": "käyttää",
-    "en": "to use",
+    "en": [
+      "to use",
+      "to take  somewhere temporarily",
+      "to ferment"
+    ],
     "pos": "verb"
   },
   {
@@ -22070,17 +22236,28 @@
   },
   {
     "fi": "viikko",
-    "en": "week",
+    "en": [
+      "week",
+      "working week"
+    ],
     "pos": "noun"
   },
   {
     "fi": "tarvita",
-    "en": "to need",
+    "en": [
+      "to need",
+      "to come in handy",
+      "to need to"
+    ],
     "pos": "verb"
   },
   {
     "fi": "luku",
-    "en": "number",
+    "en": [
+      "number",
+      "chapter",
+      "head count"
+    ],
     "pos": "noun"
   },
   {
@@ -22109,7 +22286,10 @@
   },
   {
     "fi": "tilanne",
-    "en": "situation",
+    "en": [
+      "situation",
+      "score"
+    ],
     "pos": "noun"
   },
   {
@@ -22119,12 +22299,19 @@
   },
   {
     "fi": "maailma",
-    "en": "the Earth",
+    "en": [
+      "the Earth",
+      "world",
+      "celestial body"
+    ],
     "pos": "noun"
   },
   {
     "fi": "poliisi",
-    "en": "police",
+    "en": [
+      "police",
+      "policeman"
+    ],
     "pos": "noun"
   },
   {
@@ -22134,12 +22321,19 @@
   },
   {
     "fi": "tulos",
-    "en": "result",
+    "en": [
+      "result",
+      "profit",
+      "return"
+    ],
     "pos": "noun"
   },
   {
     "fi": "raha",
-    "en": "money",
+    "en": [
+      "money",
+      "cash"
+    ],
     "pos": "noun"
   },
   {
@@ -22149,17 +22343,29 @@
   },
   {
     "fi": "kasvaa",
-    "en": "to grow",
+    "en": [
+      "to grow",
+      "to increase",
+      "to wax"
+    ],
     "pos": "verb"
   },
   {
     "fi": "järjestää",
-    "en": "to arrange",
+    "en": [
+      "to arrange",
+      "to organize",
+      "to take care of"
+    ],
     "pos": "verb"
   },
   {
     "fi": "johtaa",
-    "en": "to lead",
+    "en": [
+      "to lead",
+      "to conduct",
+      "to guide"
+    ],
     "pos": "verb"
   },
   {
@@ -22177,12 +22383,18 @@
   },
   {
     "fi": "kesä",
-    "en": "summer",
+    "en": [
+      "summer",
+      "fallow"
+    ],
     "pos": "noun"
   },
   {
     "fi": "ongelma",
-    "en": "problem",
+    "en": [
+      "problem",
+      "puzzle"
+    ],
     "pos": "noun"
   },
   {
@@ -22192,7 +22404,10 @@
   },
   {
     "fi": "joukkue",
-    "en": "team",
+    "en": [
+      "team",
+      "platoon"
+    ],
     "pos": "noun"
   },
   {
@@ -22231,7 +22446,11 @@
   },
   {
     "fi": "arvioida",
-    "en": "to estimate",
+    "en": [
+      "to estimate",
+      "to rate",
+      "to grade"
+    ],
     "pos": "verb"
   },
   {
@@ -22244,7 +22463,11 @@
   },
   {
     "fi": "kansainvälinen",
-    "en": "international",
+    "en": [
+      "international",
+      "internationally competitive",
+      "global"
+    ],
     "pos": "adj"
   },
   {
@@ -22259,22 +22482,36 @@
   },
   {
     "fi": "pystyä",
-    "en": "to be able to",
+    "en": [
+      "to be able to",
+      "to  cut into",
+      "to  affect"
+    ],
     "pos": "verb"
   },
   {
     "fi": "ryhmä",
-    "en": "group",
+    "en": [
+      "group",
+      "team",
+      "body"
+    ],
     "pos": "noun"
   },
   {
     "fi": "hetki",
-    "en": "moment",
+    "en": [
+      "moment",
+      "hour"
+    ],
     "pos": "noun"
   },
   {
     "fi": "puolue",
-    "en": "party",
+    "en": [
+      "party",
+      "faction"
+    ],
     "pos": "noun"
   },
   {
@@ -22292,7 +22529,10 @@
   },
   {
     "fi": "jatkua",
-    "en": "to continue",
+    "en": [
+      "to continue",
+      "to extend"
+    ],
     "pos": "verb"
   },
   {
@@ -22312,7 +22552,11 @@
   },
   {
     "fi": "sarja",
-    "en": "series",
+    "en": [
+      "series",
+      "chain",
+      "set"
+    ],
     "pos": "noun"
   },
   {
@@ -22335,7 +22579,10 @@
   },
   {
     "fi": "jäsen",
-    "en": "limb",
+    "en": [
+      "limb",
+      "member"
+    ],
     "pos": "noun"
   },
   {
@@ -22348,7 +22595,11 @@
   },
   {
     "fi": "tutkimus",
-    "en": "research",
+    "en": [
+      "research",
+      "study",
+      "investigation"
+    ],
     "pos": "noun"
   },
   {
@@ -22363,7 +22614,11 @@
   },
   {
     "fi": "mahdollinen",
-    "en": "possible",
+    "en": [
+      "possible",
+      "potential",
+      "prospective"
+    ],
     "pos": "adj"
   },
   {
@@ -22378,12 +22633,19 @@
   },
   {
     "fi": "kysymys",
-    "en": "question",
+    "en": [
+      "question",
+      "issue"
+    ],
     "pos": "noun"
   },
   {
     "fi": "talo",
-    "en": "house",
+    "en": [
+      "house",
+      "building",
+      "farm"
+    ],
     "pos": "noun"
   },
   {
@@ -22398,47 +22660,82 @@
   },
   {
     "fi": "peli",
-    "en": "game",
+    "en": [
+      "game",
+      "match",
+      "tool"
+    ],
     "pos": "noun"
   },
   {
     "fi": "kirja",
-    "en": "book",
+    "en": [
+      "book",
+      "quire",
+      "document"
+    ],
     "pos": "noun"
   },
   {
     "fi": "hyväksyä",
-    "en": "to accept",
+    "en": [
+      "to accept",
+      "to approve the nomination",
+      "to admit"
+    ],
     "pos": "verb"
   },
   {
     "fi": "tuki",
-    "en": "support",
+    "en": [
+      "support",
+      "allowance",
+      "subsidy"
+    ],
     "pos": "noun"
   },
   {
     "fi": "aiheuttaa",
-    "en": "to cause",
+    "en": [
+      "to cause",
+      "to result in",
+      "to inflict"
+    ],
     "pos": "verb"
   },
   {
     "fi": "pari",
-    "en": "pair",
+    "en": [
+      "pair",
+      "couple",
+      "partner"
+    ],
     "pos": "noun"
   },
   {
     "fi": "edustaja",
-    "en": "representative",
+    "en": [
+      "representative",
+      "spokesman",
+      "deputy"
+    ],
     "pos": "noun"
   },
   {
     "fi": "ala",
-    "en": "area",
+    "en": [
+      "area",
+      "field",
+      "industry"
+    ],
     "pos": "noun"
   },
   {
     "fi": "tie",
-    "en": "way",
+    "en": [
+      "way",
+      "road"
+    ],
     "pos": "noun"
   },
   {
@@ -22448,17 +22745,28 @@
   },
   {
     "fi": "metri",
-    "en": "metre/meter",
+    "en": [
+      "metre/meter",
+      "meter"
+    ],
     "pos": "noun"
   },
   {
     "fi": "elää",
-    "en": "to live",
+    "en": [
+      "to live",
+      "to change",
+      "to live on"
+    ],
     "pos": "verb"
   },
   {
     "fi": "iso",
-    "en": "big",
+    "en": [
+      "big",
+      "great",
+      "grand"
+    ],
     "pos": "adj"
   },
   {
@@ -22476,7 +22784,11 @@
   },
   {
     "fi": "muutos",
-    "en": "change",
+    "en": [
+      "change",
+      "modification",
+      "amendment"
+    ],
     "pos": "noun"
   },
   {
@@ -22489,17 +22801,27 @@
   },
   {
     "fi": "tapahtuma",
-    "en": "event",
+    "en": [
+      "event",
+      "transaction"
+    ],
     "pos": "noun"
   },
   {
     "fi": "hanke",
-    "en": "project",
+    "en": [
+      "project",
+      "plan"
+    ],
     "pos": "noun"
   },
   {
     "fi": "yhteinen",
-    "en": "shared",
+    "en": [
+      "shared",
+      "collaborative",
+      "mixed-sex"
+    ],
     "pos": "adj"
   },
   {
@@ -22514,12 +22836,20 @@
   },
   {
     "fi": "vesi",
-    "en": "water",
+    "en": [
+      "water",
+      "lake",
+      "rheum"
+    ],
     "pos": "noun"
   },
   {
     "fi": "liitto",
-    "en": "union",
+    "en": [
+      "union",
+      "league",
+      "alliance"
+    ],
     "pos": "noun"
   },
   {
@@ -22551,7 +22881,11 @@
   },
   {
     "fi": "tulo",
-    "en": "coming",
+    "en": [
+      "coming",
+      "income",
+      "product"
+    ],
     "pos": "noun"
   },
   {
@@ -22587,12 +22921,19 @@
   },
   {
     "fi": "henkilö",
-    "en": "person",
+    "en": [
+      "person",
+      "antipersonnel"
+    ],
     "pos": "noun"
   },
   {
     "fi": "sivu",
-    "en": "page",
+    "en": [
+      "page",
+      "side",
+      "flank"
+    ],
     "pos": "noun"
   },
   {
@@ -22620,7 +22961,11 @@
   },
   {
     "fi": "sota",
-    "en": "war",
+    "en": [
+      "war",
+      "warfare",
+      "military"
+    ],
     "pos": "noun"
   },
   {
@@ -22630,12 +22975,19 @@
   },
   {
     "fi": "kokea",
-    "en": "to experience",
+    "en": [
+      "to experience",
+      "to see",
+      "to check"
+    ],
     "pos": "verb"
   },
   {
     "fi": "kilometri",
-    "en": "kilometre/kilometer",
+    "en": [
+      "kilometre/kilometer",
+      "mile"
+    ],
     "pos": "noun"
   },
   {
@@ -22663,12 +23015,19 @@
   },
   {
     "fi": "oikea",
-    "en": "right",
+    "en": [
+      "right",
+      "appropriate",
+      "real"
+    ],
     "pos": "adj"
   },
   {
     "fi": "tapaus",
-    "en": "event",
+    "en": [
+      "event",
+      "case"
+    ],
     "pos": "noun"
   },
   {
@@ -22694,7 +23053,10 @@
   },
   {
     "fi": "työpaikka",
-    "en": "workplace",
+    "en": [
+      "workplace",
+      "position"
+    ],
     "pos": "noun"
   },
   {
@@ -22704,7 +23066,10 @@
   },
   {
     "fi": "komissio",
-    "en": "commission",
+    "en": [
+      "commission",
+      "brokerage"
+    ],
     "pos": "noun"
   },
   {
@@ -22717,7 +23082,11 @@
   },
   {
     "fi": "kello",
-    "en": "clock",
+    "en": [
+      "clock",
+      "bell",
+      "funnel"
+    ],
     "pos": "noun"
   },
   {
@@ -22727,7 +23096,10 @@
   },
   {
     "fi": "ehdokas",
-    "en": "candidate",
+    "en": [
+      "candidate",
+      "nominee"
+    ],
     "pos": "noun"
   },
   {
@@ -22742,7 +23114,10 @@
   },
   {
     "fi": "huomio",
-    "en": "attention",
+    "en": [
+      "attention",
+      "observation"
+    ],
     "pos": "noun"
   },
   {
@@ -22752,12 +23127,18 @@
   },
   {
     "fi": "yleisö",
-    "en": "audience",
+    "en": [
+      "audience",
+      "public"
+    ],
     "pos": "noun"
   },
   {
     "fi": "etsiä",
-    "en": "to look for",
+    "en": [
+      "to look for",
+      "to find"
+    ],
     "pos": "verb"
   },
   {
@@ -22767,22 +23148,36 @@
   },
   {
     "fi": "hoito",
-    "en": "care",
+    "en": [
+      "care",
+      "treatment",
+      "nurture"
+    ],
     "pos": "noun"
   },
   {
     "fi": "ajatella",
-    "en": "to think",
+    "en": [
+      "to think",
+      "to plan"
+    ],
     "pos": "verb"
   },
   {
     "fi": "suunta",
-    "en": "direction",
+    "en": [
+      "direction",
+      "way",
+      "path"
+    ],
     "pos": "noun"
   },
   {
     "fi": "kysyä",
-    "en": "to ask",
+    "en": [
+      "to ask",
+      "to take"
+    ],
     "pos": "verb"
   },
   {
@@ -22792,17 +23187,26 @@
   },
   {
     "fi": "tuote",
-    "en": "product",
+    "en": [
+      "product",
+      "produce"
+    ],
     "pos": "noun"
   },
   {
     "fi": "kone",
-    "en": "machine",
+    "en": [
+      "machine",
+      "beast"
+    ],
     "pos": "noun"
   },
   {
     "fi": "opettaja",
-    "en": "teacher",
+    "en": [
+      "teacher",
+      "instructor"
+    ],
     "pos": "noun"
   },
   {
@@ -22822,12 +23226,19 @@
   },
   {
     "fi": "sana",
-    "en": "word",
+    "en": [
+      "word",
+      "lesson",
+      "lyrics"
+    ],
     "pos": "noun"
   },
   {
     "fi": "vaihtoehto",
-    "en": "option",
+    "en": [
+      "option",
+      "alternative"
+    ],
     "pos": "noun"
   },
   {
@@ -22842,7 +23253,10 @@
   },
   {
     "fi": "kerätä",
-    "en": "to collect",
+    "en": [
+      "to collect",
+      "to pick"
+    ],
     "pos": "verb"
   },
   {
@@ -22852,12 +23266,19 @@
   },
   {
     "fi": "suunnitelma",
-    "en": "plan",
+    "en": [
+      "plan",
+      "scheme",
+      "design"
+    ],
     "pos": "noun"
   },
   {
     "fi": "tuotanto",
-    "en": "production",
+    "en": [
+      "production",
+      "works"
+    ],
     "pos": "noun"
   },
   {
@@ -22885,12 +23306,20 @@
   },
   {
     "fi": "lukea",
-    "en": "to read",
+    "en": [
+      "to read",
+      "to study",
+      "to count"
+    ],
     "pos": "verb"
   },
   {
     "fi": "vaikutus",
-    "en": "influence",
+    "en": [
+      "influence",
+      "impression",
+      "action"
+    ],
     "pos": "noun"
   },
   {
@@ -22905,7 +23334,11 @@
   },
   {
     "fi": "kylä",
-    "en": "village",
+    "en": [
+      "village",
+      "any private place",
+      "home"
+    ],
     "pos": "noun"
   },
   {
@@ -22915,22 +23348,37 @@
   },
   {
     "fi": "metsä",
-    "en": "forest",
+    "en": [
+      "forest",
+      "bush",
+      "hunting"
+    ],
     "pos": "noun"
   },
   {
     "fi": "hallita",
-    "en": "to rule",
+    "en": [
+      "to rule",
+      "to control",
+      "to be in charge"
+    ],
     "pos": "verb"
   },
   {
     "fi": "ohjata",
-    "en": "to steer",
+    "en": [
+      "to steer",
+      "to control",
+      "to lead"
+    ],
     "pos": "verb"
   },
   {
     "fi": "vastuu",
-    "en": "responsibility",
+    "en": [
+      "responsibility",
+      "liability"
+    ],
     "pos": "noun"
   },
   {
@@ -22963,17 +23411,29 @@
   },
   {
     "fi": "luokka",
-    "en": "class",
+    "en": [
+      "class",
+      "category",
+      "grade"
+    ],
     "pos": "noun"
   },
   {
     "fi": "linja",
-    "en": "line",
+    "en": [
+      "line",
+      "policy",
+      "outline"
+    ],
     "pos": "noun"
   },
   {
     "fi": "istua",
-    "en": "to sit",
+    "en": [
+      "to sit",
+      "to sit down",
+      "to suit"
+    ],
     "pos": "verb"
   },
   {
@@ -22988,7 +23448,10 @@
   },
   {
     "fi": "oppilas",
-    "en": "pupil",
+    "en": [
+      "pupil",
+      "disciple"
+    ],
     "pos": "noun"
   },
   {
@@ -22998,7 +23461,11 @@
   },
   {
     "fi": "valinta",
-    "en": "selection",
+    "en": [
+      "selection",
+      "choice",
+      "volition"
+    ],
     "pos": "noun"
   },
   {
@@ -23013,22 +23480,35 @@
   },
   {
     "fi": "puhe",
-    "en": "speech",
+    "en": [
+      "speech",
+      "talk",
+      "speak"
+    ],
     "pos": "noun"
   },
   {
     "fi": "kulttuuri",
-    "en": "culture",
+    "en": [
+      "culture",
+      "civilization"
+    ],
     "pos": "noun"
   },
   {
     "fi": "huoli",
-    "en": "worry",
+    "en": [
+      "worry",
+      "care"
+    ],
     "pos": "noun"
   },
   {
     "fi": "valtuusto",
-    "en": "council",
+    "en": [
+      "council",
+      "delegation"
+    ],
     "pos": "noun"
   },
   {
@@ -23038,12 +23518,19 @@
   },
   {
     "fi": "kokoomus",
-    "en": "composition",
+    "en": [
+      "composition",
+      "coalition"
+    ],
     "pos": "noun"
   },
   {
     "fi": "tuore",
-    "en": "fresh",
+    "en": [
+      "fresh",
+      "new",
+      "original"
+    ],
     "pos": "adj"
   },
   {
@@ -23053,7 +23540,10 @@
   },
   {
     "fi": "silmä",
-    "en": "eye",
+    "en": [
+      "eye",
+      "mesh"
+    ],
     "pos": "noun"
   },
   {
@@ -23068,12 +23558,19 @@
   },
   {
     "fi": "kenttä",
-    "en": "field",
+    "en": [
+      "field",
+      "signal strength",
+      "level"
+    ],
     "pos": "noun"
   },
   {
     "fi": "tarina",
-    "en": "story",
+    "en": [
+      "story",
+      "narrative"
+    ],
     "pos": "noun"
   },
   {
@@ -23083,7 +23580,11 @@
   },
   {
     "fi": "yllättää",
-    "en": "to surprise",
+    "en": [
+      "to surprise",
+      "to reach",
+      "to assail"
+    ],
     "pos": "verb"
   },
   {
@@ -23098,7 +23599,11 @@
   },
   {
     "fi": "kustannus",
-    "en": "expense",
+    "en": [
+      "expense",
+      "publishing",
+      "cost"
+    ],
     "pos": "noun"
   },
   {
@@ -23133,7 +23638,10 @@
   },
   {
     "fi": "luonto",
-    "en": "nature",
+    "en": [
+      "nature",
+      "character"
+    ],
     "pos": "noun"
   },
   {
@@ -23174,7 +23682,11 @@
   },
   {
     "fi": "ruoka",
-    "en": "food",
+    "en": [
+      "food",
+      "meal",
+      "dish"
+    ],
     "pos": "noun"
   },
   {
@@ -23189,12 +23701,20 @@
   },
   {
     "fi": "edellyttää",
-    "en": "to require",
+    "en": [
+      "to require",
+      "to presuppose",
+      "to presume"
+    ],
     "pos": "verb"
   },
   {
     "fi": "pelkkä",
-    "en": "only",
+    "en": [
+      "only",
+      "bare",
+      "sheer"
+    ],
     "pos": "adj"
   },
   {
@@ -23209,7 +23729,10 @@
   },
   {
     "fi": "tausta",
-    "en": "back",
+    "en": [
+      "back",
+      "background"
+    ],
     "pos": "noun"
   },
   {
@@ -23219,17 +23742,27 @@
   },
   {
     "fi": "yliopisto",
-    "en": "university",
+    "en": [
+      "university",
+      "academia"
+    ],
     "pos": "noun"
   },
   {
     "fi": "lääkäri",
-    "en": "physician",
+    "en": [
+      "physician",
+      "doctor"
+    ],
     "pos": "noun"
   },
   {
     "fi": "koota",
-    "en": "to collect together",
+    "en": [
+      "to collect together",
+      "to assemble",
+      "to gather"
+    ],
     "pos": "verb"
   },
   {
@@ -23239,7 +23772,10 @@
   },
   {
     "fi": "mestaruus",
-    "en": "mastery",
+    "en": [
+      "mastery",
+      "championship"
+    ],
     "pos": "noun"
   },
   {
@@ -23249,12 +23785,18 @@
   },
   {
     "fi": "olo",
-    "en": "being",
+    "en": [
+      "being",
+      "feeling"
+    ],
     "pos": "noun"
   },
   {
     "fi": "ystävä",
-    "en": "friend",
+    "en": [
+      "friend",
+      "-phile"
+    ],
     "pos": "noun"
   },
   {
@@ -23272,7 +23814,10 @@
   },
   {
     "fi": "rauha",
-    "en": "peace",
+    "en": [
+      "peace",
+      "treaty"
+    ],
     "pos": "noun"
   },
   {
@@ -23282,22 +23827,38 @@
   },
   {
     "fi": "vapaa",
-    "en": "free",
+    "en": [
+      "free",
+      "spare",
+      "vacant"
+    ],
     "pos": "adj"
   },
   {
     "fi": "juhla",
-    "en": "party",
+    "en": [
+      "party",
+      "celebration",
+      "festival"
+    ],
     "pos": "noun"
   },
   {
     "fi": "vajaa",
-    "en": "not full",
+    "en": [
+      "not full",
+      "shy of",
+      "wanting"
+    ],
     "pos": "adj"
   },
   {
     "fi": "järjestelmä",
-    "en": "system",
+    "en": [
+      "system",
+      "mechanism",
+      "regime"
+    ],
     "pos": "noun"
   },
   {
@@ -23312,12 +23873,18 @@
   },
   {
     "fi": "budjetti",
-    "en": "budget",
+    "en": [
+      "budget",
+      "purse"
+    ],
     "pos": "noun"
   },
   {
     "fi": "näytelmä",
-    "en": "play",
+    "en": [
+      "play",
+      "spectacle"
+    ],
     "pos": "noun"
   },
   {
@@ -23337,17 +23904,29 @@
   },
   {
     "fi": "nimittää",
-    "en": "to assign",
+    "en": [
+      "to assign",
+      "to name",
+      "to appoint"
+    ],
     "pos": "verb"
   },
   {
     "fi": "ilmestyä",
-    "en": "to appear",
+    "en": [
+      "to appear",
+      "to show up",
+      "to emerge"
+    ],
     "pos": "verb"
   },
   {
     "fi": "lähtö",
-    "en": "departure",
+    "en": [
+      "departure",
+      "start",
+      "takeoff"
+    ],
     "pos": "noun"
   },
   {
@@ -23370,7 +23949,11 @@
   },
   {
     "fi": "heittää",
-    "en": "to throw",
+    "en": [
+      "to throw",
+      "to abandon",
+      "to swing"
+    ],
     "pos": "verb"
   },
   {
@@ -23383,12 +23966,19 @@
   },
   {
     "fi": "herättää",
-    "en": "to wake up",
+    "en": [
+      "to wake up",
+      "to arouse",
+      "to awaken"
+    ],
     "pos": "verb"
   },
   {
     "fi": "teksti",
-    "en": "text",
+    "en": [
+      "text",
+      "copy"
+    ],
     "pos": "noun"
   },
   {
@@ -23401,32 +23991,51 @@
   },
   {
     "fi": "seurakunta",
-    "en": "parish",
+    "en": [
+      "parish",
+      "congregation"
+    ],
     "pos": "noun"
   },
   {
     "fi": "tekninen",
-    "en": "technical",
+    "en": [
+      "technical",
+      "engineering"
+    ],
     "pos": "adj"
   },
   {
     "fi": "kurssi",
-    "en": "class",
+    "en": [
+      "class",
+      "course",
+      "rate"
+    ],
     "pos": "noun"
   },
   {
     "fi": "armeija",
-    "en": "army",
+    "en": [
+      "army",
+      "military"
+    ],
     "pos": "noun"
   },
   {
     "fi": "työryhmä",
-    "en": "working group",
+    "en": [
+      "working group",
+      "working committee"
+    ],
     "pos": "noun"
   },
   {
     "fi": "vaikeus",
-    "en": "difficulty",
+    "en": [
+      "difficulty",
+      "trouble"
+    ],
     "pos": "noun"
   },
   {
@@ -23459,7 +24068,11 @@
   },
   {
     "fi": "mestari",
-    "en": "master",
+    "en": [
+      "master",
+      "expert",
+      "champion"
+    ],
     "pos": "noun"
   },
   {
@@ -23472,12 +24085,19 @@
   },
   {
     "fi": "kilo",
-    "en": "kilogram",
+    "en": [
+      "kilogram",
+      "kilo"
+    ],
     "pos": "noun"
   },
   {
     "fi": "käsittely",
-    "en": "handling",
+    "en": [
+      "handling",
+      "treatment",
+      "hearing"
+    ],
     "pos": "noun"
   },
   {
@@ -23487,7 +24107,11 @@
   },
   {
     "fi": "vaimo",
-    "en": "wife",
+    "en": [
+      "wife",
+      "woman",
+      "elderly woman"
+    ],
     "pos": "noun"
   },
   {
@@ -23525,12 +24149,19 @@
   },
   {
     "fi": "kärki",
-    "en": "point",
+    "en": [
+      "point",
+      "vertex",
+      "lead"
+    ],
     "pos": "noun"
   },
   {
     "fi": "laulu",
-    "en": "song",
+    "en": [
+      "song",
+      "singing"
+    ],
     "pos": "noun"
   },
   {
@@ -23540,27 +24171,43 @@
   },
   {
     "fi": "laatu",
-    "en": "quality",
+    "en": [
+      "quality",
+      "sort",
+      "modality"
+    ],
     "pos": "noun"
   },
   {
     "fi": "koira",
-    "en": "dog",
+    "en": [
+      "dog",
+      "military police"
+    ],
     "pos": "noun"
   },
   {
     "fi": "ampua",
-    "en": "to shoot",
+    "en": [
+      "to shoot",
+      "to explode"
+    ],
     "pos": "verb"
   },
   {
     "fi": "vastaus",
-    "en": "answer",
+    "en": [
+      "answer",
+      "response"
+    ],
     "pos": "noun"
   },
   {
     "fi": "seuraus",
-    "en": "consequence",
+    "en": [
+      "consequence",
+      "corollary"
+    ],
     "pos": "noun"
   },
   {
@@ -23580,7 +24227,10 @@
   },
   {
     "fi": "lista",
-    "en": "list",
+    "en": [
+      "list",
+      "thin"
+    ],
     "pos": "noun"
   },
   {
@@ -23598,22 +24248,36 @@
   },
   {
     "fi": "kilpailla",
-    "en": "to compete",
+    "en": [
+      "to compete",
+      "to race",
+      "to rival"
+    ],
     "pos": "verb"
   },
   {
     "fi": "virhe",
-    "en": "mistake",
+    "en": [
+      "mistake",
+      "error",
+      "flaw"
+    ],
     "pos": "noun"
   },
   {
     "fi": "asiantuntija",
-    "en": "expert",
+    "en": [
+      "expert",
+      "adept"
+    ],
     "pos": "noun"
   },
   {
     "fi": "kuljettaja",
-    "en": "driver",
+    "en": [
+      "driver",
+      "motorist"
+    ],
     "pos": "noun"
   },
   {
@@ -23628,7 +24292,11 @@
   },
   {
     "fi": "onnettomuus",
-    "en": "accident",
+    "en": [
+      "accident",
+      "misadventure",
+      "misfortune"
+    ],
     "pos": "noun"
   },
   {
@@ -23666,7 +24334,10 @@
   },
   {
     "fi": "aikainen",
-    "en": "early",
+    "en": [
+      "early",
+      "taking place during"
+    ],
     "pos": "adj"
   },
   {
@@ -23676,7 +24347,11 @@
   },
   {
     "fi": "viesti",
-    "en": "message",
+    "en": [
+      "message",
+      "relay",
+      "signal corps"
+    ],
     "pos": "noun"
   },
   {
@@ -23714,22 +24389,35 @@
   },
   {
     "fi": "kadota",
-    "en": "to disappear",
+    "en": [
+      "to disappear",
+      "to be lost"
+    ],
     "pos": "verb"
   },
   {
     "fi": "aiempi",
-    "en": "earlier",
+    "en": [
+      "earlier",
+      "prior"
+    ],
     "pos": "adj"
   },
   {
     "fi": "juosta",
-    "en": "to run",
+    "en": [
+      "to run",
+      "to visit",
+      "to flow"
+    ],
     "pos": "verb"
   },
   {
     "fi": "halpa",
-    "en": "cheap",
+    "en": [
+      "cheap",
+      "discount"
+    ],
     "pos": "adj"
   },
   {
@@ -23739,17 +24427,26 @@
   },
   {
     "fi": "ikä",
-    "en": "age",
+    "en": [
+      "age",
+      "lifetime"
+    ],
     "pos": "noun"
   },
   {
     "fi": "maksu",
-    "en": "fee",
+    "en": [
+      "fee",
+      "payment"
+    ],
     "pos": "noun"
   },
   {
     "fi": "riski",
-    "en": "risk",
+    "en": [
+      "risk",
+      "chance"
+    ],
     "pos": "noun"
   },
   {
@@ -23759,7 +24456,11 @@
   },
   {
     "fi": "numero",
-    "en": "digit",
+    "en": [
+      "digit",
+      "number",
+      "issue"
+    ],
     "pos": "noun"
   },
   {
@@ -23782,17 +24483,26 @@
   },
   {
     "fi": "kuunnella",
-    "en": "to listen",
+    "en": [
+      "to listen",
+      "to listen in"
+    ],
     "pos": "verb"
   },
   {
     "fi": "juhlia",
-    "en": "to celebrate",
+    "en": [
+      "to celebrate",
+      "to party"
+    ],
     "pos": "verb"
   },
   {
     "fi": "kuluttaja",
-    "en": "consumer",
+    "en": [
+      "consumer",
+      "heterotroph"
+    ],
     "pos": "noun"
   },
   {
@@ -23802,7 +24512,11 @@
   },
   {
     "fi": "paperi",
-    "en": "paper",
+    "en": [
+      "paper",
+      "document",
+      "id"
+    ],
     "pos": "noun"
   },
   {
@@ -23817,12 +24531,19 @@
   },
   {
     "fi": "harkita",
-    "en": "to deliberate",
+    "en": [
+      "to deliberate",
+      "to consider"
+    ],
     "pos": "verb"
   },
   {
     "fi": "tekniikka",
-    "en": "technology",
+    "en": [
+      "technology",
+      "technique",
+      "engineering"
+    ],
     "pos": "noun"
   },
   {
@@ -23832,22 +24553,36 @@
   },
   {
     "fi": "suosio",
-    "en": "popularity",
+    "en": [
+      "popularity",
+      "favor/favour"
+    ],
     "pos": "noun"
   },
   {
     "fi": "vastainen",
-    "en": "foul",
+    "en": [
+      "foul",
+      "anti-",
+      "before"
+    ],
     "pos": "adj"
   },
   {
     "fi": "kattaa",
-    "en": "to cover",
+    "en": [
+      "to cover",
+      "to set",
+      "to roof"
+    ],
     "pos": "verb"
   },
   {
     "fi": "summa",
-    "en": "sum",
+    "en": [
+      "sum",
+      "addition"
+    ],
     "pos": "noun"
   },
   {
@@ -23877,7 +24612,10 @@
   },
   {
     "fi": "aikataulu",
-    "en": "timetable",
+    "en": [
+      "timetable",
+      "schedule"
+    ],
     "pos": "noun"
   },
   {
@@ -23890,7 +24628,10 @@
   },
   {
     "fi": "normaali",
-    "en": "normal",
+    "en": [
+      "normal",
+      "essential"
+    ],
     "pos": "adj"
   },
   {
@@ -23903,12 +24644,20 @@
   },
   {
     "fi": "kääntyä",
-    "en": "to change direction",
+    "en": [
+      "to change direction",
+      "to change",
+      "to convert"
+    ],
     "pos": "verb"
   },
   {
     "fi": "käynti",
-    "en": "gait",
+    "en": [
+      "gait",
+      "visit",
+      "running"
+    ],
     "pos": "noun"
   },
   {
@@ -23918,7 +24667,11 @@
   },
   {
     "fi": "uutinen",
-    "en": "news",
+    "en": [
+      "news",
+      "first fruits",
+      "firstfruit"
+    ],
     "pos": "noun"
   },
   {
@@ -23933,7 +24686,11 @@
   },
   {
     "fi": "kiinnittää",
-    "en": "to fasten",
+    "en": [
+      "to fasten",
+      "to moor",
+      "to mortgage"
+    ],
     "pos": "verb"
   },
   {
@@ -23948,27 +24705,44 @@
   },
   {
     "fi": "naapuri",
-    "en": "neighbour/neighbor",
+    "en": [
+      "neighbour/neighbor",
+      "neighboring",
+      "neighbor"
+    ],
     "pos": "noun"
   },
   {
     "fi": "paine",
-    "en": "pressure",
+    "en": [
+      "pressure",
+      "weight"
+    ],
     "pos": "noun"
   },
   {
     "fi": "yksikkö",
-    "en": "unit",
+    "en": [
+      "unit",
+      "single"
+    ],
     "pos": "noun"
   },
   {
     "fi": "osasto",
-    "en": "department",
+    "en": [
+      "department",
+      "compartment",
+      "section"
+    ],
     "pos": "noun"
   },
   {
     "fi": "sydän",
-    "en": "heart",
+    "en": [
+      "heart",
+      "wick"
+    ],
     "pos": "noun"
   },
   {
@@ -23978,17 +24752,28 @@
   },
   {
     "fi": "väri",
-    "en": "color",
+    "en": [
+      "color",
+      "dye",
+      "flush"
+    ],
     "pos": "noun"
   },
   {
     "fi": "lentää",
-    "en": "to fly",
+    "en": [
+      "to fly",
+      "to fall down"
+    ],
     "pos": "verb"
   },
   {
     "fi": "valvoa",
-    "en": "to stay up",
+    "en": [
+      "to stay up",
+      "to supervise",
+      "to oversee"
+    ],
     "pos": "verb"
   },
   {
@@ -23998,7 +24783,10 @@
   },
   {
     "fi": "haaste",
-    "en": "challenge",
+    "en": [
+      "challenge",
+      "summons"
+    ],
     "pos": "noun"
   },
   {
@@ -24018,7 +24806,11 @@
   },
   {
     "fi": "ykkönen",
-    "en": "one",
+    "en": [
+      "one",
+      "number one",
+      "unit"
+    ],
     "pos": "noun"
   },
   {
@@ -24028,7 +24820,11 @@
   },
   {
     "fi": "kuljettaa",
-    "en": "to transport",
+    "en": [
+      "to transport",
+      "to dribble",
+      "to drive"
+    ],
     "pos": "verb"
   },
   {
@@ -24041,17 +24837,27 @@
   },
   {
     "fi": "tuuli",
-    "en": "wind",
+    "en": [
+      "wind",
+      "mood"
+    ],
     "pos": "noun"
   },
   {
     "fi": "hyöty",
-    "en": "benefit",
+    "en": [
+      "benefit",
+      "utility"
+    ],
     "pos": "noun"
   },
   {
     "fi": "isäntä",
-    "en": "master",
+    "en": [
+      "master",
+      "host",
+      "husband"
+    ],
     "pos": "noun"
   },
   {
@@ -24061,7 +24867,11 @@
   },
   {
     "fi": "suu",
-    "en": "mouth",
+    "en": [
+      "mouth",
+      "muzzle",
+      "beginning"
+    ],
     "pos": "noun"
   },
   {
@@ -24074,12 +24884,18 @@
   },
   {
     "fi": "kala",
-    "en": "fish",
+    "en": [
+      "fish",
+      "seafood"
+    ],
     "pos": "noun"
   },
   {
     "fi": "yhteisö",
-    "en": "community",
+    "en": [
+      "community",
+      "corporation"
+    ],
     "pos": "noun"
   },
   {
@@ -24107,7 +24923,11 @@
   },
   {
     "fi": "palo",
-    "en": "fire",
+    "en": [
+      "fire",
+      "ardor",
+      "out"
+    ],
     "pos": "noun"
   },
   {
@@ -24145,7 +24965,11 @@
   },
   {
     "fi": "korko",
-    "en": "heel",
+    "en": [
+      "heel",
+      "interest",
+      "stress"
+    ],
     "pos": "noun"
   },
   {
@@ -24155,7 +24979,11 @@
   },
   {
     "fi": "henkinen",
-    "en": "mental",
+    "en": [
+      "mental",
+      "spiritual",
+      "-person"
+    ],
     "pos": "adj"
   },
   {
@@ -24165,17 +24993,27 @@
   },
   {
     "fi": "pallo",
-    "en": "ball",
+    "en": [
+      "ball",
+      "sphere"
+    ],
     "pos": "noun"
   },
   {
     "fi": "yhtye",
-    "en": "group",
+    "en": [
+      "group",
+      "ensemble"
+    ],
     "pos": "noun"
   },
   {
     "fi": "leikata",
-    "en": "to cut",
+    "en": [
+      "to cut",
+      "to clip",
+      "to mow"
+    ],
     "pos": "verb"
   },
   {
@@ -24190,7 +25028,11 @@
   },
   {
     "fi": "tähti",
-    "en": "star",
+    "en": [
+      "star",
+      "famous person",
+      "asterisk"
+    ],
     "pos": "noun"
   },
   {
@@ -24228,12 +25070,20 @@
   },
   {
     "fi": "kääntää",
-    "en": "to turn",
+    "en": [
+      "to turn",
+      "to translate",
+      "to bend"
+    ],
     "pos": "verb"
   },
   {
     "fi": "laiva",
-    "en": "ship water vessel)",
+    "en": [
+      "ship water vessel)",
+      "ship",
+      "nave"
+    ],
     "pos": "noun"
   },
   {
@@ -24256,7 +25106,11 @@
   },
   {
     "fi": "päästää",
-    "en": "to let",
+    "en": [
+      "to let",
+      "to detach",
+      "to release"
+    ],
     "pos": "verb"
   },
   {
@@ -24276,27 +25130,44 @@
   },
   {
     "fi": "lintu",
-    "en": "bird",
+    "en": [
+      "bird",
+      "poultry"
+    ],
     "pos": "noun"
   },
   {
     "fi": "alus",
-    "en": "underlay",
+    "en": [
+      "underlay",
+      "vessel",
+      "space under something"
+    ],
     "pos": "noun"
   },
   {
     "fi": "radio",
-    "en": "radio",
+    "en": [
+      "radio",
+      "radio-"
+    ],
     "pos": "noun"
   },
   {
     "fi": "vapauttaa",
-    "en": "to free/loose",
+    "en": [
+      "to free/loose",
+      "to relieve"
+    ],
     "pos": "verb"
   },
   {
     "fi": "keksiä",
-    "en": "to invent",
+    "en": [
+      "to invent",
+      "to make up",
+      "to devise"
+    ],
     "pos": "verb"
   },
   {
@@ -24311,37 +25182,60 @@
   },
   {
     "fi": "valkoinen",
-    "en": "white",
+    "en": [
+      "white",
+      "caucasian"
+    ],
     "pos": "adj"
   },
   {
     "fi": "tuomari",
-    "en": "judge",
+    "en": [
+      "judge",
+      "lawyer"
+    ],
     "pos": "noun"
   },
   {
     "fi": "lento",
-    "en": "flying",
+    "en": [
+      "flying",
+      "flight"
+    ],
     "pos": "noun"
   },
   {
     "fi": "taivas",
-    "en": "sky",
+    "en": [
+      "sky",
+      "heaven"
+    ],
     "pos": "noun"
   },
   {
     "fi": "palaa",
-    "en": "to burn",
+    "en": [
+      "to burn",
+      "to shine",
+      "to smoke"
+    ],
     "pos": "verb"
   },
   {
     "fi": "kiittää",
-    "en": "to thank",
+    "en": [
+      "to thank",
+      "to praise"
+    ],
     "pos": "verb"
   },
   {
     "fi": "aurinko",
-    "en": "the Sun",
+    "en": [
+      "the Sun",
+      "sun",
+      "solar"
+    ],
     "pos": "noun"
   },
   {
@@ -24356,7 +25250,10 @@
   },
   {
     "fi": "huone",
-    "en": "room",
+    "en": [
+      "room",
+      "house"
+    ],
     "pos": "noun"
   },
   {
@@ -24371,12 +25268,20 @@
   },
   {
     "fi": "tohtori",
-    "en": "doctor",
+    "en": [
+      "doctor",
+      "doctorate",
+      "physician"
+    ],
     "pos": "noun"
   },
   {
     "fi": "herätä",
-    "en": "to wake up",
+    "en": [
+      "to wake up",
+      "to revive",
+      "to arise"
+    ],
     "pos": "verb"
   },
   {
@@ -24409,7 +25314,11 @@
   },
   {
     "fi": "vika",
-    "en": "fault",
+    "en": [
+      "fault",
+      "flaw",
+      "wrong"
+    ],
     "pos": "noun"
   },
   {
@@ -24434,7 +25343,10 @@
   },
   {
     "fi": "veli",
-    "en": "brother",
+    "en": [
+      "brother",
+      "bro"
+    ],
     "pos": "noun"
   },
   {
@@ -24444,7 +25356,11 @@
   },
   {
     "fi": "lahja",
-    "en": "present",
+    "en": [
+      "present",
+      "talent",
+      "gift"
+    ],
     "pos": "noun"
   },
   {
@@ -24454,7 +25370,10 @@
   },
   {
     "fi": "pommi",
-    "en": "bomb",
+    "en": [
+      "bomb",
+      "bombshell"
+    ],
     "pos": "noun"
   },
   {
@@ -24464,12 +25383,19 @@
   },
   {
     "fi": "hoitaja",
-    "en": "caretaker",
+    "en": [
+      "caretaker",
+      "nurse",
+      "carer"
+    ],
     "pos": "noun"
   },
   {
     "fi": "kapteeni",
-    "en": "captain",
+    "en": [
+      "captain",
+      "pilot in command"
+    ],
     "pos": "noun"
   },
   {
@@ -24499,7 +25425,11 @@
   },
   {
     "fi": "kutsu",
-    "en": "invitation",
+    "en": [
+      "invitation",
+      "call",
+      "party"
+    ],
     "pos": "noun"
   },
   {
@@ -24519,7 +25449,11 @@
   },
   {
     "fi": "lainata",
-    "en": "to loan",
+    "en": [
+      "to loan",
+      "to borrow",
+      "to cite"
+    ],
     "pos": "verb"
   },
   {
@@ -24529,12 +25463,18 @@
   },
   {
     "fi": "vauva",
-    "en": "baby",
+    "en": [
+      "baby",
+      "baby animal"
+    ],
     "pos": "noun"
   },
   {
     "fi": "sairas",
-    "en": "ill",
+    "en": [
+      "ill",
+      "sick"
+    ],
     "pos": "adj"
   },
   {
@@ -24544,7 +25484,11 @@
   },
   {
     "fi": "sielu",
-    "en": "soul",
+    "en": [
+      "soul",
+      "moving spirit",
+      "core"
+    ],
     "pos": "noun"
   },
   {
@@ -24567,12 +25511,19 @@
   },
   {
     "fi": "tyyppi",
-    "en": "type",
+    "en": [
+      "type",
+      "person",
+      "guy"
+    ],
     "pos": "noun"
   },
   {
     "fi": "puhelu",
-    "en": "talk",
+    "en": [
+      "talk",
+      "call"
+    ],
     "pos": "noun"
   },
   {
@@ -24582,7 +25533,10 @@
   },
   {
     "fi": "salaisuus",
-    "en": "secret",
+    "en": [
+      "secret",
+      "secrecy"
+    ],
     "pos": "noun"
   },
   {
@@ -24595,12 +25549,19 @@
   },
   {
     "fi": "kiireinen",
-    "en": "hasty",
+    "en": [
+      "hasty",
+      "busy"
+    ],
     "pos": "adj"
   },
   {
     "fi": "avain",
-    "en": "key",
+    "en": [
+      "key",
+      "wrench",
+      "clef"
+    ],
     "pos": "noun"
   },
   {
@@ -24630,12 +25591,18 @@
   },
   {
     "fi": "temppu",
-    "en": "trick",
+    "en": [
+      "trick",
+      "gimmick"
+    ],
     "pos": "noun"
   },
   {
     "fi": "harmi",
-    "en": "annoyance",
+    "en": [
+      "annoyance",
+      "problem"
+    ],
     "pos": "noun"
   },
   {
@@ -24675,7 +25642,11 @@
   },
   {
     "fi": "käsky",
-    "en": "order",
+    "en": [
+      "order",
+      "instruction",
+      "command"
+    ],
     "pos": "noun"
   },
   {
@@ -24735,7 +25706,11 @@
   },
   {
     "fi": "häntä",
-    "en": "tail",
+    "en": [
+      "tail",
+      "narrow tail",
+      "ogonek"
+    ],
     "pos": "noun"
   },
   {
@@ -24755,22 +25730,36 @@
   },
   {
     "fi": "täti",
-    "en": "aunt",
+    "en": [
+      "aunt",
+      "woman",
+      "any older"
+    ],
     "pos": "noun"
   },
   {
     "fi": "tapella",
-    "en": "to fight",
+    "en": [
+      "to fight",
+      "to quarrel"
+    ],
     "pos": "verb"
   },
   {
     "fi": "setä",
-    "en": "paternal uncle",
+    "en": [
+      "paternal uncle",
+      "man",
+      "uncle"
+    ],
     "pos": "noun"
   },
   {
     "fi": "fiksu",
-    "en": "clever",
+    "en": [
+      "clever",
+      "smart"
+    ],
     "pos": "adj"
   },
   {
@@ -24785,12 +25774,18 @@
   },
   {
     "fi": "luoti",
-    "en": "bullet",
+    "en": [
+      "bullet",
+      "plumb bob"
+    ],
     "pos": "noun"
   },
   {
     "fi": "tervehdys",
-    "en": "greeting",
+    "en": [
+      "greeting",
+      "salute"
+    ],
     "pos": "noun"
   },
   {
@@ -24810,7 +25805,10 @@
   },
   {
     "fi": "jäljittää",
-    "en": "to track",
+    "en": [
+      "to track",
+      "to track down"
+    ],
     "pos": "verb"
   },
   {
@@ -24833,7 +25831,10 @@
   },
   {
     "fi": "piru",
-    "en": "the Devil",
+    "en": [
+      "the Devil",
+      "devil"
+    ],
     "pos": "noun"
   },
   {
@@ -24843,17 +25844,27 @@
   },
   {
     "fi": "noita",
-    "en": "witch",
+    "en": [
+      "witch",
+      "person"
+    ],
     "pos": "noun"
   },
   {
     "fi": "syytön",
-    "en": "innocent",
+    "en": [
+      "innocent",
+      "blameless"
+    ],
     "pos": "adj"
   },
   {
     "fi": "sokea",
-    "en": "blind",
+    "en": [
+      "blind",
+      "unlabeled",
+      "blind-embossed"
+    ],
     "pos": "adj"
   },
   {
@@ -24868,7 +25879,10 @@
   },
   {
     "fi": "ansa",
-    "en": "trap",
+    "en": [
+      "trap",
+      "booby trap"
+    ],
     "pos": "noun"
   },
   {
@@ -24893,12 +25907,19 @@
   },
   {
     "fi": "herätys",
-    "en": "wake-up",
+    "en": [
+      "wake-up",
+      "alarm",
+      "revival"
+    ],
     "pos": "noun"
   },
   {
     "fi": "homo",
-    "en": "gay man",
+    "en": [
+      "gay man",
+      "any gay person"
+    ],
     "pos": "noun"
   },
   {
@@ -24908,12 +25929,18 @@
   },
   {
     "fi": "jätti",
-    "en": "giant",
+    "en": [
+      "giant",
+      "huge"
+    ],
     "pos": "noun"
   },
   {
     "fi": "keksi",
-    "en": "cookie",
+    "en": [
+      "cookie",
+      "biscuit"
+    ],
     "pos": "noun"
   },
   {
@@ -24938,22 +25965,35 @@
   },
   {
     "fi": "lähetti",
-    "en": "messenger",
+    "en": [
+      "messenger",
+      "orderly",
+      "errand boy"
+    ],
     "pos": "noun"
   },
   {
     "fi": "mulkku",
-    "en": "cock",
+    "en": [
+      "cock",
+      "contemptible person"
+    ],
     "pos": "noun"
   },
   {
     "fi": "muru",
-    "en": "crumb",
+    "en": [
+      "crumb",
+      "honey"
+    ],
     "pos": "noun"
   },
   {
     "fi": "neiti",
-    "en": "Miss",
+    "en": [
+      "Miss",
+      "girly"
+    ],
     "pos": "noun"
   },
   {
@@ -24973,7 +26013,11 @@
   },
   {
     "fi": "paska",
-    "en": "shit",
+    "en": [
+      "shit",
+      "bullshit",
+      "piece of shit"
+    ],
     "pos": "noun"
   },
   {
@@ -25063,7 +26107,10 @@
   },
   {
     "fi": "noin",
-    "en": "about",
+    "en": [
+      "about",
+      "so"
+    ],
     "pos": "adv"
   },
   {
@@ -25073,7 +26120,11 @@
   },
   {
     "fi": "edes",
-    "en": "at least",
+    "en": [
+      "at least",
+      "even",
+      "anyway"
+    ],
     "pos": "adv"
   },
   {
@@ -25128,12 +26179,18 @@
   },
   {
     "fi": "siksi",
-    "en": "therefore",
+    "en": [
+      "therefore",
+      "until"
+    ],
     "pos": "adv"
   },
   {
     "fi": "jopa",
-    "en": "even",
+    "en": [
+      "even",
+      "as much as"
+    ],
     "pos": "adv"
   },
   {
@@ -25153,12 +26210,19 @@
   },
   {
     "fi": "tahansa",
-    "en": "whatever",
+    "en": [
+      "whatever",
+      "any"
+    ],
     "pos": "adv"
   },
   {
     "fi": "poissa",
-    "en": "away",
+    "en": [
+      "away",
+      "absent",
+      "out of"
+    ],
     "pos": "adv"
   },
   {
@@ -25173,12 +26237,18 @@
   },
   {
     "fi": "kuulostaa",
-    "en": "to sound",
+    "en": [
+      "to sound",
+      "to listen closely"
+    ],
     "pos": "verb"
   },
   {
     "fi": "yhtään",
-    "en": "any",
+    "en": [
+      "any",
+      "at all"
+    ],
     "pos": "adv"
   },
   {
@@ -25198,12 +26268,19 @@
   },
   {
     "fi": "muka",
-    "en": "supposedly",
+    "en": [
+      "supposedly",
+      "pseudo-"
+    ],
     "pos": "adv"
   },
   {
     "fi": "jolloin",
-    "en": "when",
+    "en": [
+      "when",
+      "whereupon",
+      "at which time"
+    ],
     "pos": "adv"
   },
   {
@@ -25213,7 +26290,10 @@
   },
   {
     "fi": "alla",
-    "en": "below",
+    "en": [
+      "below",
+      "beneath"
+    ],
     "pos": "adv"
   },
   {
@@ -25228,7 +26308,11 @@
   },
   {
     "fi": "eteenpäin",
-    "en": "ahead",
+    "en": [
+      "ahead",
+      "forward",
+      "along"
+    ],
     "pos": "adv"
   },
   {
@@ -25278,7 +26362,10 @@
   },
   {
     "fi": "jälleen",
-    "en": "again",
+    "en": [
+      "again",
+      "re-"
+    ],
     "pos": "adv"
   },
   {
@@ -25293,7 +26380,11 @@
   },
   {
     "fi": "kesken",
-    "en": "between",
+    "en": [
+      "between",
+      "unfinished",
+      "finished too soon"
+    ],
     "pos": "adv"
   },
   {
@@ -25318,7 +26409,11 @@
   },
   {
     "fi": "ura",
-    "en": "career",
+    "en": [
+      "career",
+      "groove",
+      "locus"
+    ],
     "pos": "noun"
   },
   {
@@ -25343,7 +26438,11 @@
   },
   {
     "fi": "siten",
-    "en": "so",
+    "en": [
+      "so",
+      "therefore",
+      "in that way"
+    ],
     "pos": "adv"
   },
   {
@@ -25368,7 +26467,10 @@
   },
   {
     "fi": "tarkalleen",
-    "en": "exactly",
+    "en": [
+      "exactly",
+      "just"
+    ],
     "pos": "adv"
   },
   {
@@ -25433,7 +26535,10 @@
   },
   {
     "fi": "aluksi",
-    "en": "at first",
+    "en": [
+      "at first",
+      "first"
+    ],
     "pos": "adv"
   },
   {
@@ -25463,7 +26568,11 @@
   },
   {
     "fi": "kyttä",
-    "en": "cop",
+    "en": [
+      "cop",
+      "police",
+      "shooter"
+    ],
     "pos": "noun"
   },
   {
@@ -25488,7 +26597,10 @@
   },
   {
     "fi": "kirjoitin",
-    "en": "printer",
+    "en": [
+      "printer",
+      "device for writing"
+    ],
     "pos": "noun"
   },
   {
@@ -25498,17 +26610,28 @@
   },
   {
     "fi": "kaatua",
-    "en": "to fall",
+    "en": [
+      "to fall",
+      "to capsize",
+      "to spill"
+    ],
     "pos": "verb"
   },
   {
     "fi": "myöskään",
-    "en": "neither",
+    "en": [
+      "neither",
+      "either"
+    ],
     "pos": "adv"
   },
   {
     "fi": "vuoro",
-    "en": "turn",
+    "en": [
+      "turn",
+      "shift",
+      "reservation"
+    ],
     "pos": "noun"
   },
   {
@@ -25563,7 +26686,11 @@
   },
   {
     "fi": "määritellä",
-    "en": "to define",
+    "en": [
+      "to define",
+      "to express",
+      "to configure"
+    ],
     "pos": "verb"
   },
   {
@@ -25573,17 +26700,27 @@
   },
   {
     "fi": "paikallaan",
-    "en": "in place",
+    "en": [
+      "in place",
+      "in his/her/its place/location/spot"
+    ],
     "pos": "adv"
   },
   {
     "fi": "kateissa",
-    "en": "missing",
+    "en": [
+      "missing",
+      "lost"
+    ],
     "pos": "adv"
   },
   {
     "fi": "vaihde",
-    "en": "gear",
+    "en": [
+      "gear",
+      "switch",
+      "turn"
+    ],
     "pos": "noun"
   },
   {
@@ -25603,12 +26740,20 @@
   },
   {
     "fi": "silta",
-    "en": "bridge",
+    "en": [
+      "bridge",
+      "pons",
+      "platform"
+    ],
     "pos": "noun"
   },
   {
     "fi": "aste",
-    "en": "degree",
+    "en": [
+      "degree",
+      "stage",
+      "instance"
+    ],
     "pos": "noun"
   },
   {
@@ -25618,7 +26763,11 @@
   },
   {
     "fi": "välttää",
-    "en": "to avoid",
+    "en": [
+      "to avoid",
+      "to refrain",
+      "to do"
+    ],
     "pos": "verb"
   },
   {
@@ -25636,7 +26785,11 @@
   },
   {
     "fi": "keikka",
-    "en": "gig",
+    "en": [
+      "gig",
+      "job",
+      "heist"
+    ],
     "pos": "noun"
   },
   {
@@ -25671,37 +26824,59 @@
   },
   {
     "fi": "seinä",
-    "en": "wall",
+    "en": [
+      "wall",
+      "mains"
+    ],
     "pos": "noun"
   },
   {
     "fi": "huume",
-    "en": "drug",
+    "en": [
+      "drug",
+      "illegal drug"
+    ],
     "pos": "noun"
   },
   {
     "fi": "vampyyri",
-    "en": "vampire",
+    "en": [
+      "vampire",
+      "common vampire bat"
+    ],
     "pos": "noun"
   },
   {
     "fi": "kartta",
-    "en": "map",
+    "en": [
+      "map",
+      "coordinate chart"
+    ],
     "pos": "noun"
   },
   {
     "fi": "hattu",
-    "en": "hat",
+    "en": [
+      "hat",
+      "cap",
+      "tampion"
+    ],
     "pos": "noun"
   },
   {
     "fi": "seksi",
-    "en": "sex",
+    "en": [
+      "sex",
+      "sexuality"
+    ],
     "pos": "noun"
   },
   {
     "fi": "lumi",
-    "en": "snow",
+    "en": [
+      "snow",
+      "cocaine"
+    ],
     "pos": "noun"
   },
   {
@@ -25711,7 +26886,11 @@
   },
   {
     "fi": "pystyssä",
-    "en": "erect",
+    "en": [
+      "erect",
+      "upright",
+      "standing"
+    ],
     "pos": "adv"
   },
   {
@@ -25731,12 +26910,19 @@
   },
   {
     "fi": "aikanaan",
-    "en": "in due course",
+    "en": [
+      "in due course",
+      "eventually",
+      "in  time"
+    ],
     "pos": "adv"
   },
   {
     "fi": "amiraali",
-    "en": "admiral",
+    "en": [
+      "admiral",
+      "red admiral"
+    ],
     "pos": "noun"
   },
   {
@@ -25756,7 +26942,10 @@
   },
   {
     "fi": "pullo",
-    "en": "bottle",
+    "en": [
+      "bottle",
+      "bowl"
+    ],
     "pos": "noun"
   },
   {
@@ -25781,7 +26970,11 @@
   },
   {
     "fi": "kysely",
-    "en": "inquiry",
+    "en": [
+      "inquiry",
+      "questionnaire",
+      "query"
+    ],
     "pos": "noun"
   },
   {
@@ -25791,7 +26984,10 @@
   },
   {
     "fi": "konserni",
-    "en": "concern",
+    "en": [
+      "concern",
+      "corporation"
+    ],
     "pos": "noun"
   },
   {
@@ -25801,7 +26997,10 @@
   },
   {
     "fi": "hallinto",
-    "en": "administration",
+    "en": [
+      "administration",
+      "government"
+    ],
     "pos": "noun"
   },
   {
@@ -25821,7 +27020,10 @@
   },
   {
     "fi": "uskaltaa",
-    "en": "to dare",
+    "en": [
+      "to dare",
+      "to dare  do)"
+    ],
     "pos": "verb"
   },
   {
@@ -25831,7 +27033,11 @@
   },
   {
     "fi": "vienti",
-    "en": "export",
+    "en": [
+      "export",
+      "entry",
+      "turn"
+    ],
     "pos": "noun"
   },
   {
@@ -25856,7 +27062,10 @@
   },
   {
     "fi": "lautakunta",
-    "en": "board",
+    "en": [
+      "board",
+      "committee"
+    ],
     "pos": "noun"
   },
   {
@@ -25866,7 +27075,10 @@
   },
   {
     "fi": "rakenne",
-    "en": "structure",
+    "en": [
+      "structure",
+      "texture"
+    ],
     "pos": "noun"
   },
   {
@@ -25876,7 +27088,11 @@
   },
   {
     "fi": "huijari",
-    "en": "charlatan",
+    "en": [
+      "charlatan",
+      "conman",
+      "cheater"
+    ],
     "pos": "noun"
   },
   {
@@ -25891,7 +27107,11 @@
   },
   {
     "fi": "rankka",
-    "en": "heavy",
+    "en": [
+      "heavy",
+      "burdensome",
+      "intense"
+    ],
     "pos": "adj"
   },
   {
@@ -25901,7 +27121,10 @@
   },
   {
     "fi": "etukäteen",
-    "en": "in advance",
+    "en": [
+      "in advance",
+      "beforehand"
+    ],
     "pos": "adv"
   },
   {
@@ -25921,17 +27144,28 @@
   },
   {
     "fi": "helpottaa",
-    "en": "to facilitate",
+    "en": [
+      "to facilitate",
+      "to ease",
+      "to relieve"
+    ],
     "pos": "verb"
   },
   {
     "fi": "sijoitus",
-    "en": "investment",
+    "en": [
+      "investment",
+      "placement",
+      "substitution"
+    ],
     "pos": "noun"
   },
   {
     "fi": "sali",
-    "en": "hall",
+    "en": [
+      "hall",
+      "large room"
+    ],
     "pos": "noun"
   },
   {
@@ -25941,7 +27175,10 @@
   },
   {
     "fi": "nauraa",
-    "en": "to laugh",
+    "en": [
+      "to laugh",
+      "to laugh off"
+    ],
     "pos": "verb"
   },
   {
@@ -25951,7 +27188,10 @@
   },
   {
     "fi": "selitys",
-    "en": "explanation",
+    "en": [
+      "explanation",
+      "excuse"
+    ],
     "pos": "noun"
   },
   {
@@ -25976,7 +27216,11 @@
   },
   {
     "fi": "laatikko",
-    "en": "box",
+    "en": [
+      "box",
+      "drawer",
+      "casserole"
+    ],
     "pos": "noun"
   },
   {
@@ -26009,7 +27253,10 @@
   },
   {
     "fi": "ikkuna",
-    "en": "window",
+    "en": [
+      "window",
+      "sash"
+    ],
     "pos": "noun"
   },
   {
@@ -26034,7 +27281,10 @@
   },
   {
     "fi": "äänestys",
-    "en": "vote",
+    "en": [
+      "vote",
+      "voting"
+    ],
     "pos": "noun"
   },
   {
@@ -26044,17 +27294,28 @@
   },
   {
     "fi": "kiltisti",
-    "en": "nicely",
+    "en": [
+      "nicely",
+      "kindly"
+    ],
     "pos": "adv"
   },
   {
     "fi": "kiinteistö",
-    "en": "property",
+    "en": [
+      "property",
+      "real property",
+      "building"
+    ],
     "pos": "noun"
   },
   {
     "fi": "ennakoida",
-    "en": "to anticipate",
+    "en": [
+      "to anticipate",
+      "to foreshadow",
+      "to predict"
+    ],
     "pos": "verb"
   },
   {
@@ -26069,7 +27330,10 @@
   },
   {
     "fi": "haju",
-    "en": "smell",
+    "en": [
+      "smell",
+      "clue"
+    ],
     "pos": "noun"
   },
   {
@@ -26094,7 +27358,10 @@
   },
   {
     "fi": "itkeä",
-    "en": "to cry",
+    "en": [
+      "to cry",
+      "to cry about"
+    ],
     "pos": "verb"
   },
   {
@@ -26109,7 +27376,10 @@
   },
   {
     "fi": "urheilija",
-    "en": "athlete",
+    "en": [
+      "athlete",
+      "sportsman"
+    ],
     "pos": "noun"
   },
   {
@@ -26129,7 +27399,10 @@
   },
   {
     "fi": "kahvi",
-    "en": "coffee",
+    "en": [
+      "coffee",
+      "coffee meeting"
+    ],
     "pos": "noun"
   },
   {
@@ -26149,12 +27422,19 @@
   },
   {
     "fi": "hyökätä",
-    "en": "to attack",
+    "en": [
+      "to attack",
+      "to invade"
+    ],
     "pos": "verb"
   },
   {
     "fi": "paketti",
-    "en": "package",
+    "en": [
+      "package",
+      "parcel",
+      "packet"
+    ],
     "pos": "noun"
   },
   {
@@ -26179,7 +27459,11 @@
   },
   {
     "fi": "rivi",
-    "en": "line",
+    "en": [
+      "line",
+      "row",
+      "rank"
+    ],
     "pos": "noun"
   },
   {
@@ -26199,7 +27483,10 @@
   },
   {
     "fi": "uni",
-    "en": "sleep",
+    "en": [
+      "sleep",
+      "dream"
+    ],
     "pos": "noun"
   },
   {
@@ -26212,7 +27499,10 @@
   },
   {
     "fi": "kolmannes",
-    "en": "third",
+    "en": [
+      "third",
+      "one-third"
+    ],
     "pos": "noun"
   },
   {
@@ -26222,17 +27512,28 @@
   },
   {
     "fi": "pystyyn",
-    "en": "up",
+    "en": [
+      "up",
+      "upright",
+      "standing"
+    ],
     "pos": "adv"
   },
   {
     "fi": "runo",
-    "en": "poem",
+    "en": [
+      "poem",
+      "rune",
+      "singer"
+    ],
     "pos": "noun"
   },
   {
     "fi": "toveri",
-    "en": "comrade",
+    "en": [
+      "comrade",
+      "companion"
+    ],
     "pos": "noun"
   },
   {
@@ -26257,12 +27558,18 @@
   },
   {
     "fi": "kaivaa",
-    "en": "to dig",
+    "en": [
+      "to dig",
+      "to dig up"
+    ],
     "pos": "verb"
   },
   {
     "fi": "upseeri",
-    "en": "officer",
+    "en": [
+      "officer",
+      "either a queen"
+    ],
     "pos": "noun"
   },
   {
@@ -26282,7 +27589,11 @@
   },
   {
     "fi": "karhu",
-    "en": "bear",
+    "en": [
+      "bear",
+      "brown bear",
+      "debtor"
+    ],
     "pos": "noun"
   },
   {
@@ -26292,17 +27603,26 @@
   },
   {
     "fi": "lakimies",
-    "en": "lawyer",
+    "en": [
+      "lawyer",
+      "jurist"
+    ],
     "pos": "noun"
   },
   {
     "fi": "moottori",
-    "en": "engine",
+    "en": [
+      "engine",
+      "motor"
+    ],
     "pos": "noun"
   },
   {
     "fi": "säälittävä",
-    "en": "pathetic",
+    "en": [
+      "pathetic",
+      "pitiful"
+    ],
     "pos": "adj"
   },
   {
@@ -26322,12 +27642,20 @@
   },
   {
     "fi": "lakko",
-    "en": "strike",
+    "en": [
+      "strike",
+      "abstinence",
+      "stoppage"
+    ],
     "pos": "noun"
   },
   {
     "fi": "istuin",
-    "en": "seat",
+    "en": [
+      "seat",
+      "see",
+      "sitting"
+    ],
     "pos": "noun"
   },
   {
@@ -26342,12 +27670,18 @@
   },
   {
     "fi": "tuottaja",
-    "en": "producer",
+    "en": [
+      "producer",
+      "autotroph"
+    ],
     "pos": "noun"
   },
   {
     "fi": "neuvosto",
-    "en": "council",
+    "en": [
+      "council",
+      "soviet"
+    ],
     "pos": "noun"
   },
   {
@@ -26367,12 +27701,18 @@
   },
   {
     "fi": "maajoukkue",
-    "en": "national team",
+    "en": [
+      "national team",
+      "national sports team"
+    ],
     "pos": "noun"
   },
   {
     "fi": "hiihto",
-    "en": "skiing",
+    "en": [
+      "skiing",
+      "ski competition"
+    ],
     "pos": "noun"
   },
   {
@@ -26382,7 +27722,11 @@
   },
   {
     "fi": "aloite",
-    "en": "initiative",
+    "en": [
+      "initiative",
+      "suggestion",
+      "motion"
+    ],
     "pos": "noun"
   },
   {
@@ -26392,7 +27736,11 @@
   },
   {
     "fi": "tulkinta",
-    "en": "interpretation",
+    "en": [
+      "interpretation",
+      "rendition",
+      "decipherment"
+    ],
     "pos": "noun"
   },
   {
@@ -26402,32 +27750,52 @@
   },
   {
     "fi": "kanava",
-    "en": "channel",
+    "en": [
+      "channel",
+      "canal",
+      "duct"
+    ],
     "pos": "noun"
   },
   {
     "fi": "valtiovarainministeri",
-    "en": "finance minister",
+    "en": [
+      "finance minister",
+      "minister of finance"
+    ],
     "pos": "noun"
   },
   {
     "fi": "liikunta",
-    "en": "exercise",
+    "en": [
+      "exercise",
+      "physical education"
+    ],
     "pos": "noun"
   },
   {
     "fi": "ilmiö",
-    "en": "phenomenon",
+    "en": [
+      "phenomenon",
+      "effect"
+    ],
     "pos": "noun"
   },
   {
     "fi": "avustus",
-    "en": "aid",
+    "en": [
+      "aid",
+      "relief",
+      "grant"
+    ],
     "pos": "noun"
   },
   {
     "fi": "kysellä",
-    "en": "to ask",
+    "en": [
+      "to ask",
+      "to poll"
+    ],
     "pos": "verb"
   },
   {
@@ -26452,7 +27820,10 @@
   },
   {
     "fi": "alkoholi",
-    "en": "alcohol",
+    "en": [
+      "alcohol",
+      "alcoholic"
+    ],
     "pos": "noun"
   },
   {
@@ -26477,12 +27848,19 @@
   },
   {
     "fi": "ulkopuolinen",
-    "en": "external",
+    "en": [
+      "external",
+      "out of it"
+    ],
     "pos": "adj"
   },
   {
     "fi": "sentti",
-    "en": "cent",
+    "en": [
+      "cent",
+      "one cent",
+      "centimetre"
+    ],
     "pos": "noun"
   },
   {
@@ -26492,22 +27870,36 @@
   },
   {
     "fi": "turva",
-    "en": "safety",
+    "en": [
+      "safety",
+      "protection",
+      "security"
+    ],
     "pos": "noun"
   },
   {
     "fi": "kaltainen",
-    "en": "like",
+    "en": [
+      "like",
+      "-like"
+    ],
     "pos": "adj"
   },
   {
     "fi": "luottamus",
-    "en": "confidence",
+    "en": [
+      "confidence",
+      "trust"
+    ],
     "pos": "noun"
   },
   {
     "fi": "selkä",
-    "en": "back",
+    "en": [
+      "back",
+      "ridge",
+      "open water"
+    ],
     "pos": "noun"
   },
   {
@@ -26532,7 +27924,10 @@
   },
   {
     "fi": "kruunu",
-    "en": "crown",
+    "en": [
+      "crown",
+      "krona"
+    ],
     "pos": "noun"
   },
   {
@@ -26557,7 +27952,10 @@
   },
   {
     "fi": "kulu",
-    "en": "expense",
+    "en": [
+      "expense",
+      "worn out thing"
+    ],
     "pos": "noun"
   },
   {
@@ -26577,7 +27975,11 @@
   },
   {
     "fi": "kaavailla",
-    "en": "to plan",
+    "en": [
+      "to plan",
+      "to outline",
+      "to envisage"
+    ],
     "pos": "verb"
   },
   {
@@ -26587,7 +27989,11 @@
   },
   {
     "fi": "kokeilu",
-    "en": "experiment",
+    "en": [
+      "experiment",
+      "test",
+      "experimentation"
+    ],
     "pos": "noun"
   },
   {
@@ -26607,12 +28013,19 @@
   },
   {
     "fi": "polvi",
-    "en": "knee",
+    "en": [
+      "knee",
+      "stifle",
+      "loop"
+    ],
     "pos": "noun"
   },
   {
     "fi": "pyörä",
-    "en": "wheel",
+    "en": [
+      "wheel",
+      "caster"
+    ],
     "pos": "noun"
   },
   {
@@ -26622,7 +28035,10 @@
   },
   {
     "fi": "hakija",
-    "en": "applicant",
+    "en": [
+      "applicant",
+      "retriever"
+    ],
     "pos": "noun"
   },
   {
@@ -26640,12 +28056,19 @@
   },
   {
     "fi": "este",
-    "en": "barrier",
+    "en": [
+      "barrier",
+      "obstacle",
+      "hurdle"
+    ],
     "pos": "noun"
   },
   {
     "fi": "seminaari",
-    "en": "seminar",
+    "en": [
+      "seminar",
+      "seminary"
+    ],
     "pos": "noun"
   },
   {
@@ -26655,17 +28078,26 @@
   },
   {
     "fi": "liha",
-    "en": "meat",
+    "en": [
+      "meat",
+      "flesh"
+    ],
     "pos": "noun"
   },
   {
     "fi": "tuomioistuin",
-    "en": "court",
+    "en": [
+      "court",
+      "court of law"
+    ],
     "pos": "noun"
   },
   {
     "fi": "puisto",
-    "en": "park",
+    "en": [
+      "park",
+      "dense forest"
+    ],
     "pos": "noun"
   },
   {
@@ -26685,7 +28117,10 @@
   },
   {
     "fi": "litra",
-    "en": "liter",
+    "en": [
+      "liter",
+      "litre/liter"
+    ],
     "pos": "noun"
   },
   {
@@ -26700,7 +28135,10 @@
   },
   {
     "fi": "matkailu",
-    "en": "tourism",
+    "en": [
+      "tourism",
+      "travel"
+    ],
     "pos": "noun"
   },
   {
@@ -26715,7 +28153,11 @@
   },
   {
     "fi": "neliö",
-    "en": "square",
+    "en": [
+      "square",
+      "four-room apartment",
+      "quarter"
+    ],
     "pos": "noun"
   },
   {
@@ -26725,7 +28167,11 @@
   },
   {
     "fi": "vapaus",
-    "en": "freedom",
+    "en": [
+      "freedom",
+      "liberty",
+      "licence"
+    ],
     "pos": "noun"
   },
   {
@@ -26735,12 +28181,20 @@
   },
   {
     "fi": "näyttö",
-    "en": "display",
+    "en": [
+      "display",
+      "monitor",
+      "showing"
+    ],
     "pos": "noun"
   },
   {
     "fi": "seisoa",
-    "en": "to stand",
+    "en": [
+      "to stand",
+      "to be still",
+      "to lie unused"
+    ],
     "pos": "verb"
   },
   {
@@ -26778,32 +28232,54 @@
   },
   {
     "fi": "kaava",
-    "en": "formula",
+    "en": [
+      "formula",
+      "pattern",
+      "zoning plan"
+    ],
     "pos": "noun"
   },
   {
     "fi": "ohjelmisto",
-    "en": "software",
+    "en": [
+      "software",
+      "repertoire",
+      "programming"
+    ],
     "pos": "noun"
   },
   {
     "fi": "hahmo",
-    "en": "character",
+    "en": [
+      "character",
+      "shape",
+      "figure"
+    ],
     "pos": "noun"
   },
   {
     "fi": "pronssi",
-    "en": "bronze",
+    "en": [
+      "bronze",
+      "third place"
+    ],
     "pos": "noun"
   },
   {
     "fi": "ilmainen",
-    "en": "free",
+    "en": [
+      "free",
+      "free of charge"
+    ],
     "pos": "adj"
   },
   {
     "fi": "synnyttää",
-    "en": "to bear",
+    "en": [
+      "to bear",
+      "to deliver",
+      "to drop"
+    ],
     "pos": "verb"
   },
   {
@@ -26823,17 +28299,26 @@
   },
   {
     "fi": "jalkapallo",
-    "en": "football",
+    "en": [
+      "football",
+      "association football"
+    ],
     "pos": "noun"
   },
   {
     "fi": "filmi",
-    "en": "film",
+    "en": [
+      "film",
+      "movie"
+    ],
     "pos": "noun"
   },
   {
     "fi": "etusivu",
-    "en": "front page",
+    "en": [
+      "front page",
+      "front side"
+    ],
     "pos": "noun"
   },
   {
@@ -26843,7 +28328,11 @@
   },
   {
     "fi": "leipä",
-    "en": "bread",
+    "en": [
+      "bread",
+      "loaf",
+      "sandwich"
+    ],
     "pos": "noun"
   },
   {
@@ -26863,7 +28352,10 @@
   },
   {
     "fi": "vastaanotto",
-    "en": "reception",
+    "en": [
+      "reception",
+      "welcome"
+    ],
     "pos": "noun"
   },
   {
@@ -26873,7 +28365,11 @@
   },
   {
     "fi": "ketju",
-    "en": "chain",
+    "en": [
+      "chain",
+      "line",
+      "thread"
+    ],
     "pos": "noun"
   },
   {
@@ -26883,22 +28379,35 @@
   },
   {
     "fi": "rangaistus",
-    "en": "penalty",
+    "en": [
+      "penalty",
+      "punishment",
+      "comeuppance"
+    ],
     "pos": "noun"
   },
   {
     "fi": "korva",
-    "en": "ear",
+    "en": [
+      "ear",
+      "edge"
+    ],
     "pos": "noun"
   },
   {
     "fi": "yksilö",
-    "en": "individual",
+    "en": [
+      "individual",
+      "specimen"
+    ],
     "pos": "noun"
   },
   {
     "fi": "lentokenttä",
-    "en": "airport",
+    "en": [
+      "airport",
+      "airfield"
+    ],
     "pos": "noun"
   },
   {
@@ -26913,7 +28422,11 @@
   },
   {
     "fi": "lupaus",
-    "en": "promise",
+    "en": [
+      "promise",
+      "rising star",
+      "nomination whist"
+    ],
     "pos": "noun"
   },
   {
@@ -26933,17 +28446,27 @@
   },
   {
     "fi": "haitata",
-    "en": "to hinder",
+    "en": [
+      "to hinder",
+      "to hamper",
+      "to bother"
+    ],
     "pos": "verb"
   },
   {
     "fi": "kulutus",
-    "en": "consumption",
+    "en": [
+      "consumption",
+      "expenditure"
+    ],
     "pos": "noun"
   },
   {
     "fi": "teho",
-    "en": "power",
+    "en": [
+      "power",
+      "throughput"
+    ],
     "pos": "noun"
   },
   {
@@ -26958,7 +28481,11 @@
   },
   {
     "fi": "luonne",
-    "en": "character",
+    "en": [
+      "character",
+      "personality",
+      "nature"
+    ],
     "pos": "noun"
   },
   {
@@ -26978,12 +28505,19 @@
   },
   {
     "fi": "väite",
-    "en": "claim",
+    "en": [
+      "claim",
+      "proposition",
+      "report"
+    ],
     "pos": "noun"
   },
   {
     "fi": "prosessi",
-    "en": "process",
+    "en": [
+      "process",
+      "trial"
+    ],
     "pos": "noun"
   },
   {
@@ -26993,22 +28527,35 @@
   },
   {
     "fi": "rahasto",
-    "en": "fund",
+    "en": [
+      "fund",
+      "war chest"
+    ],
     "pos": "noun"
   },
   {
     "fi": "kirjoitus",
-    "en": "writing",
+    "en": [
+      "writing",
+      "article",
+      "scripture"
+    ],
     "pos": "noun"
   },
   {
     "fi": "ulottuvuus",
-    "en": "dimension",
+    "en": [
+      "dimension",
+      "reach"
+    ],
     "pos": "noun"
   },
   {
     "fi": "myyjä",
-    "en": "seller",
+    "en": [
+      "seller",
+      "salesman"
+    ],
     "pos": "noun"
   },
   {
@@ -27028,7 +28575,11 @@
   },
   {
     "fi": "kotka",
-    "en": "Kotka",
+    "en": [
+      "Kotka",
+      "eagle",
+      "golden eagle"
+    ],
     "pos": "noun"
   },
   {
@@ -27063,7 +28614,10 @@
   },
   {
     "fi": "pääoma",
-    "en": "capital",
+    "en": [
+      "capital",
+      "best grains"
+    ],
     "pos": "noun"
   },
   {
@@ -27073,7 +28627,10 @@
   },
   {
     "fi": "mielenosoitus",
-    "en": "demonstration",
+    "en": [
+      "demonstration",
+      "protest"
+    ],
     "pos": "noun"
   },
   {
@@ -27088,7 +28645,11 @@
   },
   {
     "fi": "kokoonpano",
-    "en": "composition",
+    "en": [
+      "composition",
+      "assembly",
+      "lineup"
+    ],
     "pos": "noun"
   },
   {
@@ -27098,7 +28659,11 @@
   },
   {
     "fi": "hyppy",
-    "en": "jump",
+    "en": [
+      "jump",
+      "leap",
+      "vault"
+    ],
     "pos": "noun"
   },
   {
@@ -27113,17 +28678,27 @@
   },
   {
     "fi": "puhemies",
-    "en": "speaker",
+    "en": [
+      "speaker",
+      "chairman",
+      "spokesman"
+    ],
     "pos": "noun"
   },
   {
     "fi": "vankeus",
-    "en": "imprisonment",
+    "en": [
+      "imprisonment",
+      "captivity"
+    ],
     "pos": "noun"
   },
   {
     "fi": "sauna",
-    "en": "sauna",
+    "en": [
+      "sauna",
+      "very hot place"
+    ],
     "pos": "noun"
   },
   {
@@ -27133,7 +28708,10 @@
   },
   {
     "fi": "tehokkaasti",
-    "en": "effectively",
+    "en": [
+      "effectively",
+      "efficiently"
+    ],
     "pos": "adv"
   },
   {
@@ -27158,7 +28736,10 @@
   },
   {
     "fi": "olympialainen",
-    "en": "Olympian",
+    "en": [
+      "Olympian",
+      "olympic"
+    ],
     "pos": "adj"
   },
   {
@@ -27178,22 +28759,37 @@
   },
   {
     "fi": "hyvinvointi",
-    "en": "welfare",
+    "en": [
+      "welfare",
+      "well-being",
+      "wellness"
+    ],
     "pos": "noun"
   },
   {
     "fi": "kävijä",
-    "en": "visitor",
+    "en": [
+      "visitor",
+      "attender"
+    ],
     "pos": "noun"
   },
   {
     "fi": "nopeus",
-    "en": "speed",
+    "en": [
+      "speed",
+      "velocity",
+      "swiftness"
+    ],
     "pos": "noun"
   },
   {
     "fi": "siirto",
-    "en": "move",
+    "en": [
+      "move",
+      "shift",
+      "transfer"
+    ],
     "pos": "noun"
   },
   {
@@ -27218,12 +28814,19 @@
   },
   {
     "fi": "olennainen",
-    "en": "essential",
+    "en": [
+      "essential",
+      "material"
+    ],
     "pos": "adj"
   },
   {
     "fi": "harjoittelu",
-    "en": "practice",
+    "en": [
+      "practice",
+      "exercise",
+      "apprenticeship"
+    ],
     "pos": "noun"
   },
   {
@@ -27233,12 +28836,20 @@
   },
   {
     "fi": "valtakunta",
-    "en": "kingdom",
+    "en": [
+      "kingdom",
+      "realm",
+      "independent state"
+    ],
     "pos": "noun"
   },
   {
     "fi": "paino",
-    "en": "weight",
+    "en": [
+      "weight",
+      "stress",
+      "press"
+    ],
     "pos": "noun"
   },
   {
@@ -27258,12 +28869,20 @@
   },
   {
     "fi": "kuljetus",
-    "en": "transport",
+    "en": [
+      "transport",
+      "delivery",
+      "ride"
+    ],
     "pos": "noun"
   },
   {
     "fi": "oppi",
-    "en": "learning",
+    "en": [
+      "learning",
+      "training",
+      "lesson"
+    ],
     "pos": "noun"
   },
   {
@@ -27273,7 +28892,10 @@
   },
   {
     "fi": "varjo",
-    "en": "shadow",
+    "en": [
+      "shadow",
+      "shade"
+    ],
     "pos": "noun"
   },
   {
@@ -27283,7 +28905,11 @@
   },
   {
     "fi": "tiivis",
-    "en": "close",
+    "en": [
+      "close",
+      "tight",
+      "compact"
+    ],
     "pos": "adj"
   },
   {
@@ -27293,17 +28919,27 @@
   },
   {
     "fi": "loppuottelu",
-    "en": "final",
+    "en": [
+      "final",
+      "championship"
+    ],
     "pos": "noun"
   },
   {
     "fi": "jännittää",
-    "en": "to tense",
+    "en": [
+      "to tense",
+      "to tension",
+      "to flex"
+    ],
     "pos": "verb"
   },
   {
     "fi": "köyhä",
-    "en": "poor",
+    "en": [
+      "poor",
+      "hollow"
+    ],
     "pos": "adj"
   },
   {
@@ -27333,7 +28969,10 @@
   },
   {
     "fi": "palokunta",
-    "en": "fire brigade",
+    "en": [
+      "fire brigade",
+      "fire department"
+    ],
     "pos": "noun"
   },
   {
@@ -27348,17 +28987,29 @@
   },
   {
     "fi": "piirre",
-    "en": "feature",
+    "en": [
+      "feature",
+      "cast",
+      "trait"
+    ],
     "pos": "noun"
   },
   {
     "fi": "varustaa",
-    "en": "to equip",
+    "en": [
+      "to equip",
+      "to prepare",
+      "to outfit"
+    ],
     "pos": "verb"
   },
   {
     "fi": "ilmoittautua",
-    "en": "to register",
+    "en": [
+      "to register",
+      "to enrol/enroll in",
+      "to sign up for"
+    ],
     "pos": "verb"
   },
   {
@@ -27368,12 +29019,19 @@
   },
   {
     "fi": "komissaari",
-    "en": "commissioner",
+    "en": [
+      "commissioner",
+      "commissar"
+    ],
     "pos": "noun"
   },
   {
     "fi": "linna",
-    "en": "castle",
+    "en": [
+      "castle",
+      "palace",
+      "fort"
+    ],
     "pos": "noun"
   },
   {
@@ -27403,17 +29061,28 @@
   },
   {
     "fi": "tilaus",
-    "en": "order",
+    "en": [
+      "order",
+      "subscription",
+      "booking"
+    ],
     "pos": "noun"
   },
   {
     "fi": "läheinen",
-    "en": "close",
+    "en": [
+      "close",
+      "approximate"
+    ],
     "pos": "adj"
   },
   {
     "fi": "ilme",
-    "en": "expression",
+    "en": [
+      "expression",
+      "facial expression",
+      "air"
+    ],
     "pos": "noun"
   },
   {
@@ -27423,7 +29092,10 @@
   },
   {
     "fi": "keittiö",
-    "en": "kitchen",
+    "en": [
+      "kitchen",
+      "cuisine"
+    ],
     "pos": "noun"
   },
   {
@@ -27433,12 +29105,20 @@
   },
   {
     "fi": "haastaa",
-    "en": "to challenge",
+    "en": [
+      "to challenge",
+      "to defy",
+      "to summon"
+    ],
     "pos": "verb"
   },
   {
     "fi": "tuho",
-    "en": "destruction",
+    "en": [
+      "destruction",
+      "fall",
+      "doom"
+    ],
     "pos": "noun"
   },
   {
@@ -27458,17 +29138,28 @@
   },
   {
     "fi": "lämpö",
-    "en": "heat",
+    "en": [
+      "heat",
+      "warmth",
+      "fever"
+    ],
     "pos": "noun"
   },
   {
     "fi": "pääte",
-    "en": "terminal",
+    "en": [
+      "terminal",
+      "end",
+      "final"
+    ],
     "pos": "noun"
   },
   {
     "fi": "kuri",
-    "en": "discipline",
+    "en": [
+      "discipline",
+      "canyon"
+    ],
     "pos": "noun"
   },
   {
@@ -27478,12 +29169,19 @@
   },
   {
     "fi": "heikentää",
-    "en": "to weaken",
+    "en": [
+      "to weaken",
+      "to undermine",
+      "to deteriorate"
+    ],
     "pos": "verb"
   },
   {
     "fi": "korkeus",
-    "en": "height",
+    "en": [
+      "height",
+      "headroom"
+    ],
     "pos": "noun"
   },
   {
@@ -27493,12 +29191,19 @@
   },
   {
     "fi": "ristiriita",
-    "en": "conflict",
+    "en": [
+      "conflict",
+      "contradiction",
+      "disagreement"
+    ],
     "pos": "noun"
   },
   {
     "fi": "iloita",
-    "en": "to rejoice",
+    "en": [
+      "to rejoice",
+      "to be happy"
+    ],
     "pos": "verb"
   },
   {
@@ -27508,7 +29213,10 @@
   },
   {
     "fi": "hymyillä",
-    "en": "to with a smile",
+    "en": [
+      "to with a smile",
+      "to smile"
+    ],
     "pos": "verb"
   },
   {
@@ -27518,12 +29226,20 @@
   },
   {
     "fi": "järki",
-    "en": "reason",
+    "en": [
+      "reason",
+      "sense",
+      "logic"
+    ],
     "pos": "noun"
   },
   {
     "fi": "jono",
-    "en": "queue",
+    "en": [
+      "queue",
+      "line",
+      "range"
+    ],
     "pos": "noun"
   },
   {
@@ -27533,7 +29249,10 @@
   },
   {
     "fi": "suojelu",
-    "en": "protection",
+    "en": [
+      "protection",
+      "conservation"
+    ],
     "pos": "noun"
   },
   {
@@ -27576,7 +29295,10 @@
   },
   {
     "fi": "yhteistyökumppani",
-    "en": "partner",
+    "en": [
+      "partner",
+      "cooperation partner"
+    ],
     "pos": "noun"
   },
   {
@@ -27601,7 +29323,10 @@
   },
   {
     "fi": "puite",
-    "en": "framework",
+    "en": [
+      "framework",
+      "frame"
+    ],
     "pos": "noun"
   },
   {
@@ -27611,17 +29336,27 @@
   },
   {
     "fi": "lehto",
-    "en": "grove",
+    "en": [
+      "grove",
+      "broad deciduous woodland",
+      "deciduous forest"
+    ],
     "pos": "noun"
   },
   {
     "fi": "silloinen",
-    "en": "then",
+    "en": [
+      "then",
+      "of that time"
+    ],
     "pos": "adj"
   },
   {
     "fi": "puolustusministeri",
-    "en": "defense secretary",
+    "en": [
+      "defense secretary",
+      "minister of defense"
+    ],
     "pos": "noun"
   },
   {
@@ -27641,7 +29376,10 @@
   },
   {
     "fi": "lapsuus",
-    "en": "childhood",
+    "en": [
+      "childhood",
+      "infancy"
+    ],
     "pos": "noun"
   },
   {
@@ -27651,12 +29389,18 @@
   },
   {
     "fi": "vahvuus",
-    "en": "strength",
+    "en": [
+      "strength",
+      "muster"
+    ],
     "pos": "noun"
   },
   {
     "fi": "sopu",
-    "en": "agreement",
+    "en": [
+      "agreement",
+      "harmony"
+    ],
     "pos": "noun"
   },
   {
@@ -27666,12 +29410,18 @@
   },
   {
     "fi": "kukka",
-    "en": "flower",
+    "en": [
+      "flower",
+      "cannabis"
+    ],
     "pos": "noun"
   },
   {
     "fi": "siimes",
-    "en": "shade",
+    "en": [
+      "shade",
+      "twilight"
+    ],
     "pos": "noun"
   },
   {
@@ -27691,7 +29441,11 @@
   },
   {
     "fi": "tavanomainen",
-    "en": "conventional",
+    "en": [
+      "conventional",
+      "commonplace",
+      "ordinary"
+    ],
     "pos": "adj"
   },
   {
@@ -27701,7 +29455,10 @@
   },
   {
     "fi": "juhannus",
-    "en": "Midsummer",
+    "en": [
+      "Midsummer",
+      "midsummer day"
+    ],
     "pos": "noun"
   },
   {
@@ -27716,12 +29473,19 @@
   },
   {
     "fi": "lohko",
-    "en": "block",
+    "en": [
+      "block",
+      "lobe",
+      "section"
+    ],
     "pos": "noun"
   },
   {
     "fi": "kokoinen",
-    "en": "-size",
+    "en": [
+      "-size",
+      "sized"
+    ],
     "pos": "adj"
   },
   {
@@ -27731,12 +29495,18 @@
   },
   {
     "fi": "keskiarvo",
-    "en": "average",
+    "en": [
+      "average",
+      "mean"
+    ],
     "pos": "noun"
   },
   {
     "fi": "maltillinen",
-    "en": "moderate",
+    "en": [
+      "moderate",
+      "calm"
+    ],
     "pos": "adj"
   },
   {
@@ -27746,7 +29516,10 @@
   },
   {
     "fi": "poikkeus",
-    "en": "exception",
+    "en": [
+      "exception",
+      "anomaly"
+    ],
     "pos": "noun"
   },
   {
@@ -27756,7 +29529,10 @@
   },
   {
     "fi": "vakuutus",
-    "en": "insurance",
+    "en": [
+      "insurance",
+      "assurance"
+    ],
     "pos": "noun"
   },
   {
@@ -27766,7 +29542,11 @@
   },
   {
     "fi": "lehmä",
-    "en": "cow",
+    "en": [
+      "cow",
+      "any female ruminant",
+      "heifer"
+    ],
     "pos": "noun"
   },
   {
@@ -27781,7 +29561,10 @@
   },
   {
     "fi": "koskettaa",
-    "en": "to touch",
+    "en": [
+      "to touch",
+      "to affect"
+    ],
     "pos": "verb"
   },
   {
@@ -27791,7 +29574,10 @@
   },
   {
     "fi": "matkailija",
-    "en": "tourist",
+    "en": [
+      "tourist",
+      "traveler"
+    ],
     "pos": "noun"
   },
   {
@@ -27816,12 +29602,19 @@
   },
   {
     "fi": "varmuus",
-    "en": "certainty",
+    "en": [
+      "certainty",
+      "assurance",
+      "positivity"
+    ],
     "pos": "noun"
   },
   {
     "fi": "valtiovarainministeriö",
-    "en": "Treasury",
+    "en": [
+      "Treasury",
+      "ministry of finance"
+    ],
     "pos": "noun"
   },
   {
@@ -27841,7 +29634,10 @@
   },
   {
     "fi": "fuusio",
-    "en": "fusion",
+    "en": [
+      "fusion",
+      "merger"
+    ],
     "pos": "noun"
   },
   {
@@ -27861,7 +29657,10 @@
   },
   {
     "fi": "reilusti",
-    "en": "well",
+    "en": [
+      "well",
+      "fairly"
+    ],
     "pos": "adv"
   },
   {
@@ -27906,7 +29705,11 @@
   },
   {
     "fi": "suuruus",
-    "en": "magnitude",
+    "en": [
+      "magnitude",
+      "size",
+      "largeness"
+    ],
     "pos": "noun"
   },
   {
@@ -27921,7 +29724,10 @@
   },
   {
     "fi": "potku",
-    "en": "kick",
+    "en": [
+      "kick",
+      "recoil"
+    ],
     "pos": "noun"
   },
   {
@@ -27931,7 +29737,11 @@
   },
   {
     "fi": "lukko",
-    "en": "lock",
+    "en": [
+      "lock",
+      "bolt",
+      "clasp"
+    ],
     "pos": "noun"
   },
   {
@@ -27941,12 +29751,20 @@
   },
   {
     "fi": "toimitus",
-    "en": "delivery",
+    "en": [
+      "delivery",
+      "ceremony",
+      "publication"
+    ],
     "pos": "noun"
   },
   {
     "fi": "leimata",
-    "en": "to stamp",
+    "en": [
+      "to stamp",
+      "to punch",
+      "to denounce"
+    ],
     "pos": "verb"
   },
   {
@@ -27961,7 +29779,11 @@
   },
   {
     "fi": "säätää",
-    "en": "to adjust",
+    "en": [
+      "to adjust",
+      "to enact",
+      "to do"
+    ],
     "pos": "verb"
   },
   {
@@ -27976,7 +29798,10 @@
   },
   {
     "fi": "laukaus",
-    "en": "shot",
+    "en": [
+      "shot",
+      "gunshot"
+    ],
     "pos": "noun"
   },
   {
@@ -27991,12 +29816,20 @@
   },
   {
     "fi": "ikäinen",
-    "en": "aged",
+    "en": [
+      "aged",
+      "old",
+      "of one's age"
+    ],
     "pos": "adj"
   },
   {
     "fi": "sävy",
-    "en": "tone",
+    "en": [
+      "tone",
+      "hue",
+      "tinge"
+    ],
     "pos": "noun"
   },
   {
@@ -28026,7 +29859,10 @@
   },
   {
     "fi": "päivähoito",
-    "en": "day care",
+    "en": [
+      "day care",
+      "daycare"
+    ],
     "pos": "noun"
   },
   {
@@ -28036,12 +29872,19 @@
   },
   {
     "fi": "tasapaino",
-    "en": "balance",
+    "en": [
+      "balance",
+      "equilibrium"
+    ],
     "pos": "noun"
   },
   {
     "fi": "siipi",
-    "en": "wing",
+    "en": [
+      "wing",
+      "sail",
+      "mouldboard"
+    ],
     "pos": "noun"
   },
   {
@@ -28056,7 +29899,10 @@
   },
   {
     "fi": "huolestuttaa",
-    "en": "to concern",
+    "en": [
+      "to concern",
+      "to worry"
+    ],
     "pos": "verb"
   },
   {
@@ -28066,12 +29912,18 @@
   },
   {
     "fi": "oire",
-    "en": "symptom",
+    "en": [
+      "symptom",
+      "sign"
+    ],
     "pos": "noun"
   },
   {
     "fi": "ajoneuvo",
-    "en": "vehicle",
+    "en": [
+      "vehicle",
+      "free-moving ground vehicle"
+    ],
     "pos": "noun"
   },
   {
@@ -28101,12 +29953,20 @@
   },
   {
     "fi": "nuorukainen",
-    "en": "youngster",
+    "en": [
+      "youngster",
+      "young man",
+      "young person"
+    ],
     "pos": "noun"
   },
   {
     "fi": "hammas",
-    "en": "tooth",
+    "en": [
+      "tooth",
+      "sprocket",
+      "tine"
+    ],
     "pos": "noun"
   },
   {
@@ -28131,7 +29991,10 @@
   },
   {
     "fi": "suunnittelija",
-    "en": "designer",
+    "en": [
+      "designer",
+      "planner"
+    ],
     "pos": "noun"
   },
   {
@@ -28146,12 +30009,20 @@
   },
   {
     "fi": "säveltää",
-    "en": "to compose",
+    "en": [
+      "to compose",
+      "to set to music",
+      "to make up"
+    ],
     "pos": "verb"
   },
   {
     "fi": "lasi",
-    "en": "glass",
+    "en": [
+      "glass",
+      "bells",
+      "ice"
+    ],
     "pos": "noun"
   },
   {
@@ -28166,7 +30037,10 @@
   },
   {
     "fi": "avustaa",
-    "en": "to assist",
+    "en": [
+      "to assist",
+      "to abet"
+    ],
     "pos": "verb"
   },
   {
@@ -28179,12 +30053,19 @@
   },
   {
     "fi": "irtisanominen",
-    "en": "termination",
+    "en": [
+      "termination",
+      "termination of employment"
+    ],
     "pos": "noun"
   },
   {
     "fi": "saalis",
-    "en": "catch",
+    "en": [
+      "catch",
+      "prey",
+      "kill"
+    ],
     "pos": "noun"
   },
   {
