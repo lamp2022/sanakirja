@@ -162,7 +162,14 @@ primary_override = {
 # ── Step 3: merge ─────────────────────────────────────────────────────────────
 
 def get_kaikki_glosses(fi, pos_hint=''):
-    """Collect glosses from kaikki for this lemma, all POS combined."""
+    """Collect glosses from kaikki for this lemma.
+
+    If pos_hint is given, prefer glosses for that POS — avoids polysemy
+    collapse where a noun homograph absorbs verb glosses (or vice versa).
+    Falls back to all-POS glosses if kaikki has no entry for the hinted POS.
+    """
+    pos_norm = pos_hint.lower().strip() if pos_hint else ''
+    pos_match = []
     all_glosses = []
     for key, glosses in kaikki_glosses.items():
         k_lemma, k_pos = key.split('|', 1)
@@ -170,7 +177,9 @@ def get_kaikki_glosses(fi, pos_hint=''):
             for g in glosses:
                 if g not in all_glosses:
                     all_glosses.append(g)
-    return all_glosses
+                if pos_norm and k_pos.lower() == pos_norm and g not in pos_match:
+                    pos_match.append(g)
+    return pos_match if pos_match else all_glosses
 
 
 def normalize(s):
@@ -198,8 +207,8 @@ for entry in data:
 
     primary = re.sub(r' +', ' ', primary).strip()
 
-    # Secondary: from kaikki, different from primary
-    kaikki = get_kaikki_glosses(fi)
+    # Secondary: from kaikki, different from primary; filter by entry POS
+    kaikki = get_kaikki_glosses(fi, entry.get('pos', ''))
     meanings = [primary]
     seen = {normalize(primary)}
     for g in kaikki:

@@ -22,7 +22,9 @@ NOISE_PATTERNS = [
 
 
 def normalize(s):
-    return re.sub(r'^(to |a |an )', '', s.lower().strip())
+    # Strip indefinite articles only — keep 'to ' so verb/noun homographs
+    # ('to lock' vs 'lock') stay as separate EN→FI entries.
+    return re.sub(r'^(a |an )', '', s.lower().strip())
 
 
 def is_bad_en(s):

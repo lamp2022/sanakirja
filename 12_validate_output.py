@@ -4,18 +4,25 @@ Step 12: Validate data.json for quality and completeness.
 Run: python3 12_validate_output.py
 Exits 0 on success, 1 on failure.
 """
-import json, re, sys
+import json, sys
+from utils import should_skip_gloss
 
 OUTPUT       = "data.json"
 MIN_ROWS     = 1000
 MAX_ROWS     = 5000
 
-SKIP_PATTERNS = [
-    r"inflection of", r"plural of", r"past participle",
-    r"third.person", r"first.person", r"second.person",
-    r"alternative form of", r"obsolete form of",
-    r"definite singular", r"definite plural",
-]
+# Translation fields where an inflection-reference value is illegal.
+# 'fi' is the Finnish lemma itself; 'pos' is just a category; neither
+# benefits from the inflection-skip check.
+TRANSLATION_FIELDS = {"en", "sv", "it", "fr", "de"}
+
+
+def _is_inflection_ref(v):
+    if isinstance(v, str):
+        return should_skip_gloss(v)
+    if isinstance(v, list):
+        return any(isinstance(x, str) and should_skip_gloss(x) for x in v)
+    return False
 
 
 def main():
@@ -36,10 +43,9 @@ def main():
         for k, v in row.items():
             if v == "":
                 errors.append(f"{label}: empty string for '{k}' (omit key instead)")
-            if isinstance(v, str):
-                for pat in SKIP_PATTERNS:
-                    if re.search(pat, v, re.IGNORECASE):
-                        errors.append(f"{label}: '{k}' contains skip pattern: {v[:60]}")
+            if k in TRANSLATION_FIELDS and _is_inflection_ref(v):
+                preview = v if isinstance(v, str) else " | ".join(map(str, v))
+                errors.append(f"{label}: '{k}' is an inflection ref: {preview[:60]}")
 
         fi = row.get("fi")
         if fi:

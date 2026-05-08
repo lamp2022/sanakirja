@@ -18,9 +18,20 @@ SKIP_PREFIXES = (
 
 # Catch Finnish/Germanic inflection references anywhere in gloss
 SKIP_CONTAINS = (
-    "singular of", "plural of", " form of", " case of",
+    "singular of", "plural of", " case of",
     "participle of", "connegative of", " tense of", "potential of",
     "verbal noun of", "infinitive of",
+)
+
+# Match "<inflection-prefix> form of …" — distinguishes inflection refs
+# like "plural form of dog" from legit phrases like "a form of address".
+SKIP_FORM_OF = re.compile(
+    r"\b(plural|singular|genitive|partitive|inessive|elative|illative|"
+    r"adessive|ablative|allative|essive|translative|abessive|comitative|"
+    r"instructive|nominative|accusative|dative|absolute|comparative|"
+    r"superlative|past|present|definite|indefinite|construct|alternative|"
+    r"obsolete|archaic|dated|written|spoken|colloquial|elliptical) form of\b",
+    re.IGNORECASE,
 )
 
 POS_NORMALIZE = {
@@ -67,7 +78,13 @@ def should_skip_gloss(gloss: str | None) -> bool:
     if not gloss:
         return True
     g = gloss.strip().lower()
-    return any(g.startswith(p) for p in SKIP_PREFIXES) or any(p in g for p in SKIP_CONTAINS)
+    if any(g.startswith(p) for p in SKIP_PREFIXES):
+        return True
+    if any(p in g for p in SKIP_CONTAINS):
+        return True
+    if SKIP_FORM_OF.search(g):
+        return True
+    return False
 
 
 def is_content_pos(pos: str) -> bool:
