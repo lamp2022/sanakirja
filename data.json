@@ -416,7 +416,8 @@
     "fi": "joka",
     "en": [
       "which",
-      "who"
+      "who",
+      "every"
     ],
     "sv": "som",
     "it": "che",
@@ -971,7 +972,8 @@
     "en": [
       "activities",
       "action",
-      "operation"
+      "operation",
+      "activity"
     ],
     "sv": "åtgärd",
     "it": "azione",
@@ -1059,7 +1061,11 @@
   },
   {
     "fi": "aloittaa",
-    "en": "to start",
+    "en": [
+      "to start",
+      "to begin",
+      "to initiate"
+    ],
     "sv": "start",
     "it": "avvio",
     "fr": "démarrer",
@@ -1091,7 +1097,9 @@
     "fi": "jatkaa",
     "en": [
       "to continue",
-      "to extend"
+      "to extend",
+      "to proceed",
+      "resume"
     ],
     "sv": "fortsätta",
     "it": "continuare",
@@ -1411,7 +1419,10 @@
   },
   {
     "fi": "saksa",
-    "en": "Germany",
+    "en": [
+      "Germany",
+      "German"
+    ],
     "pos": "name"
   },
   {
@@ -1425,7 +1436,8 @@
     "fi": "yrittää",
     "en": [
       "to try",
-      "to run an enterprise"
+      "to run an enterprise",
+      "attempt"
     ],
     "sv": "testa",
     "it": "provare",
@@ -2168,7 +2180,8 @@
     "fi": "arvo",
     "en": [
       "value",
-      "rank"
+      "rank",
+      "worth"
     ],
     "sv": "värde",
     "it": "valore",
@@ -2437,7 +2450,10 @@
   },
   {
     "fi": "ranska",
-    "en": "France",
+    "en": [
+      "France",
+      "French"
+    ],
     "sv": "fransk",
     "it": "francese",
     "fr": "français",
@@ -2695,7 +2711,10 @@
   },
   {
     "fi": "kansa",
-    "en": "people",
+    "en": [
+      "people",
+      "nation"
+    ],
     "sv": "folk",
     "it": "popolo",
     "fr": "peuple",
@@ -2875,7 +2894,8 @@
     "fi": "vauhti",
     "en": [
       "rate",
-      "speed"
+      "speed",
+      "pace"
     ],
     "sv": "fart",
     "it": "velocità",
@@ -2991,7 +3011,10 @@
   },
   {
     "fi": "nopea",
-    "en": "fast",
+    "en": [
+      "fast",
+      "rapid"
+    ],
     "sv": "snabb",
     "it": "veloce",
     "fr": "rapide",
@@ -3064,7 +3087,8 @@
     "fi": "pyytää",
     "en": [
       "to request",
-      "to ask"
+      "to ask",
+      "request"
     ],
     "sv": "fråga",
     "it": "chiedere",
@@ -3217,7 +3241,8 @@
     "fi": "soittaa",
     "en": [
       "to call",
-      "to play"
+      "to play",
+      "to ring"
     ],
     "sv": "spela",
     "it": "giocare",
@@ -3275,7 +3300,8 @@
     "fi": "piiri",
     "en": [
       "circuit",
-      "ring"
+      "ring",
+      "district"
     ],
     "sv": "ring",
     "fr": "bague",
@@ -3644,7 +3670,8 @@
     "en": [
       "to prohibit",
       "to forbid",
-      "to deny"
+      "to deny",
+      "ban"
     ],
     "sv": "förbjuda",
     "it": "vietare",
@@ -3677,7 +3704,8 @@
     "fi": "estää",
     "en": [
       "to prevent",
-      "to block"
+      "to block",
+      "to hinder"
     ],
     "sv": "hindra",
     "it": "impedire",
@@ -3726,7 +3754,10 @@
   },
   {
     "fi": "varma",
-    "en": "sure",
+    "en": [
+      "sure",
+      "certain"
+    ],
     "fr": "sûr",
     "pos": "adj"
   },
@@ -3763,7 +3794,8 @@
     "fi": "vaihtaa",
     "en": [
       "to change",
-      "to exchange"
+      "to exchange",
+      "swap"
     ],
     "sv": "ändra",
     "it": "trasformare",
@@ -3803,7 +3835,10 @@
   },
   {
     "fi": "italia",
-    "en": "Italy",
+    "en": [
+      "Italy",
+      "Italian"
+    ],
     "it": "italiano",
     "fr": "italien",
     "de": "Italiener",
@@ -3889,7 +3924,8 @@
     "fi": "toimi",
     "en": [
       "action",
-      "chore"
+      "chore",
+      "activities"
     ],
     "pos": "noun"
   },
@@ -4061,7 +4097,8 @@
     "fi": "arvio",
     "en": [
       "estimate",
-      "review"
+      "review",
+      "evaluation"
     ],
     "it": "preventivo",
     "de": "Schätzung",
@@ -4257,7 +4294,8 @@
     "fi": "väittää",
     "en": [
       "to claim",
-      "to plead"
+      "to plead",
+      "to assert"
     ],
     "sv": "hävda",
     "fr": "prétendre",
@@ -4542,7 +4580,8 @@
     "fi": "palkita",
     "en": [
       "to recognize",
-      "to reward"
+      "to reward",
+      "reward"
     ],
     "sv": "lön",
     "de": "belohnen",
@@ -4829,7 +4868,8 @@
     "fi": "puute",
     "en": [
       "lack of",
-      "lack"
+      "lack",
+      "shortage"
     ],
     "sv": "brist",
     "it": "mancanza",
@@ -4879,7 +4919,10 @@
   },
   {
     "fi": "tanska",
-    "en": "Denmark",
+    "en": [
+      "Denmark",
+      "Danish"
+    ],
     "sv": "dansk",
     "de": "dänisch",
     "pos": "noun"
@@ -5331,7 +5374,8 @@
     "fi": "kaveri",
     "en": [
       "guy",
-      "friend"
+      "friend",
+      "pal"
     ],
     "sv": "vän",
     "it": "amico",
@@ -6239,7 +6283,8 @@
     "fi": "herra",
     "en": [
       "Mr.",
-      "mister"
+      "mister",
+      "lord"
     ],
     "pos": "noun"
   },
@@ -6683,7 +6728,8 @@
     "fi": "rakas",
     "en": [
       "dear",
-      "darling"
+      "darling",
+      "beloved"
     ],
     "it": "caro",
     "fr": "cher",
@@ -7190,7 +7236,8 @@
     "fi": "ilkeä",
     "en": [
       "malicious",
-      "bad"
+      "bad",
+      "nasty"
     ],
     "sv": "dålig",
     "it": "cattivo",
@@ -7440,7 +7487,8 @@
     "fi": "sopiva",
     "en": [
       "suitable",
-      "proper"
+      "proper",
+      "appropriate"
     ],
     "sv": "lämplig",
     "it": "idoneo",
@@ -7704,7 +7752,8 @@
     "pos": "adv",
     "en": [
       "down",
-      "down with"
+      "down with",
+      "downwards"
     ]
   },
   {
@@ -7767,7 +7816,8 @@
     "pos": "adv",
     "en": [
       "still",
-      "onward"
+      "onward",
+      "further"
     ]
   },
   {
@@ -8081,7 +8131,10 @@
   {
     "fi": "yleensä",
     "pos": "adv",
-    "en": "usually"
+    "en": [
+      "usually",
+      "normally"
+    ]
   },
   {
     "fi": "luultavasti",
@@ -8553,7 +8606,8 @@
     "pos": "adv",
     "en": [
       "continually",
-      "continuously"
+      "continuously",
+      "constantly"
     ]
   },
   {
@@ -8692,7 +8746,10 @@
   {
     "fi": "vieressä",
     "pos": "postp",
-    "en": "next to"
+    "en": [
+      "next to",
+      "beside"
+    ]
   },
   {
     "fi": "etenkin",
@@ -9557,7 +9614,8 @@
     "pos": "verb",
     "en": [
       "to bait",
-      "to tempt"
+      "to tempt",
+      "to allure"
     ]
   },
   {
@@ -9693,7 +9751,9 @@
     "pos": "noun",
     "en": [
       "top",
-      "climax"
+      "climax",
+      "summit",
+      "peak"
     ]
   },
   {
@@ -9960,7 +10020,8 @@
     "en": [
       "to pour",
       "to knock/tip/turn over",
-      "dump"
+      "dump",
+      "to overthrow"
     ]
   },
   {
@@ -10960,7 +11021,10 @@
   {
     "fi": "rajoittaa",
     "pos": "verb",
-    "en": "to restrict"
+    "en": [
+      "to restrict",
+      "to limit"
+    ]
   },
   {
     "fi": "käynnistää",
@@ -10999,7 +11063,8 @@
     "pos": "noun",
     "en": [
       "two",
-      "number two"
+      "number two",
+      "deuce"
     ]
   },
   {
@@ -11613,7 +11678,9 @@
     "pos": "adj",
     "en": [
       "prominent",
-      "notable"
+      "notable",
+      "remarkable",
+      "considerable"
     ]
   },
   {
@@ -12363,7 +12430,8 @@
     "pos": "verb",
     "en": [
       "to assume",
-      "to premise"
+      "to premise",
+      "to suppose"
     ]
   },
   {
@@ -12592,7 +12660,8 @@
     "pos": "noun",
     "en": [
       "argument",
-      "rationale"
+      "rationale",
+      "justification"
     ]
   },
   {
@@ -13095,7 +13164,8 @@
     "pos": "verb",
     "en": [
       "to deduce",
-      "to fasten off"
+      "to fasten off",
+      "to conclude"
     ]
   },
   {
@@ -13487,7 +13557,8 @@
     "pos": "noun",
     "en": [
       "Briton",
-      "great britain"
+      "great britain",
+      "British"
     ]
   },
   {
@@ -13544,7 +13615,8 @@
     "pos": "noun",
     "en": [
       "material",
-      "ingredient"
+      "ingredient",
+      "constituent"
     ]
   },
   {
@@ -22032,7 +22104,8 @@
     "fi": "antaa",
     "en": [
       "to give",
-      "to allow"
+      "to allow",
+      "to yield"
     ],
     "pos": "verb"
   },
@@ -22226,7 +22299,10 @@
   },
   {
     "fi": "itse",
-    "en": "self",
+    "en": [
+      "self",
+      "itself"
+    ],
     "pos": "pron"
   },
   {
@@ -22519,7 +22595,10 @@
   },
   {
     "fi": "rakentaa",
-    "en": "to build",
+    "en": [
+      "to build",
+      "to construct"
+    ],
     "pos": "verb"
   },
   {
@@ -22620,7 +22699,8 @@
     "en": [
       "research",
       "study",
-      "investigation"
+      "investigation",
+      "inquest"
     ],
     "pos": "noun"
   },
@@ -22764,7 +22844,8 @@
     "fi": "toivoa",
     "en": [
       "to hope",
-      "hope"
+      "hope",
+      "wish"
     ],
     "pos": "verb"
   },
@@ -22856,7 +22937,8 @@
     "en": [
       "coming",
       "income",
-      "product"
+      "product",
+      "revenue"
     ],
     "pos": "noun"
   },
@@ -23233,7 +23315,8 @@
     "en": [
       "influence",
       "impression",
-      "action"
+      "action",
+      "impact"
     ],
     "pos": "noun"
   },
@@ -23276,7 +23359,8 @@
     "en": [
       "to steer",
       "to control",
-      "to direct"
+      "to direct",
+      "to guide"
     ],
     "pos": "verb"
   },
@@ -23447,7 +23531,10 @@
   },
   {
     "fi": "tarina",
-    "en": "story",
+    "en": [
+      "story",
+      "tale"
+    ],
     "pos": "noun"
   },
   {
@@ -23611,7 +23698,10 @@
   },
   {
     "fi": "lääkäri",
-    "en": "physician",
+    "en": [
+      "physician",
+      "doctor"
+    ],
     "pos": "noun"
   },
   {
@@ -23731,7 +23821,10 @@
   },
   {
     "fi": "kirjailija",
-    "en": "author",
+    "en": [
+      "author",
+      "writer"
+    ],
     "pos": "noun"
   },
   {
@@ -23865,7 +23958,10 @@
   },
   {
     "fi": "ehdotus",
-    "en": "proposal",
+    "en": [
+      "proposal",
+      "suggestion"
+    ],
     "pos": "noun"
   },
   {
@@ -23925,7 +24021,8 @@
     "fi": "tunne",
     "en": [
       "feeling",
-      "emotion"
+      "emotion",
+      "sensation"
     ],
     "pos": "noun"
   },
@@ -23958,7 +24055,8 @@
     "fi": "kärki",
     "en": [
       "point",
-      "vertex"
+      "vertex",
+      "tip"
     ],
     "pos": "noun"
   },
@@ -24045,7 +24143,8 @@
     "fi": "virhe",
     "en": [
       "mistake",
-      "error"
+      "error",
+      "foul"
     ],
     "pos": "noun"
   },
@@ -24318,7 +24417,10 @@
   },
   {
     "fi": "henkilöstö",
-    "en": "personnel",
+    "en": [
+      "personnel",
+      "staff"
+    ],
     "pos": "noun"
   },
   {
@@ -24398,7 +24500,8 @@
     "en": [
       "to fasten",
       "to moor",
-      "Moor"
+      "Moor",
+      "to attach"
     ],
     "pos": "verb"
   },
@@ -24657,7 +24760,10 @@
   },
   {
     "fi": "pallo",
-    "en": "ball",
+    "en": [
+      "ball",
+      "globe"
+    ],
     "pos": "noun"
   },
   {
@@ -24795,7 +24901,8 @@
     "fi": "vapauttaa",
     "en": [
       "to free/loose",
-      "to relieve"
+      "to relieve",
+      "release"
     ],
     "pos": "verb"
   },
@@ -25044,7 +25151,10 @@
   },
   {
     "fi": "hullu",
-    "en": "crazy",
+    "en": [
+      "crazy",
+      "mad"
+    ],
     "pos": "adj"
   },
   {
@@ -25465,7 +25575,10 @@
   },
   {
     "fi": "keksi",
-    "en": "cookie",
+    "en": [
+      "cookie",
+      "biscuit"
+    ],
     "pos": "noun"
   },
   {
@@ -25912,7 +26025,10 @@
   },
   {
     "fi": "siten",
-    "en": "so",
+    "en": [
+      "so",
+      "thus"
+    ],
     "pos": "adv"
   },
   {
@@ -26454,7 +26570,10 @@
   },
   {
     "fi": "rakenne",
-    "en": "structure",
+    "en": [
+      "structure",
+      "texture"
+    ],
     "pos": "noun"
   },
   {
@@ -27119,7 +27238,10 @@
   },
   {
     "fi": "turva",
-    "en": "safety",
+    "en": [
+      "safety",
+      "security"
+    ],
     "pos": "noun"
   },
   {
@@ -27479,7 +27601,10 @@
   },
   {
     "fi": "jalkapallo",
-    "en": "football",
+    "en": [
+      "football",
+      "soccer"
+    ],
     "pos": "noun"
   },
   {
@@ -28186,7 +28311,10 @@
   },
   {
     "fi": "korkeus",
-    "en": "height",
+    "en": [
+      "height",
+      "elevation"
+    ],
     "pos": "noun"
   },
   {
@@ -28730,7 +28858,10 @@
   },
   {
     "fi": "haastatella",
-    "en": "to interview",
+    "en": [
+      "to interview",
+      "interview"
+    ],
     "pos": "verb"
   },
   {
