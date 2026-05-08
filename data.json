@@ -2,10 +2,6 @@
   {
     "fi": "ei",
     "en": "No",
-    "sv": "nej",
-    "it": "no",
-    "fr": "non",
-    "de": "nein",
     "fi_rank": 1,
     "pos": "intj"
   },
@@ -15,10 +11,6 @@
       "be",
       "to have"
     ],
-    "sv": "vara",
-    "it": "essere",
-    "fr": "être",
-    "de": "sein",
     "fi_rank": 1,
     "pos": "verb"
   },
@@ -28,20 +20,12 @@
       "it",
       "that"
     ],
-    "sv": "det",
-    "it": "esso",
-    "fr": "ce",
-    "de": "es",
     "fi_rank": 3,
     "pos": "pron"
   },
   {
     "fi": "hän",
     "en": "he",
-    "sv": "han, hon",
-    "it": "lui, lei",
-    "fr": "il, elle",
-    "de": "er, sie",
     "fi_rank": 4,
     "pos": "pron"
   },
@@ -51,10 +35,6 @@
       "when",
       "as soon as"
     ],
-    "sv": "när",
-    "it": "quando",
-    "fr": "quand",
-    "de": "wenn",
     "fi_rank": 6,
     "pos": "conj"
   },
@@ -64,10 +44,6 @@
       "so",
       "like that"
     ],
-    "sv": "så",
-    "it": "così",
-    "fr": "ainsi",
-    "de": "so",
     "fi_rank": 7,
     "pos": "adv"
   },
@@ -77,20 +53,12 @@
       "yet",
       "still"
     ],
-    "sv": "ännu",
-    "it": "ancora",
-    "fr": "encore",
-    "de": "noch",
     "fi_rank": 14,
     "pos": "adv"
   },
   {
     "fi": "nyt",
     "en": "now",
-    "sv": "nu",
-    "it": "ora",
-    "fr": "maintenant",
-    "de": "jetzt",
     "fi_rank": 15,
     "pos": "adv"
   },
@@ -100,10 +68,6 @@
       "be",
       "can"
     ],
-    "sv": "kunna",
-    "it": "potere",
-    "fr": "pouvoir",
-    "de": "können",
     "fi_rank": 16,
     "pos": "verb"
   },
@@ -113,10 +77,6 @@
       "to go",
       "to be spent"
     ],
-    "sv": "gå",
-    "it": "andare",
-    "fr": "aller",
-    "de": "gehen",
     "fi_rank": 20,
     "pos": "verb"
   },
@@ -127,10 +87,6 @@
       "when",
       "since"
     ],
-    "sv": "sedan",
-    "it": "poi",
-    "fr": "puis",
-    "de": "dann",
     "fi_rank": 21,
     "pos": "adv"
   },
@@ -140,10 +96,6 @@
       "to know",
       "to mean"
     ],
-    "sv": "veta",
-    "it": "sapere",
-    "fr": "savoir",
-    "de": "wissen",
     "fi_rank": 25,
     "pos": "verb"
   },
@@ -153,10 +105,6 @@
       "much",
       "a lot"
     ],
-    "sv": "mycket",
-    "it": "molto",
-    "fr": "beaucoup",
-    "de": "viel",
     "fi_rank": 28,
     "pos": "adv"
   },
@@ -166,10 +114,6 @@
       "to and not",
       "to nor"
     ],
-    "sv": "och inte",
-    "it": "e non",
-    "fr": "et non",
-    "de": "und nicht",
     "fi_rank": 29,
     "pos": "verb"
   },
@@ -179,30 +123,18 @@
       "to take",
       "to deprive of"
     ],
-    "sv": "ta",
-    "it": "prendere",
-    "fr": "prendre",
-    "de": "nehmen",
     "fi_rank": 30,
     "pos": "verb"
   },
   {
     "fi": "tai",
     "en": "or",
-    "sv": "eller",
-    "it": "o",
-    "fr": "ou",
-    "de": "oder",
     "fi_rank": 35,
     "pos": "conj"
   },
   {
     "fi": "siellä",
     "en": "there",
-    "sv": "där",
-    "it": "là",
-    "fr": "là",
-    "de": "dort",
     "fi_rank": 36,
     "pos": "adv"
   },
@@ -212,10 +144,6 @@
       "multi",
       "many"
     ],
-    "sv": "många",
-    "it": "molti",
-    "fr": "beaucoup",
-    "de": "viele",
     "fi_rank": 37,
     "pos": "det"
   },
@@ -225,10 +153,6 @@
       "quite",
       "very"
     ],
-    "sv": "ganska",
-    "it": "piuttosto",
-    "fr": "assez",
-    "de": "ziemlich",
     "fi_rank": 38,
     "pos": "adv"
   },
@@ -238,20 +162,12 @@
       "I",
       "ego"
     ],
-    "sv": "jag",
-    "it": "io",
-    "fr": "je",
-    "de": "ich",
     "fi_rank": 41,
     "pos": "noun"
   },
   {
     "fi": "täällä",
     "en": "here",
-    "sv": "här",
-    "it": "qui",
-    "fr": "ici",
-    "de": "hier",
     "fi_rank": 42,
     "pos": "adv"
   },
@@ -261,20 +177,12 @@
       "any",
       "anything"
     ],
-    "sv": "något",
-    "it": "niente",
-    "fr": "rien",
-    "de": "nichts",
     "fi_rank": 43,
     "pos": "pron"
   },
   {
     "fi": "ehkä",
     "en": "perhaps",
-    "sv": "kanske",
-    "it": "forse",
-    "fr": "peut-être",
-    "de": "vielleicht",
     "fi_rank": 45,
     "pos": "adv"
   },
@@ -284,10 +192,6 @@
       "little",
       "few"
     ],
-    "sv": "lite",
-    "it": "poco",
-    "fr": "peu",
-    "de": "wenig",
     "fi_rank": 46,
     "pos": "adv"
   },
@@ -297,10 +201,6 @@
       "to become",
       "to come"
     ],
-    "sv": "komma",
-    "it": "venire",
-    "fr": "venir",
-    "de": "kommen",
     "fi_rank": 50,
     "pos": "verb"
   },
@@ -310,10 +210,6 @@
       "one",
       "something"
     ],
-    "sv": "något",
-    "it": "qualcosa",
-    "fr": "quelque chose",
-    "de": "etwas",
     "fi_rank": 52,
     "pos": "pron"
   },
@@ -323,20 +219,12 @@
       "every",
       "everyone"
     ],
-    "sv": "varje",
-    "it": "ogni",
-    "fr": "chaque",
-    "de": "jeder",
     "fi_rank": 56,
     "pos": "pron"
   },
   {
     "fi": "mistä",
     "en": "whence",
-    "sv": "varifrån",
-    "it": "da dove",
-    "fr": "d'où",
-    "de": "woher",
     "fi_rank": 58,
     "pos": "adv"
   },
@@ -346,20 +234,12 @@
       "just",
       "root"
     ],
-    "sv": "just",
-    "it": "proprio",
-    "fr": "juste",
-    "de": "gerade",
     "fi_rank": 64,
     "pos": "noun"
   },
   {
     "fi": "kotona",
     "en": "at home",
-    "sv": "hemma",
-    "it": "a casa",
-    "fr": "à la maison",
-    "de": "zu Hause",
     "fi_rank": 72,
     "pos": "adv"
   },
@@ -369,10 +249,6 @@
       "to make",
       "to do"
     ],
-    "sv": "göra",
-    "it": "fare",
-    "fr": "faire",
-    "de": "machen",
     "fi_rank": 85,
     "pos": "verb"
   },
@@ -382,20 +258,12 @@
       "sometimes",
       "sometime"
     ],
-    "sv": "ibland",
-    "it": "a volte",
-    "fr": "parfois",
-    "de": "manchmal",
     "fi_rank": 95,
     "pos": "adv"
   },
   {
     "fi": "sinä",
     "en": "you",
-    "sv": "du",
-    "it": "tu",
-    "fr": "tu",
-    "de": "du",
     "fi_rank": 100,
     "pos": "pron"
   },
@@ -405,10 +273,6 @@
       "one",
       "a/an"
     ],
-    "sv": "en",
-    "it": "uno",
-    "fr": "un",
-    "de": "ein",
     "fi_rank": 105,
     "pos": "num"
   },
@@ -419,10 +283,6 @@
       "who",
       "every"
     ],
-    "sv": "som",
-    "it": "che",
-    "fr": "qui",
-    "de": "der",
     "fi_rank": 119,
     "pos": "pron"
   },
@@ -432,30 +292,18 @@
       "how many",
       "how many?"
     ],
-    "sv": "hur många",
-    "it": "quanti",
-    "fr": "combien",
-    "de": "wie viele",
     "fi_rank": 120,
     "pos": "adv"
   },
   {
     "fi": "me",
     "en": "we",
-    "sv": "vi",
-    "it": "noi",
-    "fr": "nous",
-    "de": "wir",
     "fi_rank": 140,
     "pos": "pron"
   },
   {
     "fi": "te",
     "en": "you",
-    "sv": "ni",
-    "it": "voi",
-    "fr": "vous",
-    "de": "ihr",
     "fi_rank": 165,
     "pos": "pron"
   },
@@ -465,10 +313,6 @@
       "they",
       "he"
     ],
-    "sv": "de",
-    "it": "loro",
-    "fr": "ils",
-    "de": "sie",
     "fi_rank": 170,
     "pos": "pron"
   },
@@ -478,10 +322,6 @@
       "although",
       "even if"
     ],
-    "sv": "även om",
-    "it": "anche se",
-    "fr": "bien que",
-    "de": "obwohl",
     "fi_rank": 175,
     "pos": "conj"
   },
@@ -492,18 +332,11 @@
       "to hold",
       "to like"
     ],
-    "sv": "hålla",
-    "it": "tenere",
-    "de": "halten",
     "pos": "verb"
   },
   {
     "fi": "uusi",
     "en": "new",
-    "sv": "ny",
-    "it": "nuovo",
-    "fr": "nouveau",
-    "de": "neu",
     "pos": "adj"
   },
   {
@@ -512,9 +345,6 @@
       "to say",
       "to call"
     ],
-    "sv": "säga",
-    "fr": "dire",
-    "de": "sagen",
     "pos": "verb"
   },
   {
@@ -524,8 +354,6 @@
       "high",
       "great"
     ],
-    "it": "capace",
-    "de": "Schlot",
     "pos": "adj"
   },
   {
@@ -534,9 +362,6 @@
       "to tell",
       "to multiply"
     ],
-    "sv": "berätta",
-    "it": "raccontare",
-    "de": "erzählen",
     "pos": "verb"
   },
   {
@@ -545,10 +370,6 @@
       "country",
       "ground"
     ],
-    "sv": "grund",
-    "it": "terra",
-    "fr": "terrain",
-    "de": "Boden",
     "pos": "noun"
   },
   {
@@ -557,18 +378,11 @@
       "thing",
       "matter"
     ],
-    "sv": "ärende",
-    "it": "materia",
-    "de": "Sache",
     "pos": "noun"
   },
   {
     "fi": "viime",
     "en": "last",
-    "sv": "sista",
-    "it": "ultimo",
-    "fr": "dernier",
-    "de": "letzte",
     "pos": "adj"
   },
   {
@@ -577,8 +391,6 @@
       "percentage",
       "percent"
     ],
-    "sv": "procent",
-    "de": "Prozent",
     "pos": "noun"
   },
   {
@@ -587,10 +399,6 @@
       "man",
       "human"
     ],
-    "sv": "människa",
-    "it": "umano",
-    "fr": "humain",
-    "de": "Mensch",
     "pos": "noun"
   },
   {
@@ -600,28 +408,16 @@
       "to remain",
       "stay"
     ],
-    "sv": "stanna",
-    "it": "stare",
-    "fr": "rester",
-    "de": "verweilen",
     "pos": "verb"
   },
   {
     "fi": "työ",
     "en": "work",
-    "sv": "göra",
-    "it": "lavoro",
-    "fr": "travail",
-    "de": "Werk",
     "pos": "noun"
   },
   {
     "fi": "haluta",
     "en": "to want",
-    "sv": "vilja",
-    "it": "volere",
-    "fr": "vouloir",
-    "de": "wollen",
     "pos": "verb"
   },
   {
@@ -630,10 +426,6 @@
       "to start",
       "to begin"
     ],
-    "sv": "börja",
-    "it": "iniziare",
-    "fr": "commencer",
-    "de": "beginnen",
     "pos": "verb"
   },
   {
@@ -651,10 +443,6 @@
       "quiet",
       "minor"
     ],
-    "sv": "liten",
-    "it": "piccolo",
-    "fr": "petit",
-    "de": "klein",
     "pos": "adj"
   },
   {
@@ -663,8 +451,6 @@
       "municipality",
       "commune"
     ],
-    "sv": "kommun",
-    "de": "Gemeinde",
     "pos": "noun"
   },
   {
@@ -673,10 +459,6 @@
       "second",
       "other"
     ],
-    "sv": "andra",
-    "it": "secondo",
-    "fr": "second",
-    "de": "zweite",
     "pos": "adj"
   },
   {
@@ -685,9 +467,6 @@
       "to get",
       "to end up"
     ],
-    "sv": "få",
-    "fr": "obtenir",
-    "de": "holen",
     "pos": "verb"
   },
   {
@@ -696,10 +475,6 @@
       "woman",
       "lady"
     ],
-    "sv": "kvinna",
-    "it": "donna",
-    "fr": "femme",
-    "de": "Frau",
     "pos": "noun"
   },
   {
@@ -709,10 +484,6 @@
       "to go",
       "leave"
     ],
-    "sv": "lämna",
-    "it": "lasciare",
-    "fr": "laisser",
-    "de": "leaven",
     "pos": "verb"
   },
   {
@@ -721,9 +492,6 @@
       "Russia",
       "russian"
     ],
-    "sv": "rysk",
-    "fr": "russe",
-    "de": "Russe",
     "pos": "name"
   },
   {
@@ -732,7 +500,6 @@
       "Turku",
       "marketplace"
     ],
-    "de": "Marktplatz",
     "pos": "name"
   },
   {
@@ -741,10 +508,6 @@
       "old",
       "expired"
     ],
-    "sv": "gammal",
-    "it": "vecchio",
-    "fr": "vieux",
-    "de": "alt",
     "pos": "adj"
   },
   {
@@ -754,8 +517,6 @@
       "to arise",
       "rise"
     ],
-    "it": "sorgere",
-    "de": "reisen",
     "pos": "verb"
   },
   {
@@ -764,10 +525,6 @@
       "to note",
       "to state"
     ],
-    "sv": "stat",
-    "it": "stato",
-    "fr": "état",
-    "de": "aussagen",
     "pos": "verb"
   },
   {
@@ -776,9 +533,6 @@
       "company",
       "attempt"
     ],
-    "sv": "försök",
-    "it": "tentativo",
-    "de": "Anlauf",
     "pos": "noun"
   },
   {
@@ -787,19 +541,11 @@
       "to follow",
       "to keep track"
     ],
-    "sv": "följa",
-    "it": "seguire",
-    "fr": "suivre",
-    "de": "folgen",
     "pos": "verb"
   },
   {
     "fi": "tärkeä",
     "en": "important",
-    "sv": "viktig",
-    "it": "importante",
-    "fr": "important",
-    "de": "wichtig",
     "pos": "adj"
   },
   {
@@ -808,10 +554,6 @@
       "start",
       "beginning"
     ],
-    "sv": "start",
-    "it": "avvio",
-    "fr": "début",
-    "de": "Start",
     "pos": "noun"
   },
   {
@@ -820,10 +562,6 @@
       "information",
       "knowledge"
     ],
-    "sv": "kunskap",
-    "it": "sapere",
-    "fr": "savoir",
-    "de": "Wissen",
     "pos": "noun"
   },
   {
@@ -832,10 +570,6 @@
       "end",
       "finish"
     ],
-    "sv": "slut",
-    "it": "fine",
-    "fr": "sortir",
-    "de": "Ort",
     "pos": "noun"
   },
   {
@@ -844,8 +578,6 @@
       "way",
       "habit"
     ],
-    "fr": "habitude",
-    "de": "Kutte",
     "pos": "noun"
   },
   {
@@ -854,9 +586,6 @@
       "number",
       "amount"
     ],
-    "sv": "mängd",
-    "it": "importo",
-    "de": "Betrag",
     "pos": "noun"
   },
   {
@@ -866,10 +595,6 @@
       "to cost",
       "pay"
     ],
-    "sv": "betala",
-    "it": "pagare",
-    "fr": "payer",
-    "de": "zahlen",
     "pos": "verb"
   },
   {
@@ -879,17 +604,11 @@
       "to demand",
       "to claim"
     ],
-    "sv": "kräva",
-    "fr": "exiger",
-    "de": "fordern",
     "pos": "verb"
   },
   {
     "fi": "puheenjohtaja",
     "en": "chairman",
-    "sv": "president",
-    "it": "presidente",
-    "de": "Obmann",
     "pos": "noun"
   },
   {
@@ -907,9 +626,6 @@
       "to import",
       "import"
     ],
-    "it": "portare",
-    "fr": "apporter",
-    "de": "bringen",
     "pos": "verb"
   },
   {
@@ -918,10 +634,6 @@
       "to believe",
       "to entrust"
     ],
-    "sv": "tro",
-    "it": "credere",
-    "fr": "croire",
-    "de": "dafürhalten",
     "pos": "verb"
   },
   {
@@ -931,18 +643,11 @@
       "to express",
       "to perform"
     ],
-    "sv": "uttrycka",
-    "it": "esprimere",
-    "fr": "exprimer",
-    "de": "Express",
     "pos": "verb"
   },
   {
     "fi": "usea",
     "en": "many",
-    "it": "molto",
-    "fr": "force",
-    "de": "massenweise",
     "pos": "adj"
   },
   {
@@ -951,9 +656,6 @@
       "race",
       "competition"
     ],
-    "sv": "tävling",
-    "it": "gara",
-    "de": "Konkurrenz",
     "pos": "noun"
   },
   {
@@ -963,8 +665,6 @@
       "to wait",
       "wait"
     ],
-    "sv": "vänta",
-    "de": "warten",
     "pos": "verb"
   },
   {
@@ -975,25 +675,16 @@
       "operation",
       "activity"
     ],
-    "sv": "åtgärd",
-    "it": "azione",
-    "fr": "action",
-    "de": "Action",
     "pos": "noun"
   },
   {
     "fi": "eri",
     "en": "different",
-    "it": "diverso",
-    "fr": "différent",
-    "de": "divers",
     "pos": "adj"
   },
   {
     "fi": "entinen",
     "en": "former",
-    "sv": "förra",
-    "de": "früher",
     "pos": "adj"
   },
   {
@@ -1002,10 +693,6 @@
       "to show",
       "to look"
     ],
-    "sv": "visa",
-    "it": "dimostrare",
-    "fr": "montrer",
-    "de": "zeigen",
     "pos": "verb"
   },
   {
@@ -1014,8 +701,6 @@
       "to be born",
       "to arise"
     ],
-    "it": "nascere",
-    "fr": "naître",
     "pos": "verb"
   },
   {
@@ -1024,10 +709,6 @@
       "to decide",
       "to end"
     ],
-    "sv": "ända",
-    "it": "terminare",
-    "fr": "terminer",
-    "de": "enden",
     "pos": "verb"
   },
   {
@@ -1036,7 +717,6 @@
       "may",
       "to escort"
     ],
-    "de": "geleiten",
     "pos": "verb"
   },
   {
@@ -1045,18 +725,11 @@
       "decision",
       "resolution"
     ],
-    "sv": "beslut",
-    "it": "decisione",
-    "fr": "décision",
-    "de": "Beschluss",
     "pos": "noun"
   },
   {
     "fi": "käyttö",
     "en": "use",
-    "sv": "användning",
-    "it": "uso",
-    "de": "Nutzung",
     "pos": "noun"
   },
   {
@@ -1066,10 +739,6 @@
       "to begin",
       "to initiate"
     ],
-    "sv": "start",
-    "it": "avvio",
-    "fr": "démarrer",
-    "de": "starten",
     "pos": "verb"
   },
   {
@@ -1078,7 +747,6 @@
       "reason",
       "cause"
     ],
-    "de": "Faser",
     "pos": "noun"
   },
   {
@@ -1087,10 +755,6 @@
       "to choose",
       "to elect"
     ],
-    "sv": "välja",
-    "it": "scegliere",
-    "fr": "choisir",
-    "de": "wählen",
     "pos": "verb"
   },
   {
@@ -1101,10 +765,6 @@
       "to proceed",
       "resume"
     ],
-    "sv": "fortsätta",
-    "it": "continuare",
-    "fr": "continuer",
-    "de": "fortgehen",
     "pos": "verb"
   },
   {
@@ -1113,19 +773,11 @@
       "to win",
       "to win/prevail against"
     ],
-    "sv": "vinna",
-    "it": "vincere",
-    "fr": "gagner",
-    "de": "erlosen",
     "pos": "verb"
   },
   {
     "fi": "valtio",
     "en": "state",
-    "sv": "stat",
-    "it": "stato",
-    "fr": "état",
-    "de": "Beschaffenheit",
     "pos": "noun"
   },
   {
@@ -1144,7 +796,6 @@
       "to lead",
       "export"
     ],
-    "de": "abführen",
     "pos": "verb"
   },
   {
@@ -1154,8 +805,6 @@
       "image",
       "video"
     ],
-    "sv": "bild",
-    "fr": "image",
     "pos": "noun"
   },
   {
@@ -1166,9 +815,6 @@
       "to agree",
       "fit"
     ],
-    "sv": "passa",
-    "it": "adeguato",
-    "de": "passen",
     "pos": "verb"
   },
   {
@@ -1177,17 +823,11 @@
       "last",
       "dying"
     ],
-    "sv": "sista",
-    "it": "ultimo",
-    "fr": "dernier",
-    "de": "letzte",
     "pos": "adj"
   },
   {
     "fi": "nykyinen",
     "en": "current",
-    "fr": "courant",
-    "de": "aktuell",
     "pos": "adj"
   },
   {
@@ -1196,10 +836,6 @@
       "set",
       "group"
     ],
-    "sv": "grupp",
-    "it": "gruppo",
-    "fr": "groupe",
-    "de": "Gruppe",
     "pos": "noun"
   },
   {
@@ -1208,17 +844,11 @@
       "long",
       "tall"
     ],
-    "sv": "lång",
-    "it": "lungo",
-    "fr": "long",
-    "de": "lang",
     "pos": "adj"
   },
   {
     "fi": "sellainen",
     "en": "such",
-    "fr": "pareil",
-    "de": "derartig",
     "pos": "adj"
   },
   {
@@ -1227,9 +857,6 @@
       "manager",
       "leader"
     ],
-    "sv": "ledare",
-    "it": "leader",
-    "de": "Kapo",
     "pos": "noun"
   },
   {
@@ -1239,9 +866,6 @@
       "to react",
       "answer"
     ],
-    "sv": "svara",
-    "it": "rispondere",
-    "de": "antworten",
     "pos": "verb"
   },
   {
@@ -1250,8 +874,6 @@
       "to suffice",
       "to be enough"
     ],
-    "it": "bastare",
-    "fr": "suffire",
     "pos": "verb"
   },
   {
@@ -1262,9 +884,6 @@
       "run",
       "drive"
     ],
-    "sv": "driva",
-    "fr": "conduire",
-    "de": "treiben",
     "pos": "verb"
   },
   {
@@ -1273,19 +892,11 @@
       "hard",
       "strong"
     ],
-    "sv": "hård",
-    "it": "duro",
-    "fr": "dur",
-    "de": "hart",
     "pos": "adj"
   },
   {
     "fi": "tuntea",
     "en": "to feel",
-    "sv": "känna",
-    "it": "sentire",
-    "fr": "ressentir",
-    "de": "fühlen",
     "pos": "verb"
   },
   {
@@ -1294,9 +905,6 @@
       "to talk",
       "to speak"
     ],
-    "sv": "tala",
-    "fr": "parler",
-    "de": "sprechen",
     "pos": "verb"
   },
   {
@@ -1305,10 +913,6 @@
       "space",
       "room"
     ],
-    "sv": "utrymme",
-    "it": "spazio",
-    "fr": "vide",
-    "de": "Raum",
     "pos": "noun"
   },
   {
@@ -1317,10 +921,6 @@
       "assistance",
       "help"
     ],
-    "sv": "hjälp",
-    "it": "aiuto",
-    "fr": "aide",
-    "de": "Hilfe",
     "pos": "noun"
   },
   {
@@ -1338,9 +938,6 @@
       "assignment",
       "commission"
     ],
-    "sv": "uppgift",
-    "fr": "tâche",
-    "de": "Aufgabe",
     "pos": "noun"
   },
   {
@@ -1349,16 +946,11 @@
       "to be joined",
       "to join"
     ],
-    "fr": "rejoindre",
-    "de": "fügen",
     "pos": "verb"
   },
   {
     "fi": "tapahtua",
     "en": "to happen",
-    "sv": "ske",
-    "it": "avvenire",
-    "de": "erfolgen",
     "pos": "verb"
   },
   {
@@ -1367,8 +959,6 @@
       "target",
       "objective"
     ],
-    "it": "obiettivo",
-    "de": "Zielvorgabe",
     "pos": "noun"
   },
   {
@@ -1377,10 +967,6 @@
       "profit",
       "victory"
     ],
-    "sv": "seger",
-    "it": "vittoria",
-    "fr": "victoire",
-    "de": "Sieg",
     "pos": "noun"
   },
   {
@@ -1389,9 +975,6 @@
       "travel",
       "journey"
     ],
-    "sv": "färd",
-    "it": "viaggio",
-    "de": "Reise",
     "pos": "noun"
   },
   {
@@ -1401,9 +984,6 @@
       "deal",
       "shop"
     ],
-    "sv": "handel",
-    "it": "commerciale",
-    "de": "Gewerk",
     "pos": "noun"
   },
   {
@@ -1412,9 +992,6 @@
       "to add",
       "to increase"
     ],
-    "it": "aggiungere",
-    "fr": "ajouter",
-    "de": "dazutun",
     "pos": "verb"
   },
   {
@@ -1428,8 +1005,6 @@
   {
     "fi": "yhteistyö",
     "en": "cooperation",
-    "it": "collaborazione",
-    "de": "Mitarbeit",
     "pos": "noun"
   },
   {
@@ -1439,10 +1014,6 @@
       "to run an enterprise",
       "attempt"
     ],
-    "sv": "testa",
-    "it": "provare",
-    "fr": "essai",
-    "de": "probieren",
     "pos": "verb"
   },
   {
@@ -1451,10 +1022,6 @@
       "to seem",
       "to feel"
     ],
-    "sv": "känna",
-    "it": "sentire",
-    "fr": "ressentir",
-    "de": "fühlen",
     "pos": "verb"
   },
   {
@@ -1468,10 +1035,6 @@
       "difficult",
       "awkward"
     ],
-    "sv": "svår",
-    "it": "difficile",
-    "fr": "difficile",
-    "de": "diffizil",
     "pos": "adj"
   },
   {
@@ -1481,8 +1044,6 @@
       "to appear",
       "influence"
     ],
-    "sv": "inflytande",
-    "de": "beeinflussen",
     "pos": "verb"
   },
   {
@@ -1491,16 +1052,11 @@
       "to inform",
       "to notify"
     ],
-    "de": "verständigen",
     "pos": "verb"
   },
   {
     "fi": "löytää",
     "en": "to find",
-    "sv": "finna",
-    "it": "trovare",
-    "fr": "trouver",
-    "de": "finden",
     "pos": "verb"
   },
   {
@@ -1517,7 +1073,6 @@
       "to strive",
       "to plan to become"
     ],
-    "de": "eifern",
     "pos": "verb"
   },
   {
@@ -1527,10 +1082,6 @@
       "to provide",
       "offer"
     ],
-    "sv": "bjuda",
-    "it": "offrire",
-    "fr": "offrir",
-    "de": "bieten",
     "pos": "verb"
   },
   {
@@ -1539,10 +1090,6 @@
       "to support",
       "to be worth"
     ],
-    "sv": "stödja",
-    "it": "sostenere",
-    "fr": "supporter",
-    "de": "pölzen",
     "pos": "verb"
   },
   {
@@ -1551,9 +1098,6 @@
       "program",
       "schedule"
     ],
-    "sv": "program",
-    "fr": "programme",
-    "de": "Programm",
     "pos": "noun"
   },
   {
@@ -1562,10 +1106,6 @@
       "solution",
       "conclusion"
     ],
-    "sv": "lösning",
-    "it": "soluzione",
-    "fr": "solution",
-    "de": "Lösung",
     "pos": "noun"
   },
   {
@@ -1575,8 +1115,6 @@
       "to nurse",
       "to treat"
     ],
-    "fr": "infirmier",
-    "de": "stillen",
     "pos": "verb"
   },
   {
@@ -1586,7 +1124,6 @@
       "to concede",
       "grant"
     ],
-    "de": "zugestehen",
     "pos": "verb"
   },
   {
@@ -1595,10 +1132,6 @@
       "son",
       "boy"
     ],
-    "sv": "kille",
-    "it": "ragazzo",
-    "fr": "garçon",
-    "de": "Matz",
     "pos": "noun"
   },
   {
@@ -1609,17 +1142,11 @@
       "performance",
       "proposition"
     ],
-    "it": "rappresentanza",
-    "de": "Vertretung",
     "pos": "noun"
   },
   {
     "fi": "siirtyä",
     "en": "to move",
-    "sv": "flytta",
-    "it": "muovere",
-    "fr": "bouger",
-    "de": "regen",
     "pos": "verb"
   },
   {
@@ -1637,9 +1164,6 @@
       "to get",
       "to look for"
     ],
-    "sv": "få",
-    "fr": "obtenir",
-    "de": "holen",
     "pos": "verb"
   },
   {
@@ -1648,17 +1172,11 @@
       "to change",
       "to modify"
     ],
-    "it": "modificare",
-    "de": "abwandeln",
     "pos": "verb"
   },
   {
     "fi": "myydä",
     "en": "to sell",
-    "sv": "sälja",
-    "it": "vendere",
-    "fr": "vendre",
-    "de": "verkaufen",
     "pos": "verb"
   },
   {
@@ -1669,10 +1187,6 @@
       "draw",
       "lift"
     ],
-    "sv": "lyfta",
-    "it": "alzare",
-    "fr": "ascenseur",
-    "de": "heben",
     "pos": "verb"
   },
   {
@@ -1684,8 +1198,6 @@
       "to tolerate",
       "to resist"
     ],
-    "sv": "stå",
-    "de": "stehen",
     "pos": "verb"
   },
   {
@@ -1695,10 +1207,6 @@
       "to hold",
       "stay"
     ],
-    "sv": "stanna",
-    "it": "stare",
-    "fr": "rester",
-    "de": "verweilen",
     "pos": "verb"
   },
   {
@@ -1707,8 +1215,6 @@
       "to resemble",
       "to remind"
     ],
-    "sv": "påminna",
-    "de": "erinnern",
     "pos": "verb"
   },
   {
@@ -1717,10 +1223,6 @@
       "high",
       "tall"
     ],
-    "sv": "hög",
-    "it": "alto",
-    "fr": "haut",
-    "de": "high",
     "pos": "adj"
   },
   {
@@ -1737,10 +1239,6 @@
       "to concern",
       "to touch"
     ],
-    "sv": "beröra",
-    "it": "toccare",
-    "fr": "toucher",
-    "de": "zecken",
     "pos": "verb"
   },
   {
@@ -1749,7 +1247,6 @@
       "to succeed",
       "to manage"
     ],
-    "de": "glücken",
     "pos": "verb"
   },
   {
@@ -1758,16 +1255,11 @@
       "right",
       "legal"
     ],
-    "sv": "rättighet",
-    "it": "destra",
-    "fr": "droit",
-    "de": "Recht",
     "pos": "noun"
   },
   {
     "fi": "matti",
     "en": "checkmate",
-    "de": "Schachmatt",
     "pos": "noun"
   },
   {
@@ -1776,10 +1268,6 @@
       "station",
       "position"
     ],
-    "sv": "läge",
-    "it": "posizione",
-    "fr": "position",
-    "de": "Position",
     "pos": "noun"
   },
   {
@@ -1788,8 +1276,6 @@
       "movie",
       "cinema"
     ],
-    "fr": "film",
-    "de": "Kinofilm",
     "pos": "noun"
   },
   {
@@ -1799,16 +1285,11 @@
       "intention",
       "function"
     ],
-    "sv": "slut",
-    "it": "fine",
-    "fr": "sortir",
-    "de": "Ort",
     "pos": "noun"
   },
   {
     "fi": "maali",
     "en": "paint",
-    "de": "Anstrichfarbe",
     "pos": "noun"
   },
   {
@@ -1817,8 +1298,6 @@
       "management",
       "administration"
     ],
-    "it": "amministrazione",
-    "de": "Verwaltung",
     "pos": "noun"
   },
   {
@@ -1827,9 +1306,6 @@
       "to sort out",
       "to examine"
     ],
-    "it": "esaminare",
-    "fr": "examiner",
-    "de": "untersuchen",
     "pos": "verb"
   },
   {
@@ -1838,9 +1314,6 @@
       "different",
       "various"
     ],
-    "it": "diverso",
-    "fr": "différent",
-    "de": "divers",
     "pos": "adj"
   },
   {
@@ -1849,10 +1322,6 @@
       "point",
       "dot"
     ],
-    "sv": "poäng",
-    "it": "punto",
-    "fr": "point",
-    "de": "Pointe",
     "pos": "noun"
   },
   {
@@ -1862,7 +1331,6 @@
       "story",
       "case"
     ],
-    "de": "Vortrag",
     "pos": "noun"
   },
   {
@@ -1871,16 +1339,11 @@
       "condition",
       "fitness"
     ],
-    "sv": "förhållande",
-    "it": "condizione",
-    "de": "Zustand",
     "pos": "noun"
   },
   {
     "fi": "pääministeri",
     "en": "prime minister",
-    "sv": "statsminister",
-    "de": "Premierminister",
     "pos": "noun"
   },
   {
@@ -1889,10 +1352,6 @@
       "to shift",
       "to change"
     ],
-    "sv": "ändra",
-    "it": "trasformare",
-    "fr": "changement",
-    "de": "ändern",
     "pos": "verb"
   },
   {
@@ -1901,7 +1360,6 @@
       "to show",
       "to be visible"
     ],
-    "sv": "synas",
     "pos": "verb"
   },
   {
@@ -1910,10 +1368,6 @@
       "worker",
       "employee"
     ],
-    "sv": "arbetstagare",
-    "it": "dipendente",
-    "fr": "employé",
-    "de": "Kooperator",
     "pos": "noun"
   },
   {
@@ -1922,8 +1376,6 @@
       "ready",
       "completed"
     ],
-    "fr": "fini",
-    "de": "erledigt",
     "pos": "adj"
   },
   {
@@ -1932,10 +1384,6 @@
       "share",
       "segment"
     ],
-    "sv": "andel",
-    "it": "quota",
-    "fr": "part",
-    "de": "Aktie",
     "pos": "noun"
   },
   {
@@ -1952,18 +1400,11 @@
       "to show",
       "to point"
     ],
-    "sv": "peka",
-    "it": "punto",
-    "fr": "point",
-    "de": "weisen",
     "pos": "verb"
   },
   {
     "fi": "ostaa",
     "en": "to buy",
-    "sv": "köpa",
-    "it": "comprare",
-    "de": "kaufen",
     "pos": "verb"
   },
   {
@@ -1972,9 +1413,6 @@
       "customer",
       "client"
     ],
-    "sv": "kund",
-    "it": "cliente",
-    "de": "Kunde",
     "pos": "noun"
   },
   {
@@ -1991,10 +1429,6 @@
       "to write",
       "to spell"
     ],
-    "sv": "skriva",
-    "it": "scrivere",
-    "fr": "écrire",
-    "de": "texten",
     "pos": "verb"
   },
   {
@@ -2003,9 +1437,6 @@
       "limit",
       "border"
     ],
-    "it": "confine",
-    "fr": "bord",
-    "de": "Borte",
     "pos": "noun"
   },
   {
@@ -2014,7 +1445,6 @@
       "managing director",
       "chief executive officer"
     ],
-    "de": "Vorstandschef",
     "pos": "noun"
   },
   {
@@ -2023,9 +1453,6 @@
       "to establish",
       "to base"
     ],
-    "sv": "fastställa",
-    "it": "stabilire",
-    "de": "aufstellen",
     "pos": "verb"
   },
   {
@@ -2036,10 +1463,6 @@
       "deal",
       "to divide"
     ],
-    "sv": "andel",
-    "it": "condividere",
-    "fr": "partir",
-    "de": "sharen",
     "pos": "verb"
   },
   {
@@ -2048,10 +1471,6 @@
       "to return",
       "return"
     ],
-    "sv": "återvända",
-    "it": "tornare",
-    "fr": "retour",
-    "de": "zurückkehren",
     "pos": "verb"
   },
   {
@@ -2060,8 +1479,6 @@
       "to highlight",
       "to emphasize"
     ],
-    "sv": "betona",
-    "de": "betonen",
     "pos": "verb"
   },
   {
@@ -2070,7 +1487,6 @@
       "practice",
       "convention"
     ],
-    "de": "Konvention",
     "pos": "noun"
   },
   {
@@ -2079,10 +1495,6 @@
       "evil",
       "bad"
     ],
-    "sv": "dålig",
-    "it": "cattivo",
-    "fr": "mal",
-    "de": "arg",
     "pos": "adj"
   },
   {
@@ -2091,16 +1503,11 @@
       "to create",
       "to shovel"
     ],
-    "sv": "skapa",
-    "it": "creare",
-    "fr": "créer",
-    "de": "anlegen",
     "pos": "verb"
   },
   {
     "fi": "kari",
     "en": "rock",
-    "de": "Lei",
     "pos": "noun"
   },
   {
@@ -2110,7 +1517,6 @@
       "to plan",
       "design"
     ],
-    "de": "designen",
     "pos": "verb"
   },
   {
@@ -2119,10 +1525,6 @@
       "discourse",
       "conversation"
     ],
-    "sv": "samtal",
-    "it": "parlamento",
-    "fr": "conversation",
-    "de": "Gespräch",
     "pos": "noun"
   },
   {
@@ -2131,10 +1533,6 @@
       "to end",
       "to be up"
     ],
-    "sv": "ända",
-    "it": "terminare",
-    "fr": "terminer",
-    "de": "enden",
     "pos": "verb"
   },
   {
@@ -2145,9 +1543,6 @@
       "research",
       "to study"
     ],
-    "it": "esaminare",
-    "fr": "examiner",
-    "de": "untersuchen",
     "pos": "verb"
   },
   {
@@ -2171,10 +1566,6 @@
       "distinction",
       "separation"
     ],
-    "sv": "skillnad",
-    "it": "differenza",
-    "fr": "différence",
-    "de": "Differenz",
     "pos": "noun"
   },
   {
@@ -2184,10 +1575,6 @@
       "rank",
       "worth"
     ],
-    "sv": "värde",
-    "it": "valore",
-    "fr": "valeur",
-    "de": "Wert",
     "pos": "noun"
   },
   {
@@ -2197,7 +1584,6 @@
       "breath",
       "soul"
     ],
-    "de": "Atem",
     "pos": "noun"
   },
   {
@@ -2206,10 +1592,6 @@
       "strong",
       "thick"
     ],
-    "sv": "stark",
-    "it": "forte",
-    "fr": "fort",
-    "de": "stark",
     "pos": "adj"
   },
   {
@@ -2218,10 +1600,6 @@
       "to support",
       "to rest"
     ],
-    "sv": "stödja",
-    "it": "sostenere",
-    "fr": "supporter",
-    "de": "pölzen",
     "pos": "verb"
   },
   {
@@ -2230,8 +1608,6 @@
       "counsel",
       "negotiation"
     ],
-    "sv": "förhandling",
-    "de": "Verhandlung",
     "pos": "noun"
   },
   {
@@ -2240,10 +1616,6 @@
       "society",
       "company"
     ],
-    "sv": "bolag",
-    "it": "compagnia",
-    "fr": "société",
-    "de": "Firma",
     "pos": "noun"
   },
   {
@@ -2253,16 +1625,11 @@
       "phase",
       "stage"
     ],
-    "it": "fase",
-    "de": "Phase",
     "pos": "noun"
   },
   {
     "fi": "tarkoittaa",
     "en": "to mean",
-    "sv": "betyda",
-    "it": "intendere",
-    "de": "mies",
     "pos": "verb"
   },
   {
@@ -2271,9 +1638,6 @@
       "training",
       "education"
     ],
-    "sv": "utbildning",
-    "it": "istruzione",
-    "de": "Erziehung",
     "pos": "noun"
   },
   {
@@ -2282,10 +1646,6 @@
       "clear",
       "sober"
     ],
-    "sv": "tydlig",
-    "it": "netto",
-    "fr": "clair",
-    "de": "hell",
     "pos": "adj"
   },
   {
@@ -2294,19 +1654,11 @@
       "to produce",
       "to bring"
     ],
-    "sv": "framställa",
-    "it": "produrre",
-    "fr": "produire",
-    "de": "erzeugen",
     "pos": "verb"
   },
   {
     "fi": "ainoa",
     "en": "only",
-    "sv": "endast",
-    "it": "unico",
-    "fr": "seulement",
-    "de": "einzig",
     "pos": "adj"
   },
   {
@@ -2315,10 +1667,6 @@
       "to understand",
       "to identify with"
     ],
-    "sv": "förstå",
-    "it": "capire",
-    "fr": "comprendre",
-    "de": "rallen",
     "pos": "verb"
   },
   {
@@ -2327,9 +1675,6 @@
       "to be located",
       "to lie"
     ],
-    "sv": "ligga",
-    "fr": "mentir",
-    "de": "liegen",
     "pos": "verb"
   },
   {
@@ -2340,8 +1685,6 @@
       "process",
       "to treat"
     ],
-    "sv": "hantera",
-    "de": "umgehen",
     "pos": "verb"
   },
   {
@@ -2350,9 +1693,6 @@
       "easy",
       "cheap"
     ],
-    "it": "facile",
-    "fr": "facile",
-    "de": "einfach",
     "pos": "adj"
   },
   {
@@ -2362,10 +1702,6 @@
       "to mark",
       "to enter"
     ],
-    "sv": "märke",
-    "it": "segnare",
-    "fr": "marquer",
-    "de": "anmerken",
     "pos": "verb"
   },
   {
@@ -2374,17 +1710,11 @@
       "ratio",
       "relation"
     ],
-    "sv": "relation",
-    "fr": "relation",
-    "de": "Relation",
     "pos": "noun"
   },
   {
     "fi": "pelaaja",
     "en": "player",
-    "sv": "spelare",
-    "fr": "joueur",
-    "de": "Fortune",
     "pos": "noun"
   },
   {
@@ -2393,9 +1723,6 @@
       "to solve",
       "to decide"
     ],
-    "sv": "lösa",
-    "it": "risolvere",
-    "de": "enträtseln",
     "pos": "verb"
   },
   {
@@ -2404,7 +1731,6 @@
       "show",
       "exhibit"
     ],
-    "de": "Exponat",
     "pos": "noun"
   },
   {
@@ -2413,9 +1739,6 @@
       "contact",
       "connection"
     ],
-    "sv": "samband",
-    "it": "relazione",
-    "de": "Anschluss",
     "pos": "noun"
   },
   {
@@ -2424,9 +1747,6 @@
       "wide",
       "broad"
     ],
-    "sv": "vid",
-    "it": "ampio",
-    "de": "weit",
     "pos": "adj"
   },
   {
@@ -2435,7 +1755,6 @@
       "to elapse",
       "to wear"
     ],
-    "de": "anhaben",
     "pos": "verb"
   },
   {
@@ -2445,9 +1764,6 @@
       "home",
       "flat"
     ],
-    "sv": "hem",
-    "it": "nazionale",
-    "de": "Heim",
     "pos": "noun"
   },
   {
@@ -2456,10 +1772,6 @@
       "France",
       "French"
     ],
-    "sv": "fransk",
-    "it": "francese",
-    "fr": "français",
-    "de": "Französisch",
     "pos": "noun"
   },
   {
@@ -2469,9 +1781,6 @@
       "to put",
       "to arrange"
     ],
-    "it": "mettere",
-    "fr": "mettre",
-    "de": "hintun",
     "pos": "verb"
   },
   {
@@ -2480,9 +1789,6 @@
       "sales",
       "sale"
     ],
-    "it": "vendita",
-    "fr": "vente",
-    "de": "Verkauf",
     "pos": "noun"
   },
   {
@@ -2491,17 +1797,11 @@
       "to discuss",
       "to ponder"
     ],
-    "sv": "fundera",
-    "de": "klamüsern",
     "pos": "verb"
   },
   {
     "fi": "tarve",
     "en": "need",
-    "sv": "behov",
-    "it": "bisogno",
-    "fr": "besoin",
-    "de": "Not",
     "pos": "noun"
   },
   {
@@ -2510,8 +1810,6 @@
       "general",
       "common"
     ],
-    "sv": "vanlig",
-    "de": "geläufig",
     "pos": "adj"
   },
   {
@@ -2528,7 +1826,6 @@
       "known",
       "familiar"
     ],
-    "de": "traulich",
     "pos": "adj"
   },
   {
@@ -2538,10 +1835,6 @@
       "to bode",
       "promise"
     ],
-    "sv": "lova",
-    "it": "promettere",
-    "fr": "promettre",
-    "de": "verheißen",
     "pos": "verb"
   },
   {
@@ -2551,8 +1844,6 @@
       "permission",
       "clearance"
     ],
-    "fr": "permission",
-    "de": "Verlaub",
     "pos": "noun"
   },
   {
@@ -2561,10 +1852,6 @@
       "idea",
       "thought"
     ],
-    "sv": "tanke",
-    "it": "pensiero",
-    "fr": "pensée",
-    "de": "Gedanke",
     "pos": "noun"
   },
   {
@@ -2573,8 +1860,6 @@
       "to acquire",
       "to buy"
     ],
-    "it": "acquisire",
-    "de": "akquirieren",
     "pos": "verb"
   },
   {
@@ -2583,10 +1868,6 @@
       "to pass",
       "to go"
     ],
-    "sv": "fara",
-    "it": "andare",
-    "fr": "aller",
-    "de": "gehen",
     "pos": "verb"
   },
   {
@@ -2595,9 +1876,6 @@
       "to think about",
       "to think"
     ],
-    "it": "pensare",
-    "fr": "penser",
-    "de": "denken",
     "pos": "verb"
   },
   {
@@ -2606,8 +1884,6 @@
       "previous",
       "former"
     ],
-    "it": "avanti",
-    "de": "vorig",
     "pos": "adj"
   },
   {
@@ -2616,18 +1892,11 @@
       "to open",
       "to start"
     ],
-    "sv": "öppna",
-    "it": "aprire",
-    "fr": "ouvrir",
-    "de": "öffnen",
     "pos": "verb"
   },
   {
     "fi": "saapua",
     "en": "to arrive",
-    "it": "arrivare",
-    "fr": "arriver",
-    "de": "ankommen",
     "pos": "verb"
   },
   {
@@ -2636,17 +1905,11 @@
       "target",
       "destination"
     ],
-    "fr": "cible",
-    "de": "Ziel",
     "pos": "noun"
   },
   {
     "fi": "muistaa",
     "en": "to remember",
-    "sv": "minnas",
-    "it": "ricordare",
-    "fr": "souvenir",
-    "de": "gedenken",
     "pos": "verb"
   },
   {
@@ -2656,9 +1919,6 @@
       "to think",
       "doubt"
     ],
-    "it": "forse",
-    "fr": "douter",
-    "de": "zweifeln",
     "pos": "verb"
   },
   {
@@ -2667,7 +1927,6 @@
       "province",
       "county"
     ],
-    "de": "Qark",
     "pos": "noun"
   },
   {
@@ -2676,10 +1935,6 @@
       "market",
       "fair"
     ],
-    "sv": "marknad",
-    "it": "mercato",
-    "fr": "marché",
-    "de": "Markt",
     "pos": "noun"
   },
   {
@@ -2688,9 +1943,6 @@
       "language",
       "tongue"
     ],
-    "it": "lingua",
-    "fr": "langue",
-    "de": "Zunge",
     "pos": "noun"
   },
   {
@@ -2699,7 +1951,6 @@
       "factor",
       "doer"
     ],
-    "de": "Hauptkerl",
     "pos": "noun"
   },
   {
@@ -2708,8 +1959,6 @@
       "usual",
       "ordinary"
     ],
-    "it": "qualsiasi",
-    "de": "normal",
     "pos": "adj"
   },
   {
@@ -2718,10 +1967,6 @@
       "people",
       "nation"
     ],
-    "sv": "folk",
-    "it": "popolo",
-    "fr": "peuple",
-    "de": "Volk",
     "pos": "noun"
   },
   {
@@ -2730,16 +1975,11 @@
       "significant",
       "remarkable"
     ],
-    "sv": "betydande",
-    "it": "significativo",
-    "de": "bedeutsam",
     "pos": "adj"
   },
   {
     "fi": "tv",
     "en": "TV",
-    "it": "televisivo",
-    "fr": "télé",
     "pos": "noun"
   },
   {
@@ -2756,10 +1996,6 @@
       "importance",
       "meaning"
     ],
-    "sv": "betydelse",
-    "it": "significato",
-    "fr": "sens",
-    "de": "Bedeutung",
     "pos": "noun"
   },
   {
@@ -2776,13 +2012,11 @@
       "rich",
       "abundant"
     ],
-    "de": "fündig",
     "pos": "adj"
   },
   {
     "fi": "jukka",
     "en": "yucca",
-    "de": "Yucca",
     "pos": "noun"
   },
   {
@@ -2793,7 +2027,6 @@
       "shop",
       "movement"
     ],
-    "de": "Gang",
     "pos": "noun"
   },
   {
@@ -2805,10 +2038,6 @@
       "to behave",
       "to be found"
     ],
-    "sv": "te",
-    "it": "apparire",
-    "fr": "paraître",
-    "de": "anmuten",
     "pos": "verb"
   },
   {
@@ -2818,7 +2047,6 @@
       "to assert",
       "to reassure"
     ],
-    "de": "beteuern",
     "pos": "verb"
   },
   {
@@ -2827,9 +2055,6 @@
       "quid",
       "model"
     ],
-    "sv": "modell",
-    "it": "modello",
-    "de": "Model",
     "pos": "noun"
   },
   {
@@ -2838,10 +2063,6 @@
       "national",
       "citizen"
     ],
-    "sv": "medborgare",
-    "it": "cittadino",
-    "fr": "citoyen",
-    "de": "Bürger",
     "pos": "noun"
   },
   {
@@ -2859,7 +2080,6 @@
       "to portray",
       "film"
     ],
-    "de": "abbilden",
     "pos": "verb"
   },
   {
@@ -2868,9 +2088,6 @@
       "senior",
       "parent"
     ],
-    "sv": "förälder",
-    "it": "genitore",
-    "de": "Elternteil",
     "pos": "adj"
   },
   {
@@ -2879,8 +2096,6 @@
       "to introduce",
       "to present"
     ],
-    "sv": "införa",
-    "de": "einführen",
     "pos": "verb"
   },
   {
@@ -2890,8 +2105,6 @@
       "topic",
       "motif"
     ],
-    "it": "argomento",
-    "de": "Thema",
     "pos": "noun"
   },
   {
@@ -2901,17 +2114,11 @@
       "speed",
       "pace"
     ],
-    "sv": "fart",
-    "it": "velocità",
-    "fr": "vitesse",
-    "de": "Speed",
     "pos": "noun"
   },
   {
     "fi": "yhteiskunta",
     "en": "society",
-    "sv": "samhälle",
-    "it": "sociale",
     "pos": "noun"
   },
   {
@@ -2926,10 +2133,6 @@
       "to move",
       "transfer"
     ],
-    "sv": "flytta",
-    "it": "muovere",
-    "fr": "bouger",
-    "de": "regen",
     "pos": "verb"
   },
   {
@@ -2939,10 +2142,6 @@
       "to dispatch",
       "to transmit"
     ],
-    "sv": "sända",
-    "it": "avviare",
-    "fr": "envoyer",
-    "de": "schicken",
     "pos": "verb"
   },
   {
@@ -2951,9 +2150,6 @@
       "to fill",
       "to stuff"
     ],
-    "sv": "fylla",
-    "fr": "remplir",
-    "de": "füllen",
     "pos": "verb"
   },
   {
@@ -2970,16 +2166,11 @@
       "to confirm",
       "to strengthen"
     ],
-    "sv": "styrka",
-    "de": "stärken",
     "pos": "verb"
   },
   {
     "fi": "perinteinen",
     "en": "traditional",
-    "sv": "traditionell",
-    "it": "tradizionale",
-    "de": "etabliert",
     "pos": "adj"
   },
   {
@@ -2988,7 +2179,6 @@
       "economic",
       "economical"
     ],
-    "de": "sparsam",
     "pos": "adj"
   },
   {
@@ -2997,9 +2187,6 @@
       "to develop",
       "to train"
     ],
-    "sv": "utveckla",
-    "it": "sviluppare",
-    "de": "ausprägen",
     "pos": "verb"
   },
   {
@@ -3008,9 +2195,6 @@
       "position",
       "base"
     ],
-    "it": "base",
-    "fr": "base",
-    "de": "Leo",
     "pos": "noun"
   },
   {
@@ -3019,10 +2203,6 @@
       "fast",
       "rapid"
     ],
-    "sv": "snabb",
-    "it": "veloce",
-    "fr": "rapide",
-    "de": "hurtig",
     "pos": "adj"
   },
   {
@@ -3031,10 +2211,6 @@
       "to meet",
       "to meet up"
     ],
-    "sv": "möta",
-    "it": "incontrare",
-    "fr": "rencontrer",
-    "de": "tagen",
     "pos": "verb"
   },
   {
@@ -3044,9 +2220,6 @@
       "to notice",
       "to find"
     ],
-    "sv": "märka",
-    "it": "avviso",
-    "de": "merken",
     "pos": "verb"
   },
   {
@@ -3055,7 +2228,6 @@
       "to increase",
       "to reproduce"
     ],
-    "de": "nachbilden",
     "pos": "verb"
   },
   {
@@ -3064,17 +2236,11 @@
       "transport",
       "traffic"
     ],
-    "sv": "trafik",
-    "it": "traffico",
     "pos": "noun"
   },
   {
     "fi": "työskennellä",
     "en": "to work",
-    "sv": "verka",
-    "it": "lavorare",
-    "fr": "travailler",
-    "de": "rödeln",
     "pos": "verb"
   },
   {
@@ -3083,9 +2249,6 @@
       "investigator",
       "researcher"
     ],
-    "sv": "forskare",
-    "it": "ricercatore",
-    "de": "Forscherin",
     "pos": "noun"
   },
   {
@@ -3095,10 +2258,6 @@
       "to ask",
       "request"
     ],
-    "sv": "fråga",
-    "it": "chiedere",
-    "fr": "demander",
-    "de": "bitten",
     "pos": "verb"
   },
   {
@@ -3107,10 +2266,6 @@
       "species",
       "kind"
     ],
-    "sv": "sort",
-    "it": "genere",
-    "fr": "genre",
-    "de": "Art",
     "pos": "noun"
   },
   {
@@ -3119,23 +2274,16 @@
       "pleased",
       "content"
     ],
-    "sv": "innehåll",
-    "it": "contenuto",
-    "fr": "content",
-    "de": "inhaltlich",
     "pos": "adj"
   },
   {
     "fi": "norja",
     "en": "Norway",
-    "de": "rank",
     "pos": "name"
   },
   {
     "fi": "järjestö",
     "en": "organization",
-    "sv": "organisation",
-    "it": "organizzazione",
     "pos": "noun"
   },
   {
@@ -3145,9 +2293,6 @@
       "native",
       "topical"
     ],
-    "sv": "lokal",
-    "it": "locale",
-    "de": "lokal",
     "pos": "adj"
   },
   {
@@ -3156,8 +2301,6 @@
       "wood",
       "tree"
     ],
-    "sv": "träd",
-    "de": "Baum",
     "pos": "noun"
   },
   {
@@ -3166,10 +2309,6 @@
       "to move",
       "to go around"
     ],
-    "sv": "flytta",
-    "it": "muovere",
-    "fr": "bouger",
-    "de": "regen",
     "pos": "verb"
   },
   {
@@ -3178,26 +2317,16 @@
       "to need",
       "must"
     ],
-    "sv": "måste",
-    "it": "occorrere",
-    "fr": "devoir",
     "pos": "verb"
   },
   {
     "fi": "julkaista",
     "en": "to publish",
-    "sv": "publicera",
-    "it": "pubblicare",
-    "de": "edieren",
     "pos": "verb"
   },
   {
     "fi": "menettää",
     "en": "to lose",
-    "sv": "förlora",
-    "it": "perdere",
-    "fr": "perdre",
-    "de": "einbüßen",
     "pos": "verb"
   },
   {
@@ -3208,9 +2337,6 @@
       "slope",
       "to slope"
     ],
-    "it": "spendere",
-    "fr": "dépenser",
-    "de": "ausgeben",
     "pos": "verb"
   },
   {
@@ -3219,9 +2345,6 @@
       "to put",
       "to send"
     ],
-    "it": "mettere",
-    "fr": "mettre",
-    "de": "hintun",
     "pos": "verb"
   },
   {
@@ -3239,7 +2362,6 @@
       "to hurt",
       "to happen"
     ],
-    "de": "wehtun",
     "pos": "verb"
   },
   {
@@ -3249,10 +2371,6 @@
       "to play",
       "to ring"
     ],
-    "sv": "spela",
-    "it": "giocare",
-    "fr": "jouer",
-    "de": "spielen",
     "pos": "verb"
   },
   {
@@ -3261,19 +2379,11 @@
       "policy",
       "politics"
     ],
-    "sv": "politik",
-    "it": "politica",
-    "fr": "politique",
-    "de": "Politik",
     "pos": "noun"
   },
   {
     "fi": "seutu",
     "en": "region",
-    "sv": "region",
-    "it": "regione",
-    "fr": "région",
-    "de": "Region",
     "pos": "noun"
   },
   {
@@ -3287,8 +2397,6 @@
       "to centralize",
       "to concentrate"
     ],
-    "fr": "concentrer",
-    "de": "konzentrieren",
     "pos": "verb"
   },
   {
@@ -3297,8 +2405,6 @@
       "round",
       "round turn"
     ],
-    "sv": "runda",
-    "de": "Rund",
     "pos": "noun"
   },
   {
@@ -3308,9 +2414,6 @@
       "ring",
       "district"
     ],
-    "sv": "ring",
-    "fr": "bague",
-    "de": "Ring",
     "pos": "noun"
   },
   {
@@ -3319,10 +2422,6 @@
       "open",
       "vacant"
     ],
-    "sv": "öppen",
-    "it": "aperto",
-    "fr": "ouvert",
-    "de": "auf",
     "pos": "adj"
   },
   {
@@ -3339,9 +2438,6 @@
       "to call",
       "to invite"
     ],
-    "it": "invitare",
-    "fr": "inviter",
-    "de": "laden",
     "pos": "verb"
   },
   {
@@ -3350,8 +2446,6 @@
       "to believe",
       "to suppose"
     ],
-    "fr": "supposer",
-    "de": "wähnen",
     "pos": "verb"
   },
   {
@@ -3360,7 +2454,6 @@
       "Estonia",
       "estonian"
     ],
-    "de": "Este",
     "pos": "noun"
   },
   {
@@ -3369,10 +2462,6 @@
       "public",
       "unclassified"
     ],
-    "sv": "offentlig",
-    "it": "pubblico",
-    "fr": "public",
-    "de": "öffentlich",
     "pos": "adj"
   },
   {
@@ -3381,10 +2470,6 @@
       "to fear",
       "fear"
     ],
-    "sv": "rädsla",
-    "it": "temere",
-    "fr": "craindre",
-    "de": "fürchten",
     "pos": "verb"
   },
   {
@@ -3393,9 +2478,6 @@
       "to lose",
       "to disappear"
     ],
-    "sv": "försvinna",
-    "fr": "disparaître",
-    "de": "verfliegen",
     "pos": "verb"
   },
   {
@@ -3417,9 +2499,6 @@
       "official",
       "authority"
     ],
-    "sv": "officiell",
-    "it": "ufficiale",
-    "de": "amtlich",
     "pos": "noun"
   },
   {
@@ -3428,7 +2507,6 @@
       "item",
       "batch"
     ],
-    "de": "chargenweise",
     "pos": "noun"
   },
   {
@@ -3438,7 +2516,6 @@
       "taut",
       "strict"
     ],
-    "de": "drall",
     "pos": "adj"
   },
   {
@@ -3447,10 +2524,6 @@
       "people",
       "power"
     ],
-    "sv": "folk",
-    "it": "popolo",
-    "fr": "peuple",
-    "de": "Volk",
     "pos": "noun"
   },
   {
@@ -3461,9 +2534,6 @@
       "to have",
       "own"
     ],
-    "sv": "äga",
-    "fr": "posséder",
-    "de": "besitzen",
     "pos": "verb"
   },
   {
@@ -3472,10 +2542,6 @@
       "full",
       "full of"
     ],
-    "sv": "full",
-    "it": "pieno",
-    "fr": "plein",
-    "de": "voll",
     "pos": "adj"
   },
   {
@@ -3484,7 +2550,6 @@
       "to point out",
       "to remark"
     ],
-    "de": "Anmerkung",
     "pos": "verb"
   },
   {
@@ -3493,9 +2558,6 @@
       "key",
       "central"
     ],
-    "sv": "central",
-    "it": "centrale",
-    "de": "mittig",
     "pos": "adj"
   },
   {
@@ -3504,7 +2566,6 @@
       "entrepreneur",
       "trier"
     ],
-    "de": "Unternehmer",
     "pos": "noun"
   },
   {
@@ -3513,9 +2574,6 @@
       "to debate",
       "to discuss"
     ],
-    "sv": "diskutera",
-    "it": "discutere",
-    "de": "beraten",
     "pos": "verb"
   },
   {
@@ -3542,9 +2600,6 @@
       "to sentence",
       "judge"
     ],
-    "sv": "döma",
-    "it": "frase",
-    "de": "Satz",
     "pos": "verb"
   },
   {
@@ -3562,10 +2617,6 @@
       "to complete",
       "stop"
     ],
-    "sv": "sluta",
-    "it": "fermare",
-    "fr": "empêcher",
-    "de": "stoppen",
     "pos": "verb"
   },
   {
@@ -3574,9 +2625,6 @@
       "to learn",
       "to check"
     ],
-    "it": "imparare",
-    "fr": "apprendre",
-    "de": "lernen",
     "pos": "verb"
   },
   {
@@ -3585,7 +2633,6 @@
       "luck",
       "happiness"
     ],
-    "de": "Glück",
     "pos": "noun"
   },
   {
@@ -3594,9 +2641,6 @@
       "to improve",
       "to heal"
     ],
-    "sv": "bättra",
-    "it": "migliorare",
-    "de": "bessern",
     "pos": "verb"
   },
   {
@@ -3605,10 +2649,6 @@
       "power",
       "authority"
     ],
-    "sv": "makt",
-    "it": "potere",
-    "fr": "pouvoir",
-    "de": "Macht",
     "pos": "noun"
   },
   {
@@ -3617,9 +2657,6 @@
       "surroundings",
       "environment"
     ],
-    "sv": "miljö",
-    "it": "ambiente",
-    "de": "Umwelt",
     "pos": "noun"
   },
   {
@@ -3628,9 +2665,6 @@
       "real",
       "actual"
     ],
-    "it": "reale",
-    "fr": "réel",
-    "de": "real",
     "pos": "adj"
   },
   {
@@ -3639,7 +2673,6 @@
       "means",
       "trick"
     ],
-    "sv": "medel",
     "pos": "noun"
   },
   {
@@ -3648,8 +2681,6 @@
       "to prepare",
       "to make"
     ],
-    "fr": "fabriquer",
-    "de": "machen",
     "pos": "verb"
   },
   {
@@ -3658,17 +2689,11 @@
       "to proceed",
       "to advance"
     ],
-    "sv": "andra",
-    "it": "avanzare",
-    "fr": "avancer",
-    "de": "vorstoßen",
     "pos": "verb"
   },
   {
     "fi": "perustella",
     "en": "to justify",
-    "it": "giustificare",
-    "de": "begründen",
     "pos": "verb"
   },
   {
@@ -3679,10 +2704,6 @@
       "to deny",
       "ban"
     ],
-    "sv": "förbjuda",
-    "it": "vietare",
-    "fr": "interdire",
-    "de": "verbieten",
     "pos": "verb"
   },
   {
@@ -3691,7 +2712,6 @@
       "supplier",
       "reporter"
     ],
-    "de": "Reporter",
     "pos": "noun"
   },
   {
@@ -3700,10 +2720,6 @@
       "short",
       "brief"
     ],
-    "sv": "kort",
-    "it": "breve",
-    "fr": "court",
-    "de": "kurz",
     "pos": "adj"
   },
   {
@@ -3713,10 +2729,6 @@
       "to block",
       "to hinder"
     ],
-    "sv": "hindra",
-    "it": "impedire",
-    "fr": "prévenir",
-    "de": "verhüten",
     "pos": "verb"
   },
   {
@@ -3725,7 +2737,6 @@
       "official",
       "post"
     ],
-    "de": "Post",
     "pos": "noun"
   },
   {
@@ -3736,16 +2747,11 @@
       "to unite",
       "combine"
     ],
-    "sv": "koppla",
-    "it": "collegare",
-    "de": "stöpseln",
     "pos": "verb"
   },
   {
     "fi": "mainita",
     "en": "to mention",
-    "sv": "nämna",
-    "de": "erwähnen",
     "pos": "verb"
   },
   {
@@ -3754,8 +2760,6 @@
       "spare",
       "reserve"
     ],
-    "it": "riserva",
-    "de": "Reserve",
     "pos": "noun"
   },
   {
@@ -3764,7 +2768,6 @@
       "sure",
       "certain"
     ],
-    "fr": "sûr",
     "pos": "adj"
   },
   {
@@ -3781,8 +2784,6 @@
       "expensive",
       "dear"
     ],
-    "sv": "dyr",
-    "de": "teuer",
     "pos": "adj"
   },
   {
@@ -3791,9 +2792,6 @@
       "statement",
       "report"
     ],
-    "sv": "rapport",
-    "it": "rapporto",
-    "de": "Report",
     "pos": "noun"
   },
   {
@@ -3803,10 +2801,6 @@
       "to exchange",
       "swap"
     ],
-    "sv": "ändra",
-    "it": "trasformare",
-    "fr": "changement",
-    "de": "ändern",
     "pos": "verb"
   },
   {
@@ -3815,7 +2809,6 @@
       "to reduce",
       "to decrease"
     ],
-    "de": "Herabsetzung",
     "pos": "verb"
   },
   {
@@ -3824,7 +2817,6 @@
       "Turkey",
       "fur"
     ],
-    "de": "Fell",
     "pos": "noun"
   },
   {
@@ -3833,10 +2825,6 @@
       "place",
       "ranking"
     ],
-    "sv": "plats",
-    "it": "posto",
-    "fr": "place",
-    "de": "Ort",
     "pos": "noun"
   },
   {
@@ -3845,9 +2833,6 @@
       "Italy",
       "Italian"
     ],
-    "it": "italiano",
-    "fr": "italien",
-    "de": "Italiener",
     "pos": "name"
   },
   {
@@ -3856,9 +2841,6 @@
       "to reach",
       "to catch up to"
     ],
-    "sv": "nå",
-    "it": "raggiungere",
-    "de": "langen",
     "pos": "verb"
   },
   {
@@ -3868,9 +2850,6 @@
       "to set",
       "to invest"
     ],
-    "it": "insieme",
-    "fr": "ensemble",
-    "de": "festlegen",
     "pos": "verb"
   },
   {
@@ -3879,16 +2858,11 @@
       "opportunity",
       "occasion"
     ],
-    "sv": "tillfälle",
-    "it": "occasione",
-    "de": "Gelegenheit",
     "pos": "noun"
   },
   {
     "fi": "palkinto",
     "en": "prize",
-    "it": "premio",
-    "fr": "prix",
     "pos": "noun"
   },
   {
@@ -3902,9 +2876,6 @@
   {
     "fi": "pakolainen",
     "en": "refugee",
-    "sv": "flykting",
-    "it": "profugo",
-    "de": "Flüchtling",
     "pos": "noun"
   },
   {
@@ -3913,7 +2884,6 @@
       "pay",
       "compensation"
     ],
-    "de": "Heuer",
     "pos": "noun"
   },
   {
@@ -3923,7 +2893,6 @@
       "board",
       "disk"
     ],
-    "de": "Teller",
     "pos": "noun"
   },
   {
@@ -3941,8 +2910,6 @@
       "publicity",
       "publicness"
     ],
-    "it": "pubblicità",
-    "de": "Publicity",
     "pos": "noun"
   },
   {
@@ -3951,10 +2918,6 @@
       "to close",
       "to lock"
     ],
-    "sv": "avsluta",
-    "it": "chiudere",
-    "fr": "proche",
-    "de": "zutun",
     "pos": "verb"
   },
   {
@@ -3964,10 +2927,6 @@
       "to order",
       "to assign"
     ],
-    "sv": "ordna",
-    "it": "ordinare",
-    "fr": "commander",
-    "de": "ordern",
     "pos": "verb"
   },
   {
@@ -3976,10 +2935,6 @@
       "act",
       "deed"
     ],
-    "sv": "akt",
-    "it": "atto",
-    "fr": "acte",
-    "de": "Akt",
     "pos": "noun"
   },
   {
@@ -3989,7 +2944,6 @@
       "descent",
       "calculation"
     ],
-    "de": "Sinkflug",
     "pos": "noun"
   },
   {
@@ -3998,10 +2952,6 @@
       "matter",
       "question"
     ],
-    "sv": "fråga",
-    "it": "domanda",
-    "fr": "question",
-    "de": "Frage",
     "pos": "noun"
   },
   {
@@ -4018,16 +2968,11 @@
       "to need",
       "to long for"
     ],
-    "de": "ersehnen",
     "pos": "verb"
   },
   {
     "fi": "äänestää",
     "en": "to vote",
-    "sv": "rösta",
-    "it": "votare",
-    "fr": "voter",
-    "de": "votieren",
     "pos": "verb"
   },
   {
@@ -4037,10 +2982,6 @@
       "to fall",
       "fall"
     ],
-    "sv": "falla",
-    "it": "cadere",
-    "fr": "tomber",
-    "de": "fallen",
     "pos": "verb"
   },
   {
@@ -4050,9 +2991,6 @@
       "institution",
       "department"
     ],
-    "sv": "institution",
-    "it": "istituzione",
-    "de": "Anstalt",
     "pos": "noun"
   },
   {
@@ -4062,9 +3000,6 @@
       "to reserve",
       "reserve"
     ],
-    "it": "riservare",
-    "fr": "réserver",
-    "de": "vormerken",
     "pos": "verb"
   },
   {
@@ -4074,10 +3009,6 @@
       "to beat",
       "beat"
     ],
-    "sv": "slå",
-    "it": "colpire",
-    "fr": "frapper",
-    "de": "hitten",
     "pos": "verb"
   },
   {
@@ -4087,7 +3018,6 @@
       "accurate",
       "careful"
     ],
-    "de": "getreu",
     "pos": "adj"
   },
   {
@@ -4096,8 +3026,6 @@
       "to get a place",
       "to rank"
     ],
-    "sv": "rang",
-    "de": "Rang",
     "pos": "verb"
   },
   {
@@ -4107,8 +3035,6 @@
       "review",
       "evaluation"
     ],
-    "it": "preventivo",
-    "de": "Schätzung",
     "pos": "noun"
   },
   {
@@ -4117,8 +3043,6 @@
       "track",
       "route"
     ],
-    "sv": "sträckning",
-    "de": "Bahn",
     "pos": "noun"
   },
   {
@@ -4128,9 +3052,6 @@
       "object",
       "piece"
     ],
-    "sv": "föremål",
-    "it": "oggetto",
-    "de": "Objekt",
     "pos": "noun"
   },
   {
@@ -4139,8 +3060,6 @@
       "safety",
       "security"
     ],
-    "sv": "säkerhet",
-    "it": "sicurezza",
     "pos": "noun"
   },
   {
@@ -4149,9 +3068,6 @@
       "TV",
       "television"
     ],
-    "it": "televisione",
-    "fr": "télévision",
-    "de": "Glotze",
     "pos": "noun"
   },
   {
@@ -4160,10 +3076,6 @@
       "serious",
       "grave"
     ],
-    "sv": "allvarlig",
-    "it": "serio",
-    "fr": "grave",
-    "de": "ernst",
     "pos": "adj"
   },
   {
@@ -4173,8 +3085,6 @@
       "struggle",
       "combat"
     ],
-    "it": "lotta",
-    "de": "Prügelei",
     "pos": "noun"
   },
   {
@@ -4183,10 +3093,6 @@
       "to pan out",
       "to go"
     ],
-    "sv": "fara",
-    "it": "andare",
-    "fr": "aller",
-    "de": "gehen",
     "pos": "verb"
   },
   {
@@ -4200,17 +3106,11 @@
       "requirement",
       "demand"
     ],
-    "sv": "efterfrågan",
-    "de": "Forderung",
     "pos": "noun"
   },
   {
     "fi": "sisältää",
     "en": "to contain",
-    "sv": "innehålla",
-    "it": "contenere",
-    "fr": "contenir",
-    "de": "enthalten",
     "pos": "verb"
   },
   {
@@ -4219,8 +3119,6 @@
       "beautiful",
       "fair"
     ],
-    "sv": "vacker",
-    "de": "schön",
     "pos": "adj"
   },
   {
@@ -4229,9 +3127,6 @@
       "to replace",
       "to pay compensation"
     ],
-    "sv": "ersätta",
-    "fr": "remplacer",
-    "de": "ersetzen",
     "pos": "verb"
   },
   {
@@ -4240,7 +3135,6 @@
       "post",
       "track"
     ],
-    "de": "Laufbahn",
     "pos": "noun"
   },
   {
@@ -4249,8 +3143,6 @@
       "form",
       "shape"
     ],
-    "fr": "forme",
-    "de": "Form",
     "pos": "noun"
   },
   {
@@ -4259,7 +3151,6 @@
       "loss",
       "defeat"
     ],
-    "de": "Niederlage",
     "pos": "noun"
   },
   {
@@ -4276,7 +3167,6 @@
       "to blame",
       "to accuse"
     ],
-    "de": "tadeln",
     "pos": "verb"
   },
   {
@@ -4285,7 +3175,6 @@
       "sequel",
       "extension"
     ],
-    "de": "Zubau",
     "pos": "noun"
   },
   {
@@ -4294,7 +3183,6 @@
       "view",
       "outlook"
     ],
-    "de": "Sicht",
     "pos": "noun"
   },
   {
@@ -4304,17 +3192,11 @@
       "to plead",
       "to assert"
     ],
-    "sv": "hävda",
-    "fr": "prétendre",
-    "de": "behaupten",
     "pos": "verb"
   },
   {
     "fi": "virallinen",
     "en": "official",
-    "sv": "officiell",
-    "it": "ufficiale",
-    "de": "amtlich",
     "pos": "adj"
   },
   {
@@ -4323,7 +3205,6 @@
       "to relate",
       "to deal with"
     ],
-    "de": "abhandeln",
     "pos": "verb"
   },
   {
@@ -4332,10 +3213,6 @@
       "to eat",
       "to wear out"
     ],
-    "sv": "äta",
-    "it": "mangiare",
-    "fr": "manger",
-    "de": "essen",
     "pos": "verb"
   },
   {
@@ -4344,17 +3221,11 @@
       "to resist",
       "to object"
     ],
-    "sv": "föremål",
-    "it": "oggetto",
-    "de": "widersagen",
     "pos": "verb"
   },
   {
     "fi": "nauttia",
     "en": "to enjoy",
-    "sv": "njuta",
-    "it": "godere",
-    "de": "genießen",
     "pos": "verb"
   },
   {
@@ -4363,8 +3234,6 @@
       "to last",
       "to remain"
     ],
-    "sv": "återstå",
-    "de": "bleiben",
     "pos": "verb"
   },
   {
@@ -4373,10 +3242,6 @@
       "to face",
       "to meet"
     ],
-    "sv": "möta",
-    "it": "incontrare",
-    "fr": "rencontrer",
-    "de": "tagen",
     "pos": "verb"
   },
   {
@@ -4385,7 +3250,6 @@
       "extract",
       "grasp"
     ],
-    "de": "Griff",
     "pos": "noun"
   },
   {
@@ -4394,8 +3258,6 @@
       "victim",
       "sacrifice"
     ],
-    "it": "vittima",
-    "fr": "victime",
     "pos": "noun"
   },
   {
@@ -4420,9 +3282,6 @@
       "fair",
       "generous"
     ],
-    "sv": "vän",
-    "fr": "juste",
-    "de": "fair",
     "pos": "adj"
   },
   {
@@ -4431,7 +3290,6 @@
       "to accrue",
       "to accumulate"
     ],
-    "de": "anhäufen",
     "pos": "verb"
   },
   {
@@ -4440,10 +3298,6 @@
       "to construct",
       "to form"
     ],
-    "sv": "bilda",
-    "it": "formare",
-    "fr": "former",
-    "de": "bilden",
     "pos": "verb"
   },
   {
@@ -4452,10 +3306,6 @@
       "to end",
       "to run out"
     ],
-    "sv": "ända",
-    "it": "terminare",
-    "fr": "terminer",
-    "de": "enden",
     "pos": "verb"
   },
   {
@@ -4473,17 +3323,11 @@
       "to print",
       "press"
     ],
-    "sv": "trycka",
-    "it": "stampa",
-    "fr": "appuyer",
-    "de": "drücken",
     "pos": "verb"
   },
   {
     "fi": "työttömyys",
     "en": "unemployment",
-    "sv": "arbetslöshet",
-    "de": "Arbeitslosigkeit",
     "pos": "noun"
   },
   {
@@ -4492,10 +3336,6 @@
       "private",
       "single"
     ],
-    "sv": "privat",
-    "it": "privato",
-    "fr": "privé",
-    "de": "privat",
     "pos": "adj"
   },
   {
@@ -4506,7 +3346,6 @@
       "space",
       "interval"
     ],
-    "de": "Lücke",
     "pos": "noun"
   },
   {
@@ -4520,9 +3359,6 @@
       "to progress",
       "to develop"
     ],
-    "sv": "utveckla",
-    "it": "sviluppare",
-    "de": "ausprägen",
     "pos": "verb"
   },
   {
@@ -4532,8 +3368,6 @@
       "to crack down",
       "strike"
     ],
-    "sv": "drabba",
-    "de": "streiken",
     "pos": "verb"
   },
   {
@@ -4542,16 +3376,11 @@
       "period",
       "episode"
     ],
-    "sv": "punkt",
-    "it": "periodo",
-    "fr": "période",
-    "de": "Tage",
     "pos": "noun"
   },
   {
     "fi": "vuosituhat",
     "en": "millennium",
-    "de": "Millennium",
     "pos": "noun"
   },
   {
@@ -4560,10 +3389,6 @@
       "heavy",
       "hard"
     ],
-    "sv": "tung",
-    "it": "peso",
-    "fr": "lourd",
-    "de": "heavy",
     "pos": "adj"
   },
   {
@@ -4580,7 +3405,6 @@
       "to negotiate",
       "to consult"
     ],
-    "de": "verhandeln",
     "pos": "verb"
   },
   {
@@ -4590,8 +3414,6 @@
       "to reward",
       "reward"
     ],
-    "sv": "lön",
-    "de": "belohnen",
     "pos": "verb"
   },
   {
@@ -4600,9 +3422,6 @@
       "equivalent",
       "corresponding"
     ],
-    "sv": "motsvarande",
-    "it": "corrispondente",
-    "de": "desfallsig",
     "pos": "adj"
   },
   {
@@ -4611,9 +3430,6 @@
       "opinion",
       "statement"
     ],
-    "sv": "uttalande",
-    "it": "affermazione",
-    "de": "Statement",
     "pos": "noun"
   },
   {
@@ -4622,18 +3438,11 @@
       "certain",
       "specific"
     ],
-    "sv": "viss",
-    "it": "certo",
-    "fr": "certain",
-    "de": "gewiss",
     "pos": "adj"
   },
   {
     "fi": "julkistaa",
     "en": "to publish",
-    "sv": "publicera",
-    "it": "pubblicare",
-    "de": "edieren",
     "pos": "verb"
   },
   {
@@ -4650,10 +3459,6 @@
       "gun",
       "weapon"
     ],
-    "sv": "vapen",
-    "it": "arma",
-    "fr": "arme",
-    "de": "Waffe",
     "pos": "noun"
   },
   {
@@ -4662,10 +3467,6 @@
       "weak",
       "faint"
     ],
-    "sv": "svag",
-    "it": "debole",
-    "fr": "faible",
-    "de": "schwach",
     "pos": "adj"
   },
   {
@@ -4674,30 +3475,21 @@
       "to retain",
       "to preserve"
     ],
-    "sv": "bevara",
-    "de": "einrexen",
     "pos": "verb"
   },
   {
     "fi": "kyetä",
     "en": "to be able to",
-    "de": "vermögen",
     "pos": "verb"
   },
   {
     "fi": "ulkomainen",
     "en": "foreign",
-    "sv": "utländsk",
-    "it": "straniero",
-    "fr": "étranger",
-    "de": "auswärtig",
     "pos": "adj"
   },
   {
     "fi": "vastustaja",
     "en": "opponent",
-    "sv": "motståndare",
-    "de": "Opponent",
     "pos": "noun"
   },
   {
@@ -4706,7 +3498,6 @@
       "fine",
       "good-looking"
     ],
-    "de": "fein",
     "pos": "adj"
   },
   {
@@ -4715,10 +3506,6 @@
       "to rotate",
       "to turn"
     ],
-    "sv": "vända",
-    "it": "girare",
-    "fr": "tourner",
-    "de": "drehen",
     "pos": "verb"
   },
   {
@@ -4735,9 +3522,6 @@
       "military",
       "soldier"
     ],
-    "sv": "soldat",
-    "fr": "soldat",
-    "de": "Soldat",
     "pos": "noun"
   },
   {
@@ -4746,7 +3530,6 @@
       "atmosphere",
       "mood"
     ],
-    "de": "Laune",
     "pos": "noun"
   },
   {
@@ -4755,9 +3538,6 @@
       "strong",
       "powerful"
     ],
-    "it": "potente",
-    "fr": "puissant",
-    "de": "mächtig",
     "pos": "adj"
   },
   {
@@ -4771,19 +3551,11 @@
   {
     "fi": "kokonaisuus",
     "en": "whole",
-    "sv": "helhet",
-    "it": "tutto",
-    "fr": "tout",
-    "de": "Ganzes",
     "pos": "noun"
   },
   {
     "fi": "tutustua",
     "en": "to meet",
-    "sv": "möta",
-    "it": "incontrare",
-    "fr": "rencontrer",
-    "de": "tagen",
     "pos": "verb"
   },
   {
@@ -4792,7 +3564,6 @@
       "to confess",
       "to plead guilty"
     ],
-    "de": "gestehen",
     "pos": "verb"
   },
   {
@@ -4806,18 +3577,11 @@
       "to propose",
       "to suggest"
     ],
-    "sv": "föreslå",
-    "it": "suggerire",
-    "fr": "suggérer",
-    "de": "suggerieren",
     "pos": "verb"
   },
   {
     "fi": "sallia",
     "en": "to allow",
-    "sv": "tillåta",
-    "it": "permettere",
-    "de": "lassen",
     "pos": "verb"
   },
   {
@@ -4826,9 +3590,6 @@
       "to reveal",
       "to expose"
     ],
-    "sv": "utsätta",
-    "it": "esporre",
-    "de": "aussetzen",
     "pos": "verb"
   },
   {
@@ -4838,19 +3599,11 @@
       "to grow",
       "to educate"
     ],
-    "sv": "växa",
-    "it": "crescere",
-    "fr": "grandir",
-    "de": "wachsen",
     "pos": "verb"
   },
   {
     "fi": "opiskella",
     "en": "to study",
-    "sv": "studera",
-    "it": "studiare",
-    "fr": "étudier",
-    "de": "Studie",
     "pos": "verb"
   },
   {
@@ -4859,16 +3612,11 @@
       "skill",
       "ability"
     ],
-    "de": "Skill",
     "pos": "noun"
   },
   {
     "fi": "henkilökunta",
     "en": "staff",
-    "sv": "personal",
-    "it": "personale",
-    "fr": "personnel",
-    "de": "Personal",
     "pos": "noun"
   },
   {
@@ -4878,9 +3626,6 @@
       "lack",
       "shortage"
     ],
-    "sv": "brist",
-    "it": "mancanza",
-    "de": "Mangel",
     "pos": "noun"
   },
   {
@@ -4889,8 +3634,6 @@
       "to draw",
       "to compose"
     ],
-    "it": "comporre",
-    "de": "dichten",
     "pos": "verb"
   },
   {
@@ -4900,10 +3643,6 @@
       "to roam",
       "visit"
     ],
-    "sv": "besöka",
-    "it": "visitare",
-    "fr": "visiter",
-    "de": "besuchen",
     "pos": "verb"
   },
   {
@@ -4912,8 +3651,6 @@
       "to remove",
       "to delete"
     ],
-    "fr": "enlever",
-    "de": "abtragen",
     "pos": "verb"
   },
   {
@@ -4930,8 +3667,6 @@
       "Denmark",
       "Danish"
     ],
-    "sv": "dansk",
-    "de": "dänisch",
     "pos": "noun"
   },
   {
@@ -4940,7 +3675,6 @@
       "to alienate",
       "to hand over"
     ],
-    "de": "hingeben",
     "pos": "verb"
   },
   {
@@ -4949,18 +3683,11 @@
       "positive",
       "favourable/favorable"
     ],
-    "sv": "positiv",
-    "it": "positivo",
-    "de": "positiv",
     "pos": "adj"
   },
   {
     "fi": "kylmä",
     "en": "cold",
-    "sv": "kall",
-    "it": "freddo",
-    "fr": "froid",
-    "de": "kalt",
     "pos": "adj"
   },
   {
@@ -4969,22 +3696,16 @@
       "senior citizen",
       "senior"
     ],
-    "fr": "supérieur",
     "pos": "noun"
   },
   {
     "fi": "huippukokous",
     "en": "summit",
-    "de": "Gipfeltreffen",
     "pos": "noun"
   },
   {
     "fi": "selkeä",
     "en": "clear",
-    "sv": "tydlig",
-    "it": "netto",
-    "fr": "clair",
-    "de": "hell",
     "pos": "adj"
   },
   {
@@ -5001,9 +3722,6 @@
       "similar",
       "equivalent"
     ],
-    "sv": "liknande",
-    "it": "simile",
-    "de": "ähnlich",
     "pos": "adj"
   },
   {
@@ -5013,9 +3731,6 @@
       "to repair",
       "repair"
     ],
-    "sv": "flicka",
-    "fr": "réparer",
-    "de": "reparieren",
     "pos": "verb"
   },
   {
@@ -5026,8 +3741,6 @@
       "accent",
       "stress"
     ],
-    "it": "evidenziare",
-    "de": "herausstreichen",
     "pos": "verb"
   },
   {
@@ -5036,10 +3749,6 @@
       "to fight",
       "to combat"
     ],
-    "sv": "kämpa",
-    "it": "combattere",
-    "fr": "combattre",
-    "de": "kloppen",
     "pos": "verb"
   },
   {
@@ -5061,8 +3770,6 @@
       "judgment",
       "sentence"
     ],
-    "it": "frase",
-    "de": "Satz",
     "pos": "noun"
   },
   {
@@ -5071,8 +3778,6 @@
       "final",
       "definitive"
     ],
-    "it": "finale",
-    "de": "final",
     "pos": "adj"
   },
   {
@@ -5081,8 +3786,6 @@
       "wrong",
       "false"
     ],
-    "sv": "fel",
-    "de": "unrecht",
     "pos": "adj"
   },
   {
@@ -5092,10 +3795,6 @@
       "to send",
       "to edit"
     ],
-    "sv": "sända",
-    "it": "avviare",
-    "fr": "envoyer",
-    "de": "schicken",
     "pos": "verb"
   },
   {
@@ -5104,7 +3803,6 @@
       "network",
       "mesh"
     ],
-    "de": "Geflecht",
     "pos": "noun"
   },
   {
@@ -5113,10 +3811,6 @@
       "to keep",
       "to manage"
     ],
-    "sv": "lyckas",
-    "it": "riuscire",
-    "fr": "gérer",
-    "de": "managen",
     "pos": "verb"
   },
   {
@@ -5127,8 +3821,6 @@
       "lesson",
       "moral"
     ],
-    "it": "insegnamento",
-    "de": "Lehre",
     "pos": "noun"
   },
   {
@@ -5137,17 +3829,11 @@
       "to explain",
       "to explicate"
     ],
-    "sv": "förklara",
-    "it": "spiegare",
-    "fr": "expliquer",
-    "de": "erklären",
     "pos": "verb"
   },
   {
     "fi": "lääni",
     "en": "province",
-    "it": "provincia",
-    "de": "Provinz",
     "pos": "noun"
   },
   {
@@ -5156,10 +3842,6 @@
       "to try out",
       "to try"
     ],
-    "sv": "testa",
-    "it": "provare",
-    "fr": "essai",
-    "de": "probieren",
     "pos": "verb"
   },
   {
@@ -5168,9 +3850,6 @@
       "impact",
       "hit"
     ],
-    "sv": "slag",
-    "fr": "choc",
-    "de": "Hit",
     "pos": "noun"
   },
   {
@@ -5179,8 +3858,6 @@
       "forced",
       "obligation"
     ],
-    "it": "obbligo",
-    "de": "Obligation",
     "pos": "noun"
   },
   {
@@ -5189,9 +3866,6 @@
       "to meet",
       "to gather"
     ],
-    "it": "concentrare",
-    "fr": "réunir",
-    "de": "sammeln",
     "pos": "verb"
   },
   {
@@ -5232,10 +3906,6 @@
       "nationwide",
       "state"
     ],
-    "sv": "stat",
-    "it": "statale",
-    "fr": "état",
-    "de": "staatlich",
     "pos": "adj"
   },
   {
@@ -5252,9 +3922,6 @@
       "to agree",
       "to accept"
     ],
-    "sv": "stämma",
-    "it": "consentire",
-    "de": "willigen",
     "pos": "verb"
   },
   {
@@ -5264,19 +3931,11 @@
       "to value",
       "value"
     ],
-    "sv": "värde",
-    "it": "valutare",
-    "fr": "valeur",
-    "de": "wertschätzen",
     "pos": "verb"
   },
   {
     "fi": "osua",
     "en": "to hit",
-    "sv": "slå",
-    "it": "colpire",
-    "fr": "frapper",
-    "de": "hitten",
     "pos": "verb"
   },
   {
@@ -5285,9 +3944,6 @@
       "dead",
       "extinct"
     ],
-    "sv": "död",
-    "fr": "mort",
-    "de": "tot",
     "pos": "adj"
   },
   {
@@ -5296,7 +3952,6 @@
       "to ensure",
       "to make sure"
     ],
-    "de": "sichergehen",
     "pos": "verb"
   },
   {
@@ -5306,7 +3961,6 @@
       "to repel",
       "to reject"
     ],
-    "de": "abstoßen",
     "pos": "verb"
   },
   {
@@ -5315,16 +3969,11 @@
       "to run",
       "to perform"
     ],
-    "sv": "utföra",
-    "de": "leisten",
     "pos": "verb"
   },
   {
     "fi": "mahtua",
     "en": "to fit",
-    "sv": "passa",
-    "it": "adeguato",
-    "de": "passen",
     "pos": "verb"
   },
   {
@@ -5334,10 +3983,6 @@
       "good",
       "commodity"
     ],
-    "sv": "bra",
-    "it": "bene",
-    "fr": "bien",
-    "de": "Wohl",
     "pos": "noun"
   },
   {
@@ -5346,7 +3991,6 @@
       "to prosper",
       "to succeed"
     ],
-    "de": "glücken",
     "pos": "verb"
   },
   {
@@ -5355,10 +3999,6 @@
       "direct",
       "straight"
     ],
-    "sv": "rakt",
-    "it": "diritto",
-    "fr": "droit",
-    "de": "strack",
     "pos": "adj"
   },
   {
@@ -5376,8 +4016,6 @@
       "distinction",
       "credit"
     ],
-    "sv": "sann",
-    "fr": "honneur",
     "pos": "noun"
   },
   {
@@ -5387,10 +4025,6 @@
       "friend",
       "pal"
     ],
-    "sv": "vän",
-    "it": "amico",
-    "fr": "ami",
-    "de": "Spezi",
     "pos": "noun"
   },
   {
@@ -5399,8 +4033,6 @@
       "damage",
       "accident"
     ],
-    "fr": "accident",
-    "de": "Gau",
     "pos": "noun"
   },
   {
@@ -5409,8 +4041,6 @@
       "official",
       "civil servant"
     ],
-    "it": "statale",
-    "de": "Beamtin",
     "pos": "noun"
   },
   {
@@ -5419,17 +4049,11 @@
       "effective",
       "powerful"
     ],
-    "it": "potente",
-    "fr": "puissant",
-    "de": "mächtig",
     "pos": "adj"
   },
   {
     "fi": "perinne",
     "en": "tradition",
-    "sv": "tradition",
-    "it": "tradizione",
-    "de": "Tradition",
     "pos": "noun"
   },
   {
@@ -5438,7 +4062,6 @@
       "comfortable",
       "nice"
     ],
-    "de": "bequem",
     "pos": "adj"
   },
   {
@@ -5449,7 +4072,6 @@
       "to appeal",
       "appeal"
     ],
-    "de": "maulen",
     "pos": "verb"
   },
   {
@@ -5466,10 +4088,6 @@
       "to forget",
       "to leave behind"
     ],
-    "sv": "glömma",
-    "it": "dimenticare",
-    "fr": "oublier",
-    "de": "vergessen",
     "pos": "verb"
   },
   {
@@ -5478,7 +4096,6 @@
       "socialist",
       "a social democrat"
     ],
-    "de": "Sozialdemokrat",
     "pos": "noun"
   },
   {
@@ -5492,10 +4109,6 @@
       "to measure",
       "to check out"
     ],
-    "sv": "mäta",
-    "it": "misura",
-    "fr": "mesure",
-    "de": "messen",
     "pos": "verb"
   },
   {
@@ -5506,10 +4119,6 @@
       "worry",
       "care"
     ],
-    "sv": "bry sig",
-    "it": "cura",
-    "fr": "soin",
-    "de": "Obhut",
     "pos": "verb"
   },
   {
@@ -5518,17 +4127,11 @@
       "clean",
       "clear"
     ],
-    "sv": "ren",
-    "de": "clean",
     "pos": "adj"
   },
   {
     "fi": "mielenkiintoinen",
     "en": "interesting",
-    "sv": "intressant",
-    "it": "interessante",
-    "fr": "intéressant",
-    "de": "interessant",
     "pos": "adj"
   },
   {
@@ -5537,9 +4140,6 @@
       "Swedish",
       "swede"
     ],
-    "sv": "svensk",
-    "it": "svedese",
-    "de": "schwedisch",
     "pos": "adj"
   },
   {
@@ -5556,7 +4156,6 @@
       "device",
       "equipment"
     ],
-    "de": "Gerät",
     "pos": "noun"
   },
   {
@@ -5565,22 +4164,16 @@
       "personal",
       "face-to-face"
     ],
-    "sv": "personlig",
-    "it": "personale",
-    "fr": "personnel",
-    "de": "personal",
     "pos": "adj"
   },
   {
     "fi": "piha",
     "en": "yard",
-    "de": "Hof",
     "pos": "noun"
   },
   {
     "fi": "sisäinen",
     "en": "internal",
-    "de": "intern",
     "pos": "adj"
   },
   {
@@ -5590,10 +4183,6 @@
       "to part",
       "part"
     ],
-    "sv": "del",
-    "it": "parte",
-    "fr": "partie",
-    "de": "Teil",
     "pos": "verb"
   },
   {
@@ -5602,10 +4191,6 @@
       "to follow",
       "to adhere to"
     ],
-    "sv": "följa",
-    "it": "seguire",
-    "fr": "suivre",
-    "de": "folgen",
     "pos": "verb"
   },
   {
@@ -5622,19 +4207,11 @@
       "to think",
       "to believe"
     ],
-    "sv": "tro",
-    "it": "credere",
-    "fr": "croire",
-    "de": "dafürhalten",
     "pos": "verb"
   },
   {
     "fi": "opettaa",
     "en": "to teach",
-    "sv": "lära",
-    "it": "insegnare",
-    "fr": "enseigner",
-    "de": "lehren",
     "pos": "verb"
   },
   {
@@ -5651,7 +4228,6 @@
       "low",
       "slight"
     ],
-    "de": "Kränkung",
     "pos": "adj"
   },
   {
@@ -5660,16 +4236,11 @@
       "to renew",
       "to redo"
     ],
-    "it": "rinnovare",
-    "de": "erneuern",
     "pos": "verb"
   },
   {
     "fi": "investointi",
     "en": "investment",
-    "sv": "investering",
-    "it": "investimento",
-    "de": "Geldanlage",
     "pos": "noun"
   },
   {
@@ -5679,18 +4250,11 @@
       "to nominate",
       "name"
     ],
-    "sv": "namn",
-    "it": "nominare",
-    "fr": "nom",
-    "de": "nennen",
     "pos": "verb"
   },
   {
     "fi": "kohtalo",
     "en": "destiny",
-    "sv": "öde",
-    "fr": "destin",
-    "de": "Geschick",
     "pos": "noun"
   },
   {
@@ -5699,15 +4263,11 @@
       "substance",
       "subject"
     ],
-    "sv": "ärende",
-    "it": "materia",
-    "de": "Sache",
     "pos": "noun"
   },
   {
     "fi": "tamperelainen",
     "en": "from Tampere",
-    "de": "Helgoländer",
     "pos": "noun"
   },
   {
@@ -5716,7 +4276,6 @@
       "competitor",
       "rival"
     ],
-    "de": "Konkurrent",
     "pos": "noun"
   },
   {
@@ -5725,9 +4284,6 @@
       "place",
       "locality"
     ],
-    "sv": "ort",
-    "it": "località",
-    "de": "Fundort",
     "pos": "noun"
   },
   {
@@ -5736,8 +4292,6 @@
       "to urge",
       "urge"
     ],
-    "sv": "uppmana",
-    "fr": "presser",
     "pos": "verb"
   },
   {
@@ -5747,7 +4301,6 @@
       "to depend on",
       "secure"
     ],
-    "de": "sichern",
     "pos": "verb"
   },
   {
@@ -5757,18 +4310,11 @@
       "to direct",
       "head"
     ],
-    "sv": "rikta",
-    "it": "indirizzare",
-    "fr": "réaliser",
-    "de": "richten",
     "pos": "verb"
   },
   {
     "fi": "harvinainen",
     "en": "rare",
-    "it": "raro",
-    "fr": "rare",
-    "de": "selten",
     "pos": "adj"
   },
   {
@@ -5777,8 +4323,6 @@
       "training",
       "exercise"
     ],
-    "sv": "motion",
-    "it": "esercizio",
     "pos": "noun"
   },
   {
@@ -5787,10 +4331,6 @@
       "to trust",
       "trust"
     ],
-    "sv": "lita",
-    "it": "fiducia",
-    "fr": "fier",
-    "de": "trauen",
     "pos": "verb"
   },
   {
@@ -5799,7 +4339,6 @@
       "ticket",
       "flag"
     ],
-    "de": "Fahne",
     "pos": "noun"
   },
   {
@@ -5808,9 +4347,6 @@
       "blank",
       "empty"
     ],
-    "sv": "tom",
-    "fr": "vide",
-    "de": "öde",
     "pos": "adj"
   },
   {
@@ -5819,9 +4355,6 @@
       "pleasure",
       "joy"
     ],
-    "sv": "glädje",
-    "fr": "joie",
-    "de": "Freude",
     "pos": "noun"
   },
   {
@@ -5830,10 +4363,6 @@
       "business",
       "job"
     ],
-    "sv": "jobb",
-    "it": "compito",
-    "fr": "métier",
-    "de": "Job",
     "pos": "noun"
   },
   {
@@ -5842,9 +4371,6 @@
       "to view",
       "to watch"
     ],
-    "sv": "ur",
-    "fr": "garde",
-    "de": "hüten",
     "pos": "verb"
   },
   {
@@ -5854,10 +4380,6 @@
       "to submit",
       "return"
     ],
-    "sv": "återvända",
-    "it": "tornare",
-    "fr": "retour",
-    "de": "zurückkehren",
     "pos": "verb"
   },
   {
@@ -5867,17 +4389,11 @@
       "difficult",
       "awkward"
     ],
-    "sv": "svår",
-    "it": "difficile",
-    "fr": "difficile",
-    "de": "diffizil",
     "pos": "adj"
   },
   {
     "fi": "varoittaa",
     "en": "to warn",
-    "fr": "avertir",
-    "de": "warnen",
     "pos": "verb"
   },
   {
@@ -5886,7 +4402,6 @@
       "to reserve",
       "to hold back"
     ],
-    "de": "zurückhalten",
     "pos": "verb"
   },
   {
@@ -5896,7 +4411,6 @@
       "to poke",
       "to stick"
     ],
-    "de": "schüren",
     "pos": "verb"
   },
   {
@@ -5905,9 +4419,6 @@
       "service",
       "favor"
     ],
-    "it": "servizio",
-    "fr": "service",
-    "de": "Dienst",
     "pos": "noun"
   },
   {
@@ -5916,8 +4427,6 @@
       "to convey",
       "to transmit"
     ],
-    "it": "trasmettere",
-    "de": "übermitteln",
     "pos": "verb"
   },
   {
@@ -5926,9 +4435,6 @@
       "risk",
       "threat"
     ],
-    "sv": "hot",
-    "fr": "menace",
-    "de": "Drohung",
     "pos": "noun"
   },
   {
@@ -5938,7 +4444,6 @@
       "point",
       "soon"
     ],
-    "de": "Spot",
     "pos": "noun"
   },
   {
@@ -5950,9 +4455,6 @@
       "to fire",
       "to expel"
     ],
-    "sv": "skilja",
-    "fr": "séparer",
-    "de": "sondern",
     "pos": "verb"
   },
   {
@@ -5961,10 +4463,6 @@
       "special",
       "specific"
     ],
-    "sv": "speciell",
-    "it": "speciale",
-    "fr": "spécial",
-    "de": "spezial",
     "pos": "adj"
   },
   {
@@ -5973,13 +4471,11 @@
       "quite a lot",
       "considerable"
     ],
-    "de": "haushoch",
     "pos": "adj"
   },
   {
     "fi": "valtava",
     "en": "huge",
-    "it": "enorme",
     "pos": "adj"
   },
   {
@@ -5989,26 +4485,16 @@
       "to redeem",
       "save"
     ],
-    "sv": "rädda",
-    "it": "salvare",
-    "fr": "sauver",
-    "de": "saven",
     "pos": "verb"
   },
   {
     "fi": "kuvitella",
     "en": "to imagine",
-    "it": "immaginare",
-    "fr": "imaginer",
-    "de": "einbilden",
     "pos": "verb"
   },
   {
     "fi": "tuhota",
     "en": "to destroy",
-    "it": "distruggere",
-    "fr": "détruire",
-    "de": "zerstören",
     "pos": "verb"
   },
   {
@@ -6017,10 +4503,6 @@
       "to kill",
       "to thresh"
     ],
-    "sv": "döda",
-    "it": "uccidere",
-    "fr": "tuer",
-    "de": "töten",
     "pos": "verb"
   },
   {
@@ -6030,8 +4512,6 @@
       "to flee",
       "escape"
     ],
-    "sv": "fly",
-    "de": "fliehen",
     "pos": "verb"
   },
   {
@@ -6041,7 +4521,6 @@
       "pleasant",
       "funny"
     ],
-    "de": "wohlig",
     "pos": "adj"
   },
   {
@@ -6050,9 +4529,6 @@
       "true",
       "real"
     ],
-    "sv": "sann",
-    "fr": "vrai",
-    "de": "wahr",
     "pos": "adj"
   },
   {
@@ -6061,8 +4537,6 @@
       "thanks",
       "thank you"
     ],
-    "it": "grazie",
-    "de": "Dank",
     "pos": "intj"
   },
   {
@@ -6072,9 +4546,6 @@
       "to prove",
       "witness"
     ],
-    "sv": "bevisa",
-    "fr": "prouver",
-    "de": "erweisen",
     "pos": "verb"
   },
   {
@@ -6083,7 +4554,6 @@
       "hot",
       "ardent"
     ],
-    "de": "heiß",
     "pos": "adj"
   },
   {
@@ -6093,10 +4563,6 @@
       "to leave",
       "leave"
     ],
-    "sv": "lämna",
-    "it": "lasciare",
-    "fr": "laisser",
-    "de": "leaven",
     "pos": "verb"
   },
   {
@@ -6105,10 +4571,6 @@
       "to force",
       "to be sore"
     ],
-    "sv": "tvinga",
-    "it": "costringere",
-    "fr": "forcer",
-    "de": "zwängen",
     "pos": "verb"
   },
   {
@@ -6117,10 +4579,6 @@
       "past",
       "over"
     ],
-    "sv": "sida",
-    "it": "lato",
-    "fr": "côté",
-    "de": "Seite",
     "pos": "adv"
   },
   {
@@ -6130,7 +4588,6 @@
       "chief",
       "leader"
     ],
-    "de": "Oberhaupt",
     "pos": "noun"
   },
   {
@@ -6139,10 +4596,6 @@
       "cheerful",
       "happy"
     ],
-    "sv": "glad",
-    "it": "felice",
-    "fr": "heureux",
-    "de": "glücklich",
     "pos": "adj"
   },
   {
@@ -6151,9 +4604,6 @@
       "healthy",
       "sound"
     ],
-    "sv": "frisk",
-    "fr": "sain",
-    "de": "gesund",
     "pos": "adj"
   },
   {
@@ -6162,7 +4612,6 @@
       "handsome",
       "imposing"
     ],
-    "fr": "beau",
     "pos": "adj"
   },
   {
@@ -6171,8 +4620,6 @@
       "to dance",
       "dance"
     ],
-    "fr": "danser",
-    "de": "tanzen",
     "pos": "verb"
   },
   {
@@ -6181,7 +4628,6 @@
       "wonder",
       "marvel"
     ],
-    "de": "Wunderwerk",
     "pos": "noun"
   },
   {
@@ -6199,9 +4645,6 @@
       "genuine",
       "real"
     ],
-    "it": "reale",
-    "fr": "réel",
-    "de": "real",
     "pos": "adj"
   },
   {
@@ -6210,8 +4653,6 @@
       "stone",
       "cue ball"
     ],
-    "fr": "pierre",
-    "de": "Stein",
     "pos": "noun"
   },
   {
@@ -6220,15 +4661,11 @@
       "wing",
       "edge"
     ],
-    "de": "Rand",
     "pos": "noun"
   },
   {
     "fi": "tarkistaa",
     "en": "to check",
-    "sv": "kontrollera",
-    "it": "controllare",
-    "de": "prüfen",
     "pos": "verb"
   },
   {
@@ -6237,9 +4674,6 @@
       "simple",
       "one-time"
     ],
-    "sv": "enkel",
-    "it": "semplice",
-    "de": "simpel",
     "pos": "adj"
   },
   {
@@ -6248,10 +4682,6 @@
       "to express",
       "to denote"
     ],
-    "sv": "uttrycka",
-    "it": "esprimere",
-    "fr": "exprimer",
-    "de": "Express",
     "pos": "verb"
   },
   {
@@ -6261,8 +4691,6 @@
       "to distill alcohol",
       "smoke"
     ],
-    "fr": "brûler",
-    "de": "brennen",
     "pos": "verb"
   },
   {
@@ -6271,10 +4699,6 @@
       "strange",
       "foreign"
     ],
-    "sv": "märklig",
-    "it": "strano",
-    "fr": "étrange",
-    "de": "fremd",
     "pos": "adj"
   },
   {
@@ -6283,14 +4707,11 @@
       "magnificent",
       "great"
     ],
-    "de": "bass",
     "pos": "adj"
   },
   {
     "fi": "vanki",
     "en": "prisoner",
-    "fr": "prisonnier",
-    "de": "Gefangene",
     "pos": "noun"
   },
   {
@@ -6308,10 +4729,6 @@
       "corpse",
       "body"
     ],
-    "sv": "kropp",
-    "it": "corpo",
-    "fr": "corps",
-    "de": "Leib",
     "pos": "noun"
   },
   {
@@ -6320,25 +4737,16 @@
       "to sleep",
       "sleep"
     ],
-    "sv": "sova",
-    "fr": "dormir",
-    "de": "pofen",
     "pos": "verb"
   },
   {
     "fi": "sankari",
     "en": "hero",
-    "fr": "héros",
-    "de": "Held",
     "pos": "noun"
   },
   {
     "fi": "rikas",
     "en": "rich",
-    "sv": "rik",
-    "it": "ricco",
-    "fr": "riche",
-    "de": "reich",
     "pos": "adj"
   },
   {
@@ -6347,7 +4755,6 @@
       "spectacular",
       "grand"
     ],
-    "de": "Tausi",
     "pos": "adj"
   },
   {
@@ -6356,10 +4763,6 @@
       "to love",
       "love"
     ],
-    "sv": "älska",
-    "it": "amare",
-    "fr": "aimer",
-    "de": "lieben",
     "pos": "verb"
   },
   {
@@ -6369,10 +4772,6 @@
       "to thwart",
       "stop"
     ],
-    "sv": "sluta",
-    "it": "fermare",
-    "fr": "empêcher",
-    "de": "stoppen",
     "pos": "verb"
   },
   {
@@ -6387,26 +4786,16 @@
   {
     "fi": "murha",
     "en": "murder",
-    "sv": "mord",
-    "fr": "meurtre",
-    "de": "Mord",
     "pos": "noun"
   },
   {
     "fi": "suojella",
     "en": "to protect",
-    "sv": "skydda",
-    "fr": "protéger",
-    "de": "feien",
     "pos": "verb"
   },
   {
     "fi": "onnellinen",
     "en": "happy",
-    "sv": "glad",
-    "it": "felice",
-    "fr": "heureux",
-    "de": "glücklich",
     "pos": "adj"
   },
   {
@@ -6415,8 +4804,6 @@
       "to disturb",
       "to disrupt"
     ],
-    "sv": "störa",
-    "de": "stören",
     "pos": "verb"
   },
   {
@@ -6425,9 +4812,6 @@
       "renowned",
       "famous"
     ],
-    "it": "famoso",
-    "fr": "célèbre",
-    "de": "fame",
     "pos": "adj"
   },
   {
@@ -6436,16 +4820,11 @@
       "nice",
       "fun"
     ],
-    "it": "bello",
-    "fr": "sympa",
-    "de": "nett",
     "pos": "adj"
   },
   {
     "fi": "viisas",
     "en": "wise",
-    "sv": "vis",
-    "de": "weise",
     "pos": "adj"
   },
   {
@@ -6454,7 +4833,6 @@
       "-looking",
       "-sighted"
     ],
-    "sv": "lik",
     "pos": "adj"
   },
   {
@@ -6463,9 +4841,6 @@
       "holy",
       "sunday"
     ],
-    "sv": "helg",
-    "it": "vacanza",
-    "de": "Urlaub",
     "pos": "adj"
   },
   {
@@ -6474,9 +4849,6 @@
       "secret",
       "mysterious"
     ],
-    "sv": "hemlig",
-    "fr": "secret",
-    "de": "geheim",
     "pos": "adj"
   },
   {
@@ -6487,8 +4859,6 @@
       "a trial",
       "examination"
     ],
-    "fr": "expérience",
-    "de": "Experiment",
     "pos": "noun"
   },
   {
@@ -6498,7 +4868,6 @@
       "to profit",
       "profit"
     ],
-    "de": "Profit",
     "pos": "verb"
   },
   {
@@ -6515,8 +4884,6 @@
       "to deceive",
       "to cheat"
     ],
-    "fr": "tromper",
-    "de": "trügen",
     "pos": "verb"
   },
   {
@@ -6533,10 +4900,6 @@
       "little",
       "little old"
     ],
-    "sv": "lite",
-    "it": "piccino",
-    "fr": "peu",
-    "de": "wenig",
     "pos": "adj"
   },
   {
@@ -6545,9 +4908,6 @@
       "suit",
       "dress"
     ],
-    "it": "completo",
-    "fr": "complet",
-    "de": "Komplet",
     "pos": "noun"
   },
   {
@@ -6556,7 +4916,6 @@
       "sad",
       "tedious"
     ],
-    "de": "ermüdend",
     "pos": "adj"
   },
   {
@@ -6566,8 +4925,6 @@
       "to get",
       "to dig"
     ],
-    "sv": "inse",
-    "de": "realisieren",
     "pos": "verb"
   },
   {
@@ -6576,8 +4933,6 @@
       "wonderful",
       "lovely"
     ],
-    "sv": "härlig",
-    "de": "reizend",
     "pos": "adj"
   },
   {
@@ -6586,8 +4941,6 @@
       "to rain",
       "rain"
     ],
-    "fr": "pleuvoir",
-    "de": "regnen",
     "pos": "verb"
   },
   {
@@ -6596,9 +4949,6 @@
       "guilty",
       "guilty party"
     ],
-    "sv": "skyldig",
-    "fr": "coupable",
-    "de": "schuldig",
     "pos": "adj"
   },
   {
@@ -6607,10 +4957,6 @@
       "piece",
       "snack"
     ],
-    "sv": "bit",
-    "it": "pezzo",
-    "fr": "morceau",
-    "de": "Piece",
     "pos": "noun"
   },
   {
@@ -6619,8 +4965,6 @@
       "careful",
       "conservative"
     ],
-    "it": "attento",
-    "de": "sorgsam",
     "pos": "adj"
   },
   {
@@ -6629,15 +4973,11 @@
       "port",
       "gate"
     ],
-    "it": "porta",
-    "de": "Tor",
     "pos": "noun"
   },
   {
     "fi": "taksi",
     "en": "taxi",
-    "fr": "taxi",
-    "de": "Taxi",
     "pos": "noun"
   },
   {
@@ -6646,8 +4986,6 @@
       "brave",
       "bold"
     ],
-    "fr": "brave",
-    "de": "tapfer",
     "pos": "adj"
   },
   {
@@ -6656,8 +4994,6 @@
       "to explode",
       "to detonate"
     ],
-    "fr": "exploser",
-    "de": "explodieren",
     "pos": "verb"
   },
   {
@@ -6666,8 +5002,6 @@
       "proud",
       "arrogant"
     ],
-    "fr": "fier",
-    "de": "stolz",
     "pos": "adj"
   },
   {
@@ -6676,8 +5010,6 @@
       "lonely",
       "solitary"
     ],
-    "fr": "seul",
-    "de": "einsam",
     "pos": "adj"
   },
   {
@@ -6691,15 +5023,11 @@
   {
     "fi": "sininen",
     "en": "blue",
-    "sv": "blå",
-    "fr": "bleu",
-    "de": "blau",
     "pos": "adj"
   },
   {
     "fi": "häät",
     "en": "wedding",
-    "de": "Hochzeit",
     "pos": "noun"
   },
   {
@@ -6708,9 +5036,6 @@
       "to sink",
       "to settle"
     ],
-    "sv": "sjunka",
-    "fr": "couler",
-    "de": "sinken",
     "pos": "verb"
   },
   {
@@ -6720,7 +5045,6 @@
       "to spoil",
       "to damage"
     ],
-    "de": "spoilern",
     "pos": "verb"
   },
   {
@@ -6729,16 +5053,11 @@
       "to rest",
       "to lie"
     ],
-    "sv": "vila",
-    "it": "resto",
-    "fr": "reste",
-    "de": "ruhen",
     "pos": "verb"
   },
   {
     "fi": "poikia",
     "en": "to calve",
-    "de": "kalben",
     "pos": "verb"
   },
   {
@@ -6748,9 +5067,6 @@
       "darling",
       "beloved"
     ],
-    "it": "caro",
-    "fr": "cher",
-    "de": "Lieber",
     "pos": "adj"
   },
   {
@@ -6759,7 +5075,6 @@
       "player",
       "musical instrument"
     ],
-    "de": "Musikinstrument",
     "pos": "noun"
   },
   {
@@ -6773,8 +5088,6 @@
   {
     "fi": "kuningatar",
     "en": "queen",
-    "fr": "reine",
-    "de": "Tunte",
     "pos": "noun"
   },
   {
@@ -6783,7 +5096,6 @@
       "incredible",
       "unbelievable"
     ],
-    "de": "unpackbar",
     "pos": "adj"
   },
   {
@@ -6792,7 +5104,6 @@
       "puny",
       "miserable"
     ],
-    "de": "elend",
     "pos": "adj"
   },
   {
@@ -6801,24 +5112,16 @@
       "gone",
       "past"
     ],
-    "sv": "förbi",
-    "it": "scorso",
-    "fr": "passé",
-    "de": "Vergangenheit",
     "pos": "noun"
   },
   {
     "fi": "rehellinen",
     "en": "honest",
-    "sv": "ärlig",
-    "fr": "honnête",
-    "de": "bieder",
     "pos": "adj"
   },
   {
     "fi": "pysty",
     "en": "upright",
-    "de": "aufrecht",
     "pos": "adj"
   },
   {
@@ -6829,9 +5132,6 @@
   {
     "fi": "vartija",
     "en": "guard",
-    "it": "guardia",
-    "fr": "gardien",
-    "de": "Garde",
     "pos": "noun"
   },
   {
@@ -6840,7 +5140,6 @@
       "terrible",
       "awful"
     ],
-    "de": "grauenvoll",
     "pos": "adj"
   },
   {
@@ -6849,8 +5148,6 @@
       "swine",
       "pig"
     ],
-    "it": "maiale",
-    "de": "Bullenschwein",
     "pos": "noun"
   },
   {
@@ -6859,15 +5156,11 @@
       "neat",
       "clean"
     ],
-    "sv": "ren",
-    "de": "clean",
     "pos": "adj"
   },
   {
     "fi": "surullinen",
     "en": "sad",
-    "fr": "triste",
-    "de": "traurig",
     "pos": "adj"
   },
   {
@@ -6876,13 +5169,11 @@
       "to leak",
       "to spill"
     ],
-    "de": "lecken",
     "pos": "verb"
   },
   {
     "fi": "kukkia",
     "en": "to flower",
-    "de": "erblühen",
     "pos": "verb"
   },
   {
@@ -6891,16 +5182,11 @@
       "jacket",
       "coat"
     ],
-    "fr": "manteau",
-    "de": "Mantel",
     "pos": "noun"
   },
   {
     "fi": "tyhmä",
     "en": "stupid",
-    "sv": "dum",
-    "fr": "con",
-    "de": "doof",
     "pos": "adj"
   },
   {
@@ -6917,9 +5203,6 @@
       "ugly",
       "dirty"
     ],
-    "it": "brutto",
-    "fr": "moche",
-    "de": "schiech",
     "pos": "adj"
   },
   {
@@ -6928,8 +5211,6 @@
       "cover",
       "covering"
     ],
-    "it": "copertura",
-    "de": "Hülle",
     "pos": "noun"
   },
   {
@@ -6938,8 +5219,6 @@
       "pants",
       "trousers"
     ],
-    "fr": "pantalon",
-    "de": "Hose",
     "pos": "noun"
   },
   {
@@ -6948,28 +5227,21 @@
       "factor",
       "coefficient"
     ],
-    "de": "Koeffizient",
     "pos": "noun"
   },
   {
     "fi": "ystävällinen",
     "en": "friendly",
-    "it": "amico",
-    "de": "freundlich",
     "pos": "adj"
   },
   {
     "fi": "likainen",
     "en": "dirty",
-    "fr": "sale",
-    "de": "dreckig",
     "pos": "adj"
   },
   {
     "fi": "ampuja",
     "en": "shooter",
-    "fr": "flingue",
-    "de": "Schütze",
     "pos": "noun"
   },
   {
@@ -6983,8 +5255,6 @@
   {
     "fi": "älykäs",
     "en": "intelligent",
-    "fr": "intelligent",
-    "de": "klug",
     "pos": "adj"
   },
   {
@@ -6993,7 +5263,6 @@
       "to blow up",
       "to detonate"
     ],
-    "de": "detonieren",
     "pos": "verb"
   },
   {
@@ -7002,7 +5271,6 @@
       "mad",
       "angry"
     ],
-    "de": "gram",
     "pos": "adj"
   },
   {
@@ -7011,7 +5279,6 @@
       "jack",
       "guy"
     ],
-    "de": "Jobber",
     "pos": "noun"
   },
   {
@@ -7025,13 +5292,11 @@
       "chassis",
       "platform"
     ],
-    "de": "Tribüne",
     "pos": "noun"
   },
   {
     "fi": "kiitollinen",
     "en": "grateful",
-    "de": "dankbar",
     "pos": "adj"
   },
   {
@@ -7049,8 +5314,6 @@
       "to smell like",
       "smell"
     ],
-    "fr": "sentir",
-    "de": "riechen",
     "pos": "verb"
   },
   {
@@ -7064,7 +5327,6 @@
   {
     "fi": "onnekas",
     "en": "lucky",
-    "de": "glückbringend",
     "pos": "adj"
   },
   {
@@ -7073,15 +5335,11 @@
       "to scat",
       "to disappear"
     ],
-    "sv": "försvinna",
-    "fr": "disparaître",
-    "de": "verfliegen",
     "pos": "verb"
   },
   {
     "fi": "senaattori",
     "en": "senator",
-    "de": "Senator",
     "pos": "noun"
   },
   {
@@ -7090,8 +5348,6 @@
       "to cheat",
       "to con"
     ],
-    "it": "contro",
-    "de": "Bauernfängerei",
     "pos": "verb"
   },
   {
@@ -7108,9 +5364,6 @@
       "silly",
       "stupid"
     ],
-    "sv": "dum",
-    "fr": "con",
-    "de": "doof",
     "pos": "adj"
   },
   {
@@ -7119,14 +5372,11 @@
       "horrible",
       "terrible"
     ],
-    "fr": "horrible",
-    "de": "entsetzlich",
     "pos": "adj"
   },
   {
     "fi": "nälkäinen",
     "en": "hungry",
-    "de": "hungrig",
     "pos": "adj"
   },
   {
@@ -7135,10 +5385,6 @@
       "kind",
       "well-behaved"
     ],
-    "sv": "snäll",
-    "it": "genere",
-    "fr": "genre",
-    "de": "gütig",
     "pos": "adj"
   },
   {
@@ -7147,28 +5393,21 @@
       "fat",
       "rich"
     ],
-    "de": "blad",
     "pos": "adj"
   },
   {
     "fi": "kokenut",
     "en": "experienced",
-    "it": "esperto",
-    "de": "firm",
     "pos": "adj"
   },
   {
     "fi": "sääli",
     "en": "pity",
-    "fr": "pitié",
-    "de": "Mitleid",
     "pos": "noun"
   },
   {
     "fi": "poikaystävä",
     "en": "boyfriend",
-    "fr": "beau",
-    "de": "Boyfriend",
     "pos": "noun"
   },
   {
@@ -7187,13 +5426,11 @@
   {
     "fi": "haloo",
     "en": "hello",
-    "de": "Hallo",
     "pos": "intj"
   },
   {
     "fi": "hermostunut",
     "en": "nervous",
-    "de": "nervös",
     "pos": "adj"
   },
   {
@@ -7202,17 +5439,11 @@
       "Wait a minute",
       "moment"
     ],
-    "sv": "ögonblick",
-    "it": "momento",
-    "fr": "moment",
-    "de": "Moment",
     "pos": "noun"
   },
   {
     "fi": "hirviö",
     "en": "monster",
-    "fr": "monstre",
-    "de": "Monster",
     "pos": "noun"
   },
   {
@@ -7221,8 +5452,6 @@
       "deuce",
       "damn"
     ],
-    "fr": "maudit",
-    "de": "sakrisch",
     "pos": "noun"
   },
   {
@@ -7231,14 +5460,11 @@
       "whore",
       "prostitute"
     ],
-    "de": "Metze",
     "pos": "noun"
   },
   {
     "fi": "hyvästi",
     "en": "Goodbye",
-    "fr": "adieu",
-    "de": "Ade",
     "pos": "adv"
   },
   {
@@ -7247,7 +5473,6 @@
       "silly",
       "fool"
     ],
-    "de": "Tor",
     "pos": "adj"
   },
   {
@@ -7257,10 +5482,6 @@
       "bad",
       "nasty"
     ],
-    "sv": "dålig",
-    "it": "cattivo",
-    "fr": "mal",
-    "de": "arg",
     "pos": "adj"
   },
   {
@@ -7274,7 +5495,6 @@
       "whereby",
       "if"
     ],
-    "de": "Jolle",
     "pos": "conj"
   },
   {
@@ -7283,19 +5503,16 @@
       "which",
       "whom"
     ],
-    "de": "Jota",
     "pos": "adv"
   },
   {
     "fi": "kamu",
     "en": "pal",
-    "sv": "kompis",
     "pos": "noun"
   },
   {
     "fi": "kielletty",
     "en": "forbidden",
-    "de": "verboten",
     "pos": "adj"
   },
   {
@@ -7309,9 +5526,6 @@
   {
     "fi": "koodi",
     "en": "code",
-    "it": "codice",
-    "fr": "code",
-    "de": "Code",
     "pos": "noun"
   },
   {
@@ -7320,7 +5534,6 @@
       "cunt",
       "asshole"
     ],
-    "de": "Arschgeige",
     "pos": "noun"
   },
   {
@@ -7329,14 +5542,11 @@
       "glorious",
       "shining"
     ],
-    "fr": "brillant",
-    "de": "strahlend",
     "pos": "adj"
   },
   {
     "fi": "lähetin",
     "en": "transmitter",
-    "de": "Sendegerät",
     "pos": "noun"
   },
   {
@@ -7345,7 +5555,6 @@
       "fat",
       "fatty pork"
     ],
-    "de": "blad",
     "pos": "noun"
   },
   {
@@ -7354,8 +5563,6 @@
       "cup",
       "crater"
     ],
-    "fr": "coupe",
-    "de": "Pokal",
     "pos": "name"
   },
   {
@@ -7365,9 +5572,6 @@
       "to marry",
       "fuck"
     ],
-    "sv": "gifta",
-    "fr": "épouser",
-    "de": "heiraten",
     "pos": "verb"
   },
   {
@@ -7376,13 +5580,11 @@
       "female",
       "bitch"
     ],
-    "de": "Kahba",
     "pos": "noun"
   },
   {
     "fi": "nero",
     "en": "genius",
-    "de": "Genie",
     "pos": "noun"
   },
   {
@@ -7401,8 +5603,6 @@
   {
     "fi": "onnistunut",
     "en": "successful",
-    "sv": "framgångsrik",
-    "de": "gelungen",
     "pos": "adj"
   },
   {
@@ -7411,19 +5611,16 @@
       "learned",
       "scholar"
     ],
-    "de": "gelehrt",
     "pos": "adj"
   },
   {
     "fi": "petturi",
     "en": "traitor",
-    "de": "Verräter",
     "pos": "noun"
   },
   {
     "fi": "pidin",
     "en": "holder",
-    "it": "titolare",
     "pos": "noun"
   },
   {
@@ -7440,18 +5637,11 @@
       "sonny",
       "boy"
     ],
-    "sv": "kille",
-    "it": "ragazzo",
-    "fr": "garçon",
-    "de": "Matz",
     "pos": "noun"
   },
   {
     "fi": "päiväys",
     "en": "date",
-    "it": "data",
-    "fr": "rendez-vous",
-    "de": "Date",
     "pos": "noun"
   },
   {
@@ -7460,7 +5650,6 @@
       "a jerk",
       "wanker"
     ],
-    "de": "Wichser",
     "pos": "noun"
   },
   {
@@ -7469,16 +5658,11 @@
       "Satan",
       "devil"
     ],
-    "fr": "diable",
-    "de": "Deibel",
     "pos": "noun"
   },
   {
     "fi": "seuraava",
     "en": "next",
-    "sv": "nästa",
-    "fr": "suivant",
-    "de": "schier",
     "pos": "adj"
   },
   {
@@ -7487,8 +5671,6 @@
       "the sheriff",
       "sheriff"
     ],
-    "fr": "shérif",
-    "de": "Sheriff",
     "pos": "noun"
   },
   {
@@ -7497,9 +5679,6 @@
       "to clean",
       "to wicked! cool!"
     ],
-    "sv": "ren",
-    "fr": "nettoyer",
-    "de": "putzen",
     "pos": "verb"
   },
   {
@@ -7509,17 +5688,11 @@
       "proper",
       "appropriate"
     ],
-    "sv": "lämplig",
-    "it": "idoneo",
-    "de": "passend",
     "pos": "adj"
   },
   {
     "fi": "suloinen",
     "en": "sweet",
-    "it": "dolce",
-    "fr": "doux",
-    "de": "süß",
     "pos": "adj"
   },
   {
@@ -7544,7 +5717,6 @@
       "chub",
       "muzzle"
     ],
-    "de": "Maulkorb",
     "pos": "noun"
   },
   {
@@ -7553,16 +5725,11 @@
       "damn",
       "cunt"
     ],
-    "fr": "con",
-    "de": "Möse",
     "pos": "noun"
   },
   {
     "fi": "väsynyt",
     "en": "tired",
-    "sv": "trött",
-    "fr": "fatigué",
-    "de": "müde",
     "pos": "adj"
   },
   {
@@ -7571,7 +5738,6 @@
       "guy",
       "old man"
     ],
-    "it": "vecchio",
     "pos": "noun"
   },
   {
@@ -7580,9 +5746,6 @@
       "woman",
       "wife"
     ],
-    "sv": "fru",
-    "it": "moglie",
-    "de": "Kone",
     "pos": "noun"
   },
   {

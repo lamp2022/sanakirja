@@ -13,8 +13,9 @@ MAX_ROWS     = 5000
 
 # Translation fields where an inflection-reference value is illegal.
 # 'fi' is the Finnish lemma itself; 'pos' is just a category; neither
-# benefits from the inflection-skip check.
-TRANSLATION_FIELDS = {"en", "sv", "it", "fr", "de"}
+# benefits from the inflection-skip check. sv/it/fr/de were dropped in
+# commit 30_*; multilingual support now lives in per-pair en_X.json files.
+TRANSLATION_FIELDS = {"en"}
 
 
 def _is_inflection_ref(v):
@@ -67,7 +68,7 @@ def main():
             print(f"  ... and {len(errors) - 50} more")
         sys.exit(1)
     else:
-        per_lang = {l: sum(1 for r in data if l in r) for l in ("en","sv","it","fr","de")}
+        per_lang = {l: sum(1 for r in data if l in r) for l in ("en",)}
         print(f"VALIDATION PASSED — {len(data):,} rows")
         print(f"  Coverage: {per_lang}")
         sys.exit(0)
