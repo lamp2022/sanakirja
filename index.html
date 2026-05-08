@@ -20,6 +20,8 @@ h1 { font-size: 24px; margin-bottom: 2px; }
 .row { display: grid; grid-template-columns: minmax(120px, 1fr) 56px 1.5fr 1.5fr; gap: 10px; padding: 9px 14px; border-bottom: 1px solid #f0f0f0; align-items: baseline; }
 .row:last-child { border-bottom: 0; }
 .row:hover { background: #fafbff; }
+.row.match-exact { background: #fffbe6; box-shadow: inset 3px 0 0 0 #f5c518; }
+.row.match-exact:hover { background: #fff7d1; }
 .fi { font-weight: 600; }
 .en { color: #1d1d1f; }
 .sv { color: #1d1d1f; }
@@ -114,7 +116,7 @@ function render() {
     return best;
   }
 
-  let filtered;
+  let filtered, scoreOf;
   if (q) {
     const scored = [];
     for (const d of data) {
@@ -128,8 +130,11 @@ function render() {
       return al - bl;
     });
     filtered = scored.map(x => x[1]);
+    const scoreMap = new Map(scored.map(x => [x[1], x[0]]));
+    scoreOf = d => scoreMap.get(d);
   } else {
     filtered = data;
+    scoreOf = () => -1;
   }
 
   document.getElementById('stats').textContent =
@@ -155,7 +160,7 @@ function render() {
       const svCell = sv
         ? `<div class="sv"><span class="flag">SV</span>${esc(sv)}</div>`
         : `<div class="sv"></div>`;
-      return `<div class="row">
+      return `<div class="row${scoreOf(d) === 0 ? ' match-exact' : ''}">
         <div class="fi">${esc(fi[0] || '')}</div>
         ${posBadge}
         <div class="en"><span class="flag">EN</span>${esc(en[0] || '')}${altEn}</div>
@@ -169,7 +174,7 @@ function render() {
       const svCell = sv
         ? `<div class="sv"><span class="flag">SV</span>${esc(sv)}</div>`
         : `<div class="sv"></div>`;
-      return `<div class="row">
+      return `<div class="row${scoreOf(d) === 0 ? ' match-exact' : ''}">
         <div class="en">${esc(en[0] || '')}</div>
         ${posBadge}
         <div class="fi"><span class="flag">FI</span>${esc(fi[0] || '')}${altFi}</div>
@@ -181,7 +186,7 @@ function render() {
       const altEn = en.length > 1
         ? ` <span class="alt">· ${esc(en.slice(1).join(', '))}</span>`
         : '';
-      return `<div class="row">
+      return `<div class="row${scoreOf(d) === 0 ? ' match-exact' : ''}">
         <div class="fi">${esc(sv[0] || '')}</div>
         <span></span>
         <div class="en"><span class="flag">EN</span>${esc(en[0] || '')}${altEn}</div>
