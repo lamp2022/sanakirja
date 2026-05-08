@@ -5016,7 +5016,8 @@
     "en": [
       "to stress",
       "to highlight",
-      "accent"
+      "accent",
+      "stress"
     ],
     "it": "evidenziare",
     "de": "herausstreichen",
@@ -5722,7 +5723,10 @@
   },
   {
     "fi": "kehottaa",
-    "en": "to urge",
+    "en": [
+      "to urge",
+      "urge"
+    ],
     "sv": "uppmana",
     "fr": "presser",
     "pos": "verb"
@@ -5741,7 +5745,8 @@
     "fi": "suunnata",
     "en": [
       "to head",
-      "to direct"
+      "to direct",
+      "head"
     ],
     "sv": "rikta",
     "it": "indirizzare",
@@ -7029,7 +7034,8 @@
     "fi": "haista",
     "en": [
       "to smell",
-      "to smell like"
+      "to smell like",
+      "smell"
     ],
     "fr": "sentir",
     "de": "riechen",
@@ -7344,7 +7350,8 @@
     "fi": "naida",
     "en": [
       "to fuck",
-      "to marry"
+      "to marry",
+      "fuck"
     ],
     "sv": "gifta",
     "fr": "épouser",
@@ -9513,7 +9520,8 @@
     "pos": "verb",
     "en": [
       "to forecast",
-      "to predict"
+      "to predict",
+      "forecast"
     ]
   },
   {
@@ -9671,7 +9679,8 @@
     "pos": "verb",
     "en": [
       "to revenge",
-      "to avenge"
+      "to avenge",
+      "revenge"
     ]
   },
   {
@@ -11948,7 +11957,8 @@
     "pos": "verb",
     "en": [
       "to paint",
-      "to select"
+      "to select",
+      "paint"
     ]
   },
   {
@@ -12669,7 +12679,8 @@
     "pos": "verb",
     "en": [
       "to counsel",
-      "to advise"
+      "to advise",
+      "counsel"
     ]
   },
   {
@@ -13499,7 +13510,8 @@
     "pos": "verb",
     "en": [
       "to bother",
-      "to trouble"
+      "to trouble",
+      "bother"
     ]
   },
   {
@@ -22878,7 +22890,10 @@
   },
   {
     "fi": "yhteinen",
-    "en": "shared",
+    "en": [
+      "shared",
+      "common"
+    ],
     "pos": "adj"
   },
   {
@@ -23449,7 +23464,10 @@
   },
   {
     "fi": "varsinainen",
-    "en": "proper",
+    "en": [
+      "proper",
+      "actual"
+    ],
     "pos": "adj"
   },
   {
@@ -24613,7 +24631,8 @@
       "to transport",
       "to dribble",
       "to drive",
-      "drive"
+      "drive",
+      "to carry"
     ],
     "pos": "verb"
   },
@@ -25426,7 +25445,10 @@
   },
   {
     "fi": "fiksu",
-    "en": "clever",
+    "en": [
+      "clever",
+      "smart"
+    ],
     "pos": "adj"
   },
   {
@@ -27331,7 +27353,8 @@
     "fi": "kaavailla",
     "en": [
       "to plan",
-      "to outline"
+      "to outline",
+      "plan"
     ],
     "pos": "verb"
   },

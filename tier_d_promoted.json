@@ -1,0 +1,242 @@
+[
+  {
+    "en": "common",
+    "primary_fi": "yleinen",
+    "candidate_fi": "yhteinen",
+    "rank": 343,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "gt_fi_en": "common"
+  },
+  {
+    "en": "together",
+    "primary_fi": "koossa",
+    "candidate_fi": "yhteen",
+    "rank": 420,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "gt_fi_en": "together"
+  },
+  {
+    "en": "smell",
+    "primary_fi": "haju",
+    "candidate_fi": "haista",
+    "rank": 422,
+    "sources": [
+      "apertium",
+      "kaikki",
+      "wikt"
+    ],
+    "gt_fi_en": "smell"
+  },
+  {
+    "en": "for",
+    "primary_fi": "hyväksi",
+    "candidate_fi": "tähden",
+    "rank": 542,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "gt_fi_en": "for the sake of"
+  },
+  {
+    "en": "actual",
+    "primary_fi": "todellinen",
+    "candidate_fi": "varsinainen",
+    "rank": 669,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "gt_fi_en": "actual"
+  },
+  {
+    "en": "smart",
+    "primary_fi": "terävä",
+    "candidate_fi": "fiksu",
+    "rank": 779,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "gt_fi_en": "smart"
+  },
+  {
+    "en": "from there",
+    "primary_fi": "sieltä",
+    "candidate_fi": "tuolta",
+    "rank": 782,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "gt_fi_en": "from there"
+  },
+  {
+    "en": "fuck",
+    "primary_fi": "naiminen",
+    "candidate_fi": "naida",
+    "rank": 966,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "gt_fi_en": "fuck"
+  },
+  {
+    "en": "stress",
+    "primary_fi": "paino",
+    "candidate_fi": "painottaa",
+    "rank": 1102,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "gt_fi_en": "stress"
+  },
+  {
+    "en": "to carry",
+    "primary_fi": "kantaa",
+    "candidate_fi": "kuljettaa",
+    "rank": 1259,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "gt_fi_en": "carry"
+  },
+  {
+    "en": "around",
+    "primary_fi": "ympäri",
+    "candidate_fi": "ympärillä",
+    "rank": 1278,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "gt_fi_en": "around"
+  },
+  {
+    "en": "urge",
+    "primary_fi": "halu",
+    "candidate_fi": "kehottaa",
+    "rank": 1302,
+    "sources": [
+      "apertium",
+      "kaikki",
+      "wikt"
+    ],
+    "gt_fi_en": "urge"
+  },
+  {
+    "en": "head",
+    "primary_fi": "pää",
+    "candidate_fi": "suunnata",
+    "rank": 1309,
+    "sources": [
+      "apertium",
+      "kaikki",
+      "wikt"
+    ],
+    "gt_fi_en": "head"
+  },
+  {
+    "en": "forecast",
+    "primary_fi": "ennuste",
+    "candidate_fi": "ennustaa",
+    "rank": 1359,
+    "sources": [
+      "apertium",
+      "kaikki",
+      "wikt"
+    ],
+    "gt_fi_en": "forecast"
+  },
+  {
+    "en": "revenge",
+    "primary_fi": "kosto",
+    "candidate_fi": "kostaa",
+    "rank": 1393,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "gt_fi_en": "revenge"
+  },
+  {
+    "en": "penny",
+    "primary_fi": "penni",
+    "candidate_fi": "penny",
+    "rank": 1566,
+    "sources": [
+      "apertium",
+      "kaikki",
+      "wikt"
+    ],
+    "gt_fi_en": "penny"
+  },
+  {
+    "en": "plan",
+    "primary_fi": "suunnitelma",
+    "candidate_fi": "kaavailla",
+    "rank": 1848,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "gt_fi_en": "to plan"
+  },
+  {
+    "en": "paint",
+    "primary_fi": "maali",
+    "candidate_fi": "maalata",
+    "rank": 2104,
+    "sources": [
+      "apertium",
+      "jukka",
+      "kaikki"
+    ],
+    "gt_fi_en": "paint"
+  },
+  {
+    "en": "counsel",
+    "primary_fi": "neuvottelu",
+    "candidate_fi": "neuvoa",
+    "rank": 2395,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "gt_fi_en": "counsel"
+  },
+  {
+    "en": "bother",
+    "primary_fi": "vaiva",
+    "candidate_fi": "vaivata",
+    "rank": 2673,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "gt_fi_en": "bother"
+  }
+]

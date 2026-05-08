@@ -3740,7 +3740,10 @@
   },
   {
     "en": "paint",
-    "fi": "maali",
+    "fi": [
+      "maali",
+      "maalata"
+    ],
     "rank": 330
   },
   {
@@ -3883,6 +3886,14 @@
       "-hanke"
     ],
     "rank": 342
+  },
+  {
+    "en": "common",
+    "fi": [
+      "yhteinen",
+      "yleinen"
+    ],
+    "rank": 343
   },
   {
     "en": "shared",
@@ -4809,7 +4820,10 @@
   },
   {
     "en": "counsel",
-    "fi": "neuvottelu",
+    "fi": [
+      "neuvottelu",
+      "neuvoa"
+    ],
     "rank": 431
   },
   {
@@ -5306,7 +5320,10 @@
   },
   {
     "en": "head",
-    "fi": "pää",
+    "fi": [
+      "pää",
+      "suunnata"
+    ],
     "rank": 483
   },
   {
@@ -5516,11 +5533,6 @@
     "rank": 498
   },
   {
-    "en": "common",
-    "fi": "yleinen",
-    "rank": 499
-  },
-  {
     "en": "general",
     "fi": [
       "yleinen",
@@ -5548,7 +5560,10 @@
   },
   {
     "en": "plan",
-    "fi": "suunnitelma",
+    "fi": [
+      "suunnitelma",
+      "kaavailla"
+    ],
     "rank": 502
   },
   {
@@ -6994,7 +7009,10 @@
   },
   {
     "en": "actual",
-    "fi": "todellinen",
+    "fi": [
+      "todellinen",
+      "varsinainen"
+    ],
     "rank": 648
   },
   {
@@ -8043,7 +8061,10 @@
   },
   {
     "en": "to carry",
-    "fi": "kantaa",
+    "fi": [
+      "kantaa",
+      "kuljettaa"
+    ],
     "rank": 754
   },
   {
@@ -8305,6 +8326,14 @@
   {
     "en": "clever",
     "fi": "fiksu",
+    "rank": 779
+  },
+  {
+    "en": "smart",
+    "fi": [
+      "fiksu",
+      "terävä"
+    ],
     "rank": 779
   },
   {
@@ -11265,6 +11294,14 @@
     "rank": 1102
   },
   {
+    "en": "stress",
+    "fi": [
+      "painottaa",
+      "paino"
+    ],
+    "rank": 1102
+  },
+  {
     "en": "to stress",
     "fi": "painottaa",
     "rank": 1102
@@ -12907,6 +12944,14 @@
     "rank": 1302
   },
   {
+    "en": "urge",
+    "fi": [
+      "kehottaa",
+      "halu"
+    ],
+    "rank": 1302
+  },
+  {
     "en": "to blow up",
     "fi": "räjäyttää",
     "rank": 1303
@@ -13407,6 +13452,14 @@
     "rank": 1357
   },
   {
+    "en": "forecast",
+    "fi": [
+      "ennustaa",
+      "ennuste"
+    ],
+    "rank": 1359
+  },
+  {
     "en": "to forecast",
     "fi": "ennustaa",
     "rank": 1359
@@ -13884,11 +13937,6 @@
       "halu",
       "tahto"
     ],
-    "rank": 1414
-  },
-  {
-    "en": "urge",
-    "fi": "halu",
     "rank": 1414
   },
   {
@@ -14649,7 +14697,10 @@
   },
   {
     "en": "smell",
-    "fi": "haju",
+    "fi": [
+      "haju",
+      "haista"
+    ],
     "rank": 1511
   },
   {
@@ -14669,7 +14720,10 @@
   },
   {
     "en": "revenge",
-    "fi": "kosto",
+    "fi": [
+      "kosto",
+      "kostaa"
+    ],
     "rank": 1513
   },
   {
@@ -18220,11 +18274,6 @@
     "rank": 2294
   },
   {
-    "en": "stress",
-    "fi": "paino",
-    "rank": 2296
-  },
-  {
     "en": "weight",
     "fi": "paino",
     "rank": 2296
@@ -18359,7 +18408,10 @@
   },
   {
     "en": "bother",
-    "fi": "vaiva",
+    "fi": [
+      "vaiva",
+      "vaivata"
+    ],
     "rank": 2339
   },
   {
@@ -19483,11 +19535,6 @@
     "en": "standing committee",
     "fi": "valiokunta",
     "rank": 2596
-  },
-  {
-    "en": "forecast",
-    "fi": "ennuste",
-    "rank": 2597
   },
   {
     "en": "prognosis",
@@ -23341,11 +23388,6 @@
     "rank": 3532
   },
   {
-    "en": "smart",
-    "fi": "terävä",
-    "rank": 3532
-  },
-  {
     "en": "entertainment",
     "fi": "viihde",
     "rank": 3533
@@ -24633,7 +24675,10 @@
   },
   {
     "en": "fuck",
-    "fi": "naiminen",
+    "fi": [
+      "naiminen",
+      "naida"
+    ],
     "rank": 3868
   },
   {
