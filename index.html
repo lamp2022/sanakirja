@@ -91,14 +91,46 @@ function svFor(enWord) {
 function render() {
   const q = document.getElementById('q').value.toLowerCase().trim();
   const data = current === 'fi-en' ? fiEn : current === 'en-fi' ? enFi : svEn;
-  const filtered = q
-    ? data.filter(d => {
-        const fi = asArr(d.fi).join(' ').toLowerCase();
-        const en = asArr(d.en).join(' ').toLowerCase();
-        const sv = asArr(d.sv).join(' ').toLowerCase();
-        return fi.includes(q) || en.includes(q) || sv.includes(q);
-      })
-    : data;
+  // Score each entry: 0 = exact match, 1 = word-boundary prefix, 2 = prefix anywhere,
+  // 3 = substring. Lower is better. Within a tier, shorter primary headword wins.
+  function scoreEntry(d, q) {
+    const fields = [
+      asArr(d.fi).map(s => String(s).toLowerCase()),
+      asArr(d.en).map(s => String(s).toLowerCase()),
+      asArr(d.sv).map(s => String(s).toLowerCase()),
+    ];
+    let best = 99;
+    for (const list of fields) {
+      for (const v of list) {
+        if (!v) continue;
+        if (v === q) { best = Math.min(best, 0); continue; }
+        if (v.startsWith(q)) { best = Math.min(best, 1); continue; }
+        // word-boundary match inside multi-word entry
+        if (v.split(/\s+/).some(w => w === q)) { best = Math.min(best, 1); continue; }
+        if (v.split(/\s+/).some(w => w.startsWith(q))) { best = Math.min(best, 2); continue; }
+        if (v.includes(q)) { best = Math.min(best, 3); }
+      }
+    }
+    return best;
+  }
+
+  let filtered;
+  if (q) {
+    const scored = [];
+    for (const d of data) {
+      const s = scoreEntry(d, q);
+      if (s < 99) scored.push([s, d]);
+    }
+    scored.sort((a, b) => {
+      if (a[0] !== b[0]) return a[0] - b[0];
+      const al = (asArr(a[1].fi)[0] || asArr(a[1].en)[0] || asArr(a[1].sv)[0] || '').length;
+      const bl = (asArr(b[1].fi)[0] || asArr(b[1].en)[0] || asArr(b[1].sv)[0] || '').length;
+      return al - bl;
+    });
+    filtered = scored.map(x => x[1]);
+  } else {
+    filtered = data;
+  }
 
   document.getElementById('stats').textContent =
     filtered.length.toLocaleString() + ' entries' +
