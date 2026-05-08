@@ -2,7 +2,7 @@
 """
 22_expand_meanings.py
 
-Expand single-sense entries in data.json to 2-3 senses where ≥2 of 4
+Expand single-sense entries in data.json to 2-3 senses where ≥3 of 4
 independent sources agree on a candidate secondary/tertiary English gloss.
 
 Sources:
@@ -40,7 +40,7 @@ GT_FILE = os.path.join(SOURCES_DIR, "gt_check_results.json")
 WIKT_FILE = os.path.join(SOURCES_DIR, "wikt_fi_definitions.jsonl")
 
 RANK_LIMIT = 3000
-MIN_SOURCE_AGREEMENT = 2
+MIN_SOURCE_AGREEMENT = 3
 MAX_SENSES = 3
 
 

@@ -89,11 +89,6 @@
     "rank": 9
   },
   {
-    "en": "go ahead",
-    "fi": "vain",
-    "rank": 9
-  },
-  {
     "en": "only",
     "fi": [
       "vain",
@@ -148,15 +143,9 @@
     "rank": 14
   },
   {
-    "en": "finnish language",
-    "fi": "suomi",
-    "rank": 15
-  },
-  {
     "en": "now",
     "fi": [
       "nyt",
-      "jo",
       "tällöin"
     ],
     "rank": 15
@@ -224,10 +213,7 @@
   },
   {
     "en": "new",
-    "fi": [
-      "uusi",
-      "tuore"
-    ],
+    "fi": "uusi",
     "rank": 20
   },
   {
@@ -259,7 +245,7 @@
     "fi": [
       "hyvä",
       "aimo",
-      "hyvänen"
+      "tavara"
     ],
     "rank": 23
   },
@@ -288,11 +274,6 @@
   },
   {
     "en": "markka",
-    "fi": "markka",
-    "rank": 27
-  },
-  {
-    "en": "money or wealth",
     "fi": "markka",
     "rank": 27
   },
@@ -392,10 +373,7 @@
   },
   {
     "en": "ground",
-    "fi": [
-      "maa",
-      "kari"
-    ],
+    "fi": "maa",
     "rank": 40
   },
   {
@@ -452,16 +430,6 @@
     "rank": 45
   },
   {
-    "en": "narrow tail",
-    "fi": "häntä",
-    "rank": 46
-  },
-  {
-    "en": "ogonek",
-    "fi": "häntä",
-    "rank": 46
-  },
-  {
     "en": "tail",
     "fi": [
       "häntä",
@@ -491,8 +459,7 @@
     "en": "man",
     "fi": [
       "ihminen",
-      "mies",
-      "setä"
+      "mies"
     ],
     "rank": 48
   },
@@ -500,7 +467,6 @@
     "en": "anyway",
     "fi": [
       "kuitenkin",
-      "edes",
       "kuitenkaan"
     ],
     "rank": 49
@@ -634,8 +600,7 @@
     "en": "to take",
     "fi": [
       "ottaa",
-      "kestää",
-      "kysyä"
+      "kestää"
     ],
     "rank": 59
   },
@@ -678,8 +643,7 @@
     "en": "mood",
     "fi": [
       "mieli",
-      "tunnelma",
-      "tuuli"
+      "tunnelma"
     ],
     "rank": 62
   },
@@ -693,7 +657,7 @@
     "fi": [
       "juuri",
       "vasta",
-      "tarkalleen"
+      "vastikään"
     ],
     "rank": 64
   },
@@ -744,19 +708,13 @@
     "en": "to visit",
     "fi": [
       "käydä",
-      "vierailla",
-      "juosta"
+      "vierailla"
     ],
     "rank": 69
   },
   {
     "en": "always",
     "fi": "aina",
-    "rank": 70
-  },
-  {
-    "en": "city",
-    "fi": "kaupunki",
     "rank": 70
   },
   {
@@ -807,10 +765,7 @@
   },
   {
     "en": "size",
-    "fi": [
-      "koko",
-      "suuruus"
-    ],
+    "fi": "koko",
     "rank": 75
   },
   {
@@ -879,14 +834,6 @@
     "fi": [
       "päivä",
       "vuorokausi"
-    ],
-    "rank": 81
-  },
-  {
-    "en": "sun",
-    "fi": [
-      "päivä",
-      "aurinko"
     ],
     "rank": 81
   },
@@ -1055,16 +1002,6 @@
     "rank": 94
   },
   {
-    "en": "to ferment",
-    "fi": "käyttää",
-    "rank": 94
-  },
-  {
-    "en": "to take  somewhere temporarily",
-    "fi": "käyttää",
-    "rank": 94
-  },
-  {
     "en": "to use",
     "fi": "käyttää",
     "rank": 94
@@ -1100,8 +1037,7 @@
     "en": "any",
     "fi": [
       "mikään",
-      "yhtään",
-      "tahansa"
+      "yhtään"
     ],
     "rank": 97
   },
@@ -1124,8 +1060,7 @@
     "en": "therefore",
     "fi": [
       "siis",
-      "siksi",
-      "siten"
+      "siksi"
     ],
     "rank": 98
   },
@@ -1133,8 +1068,7 @@
     "en": "woman",
     "fi": [
       "nainen",
-      "ämmä",
-      "vaimo"
+      "ämmä"
     ],
     "rank": 98
   },
@@ -1150,11 +1084,6 @@
   },
   {
     "en": "week",
-    "fi": "viikko",
-    "rank": 100
-  },
-  {
-    "en": "working week",
     "fi": "viikko",
     "rank": 100
   },
@@ -1185,22 +1114,12 @@
     "rank": 102
   },
   {
-    "en": "to come in handy",
-    "fi": "tarvita",
-    "rank": 104
-  },
-  {
     "en": "to need",
     "fi": [
       "tarvita",
       "täytyä",
       "kaivata"
     ],
-    "rank": 104
-  },
-  {
-    "en": "to need to",
-    "fi": "tarvita",
     "rank": 104
   },
   {
@@ -1229,11 +1148,6 @@
     "rank": 109
   },
   {
-    "en": "head count",
-    "fi": "luku",
-    "rank": 109
-  },
-  {
     "en": "number",
     "fi": [
       "luku",
@@ -1249,10 +1163,7 @@
   },
   {
     "en": "old",
-    "fi": [
-      "vanha",
-      "ikäinen"
-    ],
+    "fi": "vanha",
     "rank": 110
   },
   {
@@ -1267,8 +1178,7 @@
     "en": "to arise",
     "fi": [
       "nousta",
-      "syntyä",
-      "herätä"
+      "syntyä"
     ],
     "rank": 111
   },
@@ -1282,18 +1192,14 @@
   },
   {
     "en": "to see",
-    "fi": [
-      "nähdä",
-      "kokea"
-    ],
+    "fi": "nähdä",
     "rank": 112
   },
   {
     "en": "instance",
     "fi": [
       "kerta",
-      "esimerkki",
-      "aste"
+      "esimerkki"
     ],
     "rank": 113
   },
@@ -1385,21 +1291,13 @@
     "rank": 121
   },
   {
-    "en": "self-important",
-    "fi": "tärkeä",
-    "rank": 121
-  },
-  {
     "en": "to talk",
     "fi": "puhua",
     "rank": 121
   },
   {
     "en": "beginning",
-    "fi": [
-      "alku",
-      "suu"
-    ],
+    "fi": "alku",
     "rank": 122
   },
   {
@@ -1411,7 +1309,6 @@
     "en": "start",
     "fi": [
       "alku",
-      "lähtö",
       "aloitus"
     ],
     "rank": 122
@@ -1463,17 +1360,13 @@
     "en": "end",
     "fi": [
       "loppu",
-      "pää",
-      "pääte"
+      "pää"
     ],
     "rank": 128
   },
   {
     "en": "finish",
-    "fi": [
-      "loppu",
-      "maali"
-    ],
+    "fi": "loppu",
     "rank": 128
   },
   {
@@ -1498,15 +1391,9 @@
     "en": "way",
     "fi": [
       "tapa",
-      "tie",
-      "suunta"
+      "tie"
     ],
     "rank": 130
-  },
-  {
-    "en": "celestial body",
-    "fi": "maailma",
-    "rank": 131
   },
   {
     "en": "the Earth",
@@ -1672,7 +1559,6 @@
     "en": "ever",
     "fi": [
       "ikinä",
-      "vain",
       "koskaan"
     ],
     "rank": 144
@@ -1717,14 +1603,6 @@
   },
   {
     "en": "police",
-    "fi": [
-      "poliisi",
-      "kyttä"
-    ],
-    "rank": 147
-  },
-  {
-    "en": "policeman",
     "fi": "poliisi",
     "rank": 147
   },
@@ -1817,7 +1695,6 @@
     "en": "former",
     "fi": [
       "entinen",
-      "ensimmäinen",
       "edellinen"
     ],
     "rank": 155
@@ -1981,29 +1858,11 @@
   },
   {
     "en": "doctor",
-    "fi": [
-      "tohtori",
-      "lääkäri"
-    ],
-    "rank": 171
-  },
-  {
-    "en": "doctorate",
     "fi": "tohtori",
     "rank": 171
   },
   {
     "en": "to arrange",
-    "fi": "järjestää",
-    "rank": 171
-  },
-  {
-    "en": "to organize",
-    "fi": "järjestää",
-    "rank": 171
-  },
-  {
-    "en": "to take care of",
     "fi": "järjestää",
     "rank": 171
   },
@@ -2019,10 +1878,7 @@
   },
   {
     "en": "to lead",
-    "fi": [
-      "johtaa",
-      "ohjata"
-    ],
+    "fi": "johtaa",
     "rank": 172
   },
   {
@@ -2055,11 +1911,6 @@
     "rank": 174
   },
   {
-    "en": "fallow",
-    "fi": "kesä",
-    "rank": 175
-  },
-  {
     "en": "sometime",
     "fi": "joskus",
     "rank": 175
@@ -2082,15 +1933,7 @@
   },
   {
     "en": "problem",
-    "fi": [
-      "ongelma",
-      "harmi"
-    ],
-    "rank": 177
-  },
-  {
-    "en": "until",
-    "fi": "siksi",
+    "fi": "ongelma",
     "rank": 177
   },
   {
@@ -2123,16 +1966,10 @@
     "rank": 180
   },
   {
-    "en": "platoon",
-    "fi": "joukkue",
-    "rank": 180
-  },
-  {
     "en": "team",
     "fi": [
       "joukkue",
-      "tiimi",
-      "ryhmä"
+      "tiimi"
     ],
     "rank": 180
   },
@@ -2145,11 +1982,6 @@
     "en": "young",
     "fi": "nuori",
     "rank": 182
-  },
-  {
-    "en": "bullshit",
-    "fi": "paska",
-    "rank": 184
   },
   {
     "en": "possibility",
@@ -2220,16 +2052,10 @@
     "rank": 189
   },
   {
-    "en": "as much as",
-    "fi": "jopa",
-    "rank": 190
-  },
-  {
     "en": "even",
     "fi": [
       "jopa",
-      "peräti",
-      "edes"
+      "peräti"
     ],
     "rank": 190
   },
@@ -2386,21 +2212,11 @@
     "rank": 203
   },
   {
-    "en": "to grade",
-    "fi": "arvioida",
-    "rank": 203
-  },
-  {
-    "en": "to rate",
-    "fi": "arvioida",
-    "rank": 203
-  },
-  {
     "en": "guy",
     "fi": [
       "kaveri",
       "äijä",
-      "tyyppi"
+      "jätkä"
     ],
     "rank": 204
   },
@@ -2416,18 +2232,14 @@
   },
   {
     "en": "enough",
-    "fi": [
-      "tarpeeksi",
-      "kyllä"
-    ],
+    "fi": "tarpeeksi",
     "rank": 207
   },
   {
     "en": "set",
     "fi": [
       "joukko",
-      "lavastus",
-      "sarja"
+      "lavastus"
     ],
     "rank": 207
   },
@@ -2495,14 +2307,6 @@
     "rank": 212
   },
   {
-    "en": "appropriate",
-    "fi": [
-      "oikea",
-      "asiallinen"
-    ],
-    "rank": 214
-  },
-  {
     "en": "in addition",
     "fi": "lisäksi",
     "rank": 214
@@ -2528,21 +2332,13 @@
     "rank": 216
   },
   {
-    "en": "internationally competitive",
-    "fi": "kansainvälinen",
-    "rank": 216
-  },
-  {
     "en": "to chase",
     "fi": "ajaa",
     "rank": 217
   },
   {
     "en": "to drive",
-    "fi": [
-      "ajaa",
-      "kuljettaa"
-    ],
+    "fi": "ajaa",
     "rank": 217
   },
   {
@@ -2600,22 +2396,6 @@
     "rank": 220
   },
   {
-    "en": "grand",
-    "fi": [
-      "iso",
-      "mahtava"
-    ],
-    "rank": 220
-  },
-  {
-    "en": "great",
-    "fi": [
-      "iso",
-      "upea"
-    ],
-    "rank": 220
-  },
-  {
     "en": "through",
     "fi": [
       "läpi",
@@ -2626,11 +2406,6 @@
   },
   {
     "en": "Miss",
-    "fi": "neiti",
-    "rank": 222
-  },
-  {
-    "en": "girly",
     "fi": "neiti",
     "rank": 222
   },
@@ -2654,16 +2429,6 @@
     "en": "well-behaved",
     "fi": "kiltti",
     "rank": 223
-  },
-  {
-    "en": "to  affect",
-    "fi": "pystyä",
-    "rank": 224
-  },
-  {
-    "en": "to  cut into",
-    "fi": "pystyä",
-    "rank": 224
   },
   {
     "en": "to be able to",
@@ -2743,11 +2508,6 @@
     "rank": 232
   },
   {
-    "en": "faction",
-    "fi": "puolue",
-    "rank": 233
-  },
-  {
     "en": "party",
     "fi": [
       "puolue",
@@ -2758,16 +2518,8 @@
   },
   {
     "en": "to find",
-    "fi": [
-      "löytää",
-      "etsiä"
-    ],
+    "fi": "löytää",
     "rank": 233
-  },
-  {
-    "en": "absent",
-    "fi": "poissa",
-    "rank": 234
   },
   {
     "en": "away",
@@ -2776,11 +2528,6 @@
       "pois",
       "päässä"
     ],
-    "rank": 234
-  },
-  {
-    "en": "out of",
-    "fi": "poissa",
     "rank": 234
   },
   {
@@ -2808,19 +2555,12 @@
   },
   {
     "en": "profit",
-    "fi": [
-      "voitto",
-      "tulos"
-    ],
+    "fi": "voitto",
     "rank": 238
   },
   {
     "en": "upright",
-    "fi": [
-      "pysty",
-      "pystyssä",
-      "pystyyn"
-    ],
+    "fi": "pysty",
     "rank": 238
   },
   {
@@ -2838,10 +2578,7 @@
   },
   {
     "en": "travel",
-    "fi": [
-      "matka",
-      "matkailu"
-    ],
+    "fi": "matka",
     "rank": 239
   },
   {
@@ -2867,7 +2604,6 @@
     "en": "match",
     "fi": [
       "ottelu",
-      "peli",
       "maaottelu"
     ],
     "rank": 241
@@ -2904,11 +2640,6 @@
       "kapteeni",
       "-kapteeni"
     ],
-    "rank": 245
-  },
-  {
-    "en": "pilot in command",
-    "fi": "kapteeni",
     "rank": 245
   },
   {
@@ -2959,11 +2690,6 @@
   },
   {
     "en": "clock",
-    "fi": "kello",
-    "rank": 248
-  },
-  {
-    "en": "funnel",
     "fi": "kello",
     "rank": 248
   },
@@ -3068,10 +2794,7 @@
   },
   {
     "en": "to count",
-    "fi": [
-      "laskea",
-      "lukea"
-    ],
+    "fi": "laskea",
     "rank": 259
   },
   {
@@ -3144,11 +2867,6 @@
     "rank": 267
   },
   {
-    "en": "to listen closely",
-    "fi": "kuulostaa",
-    "rank": 267
-  },
-  {
     "en": "to sound",
     "fi": [
       "kuulostaa",
@@ -3177,16 +2895,6 @@
   },
   {
     "en": "possible",
-    "fi": "mahdollinen",
-    "rank": 270
-  },
-  {
-    "en": "potential",
-    "fi": "mahdollinen",
-    "rank": 270
-  },
-  {
-    "en": "prospective",
     "fi": "mahdollinen",
     "rank": 270
   },
@@ -3241,10 +2949,7 @@
   },
   {
     "en": "house",
-    "fi": [
-      "talo",
-      "huone"
-    ],
+    "fi": "talo",
     "rank": 277
   },
   {
@@ -3340,11 +3045,6 @@
     "rank": 283
   },
   {
-    "en": "to smoke",
-    "fi": "palaa",
-    "rank": 283
-  },
-  {
     "en": "program",
     "fi": "ohjelma",
     "rank": 284
@@ -3411,11 +3111,6 @@
     "rank": 289
   },
   {
-    "en": "quire",
-    "fi": "kirja",
-    "rank": 289
-  },
-  {
     "en": "gun",
     "fi": "ase",
     "rank": 290
@@ -3426,16 +3121,6 @@
       "hyväksyä",
       "suostua"
     ],
-    "rank": 290
-  },
-  {
-    "en": "to admit",
-    "fi": "hyväksyä",
-    "rank": 290
-  },
-  {
-    "en": "to approve the nomination",
-    "fi": "hyväksyä",
     "rank": 290
   },
   {
@@ -3468,16 +3153,6 @@
     "rank": 292
   },
   {
-    "en": "allowance",
-    "fi": "tuki",
-    "rank": 292
-  },
-  {
-    "en": "subsidy",
-    "fi": "tuki",
-    "rank": 292
-  },
-  {
     "en": "support",
     "fi": [
       "tuki",
@@ -3502,11 +3177,6 @@
       "elää",
       "asua"
     ],
-    "rank": 295
-  },
-  {
-    "en": "to live on",
-    "fi": "elää",
     "rank": 295
   },
   {
@@ -3538,19 +3208,8 @@
     "en": "to cause",
     "fi": [
       "aiheuttaa",
-      "poikia",
       "koitua"
     ],
-    "rank": 298
-  },
-  {
-    "en": "to inflict",
-    "fi": "aiheuttaa",
-    "rank": 298
-  },
-  {
-    "en": "to result in",
-    "fi": "aiheuttaa",
     "rank": 298
   },
   {
@@ -3597,16 +3256,8 @@
   },
   {
     "en": "re-",
-    "fi": [
-      "uudestaan",
-      "jälleen"
-    ],
+    "fi": "uudestaan",
     "rank": 302
-  },
-  {
-    "en": "deputy",
-    "fi": "edustaja",
-    "rank": 303
   },
   {
     "en": "representative",
@@ -3661,10 +3312,7 @@
   },
   {
     "en": "ice",
-    "fi": [
-      "jää",
-      "lasi"
-    ],
+    "fi": "jää",
     "rank": 311
   },
   {
@@ -3674,10 +3322,7 @@
   },
   {
     "en": "piece of shit",
-    "fi": [
-      "paskiainen",
-      "paska"
-    ],
+    "fi": "paskiainen",
     "rank": 312
   },
   {
@@ -3784,10 +3429,7 @@
   },
   {
     "en": "movie",
-    "fi": [
-      "elokuva",
-      "filmi"
-    ],
+    "fi": "elokuva",
     "rank": 326
   },
   {
@@ -3828,7 +3470,7 @@
     "fi": [
       "huono",
       "paha",
-      "ikävä"
+      "ilkeä"
     ],
     "rank": 331
   },
@@ -3895,8 +3537,7 @@
     "en": "wrong",
     "fi": [
       "väärin",
-      "väärä",
-      "vika"
+      "väärä"
     ],
     "rank": 337
   },
@@ -3904,11 +3545,6 @@
     "en": "wrongly",
     "fi": "väärin",
     "rank": 337
-  },
-  {
-    "en": "pseudo-",
-    "fi": "muka",
-    "rank": 338
   },
   {
     "en": "supposedly",
@@ -3931,27 +3567,17 @@
   },
   {
     "en": "hour",
-    "fi": [
-      "tunti",
-      "hetki"
-    ],
+    "fi": "tunti",
     "rank": 339
   },
   {
     "en": "job",
-    "fi": [
-      "homma",
-      "keikka"
-    ],
+    "fi": "homma",
     "rank": 339
   },
   {
     "en": "lesson",
-    "fi": [
-      "tunti",
-      "sana",
-      "oppi"
-    ],
+    "fi": "tunti",
     "rank": 339
   },
   {
@@ -3959,13 +3585,8 @@
     "fi": [
       "tapahtuma",
       "tapaus",
-      "päivä"
+      "-tapahtuma"
     ],
-    "rank": 340
-  },
-  {
-    "en": "transaction",
-    "fi": "tapahtuma",
     "rank": 340
   },
   {
@@ -3981,16 +3602,6 @@
       "-hanke"
     ],
     "rank": 342
-  },
-  {
-    "en": "collaborative",
-    "fi": "yhteinen",
-    "rank": 343
-  },
-  {
-    "en": "mixed-sex",
-    "fi": "yhteinen",
-    "rank": 343
   },
   {
     "en": "shared",
@@ -4062,22 +3673,9 @@
     "rank": 347
   },
   {
-    "en": "rheum",
-    "fi": "vesi",
-    "rank": 348
-  },
-  {
     "en": "water",
     "fi": "vesi",
     "rank": 348
-  },
-  {
-    "en": "alliance",
-    "fi": [
-      "liitto",
-      "allianssi"
-    ],
-    "rank": 349
   },
   {
     "en": "union",
@@ -4152,10 +3750,7 @@
   },
   {
     "en": "level",
-    "fi": [
-      "taso",
-      "kenttä"
-    ],
+    "fi": "taso",
     "rank": 356
   },
   {
@@ -4225,11 +3820,6 @@
       "satanen"
     ],
     "rank": 363
-  },
-  {
-    "en": "at which time",
-    "fi": "jolloin",
-    "rank": 364
   },
   {
     "en": "whereupon",
@@ -4328,10 +3918,7 @@
   },
   {
     "en": "either",
-    "fi": [
-      "joko",
-      "myöskään"
-    ],
+    "fi": "joko",
     "rank": 373
   },
   {
@@ -4408,14 +3995,6 @@
     "rank": 383
   },
   {
-    "en": "beneath",
-    "fi": [
-      "alla",
-      "alitse"
-    ],
-    "rank": 383
-  },
-  {
     "en": "client",
     "fi": "asiakas",
     "rank": 383
@@ -4447,23 +4026,12 @@
     "rank": 384
   },
   {
-    "en": "antipersonnel",
-    "fi": "henkilö",
-    "rank": 385
-  },
-  {
     "en": "person",
     "fi": [
       "henkilö",
-      "persoona",
-      "tyyppi"
+      "persoona"
     ],
     "rank": 385
-  },
-  {
-    "en": "flank",
-    "fi": "sivu",
-    "rank": 386
   },
   {
     "en": "in attendance",
@@ -4577,11 +4145,6 @@
     "rank": 395
   },
   {
-    "en": "warfare",
-    "fi": "sota",
-    "rank": 395
-  },
-  {
     "en": "digit",
     "fi": "numero",
     "rank": 396
@@ -4639,11 +4202,6 @@
   },
   {
     "en": "kilometre/kilometer",
-    "fi": "kilometri",
-    "rank": 401
-  },
-  {
-    "en": "mile",
     "fi": "kilometri",
     "rank": 401
   },
@@ -4723,11 +4281,6 @@
       "rock",
       "kallio"
     ],
-    "rank": 410
-  },
-  {
-    "en": "skerry",
-    "fi": "kari",
     "rank": 410
   },
   {
@@ -4848,6 +4401,11 @@
     "rank": 423
   },
   {
+    "en": "grand",
+    "fi": "mahtava",
+    "rank": 423
+  },
+  {
     "en": "spectacular",
     "fi": "mahtava",
     "rank": 423
@@ -4863,10 +4421,7 @@
   },
   {
     "en": "rank",
-    "fi": [
-      "arvo",
-      "rivi"
-    ],
+    "fi": "arvo",
     "rank": 425
   },
   {
@@ -5002,8 +4557,7 @@
     "en": "training",
     "fi": [
       "koulutus",
-      "harjoitus",
-      "oppi"
+      "harjoitus"
     ],
     "rank": 442
   },
@@ -5196,11 +4750,6 @@
     "rank": 465
   },
   {
-    "en": "brokerage",
-    "fi": "komissio",
-    "rank": 466
-  },
-  {
     "en": "commission",
     "fi": "komissio",
     "rank": 466
@@ -5267,15 +4816,9 @@
     "rank": 475
   },
   {
-    "en": "sheer",
-    "fi": "pelkkä",
-    "rank": 475
-  },
-  {
     "en": "dear",
     "fi": [
       "rakas",
-      "hyvä",
       "kallis"
     ],
     "rank": 476
@@ -5341,15 +4884,7 @@
   },
   {
     "en": "muzzle",
-    "fi": [
-      "turpa",
-      "suu"
-    ],
-    "rank": 480
-  },
-  {
-    "en": "nominee",
-    "fi": "ehdokas",
+    "fi": "turpa",
     "rank": 480
   },
   {
@@ -5379,11 +4914,6 @@
   },
   {
     "en": "dog",
-    "fi": "koira",
-    "rank": 482
-  },
-  {
-    "en": "military police",
     "fi": "koira",
     "rank": 482
   },
@@ -5448,14 +4978,6 @@
     "en": "France",
     "fi": "ranska",
     "rank": 487
-  },
-  {
-    "en": "bro",
-    "fi": [
-      "veli",
-      "äijä"
-    ],
-    "rank": 488
   },
   {
     "en": "brother",
@@ -5525,10 +5047,7 @@
   },
   {
     "en": "any more",
-    "fi": [
-      "enempää",
-      "enää"
-    ],
+    "fi": "enempää",
     "rank": 494
   },
   {
@@ -5547,11 +5066,6 @@
       "sairas",
       "kipeä"
     ],
-    "rank": 495
-  },
-  {
-    "en": "sick",
-    "fi": "sairas",
     "rank": 495
   },
   {
@@ -5577,14 +5091,6 @@
   },
   {
     "en": "care",
-    "fi": [
-      "hoito",
-      "huoli"
-    ],
-    "rank": 497
-  },
-  {
-    "en": "nurture",
     "fi": "hoito",
     "rank": 497
   },
@@ -5600,14 +5106,6 @@
   {
     "en": "need",
     "fi": "tarve",
-    "rank": 498
-  },
-  {
-    "en": "vacant",
-    "fi": [
-      "vapaa",
-      "avoin"
-    ],
     "rank": 498
   },
   {
@@ -5643,14 +5141,6 @@
   },
   {
     "en": "plan",
-    "fi": [
-      "suunnitelma",
-      "hanke"
-    ],
-    "rank": 502
-  },
-  {
-    "en": "scheme",
     "fi": "suunnitelma",
     "rank": 502
   },
@@ -5690,7 +5180,6 @@
     "en": "happy",
     "fi": [
       "onnellinen",
-      "hyvä",
       "iloinen"
     ],
     "rank": 506
@@ -5734,11 +5223,6 @@
       "ehkäistä"
     ],
     "rank": 509
-  },
-  {
-    "en": "narrative",
-    "fi": "tarina",
-    "rank": 510
   },
   {
     "en": "story",
@@ -5791,10 +5275,7 @@
   },
   {
     "en": "physician",
-    "fi": [
-      "lääkäri",
-      "tohtori"
-    ],
+    "fi": "lääkäri",
     "rank": 515
   },
   {
@@ -5803,17 +5284,7 @@
     "rank": 516
   },
   {
-    "en": "errand boy",
-    "fi": "lähetti",
-    "rank": 517
-  },
-  {
     "en": "messenger",
-    "fi": "lähetti",
-    "rank": 517
-  },
-  {
-    "en": "orderly",
     "fi": "lähetti",
     "rank": 517
   },
@@ -5837,11 +5308,6 @@
     "rank": 519
   },
   {
-    "en": "bogey",
-    "fi": "kohde",
-    "rank": 520
-  },
-  {
     "en": "destination",
     "fi": "kohde",
     "rank": 520
@@ -5852,16 +5318,6 @@
       "viesti",
       "sanoma"
     ],
-    "rank": 520
-  },
-  {
-    "en": "relay",
-    "fi": "viesti",
-    "rank": 520
-  },
-  {
-    "en": "signal corps",
-    "fi": "viesti",
     "rank": 520
   },
   {
@@ -5886,11 +5342,6 @@
     "en": "shining",
     "fi": "loistava",
     "rank": 522
-  },
-  {
-    "en": "produce",
-    "fi": "tuote",
-    "rank": 523
   },
   {
     "en": "product",
@@ -5934,11 +5385,6 @@
   {
     "en": "in disorder",
     "fi": "sekaisin",
-    "rank": 526
-  },
-  {
-    "en": "instructor",
-    "fi": "opettaja",
     "rank": 526
   },
   {
@@ -6020,11 +5466,6 @@
     "rank": 534
   },
   {
-    "en": "elderly woman",
-    "fi": "vaimo",
-    "rank": 535
-  },
-  {
     "en": "wife",
     "fi": [
       "vaimo",
@@ -6044,10 +5485,7 @@
   },
   {
     "en": "ordinary",
-    "fi": [
-      "tavallinen",
-      "tavanomainen"
-    ],
+    "fi": "tavallinen",
     "rank": 539
   },
   {
@@ -6084,19 +5522,9 @@
     "rank": 543
   },
   {
-    "en": "lyrics",
-    "fi": "sana",
-    "rank": 544
-  },
-  {
     "en": "word",
     "fi": "sana",
     "rank": 544
-  },
-  {
-    "en": "alternative",
-    "fi": "vaihtoehto",
-    "rank": 547
   },
   {
     "en": "option",
@@ -6210,14 +5638,6 @@
     "rank": 560
   },
   {
-    "en": "to pick",
-    "fi": [
-      "kerätä",
-      "poimia"
-    ],
-    "rank": 560
-  },
-  {
     "en": "in a way",
     "fi": "tavallaan",
     "rank": 562
@@ -6232,10 +5652,7 @@
   },
   {
     "en": "motion",
-    "fi": [
-      "liike",
-      "aloite"
-    ],
+    "fi": "liike",
     "rank": 563
   },
   {
@@ -6289,11 +5706,6 @@
     "rank": 568
   },
   {
-    "en": "works",
-    "fi": "tuotanto",
-    "rank": 568
-  },
-  {
     "en": "coach",
     "fi": "valmentaja",
     "rank": 569
@@ -6317,11 +5729,6 @@
     "en": "quid",
     "fi": "malli",
     "rank": 570
-  },
-  {
-    "en": "finished too soon",
-    "fi": "kesken",
-    "rank": 571
   },
   {
     "en": "unfinished",
@@ -6351,6 +5758,11 @@
       "kansallinen"
     ],
     "rank": 572
+  },
+  {
+    "en": "great",
+    "fi": "upea",
+    "rank": 574
   },
   {
     "en": "magnificent",
@@ -6445,10 +5857,7 @@
   },
   {
     "en": "rate",
-    "fi": [
-      "vauhti",
-      "kurssi"
-    ],
+    "fi": "vauhti",
     "rank": 580
   },
   {
@@ -6538,10 +5947,7 @@
   },
   {
     "en": "eventually",
-    "fi": [
-      "lopulta",
-      "aikanaan"
-    ],
+    "fi": "lopulta",
     "rank": 590
   },
   {
@@ -6618,8 +6024,7 @@
     "en": "building",
     "fi": [
       "rakennus",
-      "talo",
-      "kiinteistö"
+      "-rakennus"
     ],
     "rank": 597
   },
@@ -6682,8 +6087,7 @@
     "en": "position",
     "fi": [
       "kanta",
-      "asema",
-      "työpaikka"
+      "asema"
     ],
     "rank": 604
   },
@@ -6760,11 +6164,6 @@
     "rank": 611
   },
   {
-    "en": "bush",
-    "fi": "metsä",
-    "rank": 613
-  },
-  {
     "en": "forest",
     "fi": "metsä",
     "rank": 613
@@ -6815,7 +6214,7 @@
     "fi": [
       "työskennellä",
       "työstää",
-      "toimia"
+      "purra"
     ],
     "rank": 616
   },
@@ -6823,11 +6222,6 @@
     "en": "detective",
     "fi": "etsivä",
     "rank": 617
-  },
-  {
-    "en": "to be in charge",
-    "fi": "hallita",
-    "rank": 618
   },
   {
     "en": "to control",
@@ -6891,11 +6285,6 @@
     "rank": 626
   },
   {
-    "en": "liability",
-    "fi": "vastuu",
-    "rank": 626
-  },
-  {
     "en": "responsibility",
     "fi": "vastuu",
     "rank": 626
@@ -6903,11 +6292,6 @@
   {
     "en": "Member of Parliament",
     "fi": "kansanedustaja",
-    "rank": 627
-  },
-  {
-    "en": "to fall down",
-    "fi": "lentää",
     "rank": 627
   },
   {
@@ -7048,21 +6432,11 @@
     "rank": 638
   },
   {
-    "en": "clef",
-    "fi": "avain",
-    "rank": 639
-  },
-  {
     "en": "key",
     "fi": [
       "avain",
       "keskeinen"
     ],
-    "rank": 639
-  },
-  {
-    "en": "wrench",
-    "fi": "avain",
     "rank": 639
   },
   {
@@ -7081,11 +6455,6 @@
   {
     "en": "finely",
     "fi": "hienosti",
-    "rank": 640
-  },
-  {
-    "en": "grade",
-    "fi": "luokka",
     "rank": 640
   },
   {
@@ -7108,11 +6477,6 @@
     "rank": 642
   },
   {
-    "en": "outline",
-    "fi": "linja",
-    "rank": 642
-  },
-  {
     "en": "to publish",
     "fi": [
       "julkaista",
@@ -7125,16 +6489,6 @@
     "en": "to sit",
     "fi": "istua",
     "rank": 644
-  },
-  {
-    "en": "to sit down",
-    "fi": "istua",
-    "rank": 644
-  },
-  {
-    "en": "space under something",
-    "fi": "alus",
-    "rank": 645
   },
   {
     "en": "underlay",
@@ -7166,7 +6520,7 @@
     "fi": [
       "todellinen",
       "tosi",
-      "oikea"
+      "aito"
     ],
     "rank": 648
   },
@@ -7180,10 +6534,7 @@
   },
   {
     "en": "receivable",
-    "fi": [
-      "saatava",
-      "saaminen"
-    ],
+    "fi": "saatava",
     "rank": 649
   },
   {
@@ -7211,11 +6562,6 @@
     "rank": 653
   },
   {
-    "en": "uncle",
-    "fi": "setä",
-    "rank": 653
-  },
-  {
     "en": "to become clear",
     "fi": "selvitä",
     "rank": 654
@@ -7223,11 +6569,6 @@
   {
     "en": "to clarify",
     "fi": "selvitä",
-    "rank": 654
-  },
-  {
-    "en": "to detach",
-    "fi": "päästää",
     "rank": 654
   },
   {
@@ -7239,11 +6580,6 @@
     "rank": 654
   },
   {
-    "en": "to release",
-    "fi": "päästää",
-    "rank": 654
-  },
-  {
     "en": "to protect",
     "fi": [
       "suojella",
@@ -7251,11 +6587,6 @@
       "säästää"
     ],
     "rank": 655
-  },
-  {
-    "en": "gift",
-    "fi": "lahja",
-    "rank": 656
   },
   {
     "en": "present",
@@ -7273,10 +6604,7 @@
   },
   {
     "en": "policy",
-    "fi": [
-      "politiikka",
-      "linja"
-    ],
+    "fi": "politiikka",
     "rank": 658
   },
   {
@@ -7340,11 +6668,6 @@
     "rank": 663
   },
   {
-    "en": "disciple",
-    "fi": "oppilas",
-    "rank": 663
-  },
-  {
     "en": "hot",
     "fi": [
       "kuuma",
@@ -7397,11 +6720,6 @@
     "rank": 665
   },
   {
-    "en": "baby animal",
-    "fi": "vauva",
-    "rank": 665
-  },
-  {
     "en": "circuit",
     "fi": "piiri",
     "rank": 666
@@ -7409,6 +6727,11 @@
   {
     "en": "to close in",
     "fi": "lähetä",
+    "rank": 667
+  },
+  {
+    "en": "vacant",
+    "fi": "avoin",
     "rank": 667
   },
   {
@@ -7423,11 +6746,6 @@
       "valikoima",
       "tarjonta"
     ],
-    "rank": 668
-  },
-  {
-    "en": "volition",
-    "fi": "valinta",
     "rank": 668
   },
   {
@@ -7459,11 +6777,6 @@
     "rank": 670
   },
   {
-    "en": "speak",
-    "fi": "puhe",
-    "rank": 671
-  },
-  {
     "en": "speech",
     "fi": "puhe",
     "rank": 671
@@ -7485,16 +6798,6 @@
       "kuulla"
     ],
     "rank": 672
-  },
-  {
-    "en": "to listen in",
-    "fi": "kuunnella",
-    "rank": 672
-  },
-  {
-    "en": "caucasian",
-    "fi": "valkoinen",
-    "rank": 673
   },
   {
     "en": "to be based on",
@@ -7573,11 +6876,6 @@
     "rank": 680
   },
   {
-    "en": "response",
-    "fi": "vastaus",
-    "rank": 680
-  },
-  {
     "en": "everywhere",
     "fi": "kaikkialla",
     "rank": 681
@@ -7630,10 +6928,7 @@
   },
   {
     "en": "league",
-    "fi": [
-      "liiga",
-      "liitto"
-    ],
+    "fi": "liiga",
     "rank": 687
   },
   {
@@ -7713,14 +7008,6 @@
     "rank": 695
   },
   {
-    "en": "mesh",
-    "fi": [
-      "silmä",
-      "verkko"
-    ],
-    "rank": 695
-  },
-  {
     "en": "association",
     "fi": "yhdistys",
     "rank": 697
@@ -7729,11 +7016,6 @@
     "en": "down below",
     "fi": "alhaalla",
     "rank": 697
-  },
-  {
-    "en": "getting on",
-    "fi": "nousu",
-    "rank": 698
   },
   {
     "en": "rise",
@@ -7766,11 +7048,6 @@
   {
     "en": "mouth",
     "fi": "suu",
-    "rank": 701
-  },
-  {
-    "en": "signal strength",
-    "fi": "kenttä",
     "rank": 701
   },
   {
@@ -7855,24 +7132,9 @@
     "rank": 710
   },
   {
-    "en": "anything laborious",
-    "fi": "tekeminen",
-    "rank": 711
-  },
-  {
     "en": "making",
     "fi": "tekeminen",
     "rank": 711
-  },
-  {
-    "en": "something to do",
-    "fi": "tekeminen",
-    "rank": 711
-  },
-  {
-    "en": "to swing",
-    "fi": "heittää",
-    "rank": 713
   },
   {
     "en": "to throw",
@@ -7890,11 +7152,6 @@
   {
     "en": "judge",
     "fi": "tuomari",
-    "rank": 716
-  },
-  {
-    "en": "to assail",
-    "fi": "yllättää",
     "rank": 716
   },
   {
@@ -7973,7 +7230,7 @@
     "fi": [
       "pitkin",
       "mukaan",
-      "eteenpäin"
+      "myötä"
     ],
     "rank": 722
   },
@@ -8011,21 +7268,11 @@
     "rank": 724
   },
   {
-    "en": "cost",
-    "fi": "kustannus",
-    "rank": 726
-  },
-  {
     "en": "expense",
     "fi": [
       "kustannus",
       "kulu"
     ],
-    "rank": 726
-  },
-  {
-    "en": "publishing",
-    "fi": "kustannus",
     "rank": 726
   },
   {
@@ -8042,8 +7289,7 @@
     "en": "military",
     "fi": [
       "sotilas",
-      "sotilaallinen",
-      "sota"
+      "sotilaallinen"
     ],
     "rank": 728
   },
@@ -8089,7 +7335,6 @@
     "en": "sign",
     "fi": [
       "merkki",
-      "oire",
       "allekirjoitus"
     ],
     "rank": 732
@@ -8140,11 +7385,6 @@
   },
   {
     "en": "heart",
-    "fi": "sydän",
-    "rank": 737
-  },
-  {
-    "en": "wick",
     "fi": "sydän",
     "rank": 737
   },
@@ -8214,19 +7454,8 @@
   },
   {
     "en": "nature",
-    "fi": [
-      "luonto",
-      "luonne"
-    ],
+    "fi": "luonto",
     "rank": 748
-  },
-  {
-    "en": "biscuit",
-    "fi": [
-      "keksi",
-      "-keksi"
-    ],
-    "rank": 749
   },
   {
     "en": "cookie",
@@ -8344,11 +7573,6 @@
     "rank": 764
   },
   {
-    "en": "bombshell",
-    "fi": "pommi",
-    "rank": 764
-  },
-  {
     "en": "heaven",
     "fi": "taivas",
     "rank": 765
@@ -8402,14 +7626,6 @@
   {
     "en": "error",
     "fi": "virhe",
-    "rank": 768
-  },
-  {
-    "en": "flaw",
-    "fi": [
-      "virhe",
-      "vika"
-    ],
     "rank": 768
   },
   {
@@ -8476,11 +7692,6 @@
     "rank": 774
   },
   {
-    "en": "dish",
-    "fi": "ruoka",
-    "rank": 775
-  },
-  {
     "en": "food",
     "fi": [
       "ruoka",
@@ -8522,14 +7733,6 @@
     "rank": 779
   },
   {
-    "en": "smart",
-    "fi": [
-      "fiksu",
-      "terävä"
-    ],
-    "rank": 779
-  },
-  {
     "en": "January",
     "fi": "tammikuu",
     "rank": 780
@@ -8542,11 +7745,6 @@
       "aleta"
     ],
     "rank": 780
-  },
-  {
-    "en": "to presume",
-    "fi": "edellyttää",
-    "rank": 782
   },
   {
     "en": "to presuppose",
@@ -8582,11 +7780,6 @@
     "rank": 787
   },
   {
-    "en": "contemptible person",
-    "fi": "mulkku",
-    "rank": 787
-  },
-  {
     "en": "to mention",
     "fi": "mainita",
     "rank": 787
@@ -8608,10 +7801,7 @@
   },
   {
     "en": "spare",
-    "fi": [
-      "vara",
-      "vapaa"
-    ],
+    "fi": "vara",
     "rank": 789
   },
   {
@@ -8671,16 +7861,8 @@
   },
   {
     "en": "to worry",
-    "fi": [
-      "huolehtia",
-      "huolestuttaa"
-    ],
+    "fi": "huolehtia",
     "rank": 796
-  },
-  {
-    "en": "academia",
-    "fi": "yliopisto",
-    "rank": 797
   },
   {
     "en": "university",
@@ -8796,10 +7978,7 @@
   },
   {
     "en": "championship",
-    "fi": [
-      "mestaruus",
-      "loppuottelu"
-    ],
+    "fi": "mestaruus",
     "rank": 808
   },
   {
@@ -8815,11 +7994,6 @@
   {
     "en": "November",
     "fi": "marraskuu",
-    "rank": 810
-  },
-  {
-    "en": "any gay person",
-    "fi": "homo",
     "rank": 810
   },
   {
@@ -8892,11 +8066,6 @@
   },
   {
     "en": "peace",
-    "fi": "rauha",
-    "rank": 822
-  },
-  {
-    "en": "treaty",
     "fi": "rauha",
     "rank": 822
   },
@@ -8997,26 +8166,6 @@
     "rank": 833
   },
   {
-    "en": "shy of",
-    "fi": "vajaa",
-    "rank": 833
-  },
-  {
-    "en": "wanting",
-    "fi": "vajaa",
-    "rank": 833
-  },
-  {
-    "en": "mechanism",
-    "fi": "järjestelmä",
-    "rank": 834
-  },
-  {
-    "en": "regime",
-    "fi": "järjestelmä",
-    "rank": 834
-  },
-  {
     "en": "system",
     "fi": [
       "järjestelmä",
@@ -9089,10 +8238,7 @@
   },
   {
     "en": "fall",
-    "fi": [
-      "lasku",
-      "tuho"
-    ],
+    "fi": "lasku",
     "rank": 841
   },
   {
@@ -9179,21 +8325,6 @@
     "rank": 852
   },
   {
-    "en": "misadventure",
-    "fi": "onnettomuus",
-    "rank": 852
-  },
-  {
-    "en": "misfortune",
-    "fi": "onnettomuus",
-    "rank": 852
-  },
-  {
-    "en": "purse",
-    "fi": "budjetti",
-    "rank": 852
-  },
-  {
     "en": "facility",
     "fi": "laitos",
     "rank": 853
@@ -9268,11 +8399,6 @@
       "näytelmä",
       "leikki"
     ],
-    "rank": 858
-  },
-  {
-    "en": "spectacle",
-    "fi": "näytelmä",
     "rank": 858
   },
   {
@@ -9351,16 +8477,8 @@
   },
   {
     "en": "security",
-    "fi": [
-      "turvallisuus",
-      "turva"
-    ],
+    "fi": "turvallisuus",
     "rank": 866
-  },
-  {
-    "en": "to appoint",
-    "fi": "nimittää",
-    "rank": 867
   },
   {
     "en": "to assign",
@@ -9377,22 +8495,7 @@
     "rank": 868
   },
   {
-    "en": "to emerge",
-    "fi": "ilmestyä",
-    "rank": 868
-  },
-  {
-    "en": "to show up",
-    "fi": "ilmestyä",
-    "rank": 868
-  },
-  {
     "en": "departure",
-    "fi": "lähtö",
-    "rank": 869
-  },
-  {
-    "en": "takeoff",
     "fi": "lähtö",
     "rank": 869
   },
@@ -9430,8 +8533,7 @@
     "en": "to abandon",
     "fi": [
       "luopua",
-      "jättää",
-      "heittää"
+      "jättää"
     ],
     "rank": 874
   },
@@ -9446,21 +8548,8 @@
     "rank": 875
   },
   {
-    "en": "to devise",
-    "fi": "keksiä",
-    "rank": 876
-  },
-  {
     "en": "to invent",
     "fi": "keksiä",
-    "rank": 876
-  },
-  {
-    "en": "to make up",
-    "fi": [
-      "keksiä",
-      "säveltää"
-    ],
     "rank": 876
   },
   {
@@ -9472,7 +8561,7 @@
     "rank": 878
   },
   {
-    "en": "solar",
+    "en": "sun",
     "fi": "aurinko",
     "rank": 878
   },
@@ -9501,11 +8590,6 @@
     "rank": 879
   },
   {
-    "en": "to awaken",
-    "fi": "herättää",
-    "rank": 879
-  },
-  {
     "en": "to wake up",
     "fi": [
       "herättää",
@@ -9520,11 +8604,6 @@
       "yhdysvaltalainen"
     ],
     "rank": 880
-  },
-  {
-    "en": "copy",
-    "fi": "teksti",
-    "rank": 881
   },
   {
     "en": "text",
@@ -9647,14 +8726,6 @@
     "rank": 890
   },
   {
-    "en": "engineering",
-    "fi": [
-      "tekninen",
-      "tekniikka"
-    ],
-    "rank": 891
-  },
-  {
     "en": "technical",
     "fi": "tekninen",
     "rank": 891
@@ -9683,11 +8754,6 @@
     "rank": 893
   },
   {
-    "en": "working committee",
-    "fi": "työryhmä",
-    "rank": 894
-  },
-  {
     "en": "working group",
     "fi": "työryhmä",
     "rank": 894
@@ -9700,15 +8766,6 @@
   {
     "en": "difficulty",
     "fi": "vaikeus",
-    "rank": 895
-  },
-  {
-    "en": "trouble",
-    "fi": [
-      "vaikeus",
-      "pula",
-      "pulma"
-    ],
     "rank": 895
   },
   {
@@ -9773,11 +8830,6 @@
     "rank": 901
   },
   {
-    "en": "a good one",
-    "fi": "hyvänen",
-    "rank": 902
-  },
-  {
     "en": "hilly",
     "fi": "mäkinen",
     "rank": 902
@@ -9828,10 +8880,7 @@
   },
   {
     "en": "shape",
-    "fi": [
-      "muoto",
-      "hahmo"
-    ],
+    "fi": "muoto",
     "rank": 907
   },
   {
@@ -9854,11 +8903,6 @@
   },
   {
     "en": "crumb",
-    "fi": "muru",
-    "rank": 909
-  },
-  {
-    "en": "honey",
     "fi": "muru",
     "rank": 909
   },
@@ -9954,11 +8998,6 @@
     "rank": 922
   },
   {
-    "en": "kilo",
-    "fi": "kilo",
-    "rank": 923
-  },
-  {
     "en": "kilogram",
     "fi": "kilo",
     "rank": 923
@@ -10003,17 +9042,12 @@
     "fi": [
       "tarkistaa",
       "tarkastaa",
-      "kokea"
+      "oppia"
     ],
     "rank": 929
   },
   {
     "en": "to enjoy",
-    "fi": "nauttia",
-    "rank": 929
-  },
-  {
-    "en": "to ingest",
     "fi": "nauttia",
     "rank": 929
   },
@@ -10111,11 +9145,6 @@
     "rank": 939
   },
   {
-    "en": "sphere",
-    "fi": "pallo",
-    "rank": 939
-  },
-  {
     "en": "to convey",
     "fi": [
       "välittää",
@@ -10144,11 +9173,6 @@
       "esillä",
       "kyseessä"
     ],
-    "rank": 941
-  },
-  {
-    "en": "mercy",
-    "fi": "sääli",
     "rank": 941
   },
   {
@@ -10227,11 +9251,6 @@
     "rank": 947
   },
   {
-    "en": "lead",
-    "fi": "kärki",
-    "rank": 948
-  },
-  {
     "en": "necessarily",
     "fi": "välttämättä",
     "rank": 948
@@ -10240,11 +9259,6 @@
     "en": "vertex",
     "fi": "kärki",
     "rank": 948
-  },
-  {
-    "en": "singing",
-    "fi": "laulu",
-    "rank": 949
   },
   {
     "en": "song",
@@ -10274,21 +9288,11 @@
     "rank": 951
   },
   {
-    "en": "modality",
-    "fi": "laatu",
-    "rank": 951
-  },
-  {
     "en": "quality",
     "fi": [
       "laatu",
       "laadukas"
     ],
-    "rank": 951
-  },
-  {
-    "en": "sort",
-    "fi": "laatu",
     "rank": 951
   },
   {
@@ -10304,19 +9308,6 @@
     "en": "to construct",
     "fi": "muodostaa",
     "rank": 953
-  },
-  {
-    "en": "command",
-    "fi": "käsky",
-    "rank": 954
-  },
-  {
-    "en": "instruction",
-    "fi": [
-      "käsky",
-      "ohje"
-    ],
-    "rank": 954
   },
   {
     "en": "order",
@@ -10383,11 +9374,6 @@
   },
   {
     "en": "to borrow",
-    "fi": "lainata",
-    "rank": 962
-  },
-  {
-    "en": "to cite",
     "fi": "lainata",
     "rank": 962
   },
@@ -10469,10 +9455,7 @@
   },
   {
     "en": "huge",
-    "fi": [
-      "valtava",
-      "jätti"
-    ],
+    "fi": "valtava",
     "rank": 969
   },
   {
@@ -10509,8 +9492,7 @@
     "en": "test",
     "fi": [
       "koe",
-      "testi",
-      "kokeilu"
+      "testi"
     ],
     "rank": 974
   },
@@ -10643,8 +9625,7 @@
     "en": "to recognize",
     "fi": [
       "palkita",
-      "tunnistaa",
-      "tuntea"
+      "tunnistaa"
     ],
     "rank": 987
   },
@@ -10674,16 +9655,6 @@
   },
   {
     "en": "to compete",
-    "fi": "kilpailla",
-    "rank": 989
-  },
-  {
-    "en": "to race",
-    "fi": "kilpailla",
-    "rank": 989
-  },
-  {
-    "en": "to rival",
     "fi": "kilpailla",
     "rank": 989
   },
@@ -10751,11 +9722,6 @@
     "rank": 995
   },
   {
-    "en": "adept",
-    "fi": "asiantuntija",
-    "rank": 998
-  },
-  {
     "en": "amen",
     "fi": "aamen",
     "rank": 998
@@ -10764,7 +9730,6 @@
     "en": "expert",
     "fi": [
       "asiantuntija",
-      "mestari",
       "taitava"
     ],
     "rank": 998
@@ -10780,11 +9745,6 @@
   },
   {
     "en": "greeting",
-    "fi": "tervehdys",
-    "rank": 999
-  },
-  {
-    "en": "salute",
     "fi": "tervehdys",
     "rank": 999
   },
@@ -10934,10 +9894,7 @@
   },
   {
     "en": "air",
-    "fi": [
-      "ilma",
-      "ilme"
-    ],
+    "fi": "ilma",
     "rank": 1022
   },
   {
@@ -10980,11 +9937,6 @@
       "ilmapiiri"
     ],
     "rank": 1029
-  },
-  {
-    "en": "taking place during",
-    "fi": "aikainen",
-    "rank": 1030
   },
   {
     "en": "to rain",
@@ -11050,16 +10002,6 @@
     "rank": 1034
   },
   {
-    "en": "asterisk",
-    "fi": "tähti",
-    "rank": 1036
-  },
-  {
-    "en": "famous person",
-    "fi": "tähti",
-    "rank": 1036
-  },
-  {
     "en": "star",
     "fi": [
       "tähti",
@@ -11079,16 +10021,6 @@
   },
   {
     "en": "blind",
-    "fi": "sokea",
-    "rank": 1038
-  },
-  {
-    "en": "blind-embossed",
-    "fi": "sokea",
-    "rank": 1038
-  },
-  {
-    "en": "unlabeled",
     "fi": "sokea",
     "rank": 1038
   },
@@ -11173,10 +10105,7 @@
   },
   {
     "en": "to explode",
-    "fi": [
-      "räjähtää",
-      "ampua"
-    ],
+    "fi": "räjähtää",
     "rank": 1046
   },
   {
@@ -11258,11 +10187,6 @@
     "rank": 1054
   },
   {
-    "en": "to be lost",
-    "fi": "kadota",
-    "rank": 1054
-  },
-  {
     "en": "to disappear",
     "fi": [
       "kadota",
@@ -11283,10 +10207,7 @@
   },
   {
     "en": "to study",
-    "fi": [
-      "opiskella",
-      "lukea"
-    ],
+    "fi": "opiskella",
     "rank": 1055
   },
   {
@@ -11319,20 +10240,12 @@
   },
   {
     "en": "friendly",
-    "fi": [
-      "ystävällinen",
-      "oma"
-    ],
+    "fi": "ystävällinen",
     "rank": 1061
   },
   {
     "en": "malicious",
     "fi": "ilkeä",
-    "rank": 1062
-  },
-  {
-    "en": "prior",
-    "fi": "aiempi",
     "rank": 1062
   },
   {
@@ -11383,11 +10296,6 @@
     "rank": 1067
   },
   {
-    "en": "secrecy",
-    "fi": "salaisuus",
-    "rank": 1068
-  },
-  {
     "en": "to roam",
     "fi": "vierailla",
     "rank": 1069
@@ -11419,8 +10327,7 @@
     "en": "lawyer",
     "fi": [
       "asianajaja",
-      "lakimies",
-      "tuomari"
+      "lakimies"
     ],
     "rank": 1073
   },
@@ -11440,10 +10347,7 @@
   },
   {
     "en": "alarm",
-    "fi": [
-      "hälytys",
-      "herätys"
-    ],
+    "fi": "hälytys",
     "rank": 1076
   },
   {
@@ -11460,11 +10364,6 @@
     "en": "within reach",
     "fi": "käsiksi",
     "rank": 1077
-  },
-  {
-    "en": "booby trap",
-    "fi": "ansa",
-    "rank": 1079
   },
   {
     "en": "trap",
@@ -11493,22 +10392,12 @@
     "rank": 1081
   },
   {
-    "en": "lifetime",
-    "fi": "ikä",
-    "rank": 1081
-  },
-  {
     "en": "fee",
     "fi": [
       "maksu",
       "palkkio"
     ],
     "rank": 1082
-  },
-  {
-    "en": "chance",
-    "fi": "riski",
-    "rank": 1083
   },
   {
     "en": "risk",
@@ -11622,11 +10511,6 @@
     "rank": 1100
   },
   {
-    "en": "to party",
-    "fi": "juhlia",
-    "rank": 1100
-  },
-  {
     "en": "century",
     "fi": "vuosisata",
     "rank": 1101
@@ -11653,10 +10537,7 @@
   },
   {
     "en": "to relieve",
-    "fi": [
-      "vapauttaa",
-      "helpottaa"
-    ],
+    "fi": "vapauttaa",
     "rank": 1105
   },
   {
@@ -11723,11 +10604,6 @@
     "rank": 1113
   },
   {
-    "en": "to warrant",
-    "fi": "taata",
-    "rank": 1113
-  },
-  {
     "en": "closer",
     "fi": [
       "lähemmäs",
@@ -11738,11 +10614,6 @@
   },
   {
     "en": "consumer",
-    "fi": "kuluttaja",
-    "rank": 1114
-  },
-  {
-    "en": "heterotroph",
     "fi": "kuluttaja",
     "rank": 1114
   },
@@ -11763,11 +10634,6 @@
     "en": "rite",
     "fi": "riitti",
     "rank": 1115
-  },
-  {
-    "en": "device for writing",
-    "fi": "kirjoitin",
-    "rank": 1116
   },
   {
     "en": "printer",
@@ -11795,10 +10661,7 @@
   },
   {
     "en": "to spill",
-    "fi": [
-      "vuotaa",
-      "kaatua"
-    ],
+    "fi": "vuotaa",
     "rank": 1118
   },
   {
@@ -11815,24 +10678,9 @@
     "rank": 1120
   },
   {
-    "en": "id",
-    "fi": "paperi",
-    "rank": 1121
-  },
-  {
     "en": "paper",
     "fi": "paperi",
     "rank": 1121
-  },
-  {
-    "en": "first fruits",
-    "fi": "uutinen",
-    "rank": 1123
-  },
-  {
-    "en": "firstfruit",
-    "fi": "uutinen",
-    "rank": 1123
   },
   {
     "en": "news",
@@ -11854,10 +10702,7 @@
   },
   {
     "en": "to deliver",
-    "fi": [
-      "toimittaa",
-      "synnyttää"
-    ],
+    "fi": "toimittaa",
     "rank": 1124
   },
   {
@@ -11879,16 +10724,6 @@
   {
     "en": "bird",
     "fi": "lintu",
-    "rank": 1126
-  },
-  {
-    "en": "poultry",
-    "fi": "lintu",
-    "rank": 1126
-  },
-  {
-    "en": "to consider",
-    "fi": "harkita",
     "rank": 1126
   },
   {
@@ -11917,6 +10752,11 @@
       "kultainen"
     ],
     "rank": 1130
+  },
+  {
+    "en": "mesh",
+    "fi": "verkko",
+    "rank": 1131
   },
   {
     "en": "network",
@@ -11988,11 +10828,6 @@
     "rank": 1138
   },
   {
-    "en": "favor/favour",
-    "fi": "suosio",
-    "rank": 1139
-  },
-  {
     "en": "on the left",
     "fi": "vasemmalla",
     "rank": 1139
@@ -12001,19 +10836,6 @@
     "en": "popularity",
     "fi": "suosio",
     "rank": 1139
-  },
-  {
-    "en": "anti-",
-    "fi": "vastainen",
-    "rank": 1141
-  },
-  {
-    "en": "before",
-    "fi": [
-      "vastainen",
-      "edellä"
-    ],
-    "rank": 1141
   },
   {
     "en": "concerned",
@@ -12058,19 +10880,10 @@
     "rank": 1143
   },
   {
-    "en": "shift",
-    "fi": [
-      "vuoro",
-      "siirto"
-    ],
-    "rank": 1143
-  },
-  {
     "en": "turn",
     "fi": [
       "vuoro",
-      "käänne",
-      "vaihde"
+      "käänne"
     ],
     "rank": 1143
   },
@@ -12103,11 +10916,6 @@
     "rank": 1148
   },
   {
-    "en": "radio-",
-    "fi": "radio",
-    "rank": 1148
-  },
-  {
     "en": "to cover",
     "fi": [
       "kattaa",
@@ -12116,38 +10924,14 @@
     "rank": 1149
   },
   {
-    "en": "to roof",
-    "fi": "kattaa",
-    "rank": 1149
-  },
-  {
     "en": "bullet",
     "fi": "luoti",
     "rank": 1150
   },
   {
-    "en": "plumb bob",
-    "fi": "luoti",
-    "rank": 1150
-  },
-  {
-    "en": "any older",
-    "fi": "täti",
-    "rank": 1151
-  },
-  {
     "en": "aunt",
     "fi": "täti",
     "rank": 1151
-  },
-  {
-    "en": "addition",
-    "fi": [
-      "summa",
-      "lisäys",
-      "lisä"
-    ],
-    "rank": 1153
   },
   {
     "en": "sum",
@@ -12156,11 +10940,6 @@
   },
   {
     "en": "to calve",
-    "fi": "poikia",
-    "rank": 1153
-  },
-  {
-    "en": "to litter",
     "fi": "poikia",
     "rank": 1153
   },
@@ -12408,11 +11187,6 @@
     "rank": 1183
   },
   {
-    "en": "to blossom",
-    "fi": "kukkia",
-    "rank": 1183
-  },
-  {
     "en": "to flower",
     "fi": "kukkia",
     "rank": 1183
@@ -12475,11 +11249,6 @@
   },
   {
     "en": "to change direction",
-    "fi": "kääntyä",
-    "rank": 1190
-  },
-  {
-    "en": "to convert",
     "fi": "kääntyä",
     "rank": 1190
   },
@@ -12632,11 +11401,6 @@
     "rank": 1208
   },
   {
-    "en": "to quarrel",
-    "fi": "tapella",
-    "rank": 1208
-  },
-  {
     "en": "actor",
     "fi": [
       "näyttelijä",
@@ -12673,11 +11437,6 @@
     "rank": 1212
   },
   {
-    "en": "to mortgage",
-    "fi": "kiinnittää",
-    "rank": 1212
-  },
-  {
     "en": "wind",
     "fi": "tuuli",
     "rank": 1212
@@ -12704,11 +11463,6 @@
     "en": "socialist",
     "fi": "demari",
     "rank": 1214
-  },
-  {
-    "en": "compartment",
-    "fi": "osasto",
-    "rank": 1215
   },
   {
     "en": "department",
@@ -12744,16 +11498,6 @@
     "en": "to measure",
     "fi": "mitata",
     "rank": 1218
-  },
-  {
-    "en": "neighbor",
-    "fi": "naapuri",
-    "rank": 1221
-  },
-  {
-    "en": "neighboring",
-    "fi": "naapuri",
-    "rank": 1221
   },
   {
     "en": "neighbour/neighbor",
@@ -12808,10 +11552,7 @@
   },
   {
     "en": "unit",
-    "fi": [
-      "yksikkö",
-      "ykkönen"
-    ],
+    "fi": "yksikkö",
     "rank": 1228
   },
   {
@@ -12872,16 +11613,6 @@
     "rank": 1240
   },
   {
-    "en": "dye",
-    "fi": "väri",
-    "rank": 1240
-  },
-  {
-    "en": "flush",
-    "fi": "väri",
-    "rank": 1240
-  },
-  {
     "en": "warning",
     "fi": "varoitus",
     "rank": 1240
@@ -12889,11 +11620,6 @@
   {
     "en": "knife",
     "fi": "veitsi",
-    "rank": 1243
-  },
-  {
-    "en": "to oversee",
-    "fi": "valvoa",
     "rank": 1243
   },
   {
@@ -12957,11 +11683,6 @@
     "rank": 1250
   },
   {
-    "en": "to fluctuate",
-    "fi": "vaihdella",
-    "rank": 1250
-  },
-  {
     "en": "to vary",
     "fi": [
       "vaihdella",
@@ -13010,17 +11731,7 @@
     "rank": 1257
   },
   {
-    "en": "nave",
-    "fi": "laiva",
-    "rank": 1257
-  },
-  {
     "en": "ship",
-    "fi": "laiva",
-    "rank": 1257
-  },
-  {
-    "en": "ship water vessel)",
     "fi": "laiva",
     "rank": 1257
   },
@@ -13028,11 +11739,6 @@
     "en": "to adhere to",
     "fi": "noudattaa",
     "rank": 1258
-  },
-  {
-    "en": "revival",
-    "fi": "herätys",
-    "rank": 1259
   },
   {
     "en": "to dribble",
@@ -13113,11 +11819,6 @@
     "rank": 1266
   },
   {
-    "en": "utility",
-    "fi": "hyöty",
-    "rank": 1266
-  },
-  {
     "en": "for free",
     "fi": "ilmaiseksi",
     "rank": 1267
@@ -13126,11 +11827,6 @@
     "en": "longer",
     "fi": "kauemmin",
     "rank": 1268
-  },
-  {
-    "en": "gimmick",
-    "fi": "temppu",
-    "rank": 1269
   },
   {
     "en": "trick",
@@ -13198,31 +11894,13 @@
     "rank": 1277
   },
   {
-    "en": "seafood",
-    "fi": "kala",
-    "rank": 1277
-  },
-  {
     "en": "community",
     "fi": "yhteisö",
     "rank": 1278
   },
   {
-    "en": "corporation",
-    "fi": [
-      "yhteisö",
-      "konserni"
-    ],
-    "rank": 1278
-  },
-  {
     "en": "German",
     "fi": "saksalainen",
-    "rank": 1279
-  },
-  {
-    "en": "carer",
-    "fi": "hoitaja",
     "rank": 1279
   },
   {
@@ -13274,10 +11952,7 @@
   },
   {
     "en": "to name",
-    "fi": [
-      "nimetä",
-      "nimittää"
-    ],
+    "fi": "nimetä",
     "rank": 1283
   },
   {
@@ -13297,11 +11972,6 @@
     "en": "more specifically",
     "fi": "tarkemmin",
     "rank": 1285
-  },
-  {
-    "en": "ardor",
-    "fi": "palo",
-    "rank": 1286
   },
   {
     "en": "from the right",
@@ -13342,11 +12012,6 @@
     "rank": 1289
   },
   {
-    "en": "to track down",
-    "fi": "jäljittää",
-    "rank": 1289
-  },
-  {
     "en": "substance",
     "fi": "aine",
     "rank": 1290
@@ -13362,11 +12027,6 @@
       "leikata",
       "katkaista"
     ],
-    "rank": 1290
-  },
-  {
-    "en": "to mow",
-    "fi": "leikata",
     "rank": 1290
   },
   {
@@ -13387,14 +12047,6 @@
   {
     "en": "from Tampere",
     "fi": "tamperelainen",
-    "rank": 1296
-  },
-  {
-    "en": "person from",
-    "fi": [
-      "tamperelainen",
-      "turkulainen"
-    ],
     "rank": 1296
   },
   {
@@ -13438,10 +12090,7 @@
   },
   {
     "en": "shooter",
-    "fi": [
-      "ampuja",
-      "kyttä"
-    ],
+    "fi": "ampuja",
     "rank": 1302
   },
   {
@@ -13468,25 +12117,7 @@
     "rank": 1305
   },
   {
-    "en": "stress",
-    "fi": [
-      "korko",
-      "paino"
-    ],
-    "rank": 1305
-  },
-  {
-    "en": "scion",
-    "fi": "vesa",
-    "rank": 1306
-  },
-  {
     "en": "sprout",
-    "fi": "vesa",
-    "rank": 1306
-  },
-  {
-    "en": "young tree",
     "fi": "vesa",
     "rank": 1306
   },
@@ -13608,21 +12239,8 @@
     "rank": 1318
   },
   {
-    "en": "core",
-    "fi": [
-      "sielu",
-      "ydin"
-    ],
-    "rank": 1319
-  },
-  {
     "en": "flag",
     "fi": "lippu",
-    "rank": 1319
-  },
-  {
-    "en": "moving spirit",
-    "fi": "sielu",
     "rank": 1319
   },
   {
@@ -13646,11 +12264,6 @@
     "rank": 1321
   },
   {
-    "en": "ensemble",
-    "fi": "yhtye",
-    "rank": 1321
-  },
-  {
     "en": "isolated",
     "fi": "yksittäinen",
     "rank": 1323
@@ -13659,8 +12272,7 @@
     "en": "single",
     "fi": [
       "yksittäinen",
-      "yksityinen",
-      "yksikkö"
+      "yksityinen"
     ],
     "rank": 1323
   },
@@ -13673,11 +12285,6 @@
     "en": "Virgin",
     "fi": "neitsyt",
     "rank": 1324
-  },
-  {
-    "en": "to configure",
-    "fi": "määritellä",
-    "rank": 1325
   },
   {
     "en": "to define",
@@ -13702,11 +12309,6 @@
     "rank": 1327
   },
   {
-    "en": "in his/her/its place/location/spot",
-    "fi": "paikallaan",
-    "rank": 1327
-  },
-  {
     "en": "in place",
     "fi": [
       "paikallaan",
@@ -13719,14 +12321,6 @@
     "fi": [
       "halli",
       "sali"
-    ],
-    "rank": 1329
-  },
-  {
-    "en": "lost",
-    "fi": [
-      "kateissa",
-      "hukkaan"
     ],
     "rank": 1329
   },
@@ -13812,11 +12406,6 @@
     "rank": 1337
   },
   {
-    "en": "pons",
-    "fi": "silta",
-    "rank": 1337
-  },
-  {
     "en": "grandfather",
     "fi": "isoisä",
     "rank": 1338
@@ -13849,10 +12438,7 @@
   },
   {
     "en": "design",
-    "fi": [
-      "suunnittelu",
-      "suunnitelma"
-    ],
+    "fi": "suunnittelu",
     "rank": 1342
   },
   {
@@ -13894,11 +12480,6 @@
     "rank": 1346
   },
   {
-    "en": "to refrain",
-    "fi": "välttää",
-    "rank": 1346
-  },
-  {
     "en": "impossible",
     "fi": "mahdoton",
     "rank": 1347
@@ -13924,11 +12505,6 @@
   },
   {
     "en": "gig",
-    "fi": "keikka",
-    "rank": 1350
-  },
-  {
-    "en": "heist",
     "fi": "keikka",
     "rank": 1350
   },
@@ -13962,6 +12538,11 @@
   },
   {
     "en": "above",
+    "fi": "edellä",
+    "rank": 1353
+  },
+  {
+    "en": "before",
     "fi": "edellä",
     "rank": 1353
   },
@@ -14015,10 +12596,7 @@
   },
   {
     "en": "to predict",
-    "fi": [
-      "ennustaa",
-      "ennakoida"
-    ],
+    "fi": "ennustaa",
     "rank": 1359
   },
   {
@@ -14047,11 +12625,6 @@
     "rank": 1366
   },
   {
-    "en": "mains",
-    "fi": "seinä",
-    "rank": 1367
-  },
-  {
     "en": "wall",
     "fi": [
       "seinä",
@@ -14061,17 +12634,7 @@
     "rank": 1367
   },
   {
-    "en": "common vampire bat",
-    "fi": "vampyyri",
-    "rank": 1368
-  },
-  {
     "en": "drug",
-    "fi": "huume",
-    "rank": 1368
-  },
-  {
-    "en": "illegal drug",
     "fi": "huume",
     "rank": 1368
   },
@@ -14124,11 +12687,6 @@
     "rank": 1373
   },
   {
-    "en": "coordinate chart",
-    "fi": "kartta",
-    "rank": 1374
-  },
-  {
     "en": "map",
     "fi": "kartta",
     "rank": 1374
@@ -14144,14 +12702,6 @@
     "rank": 1376
   },
   {
-    "en": "cap",
-    "fi": [
-      "hattu",
-      "lakki"
-    ],
-    "rank": 1377
-  },
-  {
     "en": "hat",
     "fi": "hattu",
     "rank": 1377
@@ -14164,11 +12714,6 @@
   {
     "en": "municipal government",
     "fi": "kunnanhallitus",
-    "rank": 1377
-  },
-  {
-    "en": "tampion",
-    "fi": "hattu",
     "rank": 1377
   },
   {
@@ -14187,18 +12732,8 @@
     "rank": 1379
   },
   {
-    "en": "sexuality",
-    "fi": "seksi",
-    "rank": 1379
-  },
-  {
     "en": "card",
     "fi": "kortti",
-    "rank": 1380
-  },
-  {
-    "en": "cocaine",
-    "fi": "lumi",
     "rank": 1380
   },
   {
@@ -14245,14 +12780,6 @@
     "rank": 1385
   },
   {
-    "en": "standing",
-    "fi": [
-      "pystyssä",
-      "pystyyn"
-    ],
-    "rank": 1385
-  },
-  {
     "en": "to be/come up to",
     "fi": "yltää",
     "rank": 1385
@@ -14284,18 +12811,8 @@
     "rank": 1390
   },
   {
-    "en": "in  time",
-    "fi": "aikanaan",
-    "rank": 1390
-  },
-  {
     "en": "in due course",
     "fi": "aikanaan",
-    "rank": 1390
-  },
-  {
-    "en": "red admiral",
-    "fi": "amiraali",
     "rank": 1390
   },
   {
@@ -14324,10 +12841,7 @@
   },
   {
     "en": "beast",
-    "fi": [
-      "peto",
-      "kone"
-    ],
+    "fi": "peto",
     "rank": 1394
   },
   {
@@ -14376,11 +12890,6 @@
     "rank": 1399
   },
   {
-    "en": "bowl",
-    "fi": "pullo",
-    "rank": 1399
-  },
-  {
     "en": "alone",
     "fi": "kahdestaan",
     "rank": 1400
@@ -14409,8 +12918,7 @@
     "en": "to praise",
     "fi": [
       "kehua",
-      "ylistää",
-      "kiittää"
+      "ylistää"
     ],
     "rank": 1401
   },
@@ -14531,11 +13039,6 @@
     "rank": 1411
   },
   {
-    "en": "query",
-    "fi": "kysely",
-    "rank": 1411
-  },
-  {
     "en": "questionnaire",
     "fi": "kysely",
     "rank": 1411
@@ -14649,11 +13152,6 @@
     "rank": 1420
   },
   {
-    "en": "to dare  do)",
-    "fi": "uskaltaa",
-    "rank": 1420
-  },
-  {
     "en": "mess",
     "fi": "sotku",
     "rank": 1421
@@ -14721,7 +13219,7 @@
     "fi": [
       "lautakunta",
       "taulu",
-      "hallitus"
+      "levy"
     ],
     "rank": 1430
   },
@@ -14750,25 +13248,7 @@
     "rank": 1434
   },
   {
-    "en": "texture",
-    "fi": [
-      "rakenne",
-      "tuntuma"
-    ],
-    "rank": 1434
-  },
-  {
     "en": "charlatan",
-    "fi": "huijari",
-    "rank": 1435
-  },
-  {
-    "en": "cheater",
-    "fi": "huijari",
-    "rank": 1435
-  },
-  {
-    "en": "conman",
     "fi": "huijari",
     "rank": 1435
   },
@@ -14800,11 +13280,6 @@
     "en": "to record",
     "fi": "kirjata",
     "rank": 1440
-  },
-  {
-    "en": "burdensome",
-    "fi": "rankka",
-    "rank": 1441
   },
   {
     "en": "little one",
@@ -15000,11 +13475,6 @@
     "rank": 1462
   },
   {
-    "en": "large room",
-    "fi": "sali",
-    "rank": 1463
-  },
-  {
     "en": "to break",
     "fi": [
       "rikkoa",
@@ -15034,11 +13504,6 @@
       "naureskella",
       "naurahtaa"
     ],
-    "rank": 1465
-  },
-  {
-    "en": "to laugh off",
-    "fi": "nauraa",
     "rank": 1465
   },
   {
@@ -15098,16 +13563,6 @@
       "ruutu",
       "aitio"
     ],
-    "rank": 1475
-  },
-  {
-    "en": "casserole",
-    "fi": "laatikko",
-    "rank": 1475
-  },
-  {
-    "en": "drawer",
-    "fi": "laatikko",
     "rank": 1475
   },
   {
@@ -15193,11 +13648,6 @@
     "rank": 1486
   },
   {
-    "en": "sash",
-    "fi": "ikkuna",
-    "rank": 1487
-  },
-  {
     "en": "window",
     "fi": [
       "ikkuna",
@@ -15264,16 +13714,8 @@
     "rank": 1493
   },
   {
-    "en": "voting",
-    "fi": "äänestys",
-    "rank": 1493
-  },
-  {
     "en": "lake",
-    "fi": [
-      "järvi",
-      "vesi"
-    ],
+    "fi": "järvi",
     "rank": 1496
   },
   {
@@ -15297,11 +13739,6 @@
     "en": "to might",
     "fi": "mahtaa",
     "rank": 1498
-  },
-  {
-    "en": "kindly",
-    "fi": "kiltisti",
-    "rank": 1499
   },
   {
     "en": "nicely",
@@ -15360,11 +13797,6 @@
     "rank": 1505
   },
   {
-    "en": "real property",
-    "fi": "kiinteistö",
-    "rank": 1505
-  },
-  {
     "en": "casually",
     "fi": "rennosti",
     "rank": 1507
@@ -15380,22 +13812,12 @@
     "rank": 1507
   },
   {
-    "en": "to foreshadow",
-    "fi": "ennakoida",
-    "rank": 1507
-  },
-  {
     "en": "bag",
     "fi": [
       "laukku",
       "pussi"
     ],
     "rank": 1509
-  },
-  {
-    "en": "clue",
-    "fi": "haju",
-    "rank": 1511
   },
   {
     "en": "smell",
@@ -15426,8 +13848,7 @@
     "en": "to do",
     "fi": [
       "kelvata",
-      "tehdä",
-      "välttää"
+      "tehdä"
     ],
     "rank": 1513
   },
@@ -15512,11 +13933,6 @@
     "rank": 1523
   },
   {
-    "en": "to cry about",
-    "fi": "itkeä",
-    "rank": 1523
-  },
-  {
     "en": "signal",
     "fi": "signaali",
     "rank": 1524
@@ -15545,11 +13961,6 @@
     "rank": 1527
   },
   {
-    "en": "sportsman",
-    "fi": "urheilija",
-    "rank": 1527
-  },
-  {
     "en": "witness",
     "fi": "todistaja",
     "rank": 1528
@@ -15561,11 +13972,6 @@
   },
   {
     "en": "coffee",
-    "fi": "kahvi",
-    "rank": 1531
-  },
-  {
-    "en": "coffee meeting",
     "fi": "kahvi",
     "rank": 1531
   },
@@ -15647,16 +14053,6 @@
     "rank": 1542
   },
   {
-    "en": "packet",
-    "fi": "paketti",
-    "rank": 1542
-  },
-  {
-    "en": "parcel",
-    "fi": "paketti",
-    "rank": 1542
-  },
-  {
     "en": "postal",
     "fi": "posti",
     "rank": 1542
@@ -15681,10 +14077,7 @@
   },
   {
     "en": "French",
-    "fi": [
-      "ranskalainen",
-      "ranska"
-    ],
+    "fi": "ranskalainen",
     "rank": 1545
   },
   {
@@ -15738,16 +14131,10 @@
     "rank": 1551
   },
   {
-    "en": "row",
-    "fi": "rivi",
-    "rank": 1551
-  },
-  {
     "en": "quarter",
     "fi": [
       "taho",
-      "neljännes",
-      "neliö"
+      "neljännes"
     ],
     "rank": 1552
   },
@@ -15815,6 +14202,11 @@
       "ohje",
       "opas"
     ],
+    "rank": 1559
+  },
+  {
+    "en": "instruction",
+    "fi": "ohje",
     "rank": 1559
   },
   {
@@ -15886,20 +14278,8 @@
     "rank": 1565
   },
   {
-    "en": "one-third",
-    "fi": [
-      "kolmannes",
-      "kolmasosa"
-    ],
-    "rank": 1566
-  },
-  {
     "en": "husband",
-    "fi": [
-      "aviomies",
-      "mies",
-      "isäntä"
-    ],
+    "fi": "aviomies",
     "rank": 1567
   },
   {
@@ -15918,14 +14298,6 @@
     "rank": 1572
   },
   {
-    "en": "companion",
-    "fi": [
-      "toveri",
-      "kumppani"
-    ],
-    "rank": 1573
-  },
-  {
     "en": "comrade",
     "fi": "toveri",
     "rank": 1573
@@ -15933,19 +14305,6 @@
   {
     "en": "poem",
     "fi": "runo",
-    "rank": 1573
-  },
-  {
-    "en": "rune",
-    "fi": "runo",
-    "rank": 1573
-  },
-  {
-    "en": "singer",
-    "fi": [
-      "runo",
-      "laulaja"
-    ],
     "rank": 1573
   },
   {
@@ -15976,10 +14335,7 @@
   },
   {
     "en": "original",
-    "fi": [
-      "alkuperäinen",
-      "tuore"
-    ],
+    "fi": "alkuperäinen",
     "rank": 1577
   },
   {
@@ -16016,9 +14372,9 @@
     "rank": 1580
   },
   {
-    "en": "to dig up",
-    "fi": "kaivaa",
-    "rank": 1580
+    "en": "lost",
+    "fi": "hukkaan",
+    "rank": 1585
   },
   {
     "en": "wasted",
@@ -16028,11 +14384,6 @@
   {
     "en": "ceiling",
     "fi": "katto",
-    "rank": 1586
-  },
-  {
-    "en": "either a queen",
-    "fi": "upseeri",
     "rank": 1586
   },
   {
@@ -16080,16 +14431,6 @@
     "rank": 1593
   },
   {
-    "en": "brown bear",
-    "fi": "karhu",
-    "rank": 1593
-  },
-  {
-    "en": "debtor",
-    "fi": "karhu",
-    "rank": 1593
-  },
-  {
     "en": "to lay an egg",
     "fi": "munia",
     "rank": 1595
@@ -16103,11 +14444,6 @@
     "en": "user",
     "fi": "käyttäjä",
     "rank": 1595
-  },
-  {
-    "en": "jurist",
-    "fi": "lakimies",
-    "rank": 1596
   },
   {
     "en": "nursery",
@@ -16149,11 +14485,6 @@
       "tukija"
     ],
     "rank": 1605
-  },
-  {
-    "en": "black-socked",
-    "fi": "mustasukkainen",
-    "rank": 1607
   },
   {
     "en": "jealous",
@@ -16202,11 +14533,6 @@
     "rank": 1609
   },
   {
-    "en": "motor",
-    "fi": "moottori",
-    "rank": 1609
-  },
-  {
     "en": "occupation",
     "fi": "ammatti",
     "rank": 1609
@@ -16227,11 +14553,6 @@
   },
   {
     "en": "pathetic",
-    "fi": "säälittävä",
-    "rank": 1611
-  },
-  {
-    "en": "pitiful",
     "fi": "säälittävä",
     "rank": 1611
   },
@@ -16264,18 +14585,8 @@
     "rank": 1615
   },
   {
-    "en": "abstinence",
-    "fi": "lakko",
-    "rank": 1616
-  },
-  {
     "en": "cook",
     "fi": "kokki",
-    "rank": 1616
-  },
-  {
-    "en": "stoppage",
-    "fi": "lakko",
     "rank": 1616
   },
   {
@@ -16348,16 +14659,6 @@
     "rank": 1621
   },
   {
-    "en": "see",
-    "fi": "istuin",
-    "rank": 1621
-  },
-  {
-    "en": "sitting",
-    "fi": "istuin",
-    "rank": 1621
-  },
-  {
     "en": "campaign",
     "fi": "kampanja",
     "rank": 1622
@@ -16424,19 +14725,9 @@
     "rank": 1637
   },
   {
-    "en": "autotroph",
-    "fi": "tuottaja",
-    "rank": 1638
-  },
-  {
     "en": "producer",
     "fi": "tuottaja",
     "rank": 1638
-  },
-  {
-    "en": "soviet",
-    "fi": "neuvosto",
-    "rank": 1639
   },
   {
     "en": "to ring",
@@ -16447,11 +14738,6 @@
     "en": "news agency",
     "fi": "uutistoimisto",
     "rank": 1642
-  },
-  {
-    "en": "to decode",
-    "fi": "tulkita",
-    "rank": 1645
   },
   {
     "en": "to interpret",
@@ -16477,11 +14763,6 @@
     "rank": 1650
   },
   {
-    "en": "national sports team",
-    "fi": "maajoukkue",
-    "rank": 1651
-  },
-  {
     "en": "national team",
     "fi": "maajoukkue",
     "rank": 1651
@@ -16490,11 +14771,6 @@
     "en": "to manifest itself",
     "fi": "ilmetä",
     "rank": 1652
-  },
-  {
-    "en": "ski competition",
-    "fi": "hiihto",
-    "rank": 1655
   },
   {
     "en": "skiing",
@@ -16557,17 +14833,7 @@
     "rank": 1663
   },
   {
-    "en": "decipherment",
-    "fi": "tulkinta",
-    "rank": 1664
-  },
-  {
     "en": "interpretation",
-    "fi": "tulkinta",
-    "rank": 1664
-  },
-  {
-    "en": "rendition",
     "fi": "tulkinta",
     "rank": 1664
   },
@@ -16590,17 +14856,7 @@
     "rank": 1668
   },
   {
-    "en": "duct",
-    "fi": "kanava",
-    "rank": 1668
-  },
-  {
     "en": "finance minister",
-    "fi": "valtiovarainministeri",
-    "rank": 1669
-  },
-  {
-    "en": "minister of finance",
     "fi": "valtiovarainministeri",
     "rank": 1669
   },
@@ -16608,8 +14864,7 @@
     "en": "exercise",
     "fi": [
       "liikunta",
-      "harjoitus",
-      "harjoittelu"
+      "harjoitus"
     ],
     "rank": 1671
   },
@@ -16617,11 +14872,6 @@
     "en": "physical education",
     "fi": "liikunta",
     "rank": 1671
-  },
-  {
-    "en": "effect",
-    "fi": "ilmiö",
-    "rank": 1674
   },
   {
     "en": "phenomenon",
@@ -16633,14 +14883,6 @@
     "fi": [
       "avustus",
       "apuväline"
-    ],
-    "rank": 1676
-  },
-  {
-    "en": "grant",
-    "fi": [
-      "avustus",
-      "apuraha"
     ],
     "rank": 1676
   },
@@ -16658,11 +14900,6 @@
     "en": "the greater part",
     "fi": "valtaosa",
     "rank": 1680
-  },
-  {
-    "en": "to poll",
-    "fi": "kysellä",
-    "rank": 1681
   },
   {
     "en": "literature",
@@ -16699,10 +14936,7 @@
   },
   {
     "en": "return",
-    "fi": [
-      "paluu",
-      "tulos"
-    ],
+    "fi": "paluu",
     "rank": 1691
   },
   {
@@ -16724,8 +14958,7 @@
     "en": "to shine",
     "fi": [
       "loistaa",
-      "paistaa",
-      "palaa"
+      "paistaa"
     ],
     "rank": 1695
   },
@@ -16804,14 +15037,6 @@
     "rank": 1727
   },
   {
-    "en": "alcoholic",
-    "fi": [
-      "alkoholi",
-      "alkoholisti"
-    ],
-    "rank": 1727
-  },
-  {
     "en": "to be included",
     "fi": "sisältyä",
     "rank": 1728
@@ -16837,7 +15062,7 @@
     "rank": 1732
   },
   {
-    "en": "the beginning of the year",
+    "en": "early year",
     "fi": "alkuvuosi",
     "rank": 1734
   },
@@ -16885,22 +15110,7 @@
     "rank": 1749
   },
   {
-    "en": "out of it",
-    "fi": "ulkopuolinen",
-    "rank": 1749
-  },
-  {
     "en": "cent",
-    "fi": "sentti",
-    "rank": 1751
-  },
-  {
-    "en": "centimetre",
-    "fi": "sentti",
-    "rank": 1751
-  },
-  {
-    "en": "one cent",
     "fi": "sentti",
     "rank": 1751
   },
@@ -16937,10 +15147,7 @@
   },
   {
     "en": "to sign up for",
-    "fi": [
-      "tilata",
-      "ilmoittautua"
-    ],
+    "fi": "tilata",
     "rank": 1759
   },
   {
@@ -17064,11 +15271,6 @@
     "rank": 1785
   },
   {
-    "en": "open water",
-    "fi": "selkä",
-    "rank": 1786
-  },
-  {
     "en": "oil",
     "fi": "öljy",
     "rank": 1790
@@ -17106,10 +15308,7 @@
   },
   {
     "en": "running",
-    "fi": [
-      "juoksu",
-      "käynti"
-    ],
+    "fi": "juoksu",
     "rank": 1802
   },
   {
@@ -17124,11 +15323,6 @@
   },
   {
     "en": "crown",
-    "fi": "kruunu",
-    "rank": 1808
-  },
-  {
-    "en": "krona",
     "fi": "kruunu",
     "rank": 1808
   },
@@ -17194,11 +15388,6 @@
     "en": "circumstance",
     "fi": "olosuhde",
     "rank": 1821
-  },
-  {
-    "en": "worn out thing",
-    "fi": "kulu",
-    "rank": 1822
   },
   {
     "en": "to attach",
@@ -17294,11 +15483,6 @@
     "rank": 1847
   },
   {
-    "en": "to envisage",
-    "fi": "kaavailla",
-    "rank": 1848
-  },
-  {
     "en": "to outline",
     "fi": "kaavailla",
     "rank": 1848
@@ -17307,8 +15491,7 @@
     "en": "to plan",
     "fi": [
       "kaavailla",
-      "suunnitella",
-      "ajatella"
+      "suunnitella"
     ],
     "rank": 1848
   },
@@ -17327,11 +15510,6 @@
       "koe",
       "-kokeilu"
     ],
-    "rank": 1853
-  },
-  {
-    "en": "experimentation",
-    "fi": "kokeilu",
     "rank": 1853
   },
   {
@@ -17420,21 +15598,6 @@
     "rank": 1869
   },
   {
-    "en": "loop",
-    "fi": "polvi",
-    "rank": 1869
-  },
-  {
-    "en": "stifle",
-    "fi": "polvi",
-    "rank": 1869
-  },
-  {
-    "en": "caster",
-    "fi": "pyörä",
-    "rank": 1871
-  },
-  {
     "en": "wheel",
     "fi": "pyörä",
     "rank": 1871
@@ -17453,11 +15616,6 @@
       "hakija",
       "anoja"
     ],
-    "rank": 1873
-  },
-  {
-    "en": "retriever",
-    "fi": "hakija",
     "rank": 1873
   },
   {
@@ -17502,14 +15660,14 @@
     "rank": 1885
   },
   {
-    "en": "seminary",
-    "fi": "seminaari",
-    "rank": 1885
-  },
-  {
     "en": "transition",
     "fi": "siirtyminen",
     "rank": 1886
+  },
+  {
+    "en": "texture",
+    "fi": "tuntuma",
+    "rank": 1887
   },
   {
     "en": "touch",
@@ -17545,16 +15703,6 @@
     "rank": 1893
   },
   {
-    "en": "court of law",
-    "fi": "tuomioistuin",
-    "rank": 1893
-  },
-  {
-    "en": "dense forest",
-    "fi": "puisto",
-    "rank": 1894
-  },
-  {
     "en": "park",
     "fi": "puisto",
     "rank": 1894
@@ -17584,10 +15732,7 @@
   },
   {
     "en": "stage",
-    "fi": [
-      "näyttämö",
-      "aste"
-    ],
+    "fi": "näyttämö",
     "rank": 1901
   },
   {
@@ -17612,11 +15757,6 @@
   },
   {
     "en": "liter",
-    "fi": "litra",
-    "rank": 1908
-  },
-  {
-    "en": "litre/liter",
     "fi": "litra",
     "rank": 1908
   },
@@ -17681,11 +15821,6 @@
     "rank": 1922
   },
   {
-    "en": "four-room apartment",
-    "fi": "neliö",
-    "rank": 1924
-  },
-  {
     "en": "square",
     "fi": [
       "neliö",
@@ -17701,16 +15836,6 @@
   },
   {
     "en": "freedom",
-    "fi": "vapaus",
-    "rank": 1928
-  },
-  {
-    "en": "liberty",
-    "fi": "vapaus",
-    "rank": 1928
-  },
-  {
-    "en": "licence",
     "fi": "vapaus",
     "rank": 1928
   },
@@ -17761,11 +15886,6 @@
     "rank": 1939
   },
   {
-    "en": "showing",
-    "fi": "näyttö",
-    "rank": 1939
-  },
-  {
     "en": "lively",
     "fi": "vilkas",
     "rank": 1940
@@ -17781,16 +15901,6 @@
     "rank": 1942
   },
   {
-    "en": "to be still",
-    "fi": "seisoa",
-    "rank": 1943
-  },
-  {
-    "en": "to lie unused",
-    "fi": "seisoa",
-    "rank": 1943
-  },
-  {
     "en": "to stand",
     "fi": [
       "seisoa",
@@ -17802,6 +15912,11 @@
     "en": "health center",
     "fi": "terveyskeskus",
     "rank": 1944
+  },
+  {
+    "en": "singer",
+    "fi": "laulaja",
+    "rank": 1945
   },
   {
     "en": "vocalist",
@@ -17918,8 +16033,7 @@
     "en": "document",
     "fi": [
       "dokumentti",
-      "asiakirja",
-      "kirja"
+      "asiakirja"
     ],
     "rank": 1981
   },
@@ -17935,21 +16049,6 @@
       "formula"
     ],
     "rank": 1986
-  },
-  {
-    "en": "zoning plan",
-    "fi": "kaava",
-    "rank": 1986
-  },
-  {
-    "en": "programming",
-    "fi": "ohjelmisto",
-    "rank": 1988
-  },
-  {
-    "en": "repertoire",
-    "fi": "ohjelmisto",
-    "rank": 1988
   },
   {
     "en": "software",
@@ -17993,7 +16092,7 @@
     "fi": [
       "lava",
       "alusta",
-      "silta"
+      "laituri"
     ],
     "rank": 1993
   },
@@ -18001,16 +16100,7 @@
     "en": "character",
     "fi": [
       "hahmo",
-      "luonne",
-      "luonto"
-    ],
-    "rank": 1994
-  },
-  {
-    "en": "figure",
-    "fi": [
-      "hahmo",
-      "kuvio"
+      "luonne"
     ],
     "rank": 1994
   },
@@ -18026,16 +16116,6 @@
     "en": "bronze",
     "fi": "pronssi",
     "rank": 2001
-  },
-  {
-    "en": "third place",
-    "fi": "pronssi",
-    "rank": 2001
-  },
-  {
-    "en": "free of charge",
-    "fi": "ilmainen",
-    "rank": 2004
   },
   {
     "en": "to bear",
@@ -18075,11 +16155,6 @@
     "rank": 2009
   },
   {
-    "en": "association football",
-    "fi": "jalkapallo",
-    "rank": 2010
-  },
-  {
     "en": "football",
     "fi": "jalkapallo",
     "rank": 2010
@@ -18100,11 +16175,6 @@
     "rank": 2014
   },
   {
-    "en": "front side",
-    "fi": "etusivu",
-    "rank": 2014
-  },
-  {
     "en": "previous year",
     "fi": "edellisvuosi",
     "rank": 2016
@@ -18112,19 +16182,6 @@
   {
     "en": "bread",
     "fi": "leipä",
-    "rank": 2018
-  },
-  {
-    "en": "loaf",
-    "fi": "leipä",
-    "rank": 2018
-  },
-  {
-    "en": "sandwich",
-    "fi": [
-      "leipä",
-      "voileipä"
-    ],
     "rank": 2018
   },
   {
@@ -18198,11 +16255,6 @@
     "rank": 2033
   },
   {
-    "en": "extended family",
-    "fi": "suku",
-    "rank": 2035
-  },
-  {
     "en": "genus",
     "fi": "suku",
     "rank": 2035
@@ -18219,14 +16271,6 @@
   },
   {
     "en": "chain",
-    "fi": [
-      "ketju",
-      "sarja"
-    ],
-    "rank": 2037
-  },
-  {
-    "en": "thread",
     "fi": "ketju",
     "rank": 2037
   },
@@ -18269,11 +16313,6 @@
     "rank": 2046
   },
   {
-    "en": "comeuppance",
-    "fi": "rangaistus",
-    "rank": 2047
-  },
-  {
     "en": "penalty",
     "fi": [
       "rangaistus",
@@ -18288,11 +16327,6 @@
   },
   {
     "en": "from Helsinki",
-    "fi": "helsinkiläinen",
-    "rank": 2049
-  },
-  {
-    "en": "helsinkian",
     "fi": "helsinkiläinen",
     "rank": 2049
   },
@@ -18325,14 +16359,6 @@
     "rank": 2056
   },
   {
-    "en": "specimen",
-    "fi": [
-      "yksilö",
-      "näyte"
-    ],
-    "rank": 2056
-  },
-  {
     "en": "detached",
     "fi": "erillinen",
     "rank": 2058
@@ -18341,11 +16367,6 @@
     "en": "separate",
     "fi": "erillinen",
     "rank": 2058
-  },
-  {
-    "en": "airfield",
-    "fi": "lentokenttä",
-    "rank": 2060
   },
   {
     "en": "airport",
@@ -18366,17 +16387,7 @@
     "rank": 2063
   },
   {
-    "en": "nomination whist",
-    "fi": "lupaus",
-    "rank": 2064
-  },
-  {
     "en": "promise",
-    "fi": "lupaus",
-    "rank": 2064
-  },
-  {
-    "en": "rising star",
     "fi": "lupaus",
     "rank": 2064
   },
@@ -18415,11 +16426,6 @@
     "rank": 2073
   },
   {
-    "en": "expenditure",
-    "fi": "kulutus",
-    "rank": 2073
-  },
-  {
     "en": "dealer",
     "fi": "kauppias",
     "rank": 2074
@@ -18438,16 +16444,8 @@
     "rank": 2077
   },
   {
-    "en": "throughput",
-    "fi": "teho",
-    "rank": 2078
-  },
-  {
     "en": "a trial",
-    "fi": [
-      "oikeudenkäynti",
-      "prosessi"
-    ],
+    "fi": "oikeudenkäynti",
     "rank": 2079
   },
   {
@@ -18598,11 +16596,6 @@
     "rank": 2114
   },
   {
-    "en": "point in time",
-    "fi": "ajankohta",
-    "rank": 2115
-  },
-  {
     "en": "timing",
     "fi": [
       "ajankohta",
@@ -18640,16 +16633,6 @@
     "rank": 2121
   },
   {
-    "en": "war chest",
-    "fi": "rahasto",
-    "rank": 2121
-  },
-  {
-    "en": "scripture",
-    "fi": "kirjoitus",
-    "rank": 2126
-  },
-  {
     "en": "writing",
     "fi": [
       "kirjoitus",
@@ -18669,16 +16652,6 @@
       "mitta"
     ],
     "rank": 2130
-  },
-  {
-    "en": "reach",
-    "fi": "ulottuvuus",
-    "rank": 2130
-  },
-  {
-    "en": "salesman",
-    "fi": "myyjä",
-    "rank": 2131
   },
   {
     "en": "seller",
@@ -18707,8 +16680,7 @@
     "en": "to extend",
     "fi": [
       "ulottua",
-      "jatkaa",
-      "jatkua"
+      "jatkaa"
     ],
     "rank": 2136
   },
@@ -18724,16 +16696,6 @@
   },
   {
     "en": "Kotka",
-    "fi": "kotka",
-    "rank": 2143
-  },
-  {
-    "en": "eagle",
-    "fi": "kotka",
-    "rank": 2143
-  },
-  {
-    "en": "golden eagle",
     "fi": "kotka",
     "rank": 2143
   },
@@ -18829,11 +16791,6 @@
     "rank": 2167
   },
   {
-    "en": "best grains",
-    "fi": "pääoma",
-    "rank": 2168
-  },
-  {
     "en": "dissertation",
     "fi": "väitöskirja",
     "rank": 2169
@@ -18844,11 +16801,6 @@
       "mielenosoitus",
       "esittely"
     ],
-    "rank": 2170
-  },
-  {
-    "en": "protest",
-    "fi": "mielenosoitus",
     "rank": 2170
   },
   {
@@ -18870,11 +16822,13 @@
     "rank": 2177
   },
   {
+    "en": "figure",
+    "fi": "kuvio",
+    "rank": 2178
+  },
+  {
     "en": "pattern",
-    "fi": [
-      "kuvio",
-      "kaava"
-    ],
+    "fi": "kuvio",
     "rank": 2178
   },
   {
@@ -18897,11 +16851,6 @@
   },
   {
     "en": "assembly",
-    "fi": "kokoonpano",
-    "rank": 2183
-  },
-  {
-    "en": "lineup",
     "fi": "kokoonpano",
     "rank": 2183
   },
@@ -18972,16 +16921,6 @@
     "rank": 2199
   },
   {
-    "en": "leap",
-    "fi": "hyppy",
-    "rank": 2199
-  },
-  {
-    "en": "vault",
-    "fi": "hyppy",
-    "rank": 2199
-  },
-  {
     "en": "wine",
     "fi": "viini",
     "rank": 2200
@@ -19017,11 +16956,6 @@
     "rank": 2209
   },
   {
-    "en": "captivity",
-    "fi": "vankeus",
-    "rank": 2210
-  },
-  {
     "en": "imprisonment",
     "fi": "vankeus",
     "rank": 2210
@@ -19037,22 +16971,12 @@
     "rank": 2212
   },
   {
-    "en": "very hot place",
-    "fi": "sauna",
-    "rank": 2212
-  },
-  {
     "en": "to recommend",
     "fi": "suositella",
     "rank": 2214
   },
   {
     "en": "effectively",
-    "fi": "tehokkaasti",
-    "rank": 2215
-  },
-  {
-    "en": "efficiently",
     "fi": "tehokkaasti",
     "rank": 2215
   },
@@ -19115,11 +17039,6 @@
     "rank": 2227
   },
   {
-    "en": "olympic",
-    "fi": "olympialainen",
-    "rank": 2227
-  },
-  {
     "en": "milk",
     "fi": "maito",
     "rank": 2228
@@ -19128,8 +17047,7 @@
     "en": "protection",
     "fi": [
       "suoja",
-      "suojelu",
-      "turva"
+      "suojelu"
     ],
     "rank": 2231
   },
@@ -19143,31 +17061,13 @@
   },
   {
     "en": "motorist",
-    "fi": [
-      "autoilija",
-      "kuljettaja"
-    ],
+    "fi": "autoilija",
     "rank": 2234
   },
   {
     "en": "welfare",
     "fi": "hyvinvointi",
     "rank": 2235
-  },
-  {
-    "en": "well-being",
-    "fi": "hyvinvointi",
-    "rank": 2235
-  },
-  {
-    "en": "wellness",
-    "fi": "hyvinvointi",
-    "rank": 2235
-  },
-  {
-    "en": "attender",
-    "fi": "kävijä",
-    "rank": 2236
   },
   {
     "en": "visitor",
@@ -19199,16 +17099,6 @@
       "nopeus",
       "vauhti"
     ],
-    "rank": 2241
-  },
-  {
-    "en": "swiftness",
-    "fi": "nopeus",
-    "rank": 2241
-  },
-  {
-    "en": "velocity",
-    "fi": "nopeus",
     "rank": 2241
   },
   {
@@ -19333,7 +17223,6 @@
     "en": "essential",
     "fi": [
       "olennainen",
-      "normaali",
       "oleellinen"
     ],
     "rank": 2273
@@ -19345,16 +17234,8 @@
   },
   {
     "en": "ride",
-    "fi": [
-      "kyyti",
-      "kuljetus"
-    ],
+    "fi": "kyyti",
     "rank": 2274
-  },
-  {
-    "en": "apprenticeship",
-    "fi": "harjoittelu",
-    "rank": 2278
   },
   {
     "en": "Ministry of Foreign Affairs",
@@ -19377,11 +17258,15 @@
     "rank": 2283
   },
   {
+    "en": "companion",
+    "fi": "kumppani",
+    "rank": 2284
+  },
+  {
     "en": "partner",
     "fi": [
       "kumppani",
-      "yhteistyökumppani",
-      "pari"
+      "yhteistyökumppani"
     ],
     "rank": 2284
   },
@@ -19394,11 +17279,6 @@
     "en": "frustration",
     "fi": "pettymys",
     "rank": 2286
-  },
-  {
-    "en": "independent state",
-    "fi": "valtakunta",
-    "rank": 2289
   },
   {
     "en": "kingdom",
@@ -19441,11 +17321,13 @@
     "rank": 2294
   },
   {
+    "en": "stress",
+    "fi": "paino",
+    "rank": 2296
+  },
+  {
     "en": "weight",
-    "fi": [
-      "paino",
-      "paine"
-    ],
+    "fi": "paino",
     "rank": 2296
   },
   {
@@ -19618,24 +17500,9 @@
     "rank": 2343
   },
   {
-    "en": "to flex",
-    "fi": "jännittää",
-    "rank": 2347
-  },
-  {
     "en": "to tense",
     "fi": "jännittää",
     "rank": 2347
-  },
-  {
-    "en": "to tension",
-    "fi": "jännittää",
-    "rank": 2347
-  },
-  {
-    "en": "hollow",
-    "fi": "köyhä",
-    "rank": 2350
   },
   {
     "en": "spouse",
@@ -19776,22 +17643,7 @@
     "rank": 2390
   },
   {
-    "en": "cast",
-    "fi": "piirre",
-    "rank": 2391
-  },
-  {
-    "en": "trait",
-    "fi": "piirre",
-    "rank": 2391
-  },
-  {
     "en": "to equip",
-    "fi": "varustaa",
-    "rank": 2393
-  },
-  {
-    "en": "to outfit",
     "fi": "varustaa",
     "rank": 2393
   },
@@ -19817,11 +17669,6 @@
     "en": "to counsel",
     "fi": "neuvoa",
     "rank": 2395
-  },
-  {
-    "en": "to enrol/enroll in",
-    "fi": "ilmoittautua",
-    "rank": 2396
   },
   {
     "en": "to register",
@@ -19877,11 +17724,6 @@
     "rank": 2404
   },
   {
-    "en": "commissar",
-    "fi": "komissaari",
-    "rank": 2405
-  },
-  {
     "en": "commissioner",
     "fi": "komissaari",
     "rank": 2405
@@ -19915,16 +17757,6 @@
   },
   {
     "en": "castle",
-    "fi": "linna",
-    "rank": 2410
-  },
-  {
-    "en": "fort",
-    "fi": "linna",
-    "rank": 2410
-  },
-  {
-    "en": "palace",
     "fi": "linna",
     "rank": 2410
   },
@@ -20022,16 +17854,6 @@
     "rank": 2429
   },
   {
-    "en": "booking",
-    "fi": "tilaus",
-    "rank": 2430
-  },
-  {
-    "en": "subscription",
-    "fi": "tilaus",
-    "rank": 2430
-  },
-  {
     "en": "a semifinal",
     "fi": "välierä",
     "rank": 2431
@@ -20055,11 +17877,6 @@
     "en": "household",
     "fi": "kotitalous",
     "rank": 2434
-  },
-  {
-    "en": "approximate",
-    "fi": "läheinen",
-    "rank": 2435
   },
   {
     "en": "unchanged",
@@ -20099,11 +17916,6 @@
     "rank": 2444
   },
   {
-    "en": "facial expression",
-    "fi": "ilme",
-    "rank": 2444
-  },
-  {
     "en": "illegal",
     "fi": "laiton",
     "rank": 2446
@@ -20119,17 +17931,8 @@
     "rank": 2448
   },
   {
-    "en": "public communicator",
-    "fi": "tiedottaja",
-    "rank": 2449
-  },
-  {
     "en": "spokesman",
-    "fi": [
-      "tiedottaja",
-      "edustaja",
-      "puhemies"
-    ],
+    "fi": "tiedottaja",
     "rank": 2449
   },
   {
@@ -20143,17 +17946,12 @@
     "rank": 2451
   },
   {
-    "en": "cuisine",
-    "fi": "keittiö",
-    "rank": 2452
-  },
-  {
     "en": "kitchen",
     "fi": "keittiö",
     "rank": 2452
   },
   {
-    "en": "the beginning half",
+    "en": "first half",
     "fi": "alkupuoli",
     "rank": 2453
   },
@@ -20179,16 +17977,6 @@
   },
   {
     "en": "to challenge",
-    "fi": "haastaa",
-    "rank": 2458
-  },
-  {
-    "en": "to defy",
-    "fi": "haastaa",
-    "rank": 2458
-  },
-  {
-    "en": "to summon",
     "fi": "haastaa",
     "rank": 2458
   },
@@ -20228,9 +18016,9 @@
     "rank": 2467
   },
   {
-    "en": "doom",
-    "fi": "tuho",
-    "rank": 2467
+    "en": "one-third",
+    "fi": "kolmasosa",
+    "rank": 2470
   },
   {
     "en": "comment",
@@ -20276,21 +18064,11 @@
     "rank": 2480
   },
   {
-    "en": "fever",
-    "fi": "lämpö",
-    "rank": 2481
-  },
-  {
     "en": "heat",
     "fi": [
       "lämpö",
       "helle"
     ],
-    "rank": 2481
-  },
-  {
-    "en": "warmth",
-    "fi": "lämpö",
     "rank": 2481
   },
   {
@@ -20302,11 +18080,6 @@
     "en": "terminal",
     "fi": "pääte",
     "rank": 2484
-  },
-  {
-    "en": "canyon",
-    "fi": "kuri",
-    "rank": 2486
   },
   {
     "en": "discipline",
@@ -20345,11 +18118,6 @@
     "rank": 2491
   },
   {
-    "en": "headroom",
-    "fi": "korkeus",
-    "rank": 2494
-  },
-  {
     "en": "height",
     "fi": [
       "korkeus",
@@ -20386,11 +18154,6 @@
     "rank": 2499
   },
   {
-    "en": "contradiction",
-    "fi": "ristiriita",
-    "rank": 2499
-  },
-  {
     "en": "since",
     "fi": "sittemmin",
     "rank": 2500
@@ -20399,11 +18162,6 @@
     "en": "since then",
     "fi": "sittemmin",
     "rank": 2500
-  },
-  {
-    "en": "to be happy",
-    "fi": "iloita",
-    "rank": 2501
   },
   {
     "en": "to rejoice",
@@ -20441,11 +18199,6 @@
     "rank": 2505
   },
   {
-    "en": "to with a smile",
-    "fi": "hymyillä",
-    "rank": 2505
-  },
-  {
     "en": "to defeat",
     "fi": "kukistaa",
     "rank": 2507
@@ -20476,22 +18229,12 @@
     "rank": 2513
   },
   {
-    "en": "logic",
-    "fi": "järki",
-    "rank": 2519
-  },
-  {
     "en": "to coach",
     "fi": "valmentaa",
     "rank": 2520
   },
   {
     "en": "queue",
-    "fi": "jono",
-    "rank": 2521
-  },
-  {
-    "en": "range",
     "fi": "jono",
     "rank": 2521
   },
@@ -20589,11 +18332,6 @@
     "rank": 2544
   },
   {
-    "en": "cooperation partner",
-    "fi": "yhteistyökumppani",
-    "rank": 2547
-  },
-  {
     "en": "to maintain",
     "fi": "ylläpitää",
     "rank": 2548
@@ -20603,7 +18341,7 @@
     "fi": [
       "soveltaa",
       "sopia",
-      "istua"
+      "soveltua"
     ],
     "rank": 2550
   },
@@ -20720,24 +18458,9 @@
     "rank": 2571
   },
   {
-    "en": "broad deciduous woodland",
-    "fi": "lehto",
-    "rank": 2572
-  },
-  {
-    "en": "deciduous forest",
-    "fi": "lehto",
-    "rank": 2572
-  },
-  {
     "en": "grove",
     "fi": "lehto",
     "rank": 2572
-  },
-  {
-    "en": "of that time",
-    "fi": "silloinen",
-    "rank": 2573
   },
   {
     "en": "to repay",
@@ -20816,16 +18539,6 @@
     "rank": 2588
   },
   {
-    "en": "infancy",
-    "fi": "lapsuus",
-    "rank": 2588
-  },
-  {
-    "en": "muster",
-    "fi": "vahvuus",
-    "rank": 2590
-  },
-  {
     "en": "strength",
     "fi": [
       "vahvuus",
@@ -20895,11 +18608,6 @@
     "rank": 2600
   },
   {
-    "en": "harmony",
-    "fi": "sopu",
-    "rank": 2601
-  },
-  {
     "en": "apartment building/block of flats",
     "fi": "kerrostalo",
     "rank": 2602
@@ -20913,11 +18621,6 @@
     "en": "album",
     "fi": "albumi",
     "rank": 2603
-  },
-  {
-    "en": "cannabis",
-    "fi": "kukka",
-    "rank": 2604
   },
   {
     "en": "flower",
@@ -21008,11 +18711,6 @@
     "rank": 2621
   },
   {
-    "en": "commonplace",
-    "fi": "tavanomainen",
-    "rank": 2623
-  },
-  {
     "en": "conventional",
     "fi": "tavanomainen",
     "rank": 2623
@@ -21021,6 +18719,14 @@
     "en": "comparison",
     "fi": "vertailu",
     "rank": 2624
+  },
+  {
+    "en": "addition",
+    "fi": [
+      "lisäys",
+      "lisä"
+    ],
+    "rank": 2625
   },
   {
     "en": "increase",
@@ -21060,11 +18766,6 @@
   },
   {
     "en": "Midsummer",
-    "fi": "juhannus",
-    "rank": 2635
-  },
-  {
-    "en": "midsummer day",
     "fi": "juhannus",
     "rank": 2635
   },
@@ -21157,11 +18858,6 @@
     "rank": 2659
   },
   {
-    "en": "sized",
-    "fi": "kokoinen",
-    "rank": 2660
-  },
-  {
     "en": "mild",
     "fi": "lievä",
     "rank": 2661
@@ -21179,16 +18875,6 @@
     "en": "to market",
     "fi": "markkinoida",
     "rank": 2664
-  },
-  {
-    "en": "mean",
-    "fi": "keskiarvo",
-    "rank": 2666
-  },
-  {
-    "en": "calm",
-    "fi": "maltillinen",
-    "rank": 2667
   },
   {
     "en": "moderate",
@@ -21218,11 +18904,6 @@
     "rank": 2671
   },
   {
-    "en": "anomaly",
-    "fi": "poikkeus",
-    "rank": 2672
-  },
-  {
     "en": "exception",
     "fi": "poikkeus",
     "rank": 2672
@@ -21231,7 +18912,6 @@
     "en": "to bother",
     "fi": [
       "vaivata",
-      "haitata",
       "kiusata"
     ],
     "rank": 2673
@@ -21262,14 +18942,6 @@
     "rank": 2676
   },
   {
-    "en": "assurance",
-    "fi": [
-      "vakuutus",
-      "varmuus"
-    ],
-    "rank": 2678
-  },
-  {
     "en": "insurance",
     "fi": "vakuutus",
     "rank": 2678
@@ -21280,17 +18952,7 @@
     "rank": 2679
   },
   {
-    "en": "any female ruminant",
-    "fi": "lehmä",
-    "rank": 2680
-  },
-  {
     "en": "cow",
-    "fi": "lehmä",
-    "rank": 2680
-  },
-  {
-    "en": "heifer",
     "fi": "lehmä",
     "rank": 2680
   },
@@ -21343,6 +19005,14 @@
     "rank": 2688
   },
   {
+    "en": "trouble",
+    "fi": [
+      "pula",
+      "pulma"
+    ],
+    "rank": 2688
+  },
+  {
     "en": "Briton",
     "fi": "britti",
     "rank": 2689
@@ -21356,11 +19026,6 @@
     "en": "bringing",
     "fi": "tuominen",
     "rank": 2693
-  },
-  {
-    "en": "to affect",
-    "fi": "koskettaa",
-    "rank": 2695
   },
   {
     "en": "to touch",
@@ -21494,21 +19159,13 @@
     "rank": 2722
   },
   {
-    "en": "traveler",
-    "fi": "matkailija",
-    "rank": 2723
-  },
-  {
     "en": "avid",
     "fi": "innokas",
     "rank": 2724
   },
   {
     "en": "eager",
-    "fi": [
-      "innokas",
-      "rakas"
-    ],
+    "fi": "innokas",
     "rank": 2724
   },
   {
@@ -21614,11 +19271,6 @@
     "rank": 2737
   },
   {
-    "en": "positivity",
-    "fi": "varmuus",
-    "rank": 2737
-  },
-  {
     "en": "originating from",
     "fi": "peräisin",
     "rank": 2739
@@ -21659,11 +19311,6 @@
       "valtiovarainministeriö",
       "aarrekammio"
     ],
-    "rank": 2746
-  },
-  {
-    "en": "ministry of finance",
-    "fi": "valtiovarainministeriö",
     "rank": 2746
   },
   {
@@ -21771,16 +19418,8 @@
     "rank": 2768
   },
   {
-    "en": "fairly",
-    "fi": "reilusti",
-    "rank": 2769
-  },
-  {
     "en": "conservation",
-    "fi": [
-      "säilyttäminen",
-      "suojelu"
-    ],
+    "fi": "säilyttäminen",
     "rank": 2771
   },
   {
@@ -21838,10 +19477,7 @@
   },
   {
     "en": "to hamper",
-    "fi": [
-      "vaikeuttaa",
-      "haitata"
-    ],
+    "fi": "vaikeuttaa",
     "rank": 2782
   },
   {
@@ -21878,8 +19514,7 @@
     "en": "delegation",
     "fi": [
       "valtuuskunta",
-      "lähetystö",
-      "valtuusto"
+      "lähetystö"
     ],
     "rank": 2796
   },
@@ -21922,11 +19557,6 @@
     "rank": 2805
   },
   {
-    "en": "largeness",
-    "fi": "suuruus",
-    "rank": 2806
-  },
-  {
     "en": "magnitude",
     "fi": "suuruus",
     "rank": 2806
@@ -21966,11 +19596,6 @@
     "rank": 2812
   },
   {
-    "en": "recoil",
-    "fi": "potku",
-    "rank": 2812
-  },
-  {
     "en": "title",
     "fi": [
       "titteli",
@@ -22000,16 +19625,6 @@
       "vahvistaa"
     ],
     "rank": 2819
-  },
-  {
-    "en": "bolt",
-    "fi": "lukko",
-    "rank": 2821
-  },
-  {
-    "en": "clasp",
-    "fi": "lukko",
-    "rank": 2821
   },
   {
     "en": "lock",
@@ -22064,19 +19679,9 @@
     "fi": [
       "toimitus",
       "lähetys",
-      "kuljetus"
+      "anto"
     ],
     "rank": 2832
-  },
-  {
-    "en": "to denounce",
-    "fi": "leimata",
-    "rank": 2834
-  },
-  {
-    "en": "to punch",
-    "fi": "leimata",
-    "rank": 2834
   },
   {
     "en": "to stamp",
@@ -22119,11 +19724,6 @@
     "rank": 2845
   },
   {
-    "en": "gunshot",
-    "fi": "laukaus",
-    "rank": 2848
-  },
-  {
     "en": "shot",
     "fi": "laukaus",
     "rank": 2848
@@ -22160,21 +19760,6 @@
       "iäkäs"
     ],
     "rank": 2859
-  },
-  {
-    "en": "of one's age",
-    "fi": "ikäinen",
-    "rank": 2859
-  },
-  {
-    "en": "hue",
-    "fi": "sävy",
-    "rank": 2860
-  },
-  {
-    "en": "tinge",
-    "fi": "sävy",
-    "rank": 2860
   },
   {
     "en": "tone",
@@ -22260,11 +19845,6 @@
     "rank": 2878
   },
   {
-    "en": "daycare",
-    "fi": "päivähoito",
-    "rank": 2878
-  },
-  {
     "en": "host",
     "fi": [
       "vetäjä",
@@ -22325,16 +19905,6 @@
     "rank": 2889
   },
   {
-    "en": "mouldboard",
-    "fi": "siipi",
-    "rank": 2891
-  },
-  {
-    "en": "sail",
-    "fi": "siipi",
-    "rank": 2891
-  },
-  {
     "en": "equality",
     "fi": "tasa-arvo",
     "rank": 2892
@@ -22391,11 +19961,6 @@
     "rank": 2904
   },
   {
-    "en": "free-moving ground vehicle",
-    "fi": "ajoneuvo",
-    "rank": 2906
-  },
-  {
     "en": "vehicle",
     "fi": [
       "ajoneuvo",
@@ -22440,10 +20005,7 @@
   },
   {
     "en": "press",
-    "fi": [
-      "lehdistö",
-      "paino"
-    ],
+    "fi": "lehdistö",
     "rank": 2915
   },
   {
@@ -22458,10 +20020,7 @@
   },
   {
     "en": "welcome",
-    "fi": [
-      "tervetullut",
-      "vastaanotto"
-    ],
+    "fi": "tervetullut",
     "rank": 2918
   },
   {
@@ -22480,11 +20039,6 @@
     "rank": 2920
   },
   {
-    "en": "young person",
-    "fi": "nuorukainen",
-    "rank": 2920
-  },
-  {
     "en": "youngster",
     "fi": "nuorukainen",
     "rank": 2920
@@ -22496,16 +20050,6 @@
       "yksilöllinen"
     ],
     "rank": 2921
-  },
-  {
-    "en": "sprocket",
-    "fi": "hammas",
-    "rank": 2922
-  },
-  {
-    "en": "tine",
-    "fi": "hammas",
-    "rank": 2922
   },
   {
     "en": "tooth",
@@ -22587,10 +20131,7 @@
   },
   {
     "en": "to guide",
-    "fi": [
-      "opastaa",
-      "johtaa"
-    ],
+    "fi": "opastaa",
     "rank": 2944
   },
   {
@@ -22725,16 +20266,6 @@
     "rank": 2977
   },
   {
-    "en": "to set to music",
-    "fi": "säveltää",
-    "rank": 2977
-  },
-  {
-    "en": "bells",
-    "fi": "lasi",
-    "rank": 2978
-  },
-  {
     "en": "glass",
     "fi": "lasi",
     "rank": 2978
@@ -22771,10 +20302,7 @@
   },
   {
     "en": "cash",
-    "fi": [
-      "kassa",
-      "raha"
-    ],
+    "fi": "kassa",
     "rank": 2987
   },
   {
@@ -22791,11 +20319,6 @@
     "en": "strict",
     "fi": "jyrkkä",
     "rank": 2989
-  },
-  {
-    "en": "to abet",
-    "fi": "avustaa",
-    "rank": 2990
   },
   {
     "en": "to assist",
@@ -22839,27 +20362,17 @@
     "rank": 2996
   },
   {
+    "en": "specimen",
+    "fi": "näyte",
+    "rank": 2996
+  },
+  {
     "en": "to decompose",
     "fi": "hajota",
     "rank": 2997
   },
   {
-    "en": "termination of employment",
-    "fi": "irtisanominen",
-    "rank": 2998
-  },
-  {
     "en": "catch",
-    "fi": "saalis",
-    "rank": 2999
-  },
-  {
-    "en": "kill",
-    "fi": "saalis",
-    "rank": 2999
-  },
-  {
-    "en": "prey",
     "fi": "saalis",
     "rank": 2999
   },
@@ -23040,7 +20553,7 @@
     "fi": [
       "selänne",
       "harju",
-      "selkä"
+      "kynnys"
     ],
     "rank": 3060
   },
@@ -23238,10 +20751,7 @@
   },
   {
     "en": "to deteriorate",
-    "fi": [
-      "heiketä",
-      "heikentää"
-    ],
+    "fi": "heiketä",
     "rank": 3100
   },
   {
@@ -23271,10 +20781,7 @@
   },
   {
     "en": "meter",
-    "fi": [
-      "mittari",
-      "metri"
-    ],
+    "fi": "mittari",
     "rank": 3111
   },
   {
@@ -23444,7 +20951,7 @@
     "rank": 3149
   },
   {
-    "en": "the end of the year",
+    "en": "end of year",
     "fi": "loppuvuosi",
     "rank": 3151
   },
@@ -23534,6 +21041,11 @@
     "rank": 3175
   },
   {
+    "en": "core",
+    "fi": "ydin",
+    "rank": 3176
+  },
+  {
     "en": "nuclear",
     "fi": "ydin",
     "rank": 3176
@@ -23569,8 +21081,7 @@
     "en": "edge",
     "fi": [
       "reuna",
-      "laita",
-      "korva"
+      "laita"
     ],
     "rank": 3183
   },
@@ -23628,10 +21139,7 @@
   },
   {
     "en": "to flow",
-    "fi": [
-      "virrata",
-      "juosta"
-    ],
+    "fi": "virrata",
     "rank": 3193
   },
   {
@@ -23780,11 +21288,7 @@
   },
   {
     "en": "section",
-    "fi": [
-      "pykälä",
-      "osasto",
-      "lohko"
-    ],
+    "fi": "pykälä",
     "rank": 3226
   },
   {
@@ -24116,10 +21620,7 @@
   },
   {
     "en": "to bend",
-    "fi": [
-      "taipua",
-      "kääntää"
-    ],
+    "fi": "taipua",
     "rank": 3322
   },
   {
@@ -24129,10 +21630,7 @@
   },
   {
     "en": "transfer",
-    "fi": [
-      "siirtäminen",
-      "siirto"
-    ],
+    "fi": "siirtäminen",
     "rank": 3326
   },
   {
@@ -24195,10 +21693,7 @@
   },
   {
     "en": "article",
-    "fi": [
-      "artikkeli",
-      "kirjoitus"
-    ],
+    "fi": "artikkeli",
     "rank": 3339
   },
   {
@@ -24389,10 +21884,7 @@
   },
   {
     "en": "puzzle",
-    "fi": [
-      "pulma",
-      "ongelma"
-    ],
+    "fi": "pulma",
     "rank": 3399
   },
   {
@@ -24460,10 +21952,7 @@
   },
   {
     "en": "intense",
-    "fi": [
-      "kiivas",
-      "rankka"
-    ],
+    "fi": "kiivas",
     "rank": 3422
   },
   {
@@ -24518,10 +22007,7 @@
   },
   {
     "en": "discount",
-    "fi": [
-      "alennus",
-      "halpa"
-    ],
+    "fi": "alennus",
     "rank": 3433
   },
   {
@@ -24546,10 +22032,7 @@
   },
   {
     "en": "investigation",
-    "fi": [
-      "tutkinta",
-      "tutkimus"
-    ],
+    "fi": "tutkinta",
     "rank": 3437
   },
   {
@@ -24626,6 +22109,11 @@
     "en": "mountain",
     "fi": "vuori",
     "rank": 3457
+  },
+  {
+    "en": "grant",
+    "fi": "apuraha",
+    "rank": 3458
   },
   {
     "en": "scholarship",
@@ -24898,6 +22386,11 @@
     "rank": 3532
   },
   {
+    "en": "smart",
+    "fi": "terävä",
+    "rank": 3532
+  },
+  {
     "en": "entertainment",
     "fi": "viihde",
     "rank": 3533
@@ -25037,8 +22530,7 @@
     "en": "entry",
     "fi": [
       "liittyminen",
-      "merkintä",
-      "vienti"
+      "merkintä"
     ],
     "rank": 3562
   },
@@ -25098,6 +22590,11 @@
     "rank": 3571
   },
   {
+    "en": "to pick",
+    "fi": "poimia",
+    "rank": 3572
+  },
+  {
     "en": "to pick up",
     "fi": "poimia",
     "rank": 3572
@@ -25153,10 +22650,7 @@
   },
   {
     "en": "global",
-    "fi": [
-      "maailmanlaajuinen",
-      "kansainvälinen"
-    ],
+    "fi": "maailmanlaajuinen",
     "rank": 3580
   },
   {
@@ -25265,7 +22759,7 @@
     "rank": 3619
   },
   {
-    "en": "the end half",
+    "en": "latter half",
     "fi": "loppupuoli",
     "rank": 3620
   },
@@ -25289,7 +22783,7 @@
     "fi": [
       "elin",
       "keho",
-      "ryhmä"
+      "ruumis"
     ],
     "rank": 3625
   },
@@ -25325,10 +22819,7 @@
   },
   {
     "en": "to invade",
-    "fi": [
-      "tunkeutua",
-      "hyökätä"
-    ],
+    "fi": "tunkeutua",
     "rank": 3634
   },
   {
@@ -25366,10 +22857,7 @@
   },
   {
     "en": "disagreement",
-    "fi": [
-      "erimielisyys",
-      "ristiriita"
-    ],
+    "fi": "erimielisyys",
     "rank": 3645
   },
   {
@@ -25730,10 +23218,7 @@
   },
   {
     "en": "farm",
-    "fi": [
-      "maatila",
-      "talo"
-    ],
+    "fi": "maatila",
     "rank": 3749
   },
   {
@@ -25901,10 +23386,7 @@
   },
   {
     "en": "champion",
-    "fi": [
-      "valio",
-      "mestari"
-    ],
+    "fi": "valio",
     "rank": 3783
   },
   {
@@ -26007,10 +23489,7 @@
   },
   {
     "en": "path",
-    "fi": [
-      "polku",
-      "suunta"
-    ],
+    "fi": "polku",
     "rank": 3810
   },
   {
@@ -26824,10 +24303,7 @@
   },
   {
     "en": "hunting",
-    "fi": [
-      "metsästys",
-      "metsä"
-    ],
+    "fi": "metsästys",
     "rank": 4025
   },
   {
@@ -26872,10 +24348,7 @@
   },
   {
     "en": "Danish",
-    "fi": [
-      "tanskalainen",
-      "tanska"
-    ],
+    "fi": "tanskalainen",
     "rank": 4040
   },
   {
@@ -26979,10 +24452,7 @@
   },
   {
     "en": "reservation",
-    "fi": [
-      "varaus",
-      "vuoro"
-    ],
+    "fi": "varaus",
     "rank": 4056
   },
   {
@@ -27307,10 +24777,7 @@
   },
   {
     "en": "twilight",
-    "fi": [
-      "hämärä",
-      "siimes"
-    ],
+    "fi": "hämärä",
     "rank": 4129
   },
   {
@@ -27330,10 +24797,7 @@
   },
   {
     "en": "thin",
-    "fi": [
-      "ohut",
-      "lista"
-    ],
+    "fi": "ohut",
     "rank": 4138
   },
   {
@@ -27659,10 +25123,7 @@
   },
   {
     "en": "in that way",
-    "fi": [
-      "sikäli",
-      "siten"
-    ],
+    "fi": "sikäli",
     "rank": 4220
   },
   {
@@ -27790,10 +25251,7 @@
   },
   {
     "en": "frame",
-    "fi": [
-      "runko",
-      "puite"
-    ],
+    "fi": "runko",
     "rank": 4248
   },
   {
@@ -28686,6 +26144,11 @@
     "rank": 4488
   },
   {
+    "en": "appropriate",
+    "fi": "asiallinen",
+    "rank": 4489
+  },
+  {
     "en": "businesslike",
     "fi": "asiallinen",
     "rank": 4489
@@ -28804,7 +26267,6 @@
     "en": "sense",
     "fi": [
       "tunto",
-      "järki",
       "aisti"
     ],
     "rank": 4523
@@ -28936,7 +26398,6 @@
     "en": "tool",
     "fi": [
       "työkalu",
-      "peli",
       "väline"
     ],
     "rank": 4555
@@ -28948,10 +26409,7 @@
   },
   {
     "en": "meal",
-    "fi": [
-      "ateria",
-      "ruoka"
-    ],
+    "fi": "ateria",
     "rank": 4559
   },
   {
@@ -29585,6 +27043,11 @@
     "rank": 9999
   },
   {
+    "en": "alcoholic",
+    "fi": "alkoholisti",
+    "rank": 9999
+  },
+  {
     "en": "alcoholic beverage",
     "fi": "alkoholijuoma",
     "rank": 9999
@@ -29612,6 +27075,11 @@
   {
     "en": "allergic",
     "fi": "allerginen",
+    "rank": 9999
+  },
+  {
+    "en": "alliance",
+    "fi": "allianssi",
     "rank": 9999
   },
   {
@@ -29976,6 +27444,16 @@
     "rank": 9999
   },
   {
+    "en": "beneath",
+    "fi": "alitse",
+    "rank": 9999
+  },
+  {
+    "en": "biscuit",
+    "fi": "-keksi",
+    "rank": 9999
+  },
+  {
     "en": "bitchy",
     "fi": "akkamainen",
     "rank": 9999
@@ -30077,6 +27555,11 @@
   {
     "en": "candy",
     "fi": "karkki",
+    "rank": 9999
+  },
+  {
+    "en": "cap",
+    "fi": "lakki",
     "rank": 9999
   },
   {
@@ -31330,6 +28813,11 @@
   {
     "en": "sandal",
     "fi": "sandaali",
+    "rank": 9999
+  },
+  {
+    "en": "sandwich",
+    "fi": "voileipä",
     "rank": 9999
   },
   {

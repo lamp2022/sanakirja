@@ -5,10 +5,11 @@ No data duplication — pure transformation.
 Output: en_fi_data.json — list of {en, fi: [...], rank}
 """
 
-import json, csv, re
+import json, csv, os, re
 
 DATA_FILE   = "data.json"
-FREQ_FILE   = "fi_top.csv"
+SOURCES_DIR = "../sanakirja"
+FREQ_FILE   = os.path.join(SOURCES_DIR, "fi_top.csv")
 OUTPUT_FILE = "en_fi_data.json"
 
 # Words where the Finnish primary is misleading and should not win EN→FI tiebreaks
