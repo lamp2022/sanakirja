@@ -169,12 +169,18 @@ def consensus_override(folkets_primary: str, sv_gt: str, claude_sv: str,
 
 
 def sv_matches(candidate: str, gt_sv: str) -> bool:
-    """Check if candidate appears in GT SV translation (substring or exact match)."""
+    """Check if candidate appears in GT SV translation (exact or whole-word match).
+    Short words (≤4 chars, e.g. prepositions 'för', 'till') require exact or word-boundary
+    match only — prevents false agreement like 'för' matching 'för att bekräfta'."""
     if not candidate or not gt_sv:
         return False
     c = candidate.lower().strip()
     g = gt_sv.lower().strip()
-    return c == g or c in g.split() or c in g
+    if c == g:
+        return True
+    if c in g.split():
+        return len(c) > 4  # short words must be exact match, not just a word in a phrase
+    return len(c) > 4 and c in g
 
 
 def confidence_tag(has_folkets: bool, gt_agrees: bool, claude_agrees: bool,
@@ -314,31 +320,39 @@ def main():
             # GT-frequency override: if primary is absent/rare AND GT's root verb is significantly
             # more common, prefer GT (fixes Folkets archaic/wrong primary cases, handles phrasal verbs)
             elif sv_gt and sv_freq:
+                # Normalise GT for freq check: "för att X" purpose clause → treat "att X" as the verb
+                sv_gt_for_freq = sv_gt
+                if sv_gt.startswith("för att "):
+                    sv_gt_for_freq = sv_gt[4:]  # "för att bekräfta" → "att bekräfta"
                 prim_n = _norm(primary_sv).rstrip("!-").strip()
-                gt_n = _norm(sv_gt).rstrip("!-").strip()
-                gt_root = gt_n.split()[0] if gt_n else ""  # handle residual multi-word
+                gt_n = _norm(sv_gt_for_freq).rstrip("!-").strip()
+                gt_root = gt_n.split()[0] if gt_n else ""
                 if gt_root and ' ' not in prim_n:
                     prim_rank = sv_freq.get(prim_n, 99999)
                     gt_rank = sv_freq.get(gt_root, 99999)
                     if prim_rank > GT_FREQ_THRESHOLD and gt_rank * GT_FREQ_RATIO < prim_rank:
                         # Store clean form: reconstruct "att X" for verb entries
-                        if sv_gt.startswith("att ") and gt_root != gt_n:
+                        if sv_gt_for_freq.startswith("att ") and gt_root != gt_n:
                             stored = "att " + gt_root
-                        elif sv_gt.startswith("att "):
-                            stored = sv_gt
+                        elif sv_gt_for_freq.startswith("att "):
+                            stored = sv_gt_for_freq
                         else:
                             stored = gt_root
                         primary_sv = stored
                         sv_all = [stored]
                         stats["gt_freq_overridden"] = stats.get("gt_freq_overridden", 0) + 1
-            # Verb-noun mismatch override: EN is a verb ("to X") but primary is a noun form
-            # (doesn't start with "att") and GT gives a proper Swedish infinitive ("att X") → prefer GT
+            # Verb-noun mismatch override: EN is a verb ("to X") but primary is a noun/prep form
+            # (doesn't start with "att") and GT gives a Swedish infinitive → prefer GT.
+            # GT often returns "för att X" (purpose clause) — strip "för " to get "att X".
+            sv_gt_inf = sv_gt
+            if sv_gt and sv_gt.startswith("för att "):
+                sv_gt_inf = sv_gt[4:]  # "för att klargöra" → "att klargöra"
             if (primary_sv == folkets_svs[0]  # only if still on Folkets original
                     and en_norm.startswith("to ")
-                    and sv_gt and sv_gt.startswith("att ")
+                    and sv_gt_inf and sv_gt_inf.startswith("att ")
                     and not primary_sv.startswith("att ")):
-                primary_sv = sv_gt
-                sv_all = [sv_gt]
+                primary_sv = sv_gt_inf
+                sv_all = [sv_gt_inf]
                 stats["verb_noun_overridden"] = stats.get("verb_noun_overridden", 0) + 1
             # GT-in-secondary promotion: if GT matches a Folkets secondary (not primary), promote it
             if sv_gt and len(folkets_svs) > 1 and primary_sv == folkets_svs[0]:

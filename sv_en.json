@@ -3709,7 +3709,8 @@
     "sv": "att avsluta",
     "en": [
       "to end",
-      "to conclude"
+      "to conclude",
+      "to finish"
     ],
     "rank": 416
   },
@@ -4881,7 +4882,6 @@
     "sv": "för",
     "en": [
       "currently",
-      "to confirm",
       "for"
     ],
     "rank": 572
@@ -5075,6 +5075,11 @@
     "sv": "skynda",
     "en": "hurry",
     "rank": 591
+  },
+  {
+    "sv": "att bekräfta",
+    "en": "to confirm",
+    "rank": 592
   },
   {
     "sv": "intryck",
@@ -5575,7 +5580,7 @@
     "rank": 654
   },
   {
-    "sv": "göra klar",
+    "sv": "att klargöra",
     "en": "to clarify",
     "rank": 654
   },
@@ -13434,6 +13439,14 @@
     "rank": 1965
   },
   {
+    "sv": "att aktivera",
+    "en": [
+      "to enable",
+      "to activate"
+    ],
+    "rank": 1966
+  },
+  {
     "sv": "att göra möjligt",
     "en": "to make possible",
     "rank": 1966
@@ -17653,14 +17666,6 @@
     "rank": 3212
   },
   {
-    "sv": "behandling",
-    "en": [
-      "to finish",
-      "treatment"
-    ],
-    "rank": 3214
-  },
-  {
     "sv": "oordning",
     "en": "disorder",
     "rank": 3216
@@ -19361,6 +19366,11 @@
     "sv": "ny-",
     "en": "newly",
     "rank": 3752
+  },
+  {
+    "sv": "behandling",
+    "en": "treatment",
+    "rank": 3753
   },
   {
     "sv": "tätort",
@@ -24467,11 +24477,6 @@
   {
     "sv": "att abstrahera",
     "en": "to abstract",
-    "rank": 9999
-  },
-  {
-    "sv": "att aktivera",
-    "en": "to activate",
     "rank": 9999
   },
   {

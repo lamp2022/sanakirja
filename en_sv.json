@@ -905,7 +905,7 @@
       "välbehållen"
     ],
     "rank": 75,
-    "confidence": "4sources",
+    "confidence": "folkets+claude",
     "sv_gt": "hela",
     "sv_apert": "helhet"
   },
@@ -929,7 +929,7 @@
     "en": "right",
     "sv": "rätt",
     "rank": 77,
-    "confidence": "4sources",
+    "confidence": "3sources",
     "sv_apert": "rättighet"
   },
   {
@@ -946,7 +946,7 @@
       "så här"
     ],
     "rank": 78,
-    "confidence": "3sources",
+    "confidence": "folkets_only",
     "sv_gt": "således",
     "sv_claude": "alltså",
     "sv_apert": "därföre"
@@ -1614,7 +1614,7 @@
     "en": "finish",
     "sv": "slut",
     "rank": 128,
-    "confidence": "4sources",
+    "confidence": "folkets+claude+apert",
     "sv_gt": "avsluta"
   },
   {
@@ -1820,7 +1820,7 @@
       "tillit"
     ],
     "rank": 141,
-    "confidence": "4sources",
+    "confidence": "3sources",
     "sv_apert": "trohet"
   },
   {
@@ -2009,7 +2009,7 @@
       "skild"
     ],
     "rank": 154,
-    "confidence": "4sources",
+    "confidence": "folkets+gt+apert",
     "sv_claude": "olika"
   },
   {
@@ -2942,7 +2942,7 @@
     "en": "Miss",
     "sv": "miss",
     "rank": 222,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_claude": "fröken",
     "sv_apert": "missa"
   },
@@ -3213,7 +3213,7 @@
     "en": "price",
     "sv": "pris",
     "rank": 245,
-    "confidence": "4sources",
+    "confidence": "3sources",
     "sv_apert": "prismärka"
   },
   {
@@ -3961,7 +3961,7 @@
     "en": "yesterday",
     "sv": "i",
     "rank": 300,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets_only",
     "sv_gt": "i går",
     "sv_apert": "igår"
   },
@@ -4036,7 +4036,7 @@
     "en": "ice",
     "sv": "is",
     "rank": 311,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "isa"
   },
   {
@@ -4183,7 +4183,7 @@
     "en": "cinema",
     "sv": "bio",
     "rank": 326,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "biograf"
   },
   {
@@ -4608,7 +4608,7 @@
     "en": "plane",
     "sv": "plan",
     "rank": 356,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "flygplan"
   },
   {
@@ -5296,7 +5296,7 @@
       "utan att oroa sig"
     ],
     "rank": 411,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "gladlynt",
     "sv_apert": "villig"
   },
@@ -6088,7 +6088,7 @@
     "en": "afoot",
     "sv": "på",
     "rank": 479,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "på gång"
   },
   {
@@ -6435,7 +6435,7 @@
       "en plan för utbyggnad"
     ],
     "rank": 502,
-    "confidence": "3sources",
+    "confidence": "folkets+claude",
     "sv_gt": "planera",
     "sv_apert": "rita"
   },
@@ -7195,7 +7195,7 @@
     "en": "currently",
     "sv": "för",
     "rank": 572,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "för närvarande",
     "sv_apert": "obehindrat"
   },
@@ -7522,7 +7522,7 @@
   },
   {
     "en": "to confirm",
-    "sv": "för",
+    "sv": "att bekräfta",
     "rank": 592,
     "confidence": "folkets+gt",
     "sv_gt": "för att bekräfta",
@@ -7940,7 +7940,7 @@
       "hon har huvudrollen"
     ],
     "rank": 628,
-    "confidence": "4sources",
+    "confidence": "3sources",
     "sv_apert": "roller"
   },
   {
@@ -8298,13 +8298,9 @@
   },
   {
     "en": "to clarify",
-    "sv": [
-      "göra klar",
-      "skira",
-      "klarlägga"
-    ],
+    "sv": "att klargöra",
     "rank": 654,
-    "confidence": "folkets_only",
+    "confidence": "folkets+gt",
     "sv_gt": "för att klargöra"
   },
   {
@@ -8520,7 +8516,7 @@
     "en": "choice",
     "sv": "val",
     "rank": 668,
-    "confidence": "4sources",
+    "confidence": "3sources",
     "sv_apert": "valmöjlighet"
   },
   {
@@ -8610,7 +8606,7 @@
     "en": "white",
     "sv": "vit",
     "rank": 673,
-    "confidence": "4sources",
+    "confidence": "3sources",
     "sv_apert": "vita"
   },
   {
@@ -8915,7 +8911,7 @@
       "på plats"
     ],
     "rank": 701,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "slagfält"
   },
   {
@@ -9295,7 +9291,7 @@
       "markstridskrafter"
     ],
     "rank": 732,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+apert",
     "sv_gt": "armén"
   },
   {
@@ -11394,7 +11390,7 @@
     "en": "to appropriate",
     "sv": "till",
     "rank": 905,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "till lämplig"
   },
   {
@@ -12056,7 +12052,7 @@
       "vara emot"
     ],
     "rank": 961,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "emot"
   },
   {
@@ -12245,7 +12241,7 @@
       "tenta"
     ],
     "rank": 974,
-    "confidence": "folkets+apert",
+    "confidence": "folkets_only",
     "sv_gt": "testa",
     "sv_claude": "test",
     "sv_apert": "prova"
@@ -12306,7 +12302,7 @@
     "en": "to life",
     "sv": "till",
     "rank": 978,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "till livet"
   },
   {
@@ -12598,7 +12594,7 @@
     "en": "clean",
     "sv": "ren",
     "rank": 1000,
-    "confidence": "4sources",
+    "confidence": "folkets+claude+apert",
     "sv_gt": "rena"
   },
   {
@@ -12659,7 +12655,7 @@
       "chifferspråk"
     ],
     "rank": 1007,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+apert",
     "sv_gt": "koda"
   },
   {
@@ -13589,7 +13585,7 @@
       "dansstycke"
     ],
     "rank": 1102,
-    "confidence": "3sources",
+    "confidence": "folkets+claude",
     "sv_gt": "dansa",
     "sv_apert": "gunga"
   },
@@ -13780,7 +13776,7 @@
     "en": "green",
     "sv": "grön",
     "rank": 1120,
-    "confidence": "4sources",
+    "confidence": "3sources",
     "sv_apert": "grönsak"
   },
   {
@@ -14425,7 +14421,7 @@
     "en": "stone",
     "sv": "sten",
     "rank": 1182,
-    "confidence": "4sources",
+    "confidence": "3sources",
     "sv_apert": "stena"
   },
   {
@@ -14519,7 +14515,7 @@
       "skrikig"
     ],
     "rank": 1189,
-    "confidence": "4sources",
+    "confidence": "folkets+claude+apert",
     "sv_gt": "högt"
   },
   {
@@ -15149,7 +15145,7 @@
     "en": "puppy",
     "sv": "valp",
     "rank": 1256,
-    "confidence": "4sources",
+    "confidence": "3sources",
     "sv_apert": "snorvalp"
   },
   {
@@ -15378,7 +15374,7 @@
     "en": "taxi",
     "sv": "taxi",
     "rank": 1276,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "taxibil"
   },
   {
@@ -15389,7 +15385,7 @@
       "fiska"
     ],
     "rank": 1277,
-    "confidence": "4sources",
+    "confidence": "3sources",
     "sv_apert": "fiska"
   },
   {
@@ -15757,7 +15753,7 @@
     "en": "to head",
     "sv": "till",
     "rank": 1309,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "till huvudet"
   },
   {
@@ -16098,7 +16094,7 @@
       "våldsamheter"
     ],
     "rank": 1336,
-    "confidence": "4sources",
+    "confidence": "3sources",
     "sv_apert": "våldsamhet"
   },
   {
@@ -16276,7 +16272,7 @@
     "en": "above",
     "sv": "ovan",
     "rank": 1353,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "ovanför"
   },
   {
@@ -16562,7 +16558,7 @@
       "snöa"
     ],
     "rank": 1380,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "snöa"
   },
   {
@@ -18383,7 +18379,7 @@
     "en": "bet",
     "sv": "slå",
     "rank": 1550,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "slå vad",
     "sv_apert": "förutsäga"
   },
@@ -18972,7 +18968,7 @@
     "en": "cook",
     "sv": "laga",
     "rank": 1616,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "laga mat",
     "sv_apert": "kock"
   },
@@ -19708,7 +19704,7 @@
       "myndighet"
     ],
     "rank": 1762,
-    "confidence": "folkets+apert",
+    "confidence": "folkets_only",
     "sv_gt": "ärm",
     "sv_apert": "armera"
   },
@@ -19937,7 +19933,7 @@
       "arbeta som diskplockare"
     ],
     "rank": 1814,
-    "confidence": "4sources",
+    "confidence": "3sources",
     "sv_apert": "bussa"
   },
   {
@@ -20778,7 +20774,7 @@
   },
   {
     "en": "to enable",
-    "sv": "för",
+    "sv": "att aktivera",
     "rank": 1966,
     "confidence": "folkets+gt",
     "sv_gt": "för att aktivera",
@@ -20986,7 +20982,7 @@
       "filmrulle"
     ],
     "rank": 2013,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+apert",
     "sv_gt": "filma"
   },
   {
@@ -21625,7 +21621,7 @@
       "ett regn av pilar"
     ],
     "rank": 2132,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "regna"
   },
   {
@@ -22199,7 +22195,7 @@
       "ansiktsuttryck"
     ],
     "rank": 2239,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+apert",
     "sv_gt": "särdrag"
   },
   {
@@ -22397,7 +22393,7 @@
       "pumpa på information"
     ],
     "rank": 2274,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "pumpa"
   },
   {
@@ -22478,7 +22474,7 @@
     "en": "kingdom",
     "sv": "rike",
     "rank": 2289,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "kungarike"
   },
   {
@@ -22733,7 +22729,7 @@
     "en": "dark",
     "sv": "mörk",
     "rank": 2343,
-    "confidence": "4sources",
+    "confidence": "3sources",
     "sv_apert": "mörker"
   },
   {
@@ -23692,7 +23688,7 @@
       "köa"
     ],
     "rank": 2521,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "kön"
   },
   {
@@ -23939,7 +23935,7 @@
     "en": "framework",
     "sv": "ram",
     "rank": 2566,
-    "confidence": "3sources",
+    "confidence": "folkets+gt",
     "sv_claude": "ramverk",
     "sv_apert": "konstruktion"
   },
@@ -24064,7 +24060,7 @@
     "en": "ski",
     "sv": "åka",
     "rank": 2585,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "åka skidor",
     "sv_apert": "skida"
   },
@@ -24511,7 +24507,7 @@
     "en": "to market",
     "sv": "till",
     "rank": 2664,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "till marknaden"
   },
   {
@@ -25666,7 +25662,7 @@
       "nyans"
     ],
     "rank": 2860,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "tona",
     "sv_apert": "röstläge"
   },
@@ -26055,7 +26051,7 @@
     "en": "youngster",
     "sv": "unge",
     "rank": 2920,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "barnunge"
   },
   {
@@ -27595,13 +27591,9 @@
   },
   {
     "en": "to finish",
-    "sv": [
-      "behandling",
-      "slutbehandling",
-      "ytbehandling"
-    ],
+    "sv": "att avsluta",
     "rank": 3214,
-    "confidence": "folkets_only",
+    "confidence": "folkets+gt",
     "sv_gt": "för att avsluta",
     "sv_claude": "avsluta"
   },
@@ -27774,7 +27766,7 @@
       "mylla"
     ],
     "rank": 3236,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "jordmån"
   },
   {
@@ -28814,7 +28806,7 @@
     "en": "salt",
     "sv": "salt",
     "rank": 3443,
-    "confidence": "4sources",
+    "confidence": "3sources",
     "sv_apert": "salta"
   },
   {
@@ -29030,7 +29022,7 @@
       "fuska"
     ],
     "rank": 3484,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "hörna"
   },
   {
@@ -29085,7 +29077,7 @@
       "estnisk"
     ],
     "rank": 3495,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "estniska"
   },
   {
@@ -29287,7 +29279,7 @@
     "en": "narrow",
     "sv": "smal",
     "rank": 3534,
-    "confidence": "4sources",
+    "confidence": "3sources",
     "sv_apert": "smalna"
   },
   {
@@ -30552,7 +30544,7 @@
       "varaktig"
     ],
     "rank": 3771,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+apert",
     "sv_gt": "evighet"
   },
   {
@@ -30691,7 +30683,7 @@
     "en": "base",
     "sv": "bas",
     "rank": 3800,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "basera"
   },
   {
@@ -31622,7 +31614,7 @@
     "en": "smoke",
     "sv": "rök",
     "rank": 4001,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "röka"
   },
   {
@@ -32070,7 +32062,7 @@
       "bensinen har tagit slut"
     ],
     "rank": 4065,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "gasa"
   },
   {
@@ -32405,7 +32397,7 @@
       "arvegods"
     ],
     "rank": 4125,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "kulturarv"
   },
   {
@@ -32935,7 +32927,7 @@
       "seeda"
     ],
     "rank": 4222,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "utsäde",
     "sv_apert": "seeda"
   },
@@ -33878,7 +33870,7 @@
     "en": "to base",
     "sv": "till",
     "rank": 4396,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "till bas",
     "sv_apert": "basera"
   },
@@ -34007,7 +33999,7 @@
     "en": "consecutive",
     "sv": "på",
     "rank": 4421,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "på varandra följande",
     "sv_apert": "konsekutiv"
   },
@@ -34679,7 +34671,7 @@
       "egoism"
     ],
     "rank": 4565,
-    "confidence": "folkets+gt+apert",
+    "confidence": "folkets+gt",
     "sv_apert": "egoism"
   },
   {
@@ -36629,7 +36621,7 @@
       "entré"
     ],
     "rank": 9999,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "entréhallen"
   },
   {
@@ -37720,7 +37712,7 @@
     "en": "pool",
     "sv": "slå",
     "rank": 9999,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "slå samman",
     "sv_apert": "bassäng"
   },
@@ -38584,7 +38576,7 @@
     "en": "to rail",
     "sv": "till",
     "rank": 9999,
-    "confidence": "folkets+gt",
+    "confidence": "folkets_only",
     "sv_gt": "till järnväg"
   },
   {
