@@ -4,53 +4,53 @@ Spot-check: mark wrong translations with `~~strikethrough~~`.
 
 | EN | SV (primary) | rank | confidence | GT | Claude | Apertium |
 |----|----|----|----|----|----|----|---|
-| `be` | vara | 1 | 3sources | — | — | bli |
-| `No` | nej | 1 | folkets+claude+apert | inga | — | — |
+| `which` | som / vilken / vilka | 6 | 3sources | — | — | — |
+| `year` | år / årgång / årtal | 7 | 3sources | — | — | — |
 | `to come` | att komma | 14 | folkets+gt | — | komma | — |
-| `to don't!` | att inte göra! | 25 | gt_only | — | — | — |
-| `why` | varför | 28 | 4sources | — | — | — |
-| `ground` | jord | 40 | folkets+gt | — | mark | anledning |
-| `perhaps` | kanske / möjligen / eventuellt | 55 | 3sources | — | — | möjligen |
-| `to give` | att ge | 61 | folkets+gt | — | ge | — |
-| `town` | stad / stads befolkning | 70 | 4sources | — | — | — |
-| `three` | tre | 71 | 3sources | — | — | — |
+| `where` | där / var / var är john | 40 | folkets+gt+apert | — | var | — |
+| `percentage` | procent / procentandel | 47 | 4sources | procentsats | — | — |
+| `to remain` | att vara | 57 | folkets+gt | att vara kvar | stanna | — |
+| `just` | bara / endast / ett ögonblick!/vänta lite! | 64 | folkets_only | precis | just | rättvis |
+| `whole` | hel / helhet / välbehållen | 75 | 4sources | hela | — | helhet |
+| `thus` | så / sålunda / så här | 78 | 3sources | således | alltså | därföre |
 | `even if` | även om | 79 | gt+claude | — | — | — |
-| `although` | även om / fast / fastän | 79 | 3sources | — | — | — |
+| `child` | barn / barnslig person / son | 80 | 3sources | — | — | — |
+| `to act` | att agera | 83 | folkets+gt | — | agera | — |
 | `out` | ut | 93 | 4sources | — | — | — |
-| `to state` | att ange | 115 | folkets+gt | — | konstatera | — |
-| `score` | läget sådant det är / vad exakt har hänt? / filmmusik | 125 | folkets_only | göra | poäng | ställning |
-| `president` | president | 126 | 3sources | — | — | — |
-| `race` | ras | 148 | folkets+gt | — | lopp | tävla |
-| `to take away` | ta med sig / för avhämtning / hämtmat | 195 | folkets_only | att ta bort | ta bort | — |
-| `objective` | mål | 237 | 4sources | — | — | — |
-| `nice` | trevlig | 296 | 3sources | — | — | snygg |
-| `shared` | se share | 343 | folkets_only | delad | — | — |
-| `between` | mellan | 442 | folkets+gt+apert | — | — | — |
-| `workplace` | arbetsplats | 453 | folkets+gt | — | — | — |
-| `exhibit` | bevisföremål / förete som bevis / ställa ut | 476 | folkets_only | uppvisa | — | visa |
-| `beloved` | älskad / älskad person / älskling | 476 | folkets+gt | — | — | — |
-| `to wear` | finna sig i / gå med på / bruk | 482 | folkets_only | att bära | — | — |
-| `motif` | motiv / ämne / tema | 578 | folkets+gt+apert | — | — | — |
-| `prostitute` | prostituerad | 717 | folkets+gt | — | — | — |
-| `sky` | sky / himmel / höja någon till skyarna | 765 | folkets+gt | — | — | — |
-| `on time` | i tid | 778 | gt_only | — | — | — |
-| `patient` | patient / tålmodig / som har tålamod | 847 | folkets+gt+apert | — | — | — |
-| `to favor/favour` | att gynna/gynna | 940 | gt_only | — | — | — |
-| `angel` | ängel / du är en ängel! | 1169 | 4sources | — | — | — |
-| `at the time of` | vid tidpunkten för | 1186 | gt_only | — | — | — |
-| `to the middle` | till mitten | 1308 | gt_only | — | — | — |
-| `explanation` | förklaring | 1467 | 4sources | — | — | — |
-| `to turn out` | att visa sig | 1515 | gt_only | — | — | — |
-| `leading` | ledande / främsta | 1663 | folkets+gt+apert | — | — | — |
-| `channel` | kanal | 1668 | folkets+gt+apert | — | — | — |
-| `world championship` | världsmästerskap | 2161 | gt_only | — | — | — |
-| `conservation` | bevarande | 2771 | folkets+gt+apert | — | — | — |
-| `thuja` | tuja | 3573 | gt_only | — | — | — |
-| `everlasting` | evig / beständig / varaktig | 3771 | folkets+gt+apert | evighet | — | — |
-| `openly` | öppet | 4020 | gt_only | — | — | — |
-| `ripe` | mogen | 4261 | folkets+gt+apert | — | — | — |
-| `profile` | profil / en regelbunden profil / en konservativ profil | 4601 | 4sources | — | — | — |
-| `to give a sigh` | att ge en suck | 4630 | gt_only | — | — | — |
-| `mirror` | spegel | 9999 | folkets+gt+apert | — | — | — |
-| `21st century` | 2000-talet | 9999 | gt_only | — | — | — |
-| `to raise to the nobility` | att uppfostra till adeln | 9999 | gt_only | — | — | — |
+| `quite` | ganska | 101 | 3sources | — | — | — |
+| `belief` | tro / tilltro / övertygelse | 141 | folkets+gt+apert | — | övertygelse | — |
+| `to conduct` | att bedriva | 172 | folkets+gt | — | — | — |
+| `sometimes` | ibland / emellanåt / då och då | 175 | 3sources | — | — | emellanåt |
+| `side` | sida / er sida / din sida | 200 | 4sources | — | — | — |
+| `in addition to` | förutom | 214 | gt_only | — | utöver | — |
+| `to chase` | att jaga | 217 | folkets+gt | — | jaga | — |
+| `dot` | punkt | 346 | folkets+gt+apert | — | — | — |
+| `center` | centrum | 361 | folkets+gt | — | — | central |
+| `on behalf of` | på uppdrag av | 371 | gt_only | — | — | — |
+| `difference` | skillnad | 423 | folkets+gt+apert | — | — | — |
+| `to chat` | att chatta | 441 | folkets+gt | — | — | — |
+| `said to be` | sägs vara | 459 | gt_only | — | — | — |
+| `subject` | ämne / skolämne / subjekt | 578 | 4sources | — | — | — |
+| `easily` | lätt / utan svårighet / utan tvekan | 692 | folkets+gt | — | — | — |
+| `tight` | packad / packad berusad / fast | 706 | folkets_only | stram | — | snäv |
+| `Turkey` | turkiet / kalkon / (vardagligt) komma till saken | 806 | folkets+gt | — | — | kalkon |
+| `similar` | liknande | 871 | 3sources | — | — | lik |
+| `to borrow` | att låna | 962 | folkets+gt | — | — | — |
+| `to run` | att springa | 1048 | folkets+gt | — | springa | — |
+| `from the right` | från höger | 1286 | gt_only | — | — | — |
+| `to` | till | 1405 | folkets+gt+apert | — | — | — |
+| `museum` | museum | 1488 | 4sources | — | — | — |
+| `historical` | historisk | 1677 | folkets+gt+apert | — | — | — |
+| `defender` | försvarare | 1907 | gt_only | — | — | — |
+| `will` | vilja | 1946 | folkets+gt+apert | — | — | — |
+| `ride` | rider / ritt / åka skidor | 2274 | folkets_only | rida | — | ritt |
+| `household` | hushåll / hushålls- | 2434 | folkets+gt+apert | — | — | — |
+| `eastern` | östra | 2950 | folkets+gt | — | — | ostlig |
+| `purchase` | köpa sig / tillkämpa sig / hävstångskraft | 2965 | folkets_only | köpa | — | tag |
+| `designer` | designer | 2968 | 3sources | — | — | — |
+| `rebellious` | upprorisk / rebellisk / trotsig | 3282 | folkets+gt | — | — | — |
+| `protester` | protestant | 3428 | none | demonstrant | — | — |
+| `publicly` | offentligt | 3612 | folkets+gt | — | — | — |
+| `in a row` | i rad | 3890 | gt_only | — | — | — |
+| `to drive away` | att köra iväg | 4624 | gt_only | — | — | — |
+| `to spray bullets` | att spraya kulor | 9999 | gt_only | — | — | — |

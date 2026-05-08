@@ -331,6 +331,15 @@ def main():
                         primary_sv = stored
                         sv_all = [stored]
                         stats["gt_freq_overridden"] = stats.get("gt_freq_overridden", 0) + 1
+            # Verb-noun mismatch override: EN is a verb ("to X") but primary is a noun form
+            # (doesn't start with "att") and GT gives a proper Swedish infinitive ("att X") → prefer GT
+            if (primary_sv == folkets_svs[0]  # only if still on Folkets original
+                    and en_norm.startswith("to ")
+                    and sv_gt and sv_gt.startswith("att ")
+                    and not primary_sv.startswith("att ")):
+                primary_sv = sv_gt
+                sv_all = [sv_gt]
+                stats["verb_noun_overridden"] = stats.get("verb_noun_overridden", 0) + 1
             # GT-in-secondary promotion: if GT matches a Folkets secondary (not primary), promote it
             if sv_gt and len(folkets_svs) > 1 and primary_sv == folkets_svs[0]:
                 gt_n = _norm(sv_gt)
@@ -390,6 +399,7 @@ def main():
     print(f"Consensus override applied: {stats.get('consensus_overridden',0):>6}")
     print(f"GT-secondary promotion:     {stats.get('gt_secondary_promoted',0):>6}")
     print(f"GT-frequency override:      {stats.get('gt_freq_overridden',0):>6}")
+    print(f"Verb-noun mismatch fixed:   {stats.get('verb_noun_overridden',0):>6}")
     print(f"4-source agreement:         {stats.get('4sources',0):>6}")
     print(f"3-source agreement:         {stats.get('3sources',0):>6}")
     no_match = stats["total"] - len(results)

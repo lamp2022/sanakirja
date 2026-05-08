@@ -315,14 +315,10 @@
   },
   {
     "en": "to say",
-    "sv": [
-      "säga",
-      "uttrycka",
-      "tala om"
-    ],
+    "sv": "att säga",
     "rank": 25,
-    "confidence": "3sources",
-    "sv_gt": "att säga"
+    "confidence": "folkets+gt",
+    "sv_claude": "säga"
   },
   {
     "en": "yes",
@@ -372,10 +368,9 @@
   },
   {
     "en": "to multiply",
-    "sv": "föröka",
+    "sv": "att föröka sig",
     "rank": 30,
-    "confidence": "folkets+gt",
-    "sv_gt": "att föröka sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to tell",
@@ -700,14 +695,10 @@
   },
   {
     "en": "to take",
-    "sv": [
-      "ta",
-      "ha samlag med",
-      "behövas"
-    ],
+    "sv": "att ta",
     "rank": 59,
-    "confidence": "3sources",
-    "sv_gt": "att ta"
+    "confidence": "folkets+gt",
+    "sv_claude": "ta"
   },
   {
     "en": "back",
@@ -725,14 +716,10 @@
   },
   {
     "en": "to yield",
-    "sv": [
-      "ge",
-      "skänka",
-      "bevilja"
-    ],
+    "sv": "att ge efter",
     "rank": 61,
-    "confidence": "3sources",
-    "sv_gt": "att ge efter"
+    "confidence": "folkets+gt",
+    "sv_claude": "ge"
   },
   {
     "en": "clear",
@@ -786,25 +773,18 @@
   },
   {
     "en": "to want",
-    "sv": [
-      "vilja",
-      "ambition",
-      "behöva"
-    ],
+    "sv": "att vilja",
     "rank": 64,
-    "confidence": "4sources",
-    "sv_gt": "att vilja"
+    "confidence": "folkets+gt",
+    "sv_claude": "vilja",
+    "sv_apert": "vilja"
   },
   {
     "en": "to begin",
-    "sv": [
-      "börja",
-      "begynna",
-      "börja med"
-    ],
+    "sv": "att börja",
     "rank": 65,
-    "confidence": "3sources",
-    "sv_gt": "att börja"
+    "confidence": "folkets+gt",
+    "sv_claude": "börja"
   },
   {
     "en": "to start",
@@ -1217,14 +1197,9 @@
   },
   {
     "en": "to belong",
-    "sv": [
-      "höra hemma",
-      "höra till",
-      "ha sin plats"
-    ],
+    "sv": "att tillhöra",
     "rank": 96,
-    "confidence": "folkets_only",
-    "sv_gt": "att tillhöra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "any",
@@ -1327,14 +1302,10 @@
   },
   {
     "en": "to need",
-    "sv": [
-      "behöva",
-      "kräva",
-      "fordra"
-    ],
+    "sv": "att behöva",
     "rank": 104,
-    "confidence": "3sources",
-    "sv_gt": "att behöva"
+    "confidence": "folkets+gt",
+    "sv_claude": "behöva"
   },
   {
     "en": "mother",
@@ -1407,14 +1378,9 @@
   },
   {
     "en": "to rise",
-    "sv": [
-      "stiga upp",
-      "komma upp till ytan",
-      "gå upp"
-    ],
+    "sv": "att stiga",
     "rank": 111,
-    "confidence": "folkets_only",
-    "sv_gt": "att stiga",
+    "confidence": "folkets+gt",
     "sv_claude": "stiga"
   },
   {
@@ -1714,14 +1680,10 @@
   },
   {
     "en": "to pay",
-    "sv": [
-      "betala",
-      "erlägga",
-      "bära"
-    ],
+    "sv": "att betala",
     "rank": 134,
-    "confidence": "3sources",
-    "sv_gt": "att betala"
+    "confidence": "folkets+gt",
+    "sv_claude": "betala"
   },
   {
     "en": "to demand",
@@ -1828,25 +1790,16 @@
   },
   {
     "en": "to believe",
-    "sv": [
-      "tro",
-      "förmoda",
-      "anse för troligt"
-    ],
+    "sv": "att tro",
     "rank": 140,
-    "confidence": "3sources",
-    "sv_gt": "att tro"
+    "confidence": "folkets+gt",
+    "sv_claude": "tro"
   },
   {
     "en": "to entrust",
-    "sv": [
-      "anförtro",
-      "överlämna",
-      "hon anförtroddes chefsposten"
-    ],
+    "sv": "att anförtro",
     "rank": 140,
-    "confidence": "folkets+gt",
-    "sv_gt": "att anförtro"
+    "confidence": "folkets+gt"
   },
   {
     "en": "belief",
@@ -1872,14 +1825,9 @@
   },
   {
     "en": "to perform",
-    "sv": [
-      "fungera väl",
-      "prestera",
-      "prestera väl"
-    ],
+    "sv": "att utföra",
     "rank": 141,
-    "confidence": "folkets_only",
-    "sv_gt": "att utföra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to present",
@@ -1960,21 +1908,16 @@
   },
   {
     "en": "to kill",
-    "sv": [
-      "döda",
-      "krossa",
-      "förkrossa"
-    ],
+    "sv": "att döda",
     "rank": 149,
-    "confidence": "3sources",
-    "sv_gt": "att döda"
+    "confidence": "folkets+gt",
+    "sv_claude": "döda"
   },
   {
     "en": "to thresh",
-    "sv": "tröska",
+    "sv": "att tröska",
     "rank": 149,
-    "confidence": "folkets+gt",
-    "sv_gt": "att tröska"
+    "confidence": "folkets+gt"
   },
   {
     "en": "Yeah",
@@ -2165,14 +2108,9 @@
   },
   {
     "en": "to escort",
-    "sv": [
-      "eskort",
-      "kavaljer",
-      "sällskap"
-    ],
+    "sv": "att eskortera",
     "rank": 162,
-    "confidence": "folkets+gt",
-    "sv_gt": "att eskortera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "completed",
@@ -2229,14 +2167,9 @@
   },
   {
     "en": "to initiate",
-    "sv": [
-      "initiera",
-      "sätta i gång",
-      "ta initiativet till"
-    ],
+    "sv": "att initiera",
     "rank": 166,
-    "confidence": "folkets+gt",
-    "sv_gt": "att initiera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "cause",
@@ -2261,14 +2194,9 @@
   },
   {
     "en": "to wax",
-    "sv": [
-      "vaxa",
-      "bli",
-      "bona"
-    ],
+    "sv": "att vaxa",
     "rank": 169,
-    "confidence": "folkets+gt",
-    "sv_gt": "att vaxa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "case",
@@ -2310,14 +2238,9 @@
   },
   {
     "en": "to conduct",
-    "sv": [
-      "dirigera",
-      "dirigera en orkester",
-      "föra"
-    ],
+    "sv": "att bedriva",
     "rank": 172,
-    "confidence": "folkets_only",
-    "sv_gt": "att bedriva"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to lead",
@@ -2532,14 +2455,9 @@
   },
   {
     "en": "to meet",
-    "sv": [
-      "möte",
-      "samling",
-      "mötesplats"
-    ],
+    "sv": "att träffas",
     "rank": 187,
-    "confidence": "folkets_only",
-    "sv_gt": "att träffas",
+    "confidence": "folkets+gt",
     "sv_claude": "möta",
     "sv_apert": "träffa"
   },
@@ -2558,14 +2476,10 @@
   },
   {
     "en": "to continue",
-    "sv": [
-      "fortsätta",
-      "kvarstå",
-      "lägga till"
-    ],
+    "sv": "att fortsätta",
     "rank": 188,
-    "confidence": "3sources",
-    "sv_gt": "att fortsätta"
+    "confidence": "folkets+gt",
+    "sv_claude": "fortsätta"
   },
   {
     "en": "whom",
@@ -2638,14 +2552,9 @@
   },
   {
     "en": "to gamble",
-    "sv": [
-      "spela",
-      "riskera",
-      "spela hasardspel"
-    ],
+    "sv": "att spela",
     "rank": 194,
-    "confidence": "3sources",
-    "sv_gt": "att spela",
+    "confidence": "folkets+gt",
     "sv_claude": "spela om pengar"
   },
   {
@@ -2670,14 +2579,9 @@
   },
   {
     "en": "to take away",
-    "sv": [
-      "ta med sig",
-      "för avhämtning",
-      "hämtmat"
-    ],
+    "sv": "att ta bort",
     "rank": 195,
-    "confidence": "folkets_only",
-    "sv_gt": "att ta bort",
+    "confidence": "folkets+gt",
     "sv_claude": "ta bort"
   },
   {
@@ -3181,14 +3085,10 @@
   },
   {
     "en": "to happen",
-    "sv": [
-      "hända",
-      "inträffa",
-      "råka"
-    ],
+    "sv": "att hända",
     "rank": 236,
-    "confidence": "3sources",
-    "sv_gt": "att hända"
+    "confidence": "folkets+gt",
+    "sv_claude": "hända"
   },
   {
     "en": "objective",
@@ -3709,10 +3609,10 @@
   },
   {
     "en": "to hear",
-    "sv": "höra",
+    "sv": "att höra",
     "rank": 277,
-    "confidence": "3sources",
-    "sv_gt": "att höra"
+    "confidence": "folkets+gt",
+    "sv_claude": "höra"
   },
   {
     "en": "forced",
@@ -3908,14 +3808,10 @@
   },
   {
     "en": "to accept",
-    "sv": [
-      "acceptera",
-      "finna sig i",
-      "anta"
-    ],
+    "sv": "att acceptera",
     "rank": 290,
-    "confidence": "3sources",
-    "sv_gt": "att acceptera"
+    "confidence": "folkets+gt",
+    "sv_claude": "acceptera"
   },
   {
     "en": "weapon",
@@ -4010,14 +3906,9 @@
   },
   {
     "en": "to move",
-    "sv": [
-      "flytta",
-      "flytta på",
-      "maka"
-    ],
+    "sv": "att flytta",
     "rank": 297,
     "confidence": "folkets+gt",
-    "sv_gt": "att flytta",
     "sv_claude": "röra sig"
   },
   {
@@ -4032,14 +3923,9 @@
   },
   {
     "en": "to cause",
-    "sv": [
-      "sak",
-      "rättsfråga",
-      "orsak"
-    ],
+    "sv": "att orsaka",
     "rank": 298,
-    "confidence": "folkets+gt",
-    "sv_gt": "att orsaka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "Wait a minute",
@@ -4081,26 +3967,16 @@
   },
   {
     "en": "to change",
-    "sv": [
-      "byta om",
-      "byta",
-      "byta buss, tåg, etcetera"
-    ],
+    "sv": "att ändra",
     "rank": 301,
-    "confidence": "folkets_only",
-    "sv_gt": "att ändra",
+    "confidence": "folkets+gt",
     "sv_apert": "förändra"
   },
   {
     "en": "to modify",
-    "sv": [
-      "ändra",
-      "förändra genom omljud",
-      "stå som bestämning till"
-    ],
+    "sv": "att ändra",
     "rank": 301,
-    "confidence": "folkets+gt",
-    "sv_gt": "att ändra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "re-",
@@ -4133,25 +4009,16 @@
   },
   {
     "en": "to sell",
-    "sv": [
-      "sälja",
-      "göra tilltalande",
-      "skapa intesse för"
-    ],
+    "sv": "att sälja",
     "rank": 305,
-    "confidence": "3sources",
-    "sv_gt": "att sälja"
+    "confidence": "folkets+gt",
+    "sv_claude": "sälja"
   },
   {
     "en": "to lift",
-    "sv": [
-      "skjuts",
-      "knuff framåt",
-      "föra ut med flyg"
-    ],
+    "sv": "att lyfta",
     "rank": 306,
-    "confidence": "folkets_only",
-    "sv_gt": "att lyfta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "indoors",
@@ -4186,23 +4053,15 @@
   },
   {
     "en": "to remind",
-    "sv": [
-      "påminna",
-      "erinra"
-    ],
+    "sv": "att påminna",
     "rank": 313,
-    "confidence": "folkets+gt",
-    "sv_gt": "att påminna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to resemble",
-    "sv": [
-      "likna",
-      "påminna om"
-    ],
+    "sv": "att likna",
     "rank": 313,
-    "confidence": "folkets+gt",
-    "sv_gt": "att likna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "anew",
@@ -4238,14 +4097,10 @@
   },
   {
     "en": "to participate",
-    "sv": [
-      "delta",
-      "deltaga",
-      "ta del i"
-    ],
+    "sv": "att delta",
     "rank": 318,
-    "confidence": "3sources",
-    "sv_gt": "att delta"
+    "confidence": "folkets+gt",
+    "sv_claude": "delta"
   },
   {
     "en": "evil",
@@ -4261,14 +4116,9 @@
   },
   {
     "en": "to concern",
-    "sv": [
-      "företag",
-      "rörelse",
-      "affär"
-    ],
+    "sv": "att oroa sig",
     "rank": 320,
-    "confidence": "folkets_only",
-    "sv_gt": "att oroa sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to succeed",
@@ -4375,14 +4225,10 @@
   },
   {
     "en": "to die",
-    "sv": [
-      "dö",
-      "avlida",
-      "omkomma"
-    ],
+    "sv": "att dö",
     "rank": 328,
-    "confidence": "3sources",
-    "sv_gt": "att dö",
+    "confidence": "folkets+gt",
+    "sv_claude": "dö",
     "sv_apert": "slockna"
   },
   {
@@ -4773,14 +4619,9 @@
   },
   {
     "en": "to shift",
-    "sv": [
-      "byte",
-      "förändring",
-      "flytta"
-    ],
+    "sv": "att växla",
     "rank": 358,
-    "confidence": "folkets_only",
-    "sv_gt": "att växla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "often",
@@ -5023,25 +4864,16 @@
   },
   {
     "en": "to reach",
-    "sv": [
-      "nå",
-      "nå upp till",
-      "komma fram till"
-    ],
+    "sv": "att nå",
     "rank": 376,
-    "confidence": "3sources",
-    "sv_gt": "att nå"
+    "confidence": "folkets+gt",
+    "sv_claude": "nå"
   },
   {
     "en": "to point",
-    "sv": [
-      "peka med",
-      "rikta mot",
-      "sikta"
-    ],
+    "sv": "att peka",
     "rank": 378,
-    "confidence": "folkets_only",
-    "sv_gt": "att peka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "fortunately",
@@ -5153,36 +4985,22 @@
   },
   {
     "en": "to spell",
-    "sv": [
-      "ersätta",
-      "avlösa",
-      "förtrollning"
-    ],
+    "sv": "att stava",
     "rank": 387,
-    "confidence": "folkets_only",
-    "sv_gt": "att stava"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to trust",
-    "sv": [
-      "ansvar",
-      "förtroende",
-      "förvaltning"
-    ],
+    "sv": "att lita på",
     "rank": 387,
-    "confidence": "folkets_only",
-    "sv_gt": "att lita på"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to write",
-    "sv": [
-      "skriva",
-      "pränta",
-      "författa"
-    ],
+    "sv": "att skriva",
     "rank": 387,
-    "confidence": "3sources",
-    "sv_gt": "att skriva"
+    "confidence": "folkets+gt",
+    "sv_claude": "skriva"
   },
   {
     "en": "trust",
@@ -5345,14 +5163,9 @@
   },
   {
     "en": "to share",
-    "sv": [
-      "dela ut",
-      "fördela",
-      "dela"
-    ],
+    "sv": "att dela",
     "rank": 399,
-    "confidence": "folkets_only",
-    "sv_gt": "att dela",
+    "confidence": "folkets+gt",
     "sv_claude": "dela"
   },
   {
@@ -5440,10 +5253,9 @@
   },
   {
     "en": "to shovel",
-    "sv": "skyffla",
+    "sv": "att skotta",
     "rank": 407,
-    "confidence": "folkets_only",
-    "sv_gt": "att skotta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "election",
@@ -5558,13 +5370,9 @@
   },
   {
     "en": "to explore",
-    "sv": [
-      "utforska",
-      "undersöka"
-    ],
+    "sv": "att utforska",
     "rank": 417,
-    "confidence": "folkets+gt",
-    "sv_gt": "att utforska"
+    "confidence": "folkets+gt"
   },
   {
     "en": "coefficient",
@@ -5602,14 +5410,9 @@
   },
   {
     "en": "to smell",
-    "sv": [
-      "lukt",
-      "obehaglig lukt",
-      "odör"
-    ],
+    "sv": "att lukta",
     "rank": 422,
-    "confidence": "folkets+gt",
-    "sv_gt": "att lukta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to smell like",
@@ -5803,13 +5606,9 @@
   },
   {
     "en": "to identify with",
-    "sv": [
-      "leva sig in i",
-      "visa solidaritet med"
-    ],
+    "sv": "att identifiera sig med",
     "rank": 438,
-    "confidence": "folkets_only",
-    "sv_gt": "att identifiera sig med"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to understand",
@@ -5930,13 +5729,10 @@
   },
   {
     "en": "to explain",
-    "sv": [
-      "förklara",
-      "klargöra"
-    ],
+    "sv": "att förklara",
     "rank": 453,
-    "confidence": "3sources",
-    "sv_gt": "att förklara"
+    "confidence": "folkets+gt",
+    "sv_claude": "förklara"
   },
   {
     "en": "to explicate",
@@ -5994,14 +5790,9 @@
   },
   {
     "en": "to put",
-    "sv": [
-      "sticker",
-      "stoppa handen i fickan",
-      "ställer"
-    ],
+    "sv": "att sätta",
     "rank": 458,
-    "confidence": "folkets_only",
-    "sv_gt": "att sätta",
+    "confidence": "folkets+gt",
     "sv_claude": "lägga"
   },
   {
@@ -6039,14 +5830,9 @@
   },
   {
     "en": "to deal with",
-    "sv": [
-      "ta itu med",
-      "göra affärer med",
-      "handla om"
-    ],
+    "sv": "att ta itu med",
     "rank": 460,
     "confidence": "folkets+gt",
-    "sv_gt": "att ta itu med",
     "sv_claude": "hantera"
   },
   {
@@ -6092,36 +5878,21 @@
   },
   {
     "en": "to enter",
-    "sv": [
-      "anmäla",
-      "deltaga",
-      "ställa upp"
-    ],
+    "sv": "att gå in",
     "rank": 463,
-    "confidence": "folkets_only",
-    "sv_gt": "att gå in"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to mark",
-    "sv": [
-      "markera",
-      "standard",
-      "beteckna"
-    ],
+    "sv": "att markera",
     "rank": 463,
-    "confidence": "folkets+gt",
-    "sv_gt": "att markera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to subscribe",
-    "sv": [
-      "prenumerera",
-      "bidra med",
-      "abonnera"
-    ],
+    "sv": "att prenumerera",
     "rank": 463,
-    "confidence": "folkets+gt",
-    "sv_gt": "att prenumerera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "ratio",
@@ -6231,14 +6002,10 @@
   },
   {
     "en": "to solve",
-    "sv": [
-      "lösa",
-      "lösa ett problem",
-      "finna en lösning"
-    ],
+    "sv": "att lösa",
     "rank": 472,
-    "confidence": "3sources",
-    "sv_gt": "att lösa"
+    "confidence": "folkets+gt",
+    "sv_claude": "lösa"
   },
   {
     "en": "what kind of",
@@ -6394,24 +6161,15 @@
   },
   {
     "en": "to elapse",
-    "sv": [
-      "förflyta",
-      "gå"
-    ],
+    "sv": "att förflyta",
     "rank": 482,
-    "confidence": "folkets+gt",
-    "sv_gt": "att förflyta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to wear",
-    "sv": [
-      "finna sig i",
-      "gå med på",
-      "bruk"
-    ],
+    "sv": "att bära",
     "rank": 482,
-    "confidence": "folkets_only",
-    "sv_gt": "att bära"
+    "confidence": "folkets+gt"
   },
   {
     "en": "head",
@@ -6499,14 +6257,9 @@
   },
   {
     "en": "to dispatch",
-    "sv": [
-      "skicka",
-      "sända",
-      "avsända"
-    ],
+    "sv": "att skicka",
     "rank": 490,
-    "confidence": "folkets+gt",
-    "sv_gt": "att skicka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to send",
@@ -6517,14 +6270,9 @@
   },
   {
     "en": "to transmit",
-    "sv": [
-      "leda",
-      "överföra",
-      "släppa igenom"
-    ],
+    "sv": "att sända",
     "rank": 490,
-    "confidence": "folkets_only",
-    "sv_gt": "att sända"
+    "confidence": "folkets+gt"
   },
   {
     "en": "arrogant",
@@ -6545,25 +6293,15 @@
   },
   {
     "en": "to look for",
-    "sv": [
-      "leta efter",
-      "söka efter",
-      "vänta sig"
-    ],
+    "sv": "att leta efter",
     "rank": 491,
-    "confidence": "folkets+gt",
-    "sv_gt": "att leta efter"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to set",
-    "sv": [
-      "sätta",
-      "tonsätta",
-      "apparat"
-    ],
+    "sv": "att ställa in",
     "rank": 492,
-    "confidence": "folkets_only",
-    "sv_gt": "att ställa in"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to shoot",
@@ -6622,25 +6360,15 @@
   },
   {
     "en": "to discuss",
-    "sv": [
-      "diskutera",
-      "debattera",
-      "överlägga om"
-    ],
+    "sv": "att diskutera",
     "rank": 496,
-    "confidence": "folkets+gt",
-    "sv_gt": "att diskutera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to ponder",
-    "sv": [
-      "begrunda",
-      "överväga",
-      "tänka över"
-    ],
+    "sv": "att begrunda",
     "rank": 496,
-    "confidence": "folkets+gt",
-    "sv_gt": "att begrunda"
+    "confidence": "folkets+gt"
   },
   {
     "en": "care",
@@ -6713,14 +6441,9 @@
   },
   {
     "en": "to bode",
-    "sv": [
-      "lova",
-      "båda",
-      "varsla"
-    ],
+    "sv": "att lova",
     "rank": 503,
-    "confidence": "folkets+gt",
-    "sv_gt": "att lova"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to promise",
@@ -6828,14 +6551,9 @@
   },
   {
     "en": "to acquire",
-    "sv": [
-      "förvärva",
-      "skaffa",
-      "komma över"
-    ],
+    "sv": "att förvärva",
     "rank": 510,
-    "confidence": "folkets+gt",
-    "sv_gt": "att förvärva"
+    "confidence": "folkets+gt"
   },
   {
     "en": "road",
@@ -6846,14 +6564,9 @@
   },
   {
     "en": "to pass",
-    "sv": [
-      "passera",
-      "åka förbi",
-      "gå förbi"
-    ],
+    "sv": "att passera",
     "rank": 511,
-    "confidence": "folkets+gt",
-    "sv_gt": "att passera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "black",
@@ -7306,14 +7019,10 @@
   },
   {
     "en": "to read",
-    "sv": [
-      "läsa",
-      "läsa högt",
-      "stå"
-    ],
+    "sv": "att läsa",
     "rank": 552,
-    "confidence": "3sources",
-    "sv_gt": "att läsa"
+    "confidence": "folkets+gt",
+    "sv_claude": "läsa"
   },
   {
     "en": "abundant",
@@ -7398,14 +7107,9 @@
   },
   {
     "en": "to occur",
-    "sv": [
-      "förekomma",
-      "ske",
-      "äga rum"
-    ],
+    "sv": "att inträffa",
     "rank": 566,
-    "confidence": "folkets_only",
-    "sv_gt": "att inträffa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to assert",
@@ -7415,10 +7119,9 @@
   },
   {
     "en": "to convince",
-    "sv": "övertyga",
+    "sv": "att övertyga",
     "rank": 567,
-    "confidence": "folkets+gt",
-    "sv_gt": "att övertyga"
+    "confidence": "folkets+gt"
   },
   {
     "en": "carefully",
@@ -7568,25 +7271,15 @@
   },
   {
     "en": "to renew",
-    "sv": [
-      "förnya",
-      "förlänga",
-      "prolongera"
-    ],
+    "sv": "att förnya",
     "rank": 576,
-    "confidence": "folkets+gt",
-    "sv_gt": "att förnya"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to introduce",
-    "sv": [
-      "göra bekant med",
-      "presentera",
-      "introducera"
-    ],
+    "sv": "att införa",
     "rank": 577,
-    "confidence": "folkets_only",
-    "sv_gt": "att införa",
+    "confidence": "folkets+gt",
     "sv_claude": "presentera"
   },
   {
@@ -7730,10 +7423,9 @@
   },
   {
     "en": "to transfer",
-    "sv": "överföring",
+    "sv": "att överföra",
     "rank": 584,
-    "confidence": "folkets_only",
-    "sv_gt": "att överföra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "direct",
@@ -7933,14 +7625,9 @@
   },
   {
     "en": "to thwart",
-    "sv": [
-      "hindra",
-      "avvärja",
-      "motarbeta"
-    ],
+    "sv": "att motverka",
     "rank": 603,
-    "confidence": "folkets_only",
-    "sv_gt": "att motverka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "village",
@@ -8038,14 +7725,9 @@
   },
   {
     "en": "to notice",
-    "sv": [
-      "anmäla",
-      "recensera",
-      "förvarning"
-    ],
+    "sv": "att lägga märke till",
     "rank": 610,
-    "confidence": "folkets_only",
-    "sv_gt": "att lägga märke till"
+    "confidence": "folkets+gt"
   },
   {
     "en": "less",
@@ -8075,14 +7757,9 @@
   },
   {
     "en": "to reproduce",
-    "sv": [
-      "reproducera",
-      "fortplanta",
-      "regenerera"
-    ],
+    "sv": "att reproducera",
     "rank": 614,
-    "confidence": "folkets+gt",
-    "sv_gt": "att reproducera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to wicked! cool!",
@@ -8124,14 +7801,9 @@
   },
   {
     "en": "to dominate",
-    "sv": [
-      "dominera",
-      "behärska",
-      "styra"
-    ],
+    "sv": "att dominera",
     "rank": 618,
-    "confidence": "folkets+gt",
-    "sv_gt": "att dominera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to rule",
@@ -8141,13 +7813,10 @@
   },
   {
     "en": "to thank",
-    "sv": [
-      "tacka",
-      "avtacka"
-    ],
+    "sv": "att tacka",
     "rank": 618,
-    "confidence": "3sources",
-    "sv_gt": "att tacka"
+    "confidence": "folkets+gt",
+    "sv_claude": "tacka"
   },
   {
     "en": "hunger",
@@ -8211,14 +7880,9 @@
   },
   {
     "en": "to steer",
-    "sv": [
-      "styra",
-      "uppmärksamhet",
-      "trappbrytare"
-    ],
+    "sv": "att styra",
     "rank": 624,
-    "confidence": "folkets+gt",
-    "sv_gt": "att styra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "bracket",
@@ -8263,14 +7927,9 @@
   },
   {
     "en": "to fly",
-    "sv": [
-      "flyga upp",
-      "bli rasande",
-      "fly"
-    ],
+    "sv": "att flyga",
     "rank": 627,
-    "confidence": "folkets_only",
-    "sv_gt": "att flyga",
+    "confidence": "folkets+gt",
     "sv_claude": "flyga"
   },
   {
@@ -8286,14 +7945,9 @@
   },
   {
     "en": "to imagine",
-    "sv": [
-      "föreställa sig",
-      "tänka sig",
-      "gissa"
-    ],
+    "sv": "att föreställa sig",
     "rank": 628,
-    "confidence": "folkets+gt",
-    "sv_gt": "att föreställa sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "date",
@@ -8383,14 +8037,10 @@
   },
   {
     "en": "to suffer",
-    "sv": [
-      "lida",
-      "straffas",
-      "drabbas av"
-    ],
+    "sv": "att lida",
     "rank": 635,
-    "confidence": "3sources",
-    "sv_gt": "att lida"
+    "confidence": "folkets+gt",
+    "sv_claude": "lida"
   },
   {
     "en": "poorly",
@@ -8446,14 +8096,9 @@
   },
   {
     "en": "to go around",
-    "sv": [
-      "vara ute tillsammans",
-      "vara ute tillsammans med",
-      "dra omkring"
-    ],
+    "sv": "att gå runt",
     "rank": 638,
-    "confidence": "folkets_only",
-    "sv_gt": "att gå runt"
+    "confidence": "folkets+gt"
   },
   {
     "en": "key",
@@ -8509,14 +8154,9 @@
   },
   {
     "en": "to exchange",
-    "sv": [
-      "byta",
-      "byta ut",
-      "utbyta"
-    ],
+    "sv": "att byta",
     "rank": 641,
-    "confidence": "folkets+gt",
-    "sv_gt": "att byta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "line",
@@ -8633,25 +8273,16 @@
   },
   {
     "en": "to slope",
-    "sv": [
-      "backe",
-      "sluttning",
-      "sluttande väg; kulle"
-    ],
+    "sv": "att slutta",
     "rank": 652,
-    "confidence": "folkets_only",
-    "sv_gt": "att slutta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to spend",
-    "sv": [
-      "spendera",
-      "lägga ut pengar",
-      "kosta på"
-    ],
+    "sv": "att spendera",
     "rank": 652,
-    "confidence": "3sources",
-    "sv_gt": "att spendera"
+    "confidence": "folkets+gt",
+    "sv_claude": "spendera"
   },
   {
     "en": "paternal uncle",
@@ -8678,25 +8309,16 @@
   },
   {
     "en": "to let",
-    "sv": [
-      "låta",
-      "tillåta",
-      "släppa in"
-    ],
+    "sv": "att låta",
     "rank": 654,
-    "confidence": "folkets+gt",
-    "sv_gt": "att låta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to protect",
-    "sv": [
-      "skydda",
-      "beskydda",
-      "värna"
-    ],
+    "sv": "att skydda",
     "rank": 655,
-    "confidence": "3sources",
-    "sv_gt": "att skydda"
+    "confidence": "folkets+gt",
+    "sv_claude": "skydda"
   },
   {
     "en": "present",
@@ -8783,14 +8405,9 @@
   },
   {
     "en": "to centralize",
-    "sv": [
-      "centralisera",
-      "koncentrera till ett ställe",
-      "förena"
-    ],
+    "sv": "att centralisera",
     "rank": 662,
-    "confidence": "folkets+gt",
-    "sv_gt": "att centralisera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to concentrate",
@@ -8973,10 +8590,9 @@
   },
   {
     "en": "to listen",
-    "sv": "lyssna",
+    "sv": "att lyssna",
     "rank": 672,
-    "confidence": "folkets+gt",
-    "sv_gt": "att lyssna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to be based on",
@@ -9097,25 +8713,15 @@
   },
   {
     "en": "to scare",
-    "sv": [
-      "skrämma bort",
-      "bli skrämd",
-      "panikstämning"
-    ],
+    "sv": "att skrämma",
     "rank": 682,
-    "confidence": "folkets_only",
-    "sv_gt": "att skrämma"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to suppose",
-    "sv": [
-      "anta",
-      "antaga",
-      "ponera"
-    ],
+    "sv": "att anta",
     "rank": 684,
-    "confidence": "folkets+gt",
-    "sv_gt": "att anta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "Estonia",
@@ -9185,14 +8791,9 @@
   },
   {
     "en": "to hurt",
-    "sv": [
-      "men",
-      "oförrätt",
-      "skada"
-    ],
+    "sv": "att göra ont",
     "rank": 688,
-    "confidence": "folkets_only",
-    "sv_gt": "att göra ont"
+    "confidence": "folkets+gt"
   },
   {
     "en": "evolution",
@@ -9216,14 +8817,9 @@
   },
   {
     "en": "to fear",
-    "sv": [
-      "fara",
-      "anledning till fruktan",
-      "farhåga"
-    ],
+    "sv": "att frukta",
     "rank": 690,
-    "confidence": "folkets_only",
-    "sv_gt": "att frukta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "fresh",
@@ -9296,10 +8892,10 @@
   },
   {
     "en": "to threaten",
-    "sv": "hota",
+    "sv": "att hota",
     "rank": 699,
-    "confidence": "3sources",
-    "sv_gt": "att hota"
+    "confidence": "folkets+gt",
+    "sv_claude": "hota"
   },
   {
     "en": "official",
@@ -9441,14 +9037,9 @@
   },
   {
     "en": "to own",
-    "sv": [
-      "äga",
-      "erkänna",
-      "tillstå"
-    ],
+    "sv": "att äga",
     "rank": 709,
-    "confidence": "folkets+gt",
-    "sv_gt": "att äga"
+    "confidence": "folkets+gt"
   },
   {
     "en": "upstairs",
@@ -9493,14 +9084,9 @@
   },
   {
     "en": "to surprise",
-    "sv": [
-      "överraska",
-      "överraskning",
-      "förvåning"
-    ],
+    "sv": "att överraska",
     "rank": 716,
-    "confidence": "folkets+gt",
-    "sv_gt": "att överraska"
+    "confidence": "folkets+gt"
   },
   {
     "en": "prostitute",
@@ -9516,14 +9102,9 @@
   },
   {
     "en": "to remark",
-    "sv": [
-      "iaktta",
-      "märka",
-      "lägga märke till"
-    ],
+    "sv": "att anmärka",
     "rank": 717,
-    "confidence": "folkets_only",
-    "sv_gt": "att anmärka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "whore",
@@ -9586,14 +9167,9 @@
   },
   {
     "en": "to debate",
-    "sv": [
-      "debatt",
-      "diskussion",
-      "meningsutbyte"
-    ],
+    "sv": "att debattera",
     "rank": 721,
-    "confidence": "folkets+gt",
-    "sv_gt": "att debattera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "along",
@@ -9748,25 +9324,15 @@
   },
   {
     "en": "to condemn",
-    "sv": [
-      "fördöma",
-      "döma ut",
-      "kassera"
-    ],
+    "sv": "att fördöma",
     "rank": 734,
-    "confidence": "folkets+gt",
-    "sv_gt": "att fördöma"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to sentence",
-    "sv": [
-      "döma",
-      "dom",
-      "utslag"
-    ],
+    "sv": "att döma",
     "rank": 734,
-    "confidence": "folkets+gt",
-    "sv_gt": "att döma"
+    "confidence": "folkets+gt"
   },
   {
     "en": "center/centre",
@@ -9821,25 +9387,16 @@
   },
   {
     "en": "to escape",
-    "sv": [
-      "fly",
-      "lyckas fly",
-      "rymma"
-    ],
+    "sv": "att fly",
     "rank": 738,
-    "confidence": "3sources",
-    "sv_gt": "att fly"
+    "confidence": "folkets+gt",
+    "sv_claude": "fly"
   },
   {
     "en": "to flee",
-    "sv": [
-      "fly",
-      "fly från",
-      "försvinna"
-    ],
+    "sv": "att fly",
     "rank": 738,
-    "confidence": "folkets+gt",
-    "sv_gt": "att fly"
+    "confidence": "folkets+gt"
   },
   {
     "en": "killer",
@@ -9869,14 +9426,10 @@
   },
   {
     "en": "to improve",
-    "sv": [
-      "förbättra",
-      "förbättras",
-      "öka värdet på"
-    ],
+    "sv": "att förbättra",
     "rank": 747,
-    "confidence": "3sources",
-    "sv_gt": "att förbättra"
+    "confidence": "folkets+gt",
+    "sv_claude": "förbättra"
   },
   {
     "en": "cover",
@@ -10046,25 +9599,15 @@
   },
   {
     "en": "to combat",
-    "sv": [
-      "bekämpa",
-      "strida mot",
-      "kämpa mot"
-    ],
+    "sv": "att bekämpa",
     "rank": 759,
-    "confidence": "folkets+gt",
-    "sv_gt": "att bekämpa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to fight",
-    "sv": [
-      "kämpa för",
-      "konkurrera om",
-      "kämpa mot"
-    ],
+    "sv": "att slåss",
     "rank": 759,
-    "confidence": "folkets_only",
-    "sv_gt": "att slåss",
+    "confidence": "folkets+gt",
     "sv_claude": "kämpa"
   },
   {
@@ -10121,26 +9664,16 @@
   },
   {
     "en": "to advance",
-    "sv": [
-      "avancera",
-      "bli befordrad",
-      "befordra"
-    ],
+    "sv": "att avancera",
     "rank": 765,
     "confidence": "folkets+gt",
-    "sv_gt": "att avancera",
     "sv_claude": "gå framåt"
   },
   {
     "en": "to proceed",
-    "sv": [
-      "fortsätta",
-      "gå vidare",
-      "bege sig"
-    ],
+    "sv": "att fortsätta",
     "rank": 765,
-    "confidence": "folkets+gt",
-    "sv_gt": "att fortsätta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "Satan",
@@ -10150,14 +9683,9 @@
   },
   {
     "en": "to justify",
-    "sv": [
-      "förklara",
-      "urskulda",
-      "rättfärdiga"
-    ],
+    "sv": "att motivera",
     "rank": 766,
-    "confidence": "folkets_only",
-    "sv_gt": "att motivera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "ban",
@@ -10190,25 +9718,16 @@
   },
   {
     "en": "to forbid",
-    "sv": [
-      "förbjuda",
-      "gud förbjude!",
-      "förhindra"
-    ],
+    "sv": "att förbjuda",
     "rank": 767,
-    "confidence": "3sources",
-    "sv_gt": "att förbjuda"
+    "confidence": "folkets+gt",
+    "sv_claude": "förbjuda"
   },
   {
     "en": "to prohibit",
-    "sv": [
-      "förbjuda",
-      "förhindra",
-      "hindra"
-    ],
+    "sv": "att förbjuda",
     "rank": 767,
-    "confidence": "folkets+gt",
-    "sv_gt": "att förbjuda"
+    "confidence": "folkets+gt"
   },
   {
     "en": "error",
@@ -10380,14 +9899,9 @@
   },
   {
     "en": "to drop",
-    "sv": [
-      "djup",
-      "fall",
-      "fallhöjd"
-    ],
+    "sv": "att släppa",
     "rank": 780,
-    "confidence": "folkets_only",
-    "sv_gt": "att släppa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to presuppose",
@@ -10397,14 +9911,9 @@
   },
   {
     "en": "to compound",
-    "sv": [
-      "blanda ihop",
-      "blanda",
-      "blanda till"
-    ],
+    "sv": "att sammansätta",
     "rank": 784,
-    "confidence": "folkets_only",
-    "sv_gt": "att sammansätta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "crisis",
@@ -10510,14 +10019,9 @@
   },
   {
     "en": "to existent",
-    "sv": [
-      "dagens",
-      "nuvarande",
-      "existerande"
-    ],
+    "sv": "att existera",
     "rank": 793,
-    "confidence": "folkets_only",
-    "sv_gt": "att existera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "December",
@@ -10646,10 +10150,9 @@
   },
   {
     "en": "to try out",
-    "sv": "testa",
+    "sv": "att prova",
     "rank": 803,
-    "confidence": "folkets_only",
-    "sv_gt": "att prova"
+    "confidence": "folkets+gt"
   },
   {
     "en": "awake",
@@ -10764,14 +10267,9 @@
   },
   {
     "en": "to place",
-    "sv": [
-      "placera",
-      "hus",
-      "bostad"
-    ],
+    "sv": "att placera",
     "rank": 814,
-    "confidence": "folkets+gt",
-    "sv_gt": "att placera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "occasion",
@@ -11036,14 +10534,9 @@
   },
   {
     "en": "to determine",
-    "sv": [
-      "bestämma",
-      "fastställa",
-      "avgöra"
-    ],
+    "sv": "att bestämma",
     "rank": 838,
-    "confidence": "folkets+gt",
-    "sv_gt": "att bestämma"
+    "confidence": "folkets+gt"
   },
   {
     "en": "act",
@@ -11140,10 +10633,9 @@
   },
   {
     "en": "to long for",
-    "sv": "längta efter",
+    "sv": "att längta efter",
     "rank": 845,
-    "confidence": "folkets+gt",
-    "sv_gt": "att längta efter"
+    "confidence": "folkets+gt"
   },
   {
     "en": "incredible",
@@ -11223,14 +10715,9 @@
   },
   {
     "en": "to book",
-    "sv": [
-      "boka",
-      "förhandsbeställa",
-      "reservera"
-    ],
+    "sv": "att boka",
     "rank": 854,
-    "confidence": "folkets+gt",
-    "sv_gt": "att boka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to beat",
@@ -11240,14 +10727,9 @@
   },
   {
     "en": "to exit",
-    "sv": [
-      "gå ut",
-      "göra sorti",
-      "göra sin sorti"
-    ],
+    "sv": "att gå ur",
     "rank": 855,
-    "confidence": "folkets_only",
-    "sv_gt": "att gå ur"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to hit",
@@ -11286,14 +10768,9 @@
   },
   {
     "en": "to rank",
-    "sv": [
-      "fullkomlig",
-      "för tätväxande",
-      "frodig"
-    ],
+    "sv": "att rangordna",
     "rank": 857,
-    "confidence": "folkets_only",
-    "sv_gt": "att rangordna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "play",
@@ -11494,14 +10971,9 @@
   },
   {
     "en": "to abandon",
-    "sv": [
-      "ge upp",
-      "avstå från",
-      "frångå"
-    ],
+    "sv": "att överge",
     "rank": 874,
-    "confidence": "folkets_only",
-    "sv_gt": "att överge"
+    "confidence": "folkets+gt"
   },
   {
     "en": "beside",
@@ -11527,14 +10999,9 @@
   },
   {
     "en": "to invent",
-    "sv": [
-      "tänka ut",
-      "hitta på",
-      "dikta upp"
-    ],
+    "sv": "att uppfinna",
     "rank": 876,
-    "confidence": "folkets_only",
-    "sv_gt": "att uppfinna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "example",
@@ -11573,14 +11040,9 @@
   },
   {
     "en": "to arouse",
-    "sv": [
-      "väcka",
-      "uppväcka",
-      "väcka till liv"
-    ],
+    "sv": "att väcka",
     "rank": 879,
-    "confidence": "folkets+gt",
-    "sv_gt": "att väcka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to wake up",
@@ -11679,10 +11141,9 @@
   },
   {
     "en": "to pan out",
-    "sv": "lyckas",
+    "sv": "att panorera ut",
     "rank": 885,
-    "confidence": "folkets_only",
-    "sv_gt": "att panorera ut"
+    "confidence": "folkets+gt"
   },
   {
     "en": "deep forest",
@@ -11710,21 +11171,15 @@
   },
   {
     "en": "to contain",
-    "sv": [
-      "begränsa",
-      "binda",
-      "hindra"
-    ],
+    "sv": "att innehålla",
     "rank": 888,
-    "confidence": "folkets_only",
-    "sv_gt": "att innehålla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to scat",
-    "sv": "försvinna snabbt",
+    "sv": "att scat",
     "rank": 888,
-    "confidence": "folkets_only",
-    "sv_gt": "att scat"
+    "confidence": "folkets+gt"
   },
   {
     "en": "congregation",
@@ -11786,14 +11241,10 @@
   },
   {
     "en": "to accuse",
-    "sv": [
-      "anklaga",
-      "beskylla",
-      "åtala"
-    ],
+    "sv": "att anklaga",
     "rank": 893,
-    "confidence": "3sources",
-    "sv_gt": "att anklaga"
+    "confidence": "folkets+gt",
+    "sv_claude": "anklaga"
   },
   {
     "en": "to blame",
@@ -11900,14 +11351,10 @@
   },
   {
     "en": "to replace",
-    "sv": [
-      "ersätta",
-      "byta ut",
-      "avlösa"
-    ],
+    "sv": "att ersätta",
     "rank": 901,
-    "confidence": "3sources",
-    "sv_gt": "att ersätta"
+    "confidence": "folkets+gt",
+    "sv_claude": "ersätta"
   },
   {
     "en": "hilly",
@@ -12163,48 +11610,28 @@
   },
   {
     "en": "to wonder",
-    "sv": [
-      "bli förvånad",
-      "fenomen",
-      "fundera över"
-    ],
+    "sv": "att undra",
     "rank": 926,
-    "confidence": "folkets_only",
-    "sv_gt": "att undra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to object",
-    "sv": [
-      "invända",
-      "föremål",
-      "föremål för"
-    ],
+    "sv": "att invända",
     "rank": 927,
-    "confidence": "folkets+gt",
-    "sv_gt": "att invända"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to resist",
-    "sv": [
-      "göra motstånd mot",
-      "motstå",
-      "stå emot"
-    ],
+    "sv": "att göra motstånd",
     "rank": 927,
-    "confidence": "folkets_only",
-    "sv_gt": "att göra motstånd",
+    "confidence": "folkets+gt",
     "sv_claude": "motstå"
   },
   {
     "en": "to check",
-    "sv": [
-      "stanna",
-      "check",
-      "bankanvisning"
-    ],
+    "sv": "att kontrollera",
     "rank": 929,
-    "confidence": "folkets_only",
-    "sv_gt": "att kontrollera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to enjoy",
@@ -12227,14 +11654,9 @@
   },
   {
     "en": "to last",
-    "sv": [
-      "leva",
-      "läst",
-      "räcka"
-    ],
+    "sv": "att hålla",
     "rank": 931,
-    "confidence": "folkets_only",
-    "sv_gt": "att hålla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "February",
@@ -12362,21 +11784,15 @@
   },
   {
     "en": "to convey",
-    "sv": [
-      "förmedla",
-      "leda",
-      "överföra"
-    ],
+    "sv": "att förmedla",
     "rank": 940,
-    "confidence": "folkets+gt",
-    "sv_gt": "att förmedla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to favor",
-    "sv": "se favour",
+    "sv": "att gynna",
     "rank": 940,
-    "confidence": "folkets_only",
-    "sv_gt": "att gynna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to favor/favour",
@@ -12439,24 +11855,15 @@
   },
   {
     "en": "to accrue",
-    "sv": [
-      "tillfalla",
-      "öka"
-    ],
+    "sv": "att tillfalla",
     "rank": 945,
-    "confidence": "folkets+gt",
-    "sv_gt": "att tillfalla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to accumulate",
-    "sv": [
-      "hopa sig",
-      "ackumuleras",
-      "samlas"
-    ],
+    "sv": "att ackumulera",
     "rank": 945,
-    "confidence": "folkets_only",
-    "sv_gt": "att ackumulera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "pig",
@@ -12667,21 +12074,15 @@
   },
   {
     "en": "to borrow",
-    "sv": "låna",
+    "sv": "att låna",
     "rank": 962,
-    "confidence": "folkets+gt",
-    "sv_gt": "att låna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to loan",
-    "sv": [
-      "låna ut",
-      "lån",
-      "ta ett lån"
-    ],
+    "sv": "att låna",
     "rank": 962,
-    "confidence": "folkets_only",
-    "sv_gt": "att låna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to observe",
@@ -12697,14 +12098,9 @@
   },
   {
     "en": "to go over",
-    "sv": [
-      "gå över",
-      "gå igenom",
-      "kontrollera"
-    ],
+    "sv": "att gå över",
     "rank": 963,
-    "confidence": "folkets+gt",
-    "sv_gt": "att gå över"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to said",
@@ -12856,14 +12252,9 @@
   },
   {
     "en": "to progress",
-    "sv": [
-      "framsteg",
-      "utveckling",
-      "utvecklas"
-    ],
+    "sv": "att gå vidare",
     "rank": 974,
-    "confidence": "folkets_only",
-    "sv_gt": "att gå vidare",
+    "confidence": "folkets+gt",
     "sv_claude": "framskrida"
   },
   {
@@ -12880,14 +12271,9 @@
   },
   {
     "en": "to strike",
-    "sv": [
-      "miss",
-      "halvmiss",
-      "anfall"
-    ],
+    "sv": "att slå",
     "rank": 976,
-    "confidence": "folkets_only",
-    "sv_gt": "att slå"
+    "confidence": "folkets+gt"
   },
   {
     "en": "in person",
@@ -13020,14 +12406,9 @@
   },
   {
     "en": "to consult",
-    "sv": [
-      "rådfråga",
-      "konsultera",
-      "konsultera en läkare"
-    ],
+    "sv": "att rådfråga",
     "rank": 986,
     "confidence": "folkets+gt",
-    "sv_gt": "att rådfråga",
     "sv_claude": "konsultera"
   },
   {
@@ -13039,25 +12420,15 @@
   },
   {
     "en": "to recognize",
-    "sv": [
-      "erkänna",
-      "inse",
-      "förstå nödvändigheten av"
-    ],
+    "sv": "att känna igen",
     "rank": 987,
-    "confidence": "folkets_only",
-    "sv_gt": "att känna igen"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to reward",
-    "sv": [
-      "belöna",
-      "löna",
-      "vedergälla"
-    ],
+    "sv": "att belöna",
     "rank": 987,
-    "confidence": "folkets+gt",
-    "sv_gt": "att belöna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "corresponding",
@@ -13368,14 +12739,9 @@
   },
   {
     "en": "to distinguish",
-    "sv": [
-      "göra skillnad",
-      "skilja",
-      "skilja mellan"
-    ],
+    "sv": "att särskilja",
     "rank": 1017,
-    "confidence": "folkets_only",
-    "sv_gt": "att särskilja"
+    "confidence": "folkets+gt"
   },
   {
     "en": "sexy",
@@ -13430,14 +12796,9 @@
   },
   {
     "en": "to rotate",
-    "sv": [
-      "roterar",
-      "ett roterande hjul",
-      "snurrar"
-    ],
+    "sv": "att rotera",
     "rank": 1025,
-    "confidence": "folkets_only",
-    "sv_gt": "att rotera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "dress",
@@ -13471,14 +12832,9 @@
   },
   {
     "en": "to rain",
-    "sv": [
-      "regn",
-      "åska och regn",
-      "ett regn av pilar"
-    ],
+    "sv": "att regna",
     "rank": 1030,
-    "confidence": "folkets+gt",
-    "sv_gt": "att regna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "brain",
@@ -13561,14 +12917,10 @@
   },
   {
     "en": "to confess",
-    "sv": [
-      "bekänna",
-      "erkänna",
-      "bikta sig"
-    ],
+    "sv": "att bekänna",
     "rank": 1036,
-    "confidence": "3sources",
-    "sv_gt": "att bekänna"
+    "confidence": "folkets+gt",
+    "sv_claude": "bekänna"
   },
   {
     "en": "to plead guilty",
@@ -13667,14 +13019,10 @@
   },
   {
     "en": "to reveal",
-    "sv": [
-      "avslöja",
-      "röja",
-      "yppa"
-    ],
+    "sv": "att avslöja",
     "rank": 1044,
-    "confidence": "3sources",
-    "sv_gt": "att avslöja"
+    "confidence": "folkets+gt",
+    "sv_claude": "avslöja"
   },
   {
     "en": "to breed",
@@ -13684,36 +13032,21 @@
   },
   {
     "en": "to detonate",
-    "sv": [
-      "detonera",
-      "explodera",
-      "brisera"
-    ],
+    "sv": "att detonera",
     "rank": 1046,
-    "confidence": "folkets+gt",
-    "sv_gt": "att detonera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to educate",
-    "sv": [
-      "utbilda",
-      "lära",
-      "träna"
-    ],
+    "sv": "att utbilda",
     "rank": 1046,
-    "confidence": "folkets+gt",
-    "sv_gt": "att utbilda"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to explode",
-    "sv": [
-      "avslöja",
-      "sticka hål på",
-      "bringa i dålig dager"
-    ],
+    "sv": "att explodera",
     "rank": 1046,
-    "confidence": "folkets_only",
-    "sv_gt": "att explodera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "likely",
@@ -13815,36 +13148,21 @@
   },
   {
     "en": "to disappear",
-    "sv": [
-      "dö ut",
-      "sluta finnas till",
-      "upphöra"
-    ],
+    "sv": "att försvinna",
     "rank": 1054,
-    "confidence": "folkets_only",
-    "sv_gt": "att försvinna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to alienate",
-    "sv": [
-      "alienera",
-      "göra främmande",
-      "fjärma"
-    ],
+    "sv": "att alienera",
     "rank": 1055,
-    "confidence": "folkets+gt",
-    "sv_gt": "att alienera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to hand over",
-    "sv": [
-      "räcka över",
-      "lämna ifrån sig",
-      "överlämna"
-    ],
+    "sv": "att lämna över",
     "rank": 1055,
-    "confidence": "folkets_only",
-    "sv_gt": "att lämna över"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to study",
@@ -13978,13 +13296,9 @@
   },
   {
     "en": "to roam",
-    "sv": [
-      "strova igenom",
-      "ströva omkring"
-    ],
+    "sv": "att ströva",
     "rank": 1069,
-    "confidence": "folkets_only",
-    "sv_gt": "att ströva"
+    "confidence": "folkets+gt"
   },
   {
     "en": "cheap",
@@ -14056,13 +13370,9 @@
   },
   {
     "en": "to delete",
-    "sv": [
-      "ta bort",
-      "stryka"
-    ],
+    "sv": "att radera",
     "rank": 1076,
-    "confidence": "folkets_only",
-    "sv_gt": "att radera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to remove",
@@ -14085,14 +13395,9 @@
   },
   {
     "en": "to hold back",
-    "sv": [
-      "dölja",
-      "inte visa",
-      "förhindra utvecklingen av"
-    ],
+    "sv": "att hålla tillbaka",
     "rank": 1080,
-    "confidence": "folkets_only",
-    "sv_gt": "att hålla tillbaka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to reserve",
@@ -14132,14 +13437,9 @@
   },
   {
     "en": "to revive",
-    "sv": [
-      "återuppliva",
-      "blåsa nytt liv i",
-      "få nytt liv"
-    ],
+    "sv": "att återuppliva",
     "rank": 1084,
-    "confidence": "folkets+gt",
-    "sv_gt": "att återuppliva"
+    "confidence": "folkets+gt"
   },
   {
     "en": "employer",
@@ -14218,14 +13518,9 @@
   },
   {
     "en": "to poke",
-    "sv": [
-      "petar",
-      "peta inte i kontakten!",
-      "peta (i) näsan"
-    ],
+    "sv": "att peta",
     "rank": 1093,
-    "confidence": "folkets_only",
-    "sv_gt": "att peta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "summit",
@@ -14258,14 +13553,9 @@
   },
   {
     "en": "to breathe",
-    "sv": [
-      "andas",
-      "uttrycka",
-      "viska fram"
-    ],
+    "sv": "att andas",
     "rank": 1098,
-    "confidence": "folkets+gt",
-    "sv_gt": "att andas"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to celebrate",
@@ -14384,14 +13674,9 @@
   },
   {
     "en": "to submit",
-    "sv": [
-      "göra gällande",
-      "påstå",
-      "hävda"
-    ],
+    "sv": "att lämna in",
     "rank": 1112,
-    "confidence": "folkets_only",
-    "sv_gt": "att lämna in"
+    "confidence": "folkets+gt"
   },
   {
     "en": "intelligent",
@@ -14470,20 +13755,16 @@
   },
   {
     "en": "to leak",
-    "sv": [
-      "läcka",
-      "även bildligt"
-    ],
+    "sv": "att läcka",
     "rank": 1118,
-    "confidence": "3sources",
-    "sv_gt": "att läcka"
+    "confidence": "folkets+gt",
+    "sv_claude": "läcka"
   },
   {
     "en": "to spill",
-    "sv": "utsläpp",
+    "sv": "att spilla",
     "rank": 1118,
-    "confidence": "folkets_only",
-    "sv_gt": "att spilla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "experienced",
@@ -14559,14 +13840,9 @@
   },
   {
     "en": "to deliberate",
-    "sv": [
-      "försiktig",
-      "betänksam",
-      "behärskad"
-    ],
+    "sv": "att överväga",
     "rank": 1126,
-    "confidence": "folkets_only",
-    "sv_gt": "att överväga"
+    "confidence": "folkets+gt"
   },
   {
     "en": "technique",
@@ -14741,14 +14017,9 @@
   },
   {
     "en": "to capsize",
-    "sv": [
-      "kapsejsa",
-      "kantra",
-      "välta"
-    ],
+    "sv": "att kapsejsa",
     "rank": 1142,
-    "confidence": "folkets+gt",
-    "sv_gt": "att kapsejsa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to fall",
@@ -15008,48 +14279,28 @@
   },
   {
     "en": "to signal",
-    "sv": [
-      "betydande",
-      "signifikant",
-      "signal"
-    ],
+    "sv": "att signalera",
     "rank": 1166,
-    "confidence": "folkets_only",
-    "sv_gt": "att signalera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to agree",
-    "sv": [
-      "få att stämma",
-      "godkänna",
-      "samtycka"
-    ],
+    "sv": "att komma överens",
     "rank": 1167,
-    "confidence": "folkets_only",
-    "sv_gt": "att komma överens",
+    "confidence": "folkets+gt",
     "sv_claude": "hålla med"
   },
   {
     "en": "to appreciate",
-    "sv": [
-      "uppskatta",
-      "stiga i värde",
-      "sätta värde på"
-    ],
+    "sv": "att uppskatta",
     "rank": 1168,
-    "confidence": "folkets+gt",
-    "sv_gt": "att uppskatta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to value",
-    "sv": [
-      "värdera",
-      "uppskatta",
-      "taxera"
-    ],
+    "sv": "att värdera",
     "rank": 1168,
-    "confidence": "folkets+gt",
-    "sv_gt": "att värdera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "angel",
@@ -15085,14 +14336,10 @@
   },
   {
     "en": "to spoil",
-    "sv": [
-      "förstöra",
-      "klema bort",
-      "pjoska med"
-    ],
+    "sv": "att skämma bort",
     "rank": 1171,
-    "confidence": "folkets+claude",
-    "sv_gt": "att skämma bort"
+    "confidence": "folkets+gt",
+    "sv_claude": "förstöra"
   },
   {
     "en": "to deceive",
@@ -15121,14 +14368,9 @@
   },
   {
     "en": "to repel",
-    "sv": [
-      "driva tillbaka",
-      "slå tillbaka",
-      "repellera"
-    ],
+    "sv": "att stöta bort",
     "rank": 1176,
-    "confidence": "folkets_only",
-    "sv_gt": "att stöta bort"
+    "confidence": "folkets+gt"
   },
   {
     "en": "timetable",
@@ -15219,14 +14461,9 @@
   },
   {
     "en": "to prosper",
-    "sv": [
-      "blomstra",
-      "lyckas",
-      "ha framgång"
-    ],
+    "sv": "att blomstra",
     "rank": 1184,
     "confidence": "folkets+gt",
-    "sv_gt": "att blomstra",
     "sv_claude": "frodas"
   },
   {
@@ -15377,14 +14614,9 @@
   },
   {
     "en": "to force",
-    "sv": [
-      "bryta upp",
-      "driva fram",
-      "framkalla"
-    ],
+    "sv": "att tvinga",
     "rank": 1198,
-    "confidence": "folkets_only",
-    "sv_gt": "att tvinga"
+    "confidence": "folkets+gt"
   },
   {
     "en": "fat",
@@ -15419,26 +14651,16 @@
   },
   {
     "en": "to appeal",
-    "sv": [
-      "besvär",
-      "appellera",
-      "vädja"
-    ],
+    "sv": "att överklaga",
     "rank": 1201,
-    "confidence": "folkets_only",
-    "sv_gt": "att överklaga",
+    "confidence": "folkets+gt",
     "sv_claude": "tilltala"
   },
   {
     "en": "to moan",
-    "sv": [
-      "stöna",
-      "jämra sig",
-      "stöna av smärta"
-    ],
+    "sv": "att stöna",
     "rank": 1201,
-    "confidence": "folkets+gt",
-    "sv_gt": "att stöna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to sink",
@@ -15527,24 +14749,15 @@
   },
   {
     "en": "to fasten",
-    "sv": [
-      "fästa",
-      "hänga sig på någon",
-      "fastna"
-    ],
+    "sv": "att fästa",
     "rank": 1212,
-    "confidence": "folkets+gt",
-    "sv_gt": "att fästa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to moor",
-    "sv": [
-      "förtöja",
-      "hed"
-    ],
+    "sv": "att förtöja",
     "rank": 1212,
-    "confidence": "folkets+gt",
-    "sv_gt": "att förtöja"
+    "confidence": "folkets+gt"
   },
   {
     "en": "wind",
@@ -15628,14 +14841,9 @@
   },
   {
     "en": "to check out",
-    "sv": [
-      "dö",
-      "låna",
-      "stämpla ut"
-    ],
+    "sv": "att checka ut",
     "rank": 1218,
-    "confidence": "folkets_only",
-    "sv_gt": "att checka ut"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to measure",
@@ -15860,26 +15068,16 @@
   },
   {
     "en": "to differ",
-    "sv": [
-      "vara av olika mening",
-      "ha en annan uppfattning",
-      "tänka olika"
-    ],
+    "sv": "att skilja sig åt",
     "rank": 1249,
-    "confidence": "folkets_only",
-    "sv_gt": "att skilja sig åt",
+    "confidence": "folkets+gt",
     "sv_claude": "skilja sig"
   },
   {
     "en": "to part",
-    "sv": [
-      "del",
-      "andel",
-      "lott"
-    ],
+    "sv": "att skiljas åt",
     "rank": 1249,
-    "confidence": "folkets_only",
-    "sv_gt": "att skiljas åt"
+    "confidence": "folkets+gt"
   },
   {
     "en": "hope",
@@ -15974,21 +15172,15 @@
   },
   {
     "en": "to adhere to",
-    "sv": "hålla fast vid",
+    "sv": "att hålla sig till",
     "rank": 1258,
-    "confidence": "folkets_only",
-    "sv_gt": "att hålla sig till"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to dribble",
-    "sv": [
-      "dribbla",
-      "dribbla med",
-      "dribbling"
-    ],
+    "sv": "att dribbla",
     "rank": 1259,
-    "confidence": "folkets+gt",
-    "sv_gt": "att dribbla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to transport",
@@ -16252,14 +15444,9 @@
   },
   {
     "en": "to denote",
-    "sv": [
-      "beteckna",
-      "betyda",
-      "ange"
-    ],
+    "sv": "att beteckna",
     "rank": 1282,
-    "confidence": "folkets+gt",
-    "sv_gt": "att beteckna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to express",
@@ -16287,25 +15474,15 @@
   },
   {
     "en": "to name",
-    "sv": [
-      "bestämma",
-      "säga",
-      "ange"
-    ],
+    "sv": "att namnge",
     "rank": 1283,
-    "confidence": "folkets_only",
-    "sv_gt": "att namnge"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to nominate",
-    "sv": [
-      "nominera",
-      "utse",
-      "utnämna"
-    ],
+    "sv": "att nominera",
     "rank": 1283,
-    "confidence": "folkets+gt",
-    "sv_gt": "att nominera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "dirty",
@@ -16403,14 +15580,9 @@
   },
   {
     "en": "to clip",
-    "sv": [
-      "fart",
-      "hastighet",
-      "takt"
-    ],
+    "sv": "att klippa",
     "rank": 1290,
-    "confidence": "folkets_only",
-    "sv_gt": "att klippa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to cut",
@@ -16500,14 +15672,9 @@
   },
   {
     "en": "to urge",
-    "sv": [
-      "driva på",
-      "mana på",
-      "skynda på"
-    ],
+    "sv": "att mana",
     "rank": 1302,
-    "confidence": "folkets_only",
-    "sv_gt": "att mana"
+    "confidence": "folkets+gt"
   },
   {
     "en": "urge",
@@ -16565,14 +15732,9 @@
   },
   {
     "en": "to secure",
-    "sv": [
-      "i säkerhet",
-      "i säkert förvar",
-      "lyckas skaffa sig"
-    ],
+    "sv": "att säkra",
     "rank": 1308,
-    "confidence": "folkets_only",
-    "sv_gt": "att säkra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to the middle",
@@ -16912,14 +16074,9 @@
   },
   {
     "en": "to dawn",
-    "sv": [
-      "bryta fram",
-      "växa fram",
-      "dagas"
-    ],
+    "sv": "att gry",
     "rank": 1335,
-    "confidence": "folkets_only",
-    "sv_gt": "att gry"
+    "confidence": "folkets+gt"
   },
   {
     "en": "female reindeer",
@@ -16959,14 +16116,9 @@
   },
   {
     "en": "to reject",
-    "sv": [
-      "förkasta",
-      "stöta bort",
-      "avslå"
-    ],
+    "sv": "att förkasta",
     "rank": 1338,
     "confidence": "folkets+gt",
-    "sv_gt": "att förkasta",
     "sv_claude": "avvisa"
   },
   {
@@ -17046,14 +16198,10 @@
   },
   {
     "en": "to avoid",
-    "sv": [
-      "undvika",
-      "avvärja",
-      "avstyra"
-    ],
+    "sv": "att undvika",
     "rank": 1346,
-    "confidence": "3sources",
-    "sv_gt": "att undvika"
+    "confidence": "folkets+gt",
+    "sv_claude": "undvika"
   },
   {
     "en": "impossible",
@@ -17100,14 +16248,10 @@
   },
   {
     "en": "to train",
-    "sv": [
-      "träna",
-      "utbilda sig",
-      "sikta in"
-    ],
+    "sv": "att träna",
     "rank": 1350,
-    "confidence": "3sources",
-    "sv_gt": "att träna"
+    "confidence": "folkets+gt",
+    "sv_claude": "träna"
   },
   {
     "en": "heated",
@@ -17143,25 +16287,15 @@
   },
   {
     "en": "to declare",
-    "sv": [
-      "deklarera",
-      "förklara inneomgången avslutad",
-      "uppge"
-    ],
+    "sv": "att deklarera",
     "rank": 1354,
-    "confidence": "folkets+gt",
-    "sv_gt": "att deklarera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to proclaim",
-    "sv": [
-      "avslöja",
-      "visa",
-      "röja"
-    ],
+    "sv": "att förkunna",
     "rank": 1354,
-    "confidence": "folkets_only",
-    "sv_gt": "att förkunna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "adequate",
@@ -17229,14 +16363,9 @@
   },
   {
     "en": "to forecast",
-    "sv": [
-      "förhandsberäkning",
-      "väderprognos",
-      "förutsäga"
-    ],
+    "sv": "att prognostisera",
     "rank": 1359,
-    "confidence": "folkets_only",
-    "sv_gt": "att prognostisera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to predict",
@@ -17313,25 +16442,15 @@
   },
   {
     "en": "to damage",
-    "sv": [
-      "skada",
-      "förstöra",
-      "förstöras"
-    ],
+    "sv": "att skada",
     "rank": 1370,
-    "confidence": "folkets+gt",
-    "sv_gt": "att skada"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to harm",
-    "sv": [
-      "skada",
-      "komma till skada",
-      "utom fara, i säkerhet"
-    ],
+    "sv": "att skada",
     "rank": 1370,
-    "confidence": "folkets+gt",
-    "sv_gt": "att skada"
+    "confidence": "folkets+gt"
   },
   {
     "en": "stay",
@@ -17363,14 +16482,9 @@
   },
   {
     "en": "to employ",
-    "sv": [
-      "använda sig av",
-      "bruka",
-      "begagna sig av"
-    ],
+    "sv": "att anställa",
     "rank": 1373,
-    "confidence": "folkets_only",
-    "sv_gt": "att anställa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "map",
@@ -17384,25 +16498,15 @@
   },
   {
     "en": "to dismantle",
-    "sv": [
-      "avveckla",
-      "nedrusta",
-      "montera ned"
-    ],
+    "sv": "att demontera",
     "rank": 1376,
-    "confidence": "folkets_only",
-    "sv_gt": "att demontera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to land",
-    "sv": [
-      "rike",
-      "land",
-      "dra upp"
-    ],
+    "sv": "att landa",
     "rank": 1376,
-    "confidence": "folkets_only",
-    "sv_gt": "att landa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "hat",
@@ -17504,14 +16608,9 @@
   },
   {
     "en": "to grab",
-    "sv": [
-      "gripa",
-      "hastigt grepp",
-      "hastigt ryck"
-    ],
+    "sv": "att ta tag i",
     "rank": 1384,
-    "confidence": "folkets_only",
-    "sv_gt": "att ta tag i"
+    "confidence": "folkets+gt"
   },
   {
     "en": "erect",
@@ -17581,14 +16680,9 @@
   },
   {
     "en": "to avenge",
-    "sv": [
-      "hämnas",
-      "ge igen",
-      "de hämnades faderns död"
-    ],
+    "sv": "att hämnas",
     "rank": 1393,
-    "confidence": "folkets+gt",
-    "sv_gt": "att hämnas"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to revenge",
@@ -17623,14 +16717,9 @@
   },
   {
     "en": "to taste",
-    "sv": [
-      "känna smak",
-      "smak",
-      "smaksinne"
-    ],
+    "sv": "att smaka",
     "rank": 1396,
-    "confidence": "folkets_only",
-    "sv_gt": "att smaka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "locked",
@@ -17699,14 +16788,9 @@
   },
   {
     "en": "to clear",
-    "sv": [
-      "utom fara, räddad",
-      "tjäna",
-      "förtjäna"
-    ],
+    "sv": "att rensa",
     "rank": 1403,
-    "confidence": "folkets_only",
-    "sv_gt": "att rensa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "republic",
@@ -17760,14 +16844,9 @@
   },
   {
     "en": "to pursue",
-    "sv": [
-      "driva",
-      "föra",
-      "följa"
-    ],
+    "sv": "att fullfölja",
     "rank": 1405,
-    "confidence": "folkets_only",
-    "sv_gt": "att fullfölja"
+    "confidence": "folkets+gt"
   },
   {
     "en": "climax",
@@ -17934,25 +17013,15 @@
   },
   {
     "en": "to guard",
-    "sv": [
-      "skydd",
-      "värn",
-      "försvarsställning"
-    ],
+    "sv": "att vakta",
     "rank": 1417,
-    "confidence": "folkets_only",
-    "sv_gt": "att vakta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to watch",
-    "sv": [
-      "klocka",
-      "armbandsur",
-      "se på"
-    ],
+    "sv": "att titta på",
     "rank": 1417,
-    "confidence": "folkets_only",
-    "sv_gt": "att titta på"
+    "confidence": "folkets+gt"
   },
   {
     "en": "daily",
@@ -18071,26 +17140,16 @@
   },
   {
     "en": "to sign",
-    "sv": [
-      "göra korstecknet över",
-      "signera",
-      "underteckna"
-    ],
+    "sv": "att skriva under",
     "rank": 1427,
-    "confidence": "folkets_only",
-    "sv_gt": "att skriva under",
+    "confidence": "folkets+gt",
     "sv_claude": "underteckna"
   },
   {
     "en": "to underwrite",
-    "sv": [
-      "förbinda sig att överta",
-      "åta sig att finansiera",
-      "försäkra"
-    ],
+    "sv": "att garantera",
     "rank": 1427,
-    "confidence": "folkets_only",
-    "sv_gt": "att garantera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "camp",
@@ -18275,14 +17334,9 @@
   },
   {
     "en": "to invoke",
-    "sv": [
-      "åberopa",
-      "åkalla",
-      "anropa"
-    ],
+    "sv": "att åberopa",
     "rank": 1446,
-    "confidence": "folkets+gt",
-    "sv_gt": "att åberopa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "hectare",
@@ -18345,10 +17399,9 @@
   },
   {
     "en": "to facilitate",
-    "sv": "underlätta",
+    "sv": "att underlätta",
     "rank": 1453,
-    "confidence": "folkets+gt",
-    "sv_gt": "att underlätta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "valuable",
@@ -18382,13 +17435,9 @@
   },
   {
     "en": "to repent",
-    "sv": [
-      "ångra sig",
-      "ångra"
-    ],
+    "sv": "att omvända sig",
     "rank": 1457,
-    "confidence": "folkets_only",
-    "sv_gt": "att omvända sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "dump",
@@ -18415,14 +17464,9 @@
   },
   {
     "en": "to pour",
-    "sv": [
-      "hälla ned",
-      "gå att hälla",
-      "ösa ned"
-    ],
+    "sv": "att hälla",
     "rank": 1459,
-    "confidence": "folkets_only",
-    "sv_gt": "att hälla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "faithful",
@@ -18505,14 +17549,9 @@
   },
   {
     "en": "to laugh",
-    "sv": [
-      "skratta bort",
-      "skratt",
-      "skratta sig fördärvad"
-    ],
+    "sv": "att skratta",
     "rank": 1465,
-    "confidence": "folkets_only",
-    "sv_gt": "att skratta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "excuse",
@@ -18675,14 +17714,9 @@
   },
   {
     "en": "to calm down",
-    "sv": [
-      "lugna ner",
-      "lugna",
-      "stilla"
-    ],
+    "sv": "att lugna ner sig",
     "rank": 1483,
-    "confidence": "folkets+gt",
-    "sv_gt": "att lugna ner sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "flash",
@@ -18820,10 +17854,9 @@
   },
   {
     "en": "to distend",
-    "sv": "sträcka, svälla",
+    "sv": "att tänja ut",
     "rank": 1498,
-    "confidence": "folkets_only",
-    "sv_gt": "att tänja ut"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to expand",
@@ -18834,14 +17867,9 @@
   },
   {
     "en": "to might",
-    "sv": [
-      "kraft",
-      "förmåga",
-      "makt"
-    ],
+    "sv": "att kunna",
     "rank": 1498,
-    "confidence": "folkets_only",
-    "sv_gt": "att kunna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "nicely",
@@ -18976,14 +18004,9 @@
   },
   {
     "en": "to do",
-    "sv": [
-      "erbjuda",
-      "tillhandahålla",
-      "tillhandahålla en viss service"
-    ],
+    "sv": "att göra",
     "rank": 1513,
-    "confidence": "folkets_only",
-    "sv_gt": "att göra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "miserable",
@@ -19081,14 +18104,9 @@
   },
   {
     "en": "to cry",
-    "sv": [
-      "gråta",
-      "gråt",
-      "gråta ut ordentligt"
-    ],
+    "sv": "att gråta",
     "rank": 1523,
-    "confidence": "folkets+gt",
-    "sv_gt": "att gråta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "signal",
@@ -19142,14 +18160,9 @@
   },
   {
     "en": "to comment",
-    "sv": [
-      "kommentar",
-      "betraktelse",
-      "reflexion"
-    ],
+    "sv": "att kommentera",
     "rank": 1529,
-    "confidence": "folkets_only",
-    "sv_gt": "att kommentera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "coffee",
@@ -19210,14 +18223,9 @@
   },
   {
     "en": "to diverge",
-    "sv": [
-      "avsättas",
-      "avsättas för annat ändamål",
-      "gå åt olika håll"
-    ],
+    "sv": "att divergera",
     "rank": 1535,
-    "confidence": "folkets_only",
-    "sv_gt": "att divergera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "for",
@@ -19245,14 +18253,9 @@
   },
   {
     "en": "to promote",
-    "sv": [
-      "befordra",
-      "upphöja",
-      "förflytta till högre tjänst"
-    ],
+    "sv": "att främja",
     "rank": 1541,
-    "confidence": "folkets_only",
-    "sv_gt": "att främja",
+    "confidence": "folkets+gt",
     "sv_claude": "marknadsföra"
   },
   {
@@ -19467,13 +18470,10 @@
   },
   {
     "en": "to compare",
-    "sv": [
-      "jämföra",
-      "vara utan jämförelse (litterärt)"
-    ],
+    "sv": "att jämföra",
     "rank": 1558,
-    "confidence": "3sources",
-    "sv_gt": "att jämföra"
+    "confidence": "folkets+gt",
+    "sv_claude": "jämföra"
   },
   {
     "en": "guide",
@@ -19483,14 +18483,9 @@
   },
   {
     "en": "to settle",
-    "sv": [
-      "slå sig ner",
-      "sätta sig",
-      "sjunka"
-    ],
+    "sv": "att lösa",
     "rank": 1560,
-    "confidence": "folkets_only",
-    "sv_gt": "att lösa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to settle down",
@@ -19514,14 +18509,9 @@
   },
   {
     "en": "to sprawl",
-    "sv": [
-      "sprida ut sig",
-      "breda ut sig",
-      "sträcka ut sig"
-    ],
+    "sv": "att sprida sig",
     "rank": 1563,
-    "confidence": "folkets_only",
-    "sv_gt": "att sprida sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to spread",
@@ -19550,14 +18540,9 @@
   },
   {
     "en": "to violate",
-    "sv": [
-      "bryta mot",
-      "inkräkta på",
-      "kränka"
-    ],
+    "sv": "att bryta mot",
     "rank": 1565,
-    "confidence": "folkets+gt",
-    "sv_gt": "att bryta mot"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to wound",
@@ -19881,32 +18866,21 @@
   },
   {
     "en": "to pledge",
-    "sv": [
-      "bevis",
-      "tecken",
-      "underpant"
-    ],
+    "sv": "att panta",
     "rank": 1607,
-    "confidence": "folkets_only",
-    "sv_gt": "att panta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to confuse",
-    "sv": "förvirra",
+    "sv": "att förvirra",
     "rank": 1608,
-    "confidence": "folkets+gt",
-    "sv_gt": "att förvirra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to dispute",
-    "sv": [
-      "bestrida",
-      "ifrågasätta",
-      "diskutera"
-    ],
+    "sv": "att bestrida",
     "rank": 1608,
-    "confidence": "folkets+gt",
-    "sv_gt": "att bestrida"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to mix",
@@ -19990,14 +18964,9 @@
   },
   {
     "en": "to cultivate",
-    "sv": [
-      "bilda",
-      "förfina",
-      "öva"
-    ],
+    "sv": "att odla",
     "rank": 1615,
-    "confidence": "folkets_only",
-    "sv_gt": "att odla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "cook",
@@ -20116,14 +19085,9 @@
   },
   {
     "en": "to relax",
-    "sv": [
-      "koppla av",
-      "slappna av",
-      "ta igen sig"
-    ],
+    "sv": "att koppla av",
     "rank": 1622,
-    "confidence": "folkets+gt",
-    "sv_gt": "att koppla av"
+    "confidence": "folkets+gt"
   },
   {
     "en": "robot",
@@ -20178,13 +19142,9 @@
   },
   {
     "en": "to inherit",
-    "sv": [
-      "ärva",
-      "få i arv"
-    ],
+    "sv": "att ärva",
     "rank": 1634,
-    "confidence": "folkets+gt",
-    "sv_gt": "att ärva"
+    "confidence": "folkets+gt"
   },
   {
     "en": "metric ton",
@@ -20221,10 +19181,9 @@
   },
   {
     "en": "to interpret",
-    "sv": "tolka",
+    "sv": "att tolka",
     "rank": 1645,
-    "confidence": "folkets+gt",
-    "sv_gt": "att tolka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "Environmental Center",
@@ -20275,25 +19234,15 @@
   },
   {
     "en": "to bind",
-    "sv": [
-      "röra",
-      "svårighet",
-      "tråkighet"
-    ],
+    "sv": "att binda",
     "rank": 1659,
-    "confidence": "folkets_only",
-    "sv_gt": "att binda"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to tie",
-    "sv": [
-      "band",
-      "länk",
-      "hämsko"
-    ],
+    "sv": "att knyta",
     "rank": 1659,
-    "confidence": "folkets_only",
-    "sv_gt": "att knyta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "opposition",
@@ -20453,10 +19402,9 @@
   },
   {
     "en": "to consist of",
-    "sv": "bestå av",
+    "sv": "att bestå av",
     "rank": 1689,
-    "confidence": "folkets+gt",
-    "sv_gt": "att bestå av"
+    "confidence": "folkets+gt"
   },
   {
     "en": "comeback",
@@ -20491,44 +19439,29 @@
   },
   {
     "en": "to excel",
-    "sv": [
-      "utmärka sig",
-      "vara främst",
-      "vara bäst"
-    ],
+    "sv": "att utmärka sig",
     "rank": 1695,
-    "confidence": "folkets+gt",
-    "sv_gt": "att utmärka sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to shine",
-    "sv": "skinande",
+    "sv": "att glänsa",
     "rank": 1695,
-    "confidence": "folkets_only",
-    "sv_gt": "att glänsa",
+    "confidence": "folkets+gt",
     "sv_apert": "lysa"
   },
   {
     "en": "to portray",
-    "sv": [
-      "skildra",
-      "beskriva",
-      "framställa"
-    ],
+    "sv": "att skildra",
     "rank": 1696,
-    "confidence": "folkets+gt",
-    "sv_gt": "att skildra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to hire",
-    "sv": [
-      "anställa",
-      "anlita",
-      "engagera"
-    ],
+    "sv": "att anställa",
     "rank": 1704,
-    "confidence": "3sources",
-    "sv_gt": "att anställa"
+    "confidence": "folkets+gt",
+    "sv_claude": "anställa"
   },
   {
     "en": "hockey",
@@ -20551,14 +19484,9 @@
   },
   {
     "en": "to deserve",
-    "sv": [
-      "förtjäna",
-      "vara förtjänt av",
-      "göra sig förtjänt av"
-    ],
+    "sv": "att förtjäna",
     "rank": 1712,
-    "confidence": "folkets+gt",
-    "sv_gt": "att förtjäna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to earn",
@@ -20576,14 +19504,10 @@
   },
   {
     "en": "to restrict",
-    "sv": [
-      "begränsa",
-      "inskränka",
-      "sätta en gräns för"
-    ],
+    "sv": "att begränsa",
     "rank": 1713,
-    "confidence": "3sources",
-    "sv_gt": "att begränsa"
+    "confidence": "folkets+gt",
+    "sv_claude": "begränsa"
   },
   {
     "en": "to kick off",
@@ -20599,10 +19523,9 @@
   },
   {
     "en": "to get well",
-    "sv": "krya på dig",
+    "sv": "att bli frisk",
     "rank": 1716,
-    "confidence": "folkets_only",
-    "sv_gt": "att bli frisk"
+    "confidence": "folkets+gt"
   },
   {
     "en": "starting point",
@@ -20628,13 +19551,9 @@
   },
   {
     "en": "to include",
-    "sv": [
-      "inkludera",
-      "ingå i"
-    ],
+    "sv": "att inkludera",
     "rank": 1728,
-    "confidence": "folkets+gt",
-    "sv_gt": "att inkludera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "number two",
@@ -20829,14 +19748,9 @@
   },
   {
     "en": "to target",
-    "sv": [
-      "mål",
-      "målsättning",
-      "måltavla"
-    ],
+    "sv": "att rikta in sig på",
     "rank": 1767,
-    "confidence": "folkets_only",
-    "sv_gt": "att rikta in sig på"
+    "confidence": "folkets+gt"
   },
   {
     "en": "partly",
@@ -20883,14 +19797,9 @@
   },
   {
     "en": "to get on",
-    "sv": [
-      "bli gammal",
-      "bli sent",
-      "det börjar bli sent"
-    ],
+    "sv": "att komma vidare",
     "rank": 1779,
-    "confidence": "folkets_only",
-    "sv_gt": "att komma vidare"
+    "confidence": "folkets+gt"
   },
   {
     "en": "favorite",
@@ -21088,14 +19997,9 @@
   },
   {
     "en": "to attach",
-    "sv": [
-      "knyta",
-      "binda",
-      "foga"
-    ],
+    "sv": "att fästa",
     "rank": 1823,
-    "confidence": "folkets_only",
-    "sv_gt": "att fästa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "fierce",
@@ -21194,13 +20098,9 @@
   },
   {
     "en": "to collide",
-    "sv": [
-      "kollidera",
-      "krocka"
-    ],
+    "sv": "att kollidera",
     "rank": 1847,
-    "confidence": "folkets+gt",
-    "sv_gt": "att kollidera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to walk into",
@@ -21210,14 +20110,9 @@
   },
   {
     "en": "to outline",
-    "sv": [
-      "kontur",
-      "ytterlinje",
-      "sammandrag"
-    ],
+    "sv": "att skissera",
     "rank": 1848,
-    "confidence": "folkets_only",
-    "sv_gt": "att skissera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to plan",
@@ -21336,14 +20231,9 @@
   },
   {
     "en": "to prevail",
-    "sv": [
-      "råda",
-      "vara förhärskande",
-      "vara allmänt utbredd"
-    ],
+    "sv": "att segra",
     "rank": 1867,
-    "confidence": "folkets_only",
-    "sv_gt": "att segra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "knee",
@@ -21452,14 +20342,9 @@
   },
   {
     "en": "to ensue",
-    "sv": [
-      "följa",
-      "vara ett resultat av",
-      "vara en följd av"
-    ],
+    "sv": "att följa",
     "rank": 1890,
-    "confidence": "folkets+gt",
-    "sv_gt": "att följa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "flesh",
@@ -21808,35 +20693,22 @@
   },
   {
     "en": "to cope",
-    "sv": [
-      "klara av",
-      "stå pall",
-      "korkåpa"
-    ],
+    "sv": "att klara sig",
     "rank": 1951,
-    "confidence": "folkets_only",
-    "sv_gt": "att klara sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to survive",
-    "sv": [
-      "överleva",
-      "få människor överlevde förlisningen"
-    ],
+    "sv": "att överleva",
     "rank": 1951,
-    "confidence": "3sources",
-    "sv_gt": "att överleva"
+    "confidence": "folkets+gt",
+    "sv_claude": "överleva"
   },
   {
     "en": "to depend",
-    "sv": [
-      "vänta på avgörande",
-      "vila",
-      "bero"
-    ],
+    "sv": "att vara beroende",
     "rank": 1955,
-    "confidence": "folkets_only",
-    "sv_gt": "att vara beroende"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to hang",
@@ -21875,14 +20747,9 @@
   },
   {
     "en": "to conquer",
-    "sv": [
-      "erövra",
-      "besegra",
-      "övervinna"
-    ],
+    "sv": "att erövra",
     "rank": 1962,
-    "confidence": "folkets+gt",
-    "sv_gt": "att erövra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to seize",
@@ -21931,14 +20798,9 @@
   },
   {
     "en": "to interrupt",
-    "sv": [
-      "avbryta",
-      "du ska alltid avbryta",
-      "förorska avbrott i"
-    ],
+    "sv": "att avbryta",
     "rank": 1980,
-    "confidence": "folkets+gt",
-    "sv_gt": "att avbryta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to stop without finishing",
@@ -22051,14 +20913,9 @@
   },
   {
     "en": "to bear",
-    "sv": [
-      "björn",
-      "baissespekulant",
-      "buffel"
-    ],
+    "sv": "att bära",
     "rank": 2005,
-    "confidence": "folkets_only",
-    "sv_gt": "att bära"
+    "confidence": "folkets+gt"
   },
   {
     "en": "acquisition",
@@ -22201,14 +21058,9 @@
   },
   {
     "en": "to supplement",
-    "sv": [
-      "bilaga",
-      "tillägg",
-      "supplement"
-    ],
+    "sv": "att komplettera",
     "rank": 2024,
-    "confidence": "folkets_only",
-    "sv_gt": "att komplettera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to conclude",
@@ -22666,14 +21518,9 @@
   },
   {
     "en": "to reform",
-    "sv": [
-      "reform",
-      "genomgripande reformer",
-      "reformerar"
-    ],
+    "sv": "att reformera",
     "rank": 2108,
-    "confidence": "folkets+gt",
-    "sv_gt": "att reformera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "function",
@@ -22710,10 +21557,9 @@
   },
   {
     "en": "to catch up",
-    "sv": "komma ikapp",
+    "sv": "att komma ikapp",
     "rank": 2117,
-    "confidence": "folkets+gt",
-    "sv_gt": "att komma ikapp"
+    "confidence": "folkets+gt"
   },
   {
     "en": "wave",
@@ -22799,14 +21645,10 @@
   },
   {
     "en": "to extend",
-    "sv": [
-      "förlänga",
-      "ge",
-      "framföra"
-    ],
+    "sv": "att förlänga",
     "rank": 2136,
-    "confidence": "3sources",
-    "sv_gt": "att förlänga"
+    "confidence": "folkets+gt",
+    "sv_claude": "förlänga"
   },
   {
     "en": "gladly",
@@ -23011,25 +21853,15 @@
   },
   {
     "en": "to cheer",
-    "sv": [
-      "festlig måltid",
-      "heja på",
-      "uppmuntra"
-    ],
+    "sv": "att heja",
     "rank": 2181,
-    "confidence": "folkets_only",
-    "sv_gt": "att heja"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to encourage",
-    "sv": [
-      "främja",
-      "befrämja",
-      "stödja"
-    ],
+    "sv": "att uppmuntra",
     "rank": 2181,
-    "confidence": "folkets_only",
-    "sv_gt": "att uppmuntra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "assembly",
@@ -23235,14 +22067,9 @@
   },
   {
     "en": "to limb",
-    "sv": [
-      "lem",
-      "ben",
-      "arm"
-    ],
+    "sv": "att lem",
     "rank": 2217,
-    "confidence": "folkets+gt",
-    "sv_gt": "att lem"
+    "confidence": "folkets+gt"
   },
   {
     "en": "naturally",
@@ -23515,14 +22342,9 @@
   },
   {
     "en": "to comprise",
-    "sv": [
-      "omfatta",
-      "bestå av",
-      "utgöra"
-    ],
+    "sv": "att omfatta",
     "rank": 2268,
-    "confidence": "folkets+gt",
-    "sv_gt": "att omfatta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "endeavour",
@@ -23551,14 +22373,9 @@
   },
   {
     "en": "to compact",
-    "sv": [
-      "kompaktbil",
-      "kompakt",
-      "fast"
-    ],
+    "sv": "att kompaktera",
     "rank": 2271,
-    "confidence": "folkets_only",
-    "sv_gt": "att kompaktera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to seal",
@@ -23735,13 +22552,9 @@
   },
   {
     "en": "to perpetrate",
-    "sv": [
-      "begå",
-      "föröva"
-    ],
+    "sv": "att begå",
     "rank": 2297,
-    "confidence": "folkets+gt",
-    "sv_gt": "att begå"
+    "confidence": "folkets+gt"
   },
   {
     "en": "termination",
@@ -23780,14 +22593,9 @@
   },
   {
     "en": "to ignite",
-    "sv": [
-      "antända",
-      "tända",
-      "sätta eld på"
-    ],
+    "sv": "att antända",
     "rank": 2309,
-    "confidence": "folkets+gt",
-    "sv_gt": "att antända"
+    "confidence": "folkets+gt"
   },
   {
     "en": "regulation",
@@ -24117,10 +22925,9 @@
   },
   {
     "en": "to equip",
-    "sv": "utrusta",
+    "sv": "att utrusta",
     "rank": 2393,
-    "confidence": "folkets+gt",
-    "sv_gt": "att utrusta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "argument",
@@ -24140,26 +22947,16 @@
   },
   {
     "en": "to advise",
-    "sv": [
-      "agera som rådgivare",
-      "förorda",
-      "tillstyrka"
-    ],
+    "sv": "att ge råd",
     "rank": 2395,
-    "confidence": "folkets_only",
-    "sv_gt": "att ge råd",
+    "confidence": "folkets+gt",
     "sv_claude": "råda"
   },
   {
     "en": "to counsel",
-    "sv": [
-      "advokat",
-      "rättegångsbiträde",
-      "råd"
-    ],
+    "sv": "att rådgöra",
     "rank": 2395,
-    "confidence": "folkets_only",
-    "sv_gt": "att rådgöra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to register",
@@ -24296,14 +23093,9 @@
   },
   {
     "en": "to take up",
-    "sv": [
-      "anta",
-      "anta någons erbjudande",
-      "börja ägna sig åt"
-    ],
+    "sv": "att ta upp",
     "rank": 2413,
-    "confidence": "folkets_only",
-    "sv_gt": "att ta upp"
+    "confidence": "folkets+gt"
   },
   {
     "en": "manufacturer",
@@ -24383,14 +23175,9 @@
   },
   {
     "en": "to emphasize",
-    "sv": [
-      "betona",
-      "framhålla",
-      "understryka"
-    ],
+    "sv": "att betona",
     "rank": 2422,
-    "confidence": "folkets+gt",
-    "sv_gt": "att betona"
+    "confidence": "folkets+gt"
   },
   {
     "en": "social democrat",
@@ -24469,14 +23256,9 @@
   },
   {
     "en": "to disengage",
-    "sv": [
-      "dra ur striden",
-      "drag sig ur striden",
-      "frigöra"
-    ],
+    "sv": "att koppla ur",
     "rank": 2439,
-    "confidence": "folkets_only",
-    "sv_gt": "att koppla ur"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to free oneself",
@@ -24581,14 +23363,9 @@
   },
   {
     "en": "to intensify",
-    "sv": [
-      "intensifiera",
-      "skärpa",
-      "trappa upp"
-    ],
+    "sv": "att intensifiera",
     "rank": 2456,
-    "confidence": "folkets+gt",
-    "sv_gt": "att intensifiera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "constitution",
@@ -24598,14 +23375,9 @@
   },
   {
     "en": "to challenge",
-    "sv": [
-      "anropa",
-      "vaktposten anropade oss",
-      "ifrågasätta"
-    ],
+    "sv": "att utmana",
     "rank": 2458,
-    "confidence": "folkets_only",
-    "sv_gt": "att utmana"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to sate",
@@ -24706,14 +23478,9 @@
   },
   {
     "en": "to bathe",
-    "sv": [
-      "bada",
-      "bad",
-      "badning"
-    ],
+    "sv": "att bada",
     "rank": 2480,
-    "confidence": "folkets+gt",
-    "sv_gt": "att bada"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to swim",
@@ -24773,24 +23540,15 @@
   },
   {
     "en": "to undermine",
-    "sv": [
-      "underminera",
-      "undergräva",
-      "även bildligt"
-    ],
+    "sv": "att underminera",
     "rank": 2491,
-    "confidence": "folkets+gt",
-    "sv_gt": "att underminera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to weaken",
-    "sv": [
-      "försvagas",
-      "vekna"
-    ],
+    "sv": "att försvaga",
     "rank": 2491,
-    "confidence": "folkets_only",
-    "sv_gt": "att försvaga"
+    "confidence": "folkets+gt"
   },
   {
     "en": "height",
@@ -24819,14 +23577,9 @@
   },
   {
     "en": "to delimit",
-    "sv": [
-      "avgränsa",
-      "begränsa",
-      "staka ut"
-    ],
+    "sv": "att avgränsa",
     "rank": 2497,
-    "confidence": "folkets+gt",
-    "sv_gt": "att avgränsa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "conflict",
@@ -24876,43 +23629,27 @@
   },
   {
     "en": "to format",
-    "sv": "formatera",
+    "sv": "att formatera",
     "rank": 2504,
-    "confidence": "folkets+gt",
-    "sv_gt": "att formatera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to smile",
-    "sv": [
-      "le",
-      "le mot",
-      "leende"
-    ],
+    "sv": "att le",
     "rank": 2505,
-    "confidence": "folkets+gt",
-    "sv_gt": "att le"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to defeat",
-    "sv": [
-      "besegra",
-      "nederlag",
-      "fiendens nederlag"
-    ],
+    "sv": "att besegra",
     "rank": 2507,
-    "confidence": "folkets+gt",
-    "sv_gt": "att besegra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to overthrow",
-    "sv": [
-      "besegra",
-      "vi besegrade fienden",
-      "kullkastande"
-    ],
+    "sv": "att störta",
     "rank": 2507,
-    "confidence": "folkets_only",
-    "sv_gt": "att störta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "southern",
@@ -25056,21 +23793,15 @@
   },
   {
     "en": "to capture",
-    "sv": [
-      "fånga",
-      "ta",
-      "ta en pjäs"
-    ],
+    "sv": "att fånga",
     "rank": 2541,
-    "confidence": "folkets+gt",
-    "sv_gt": "att fånga"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to imprison",
-    "sv": "sätta i fängelse",
+    "sv": "att fängsla",
     "rank": 2541,
-    "confidence": "folkets_only",
-    "sv_gt": "att fängsla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "party congress",
@@ -25092,26 +23823,16 @@
   },
   {
     "en": "to maintain",
-    "sv": [
-      "bevara",
-      "bibehålla",
-      "uppehålla"
-    ],
+    "sv": "att underhålla",
     "rank": 2548,
-    "confidence": "folkets_only",
-    "sv_gt": "att underhålla",
+    "confidence": "folkets+gt",
     "sv_claude": "upprätthålla"
   },
   {
     "en": "to suit",
-    "sv": [
-      "bön",
-      "begäran",
-      "anhållan"
-    ],
+    "sv": "att passa",
     "rank": 2550,
-    "confidence": "folkets_only",
-    "sv_gt": "att passa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to be forgotten",
@@ -25178,10 +23899,9 @@
   },
   {
     "en": "to deduce",
-    "sv": "sluta sig till",
+    "sv": "att härleda",
     "rank": 2559,
-    "confidence": "folkets_only",
-    "sv_gt": "att härleda"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to fasten off",
@@ -25442,10 +24162,9 @@
   },
   {
     "en": "to specialize",
-    "sv": "specialisera sig",
+    "sv": "att specialisera sig",
     "rank": 2600,
-    "confidence": "folkets+gt",
-    "sv_gt": "att specialisera sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "apartment building/block of flats",
@@ -25809,14 +24528,9 @@
   },
   {
     "en": "to conceal",
-    "sv": [
-      "dölja",
-      "gömma",
-      "täcka"
-    ],
+    "sv": "att dölja",
     "rank": 2669,
-    "confidence": "folkets+gt",
-    "sv_gt": "att dölja"
+    "confidence": "folkets+gt"
   },
   {
     "en": "calculation",
@@ -25841,14 +24555,9 @@
   },
   {
     "en": "to bother",
-    "sv": [
-      "besvär",
-      "omak",
-      "bråk"
-    ],
+    "sv": "att bry sig",
     "rank": 2673,
-    "confidence": "folkets_only",
-    "sv_gt": "att bry sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to trouble",
@@ -25933,14 +24642,9 @@
   },
   {
     "en": "to please",
-    "sv": [
-      "behaga",
-      "tillfredsställa",
-      "förnöja"
-    ],
+    "sv": "att behaga",
     "rank": 2684,
-    "confidence": "folkets+gt",
-    "sv_gt": "att behaga"
+    "confidence": "folkets+gt"
   },
   {
     "en": "defence capacity",
@@ -26015,14 +24719,9 @@
   },
   {
     "en": "to touch",
-    "sv": [
-      "ta på",
-      "bita på",
-      "angöra"
-    ],
+    "sv": "att röra vid",
     "rank": 2695,
-    "confidence": "folkets_only",
-    "sv_gt": "att röra vid"
+    "confidence": "folkets+gt"
   },
   {
     "en": "commando",
@@ -26050,42 +24749,27 @@
   },
   {
     "en": "to cut off",
-    "sv": [
-      "avbryta",
-      "plötsligt blev vi avbrutna",
-      "stänga av elen"
-    ],
+    "sv": "att skära av",
     "rank": 2699,
-    "confidence": "folkets_only",
-    "sv_gt": "att skära av"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to renovate",
-    "sv": "renovera",
+    "sv": "att renovera",
     "rank": 2700,
-    "confidence": "folkets+gt",
-    "sv_gt": "att renovera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to collapse",
-    "sv": [
-      "kollapsa",
-      "bryta samman",
-      "bryta ihop"
-    ],
+    "sv": "att kollapsa",
     "rank": 2702,
-    "confidence": "folkets+gt",
-    "sv_gt": "att kollapsa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to plummet",
-    "sv": [
-      "rasa",
-      "sjunka kraftigt"
-    ],
+    "sv": "att rasa",
     "rank": 2702,
-    "confidence": "folkets+gt",
-    "sv_gt": "att rasa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to repeat",
@@ -26431,14 +25115,9 @@
   },
   {
     "en": "to unite",
-    "sv": [
-      "förena sig",
-      "förenas",
-      "samla sig"
-    ],
+    "sv": "att förena sig",
     "rank": 2747,
-    "confidence": "folkets+gt",
-    "sv_gt": "att förena sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "occurrence",
@@ -26453,14 +25132,10 @@
   },
   {
     "en": "to authorize",
-    "sv": [
-      "auktorisera",
-      "ge fullmakt åt",
-      "bemyndiga"
-    ],
+    "sv": "att auktorisera",
     "rank": 2753,
-    "confidence": "3sources",
-    "sv_gt": "att auktorisera"
+    "confidence": "folkets+gt",
+    "sv_claude": "auktorisera"
   },
   {
     "en": "athletics",
@@ -26640,25 +25315,15 @@
   },
   {
     "en": "to complicate",
-    "sv": [
-      "komplicera",
-      "sammanvikt på längden",
-      "göra mera invecklad"
-    ],
+    "sv": "att komplicera",
     "rank": 2782,
-    "confidence": "folkets+gt",
-    "sv_gt": "att komplicera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to hamper",
-    "sv": [
-      "hämma",
-      "bereda svårigheter",
-      "hindra"
-    ],
+    "sv": "att hämma",
     "rank": 2782,
-    "confidence": "folkets+gt",
-    "sv_gt": "att hämma"
+    "confidence": "folkets+gt"
   },
   {
     "en": "critical",
@@ -26778,25 +25443,15 @@
   },
   {
     "en": "to come off",
-    "sv": [
-      "bli av",
-      "äga rum",
-      "klara sig"
-    ],
+    "sv": "att komma av",
     "rank": 2810,
-    "confidence": "folkets_only",
-    "sv_gt": "att komma av"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to loosen",
-    "sv": [
-      "lossa",
-      "lösgöra",
-      "slappna av"
-    ],
+    "sv": "att lossa",
     "rank": 2810,
-    "confidence": "folkets+gt",
-    "sv_gt": "att lossa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "employment relationship",
@@ -26914,14 +25569,9 @@
   },
   {
     "en": "to stamp",
-    "sv": [
-      "stämpel",
-      "kännemärke",
-      "kännetecken"
-    ],
+    "sv": "att stämpla",
     "rank": 2834,
-    "confidence": "folkets_only",
-    "sv_gt": "att stämpla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "hearer",
@@ -26943,14 +25593,9 @@
   },
   {
     "en": "to adjust",
-    "sv": [
-      "värdera skada",
-      "anpassa sig",
-      "avpassa"
-    ],
+    "sv": "att justera",
     "rank": 2843,
-    "confidence": "folkets_only",
-    "sv_gt": "att justera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to enact",
@@ -27057,13 +25702,9 @@
   },
   {
     "en": "to interview",
-    "sv": [
-      "intervjua",
-      "intervju"
-    ],
+    "sv": "att intervjua",
     "rank": 2869,
-    "confidence": "folkets+gt",
-    "sv_gt": "att intervjua"
+    "confidence": "folkets+gt"
   },
   {
     "en": "residence",
@@ -27080,14 +25721,9 @@
   },
   {
     "en": "to erect",
-    "sv": [
-      "fast",
-      "rakryggad",
-      "ståndaktig"
-    ],
+    "sv": "att resa",
     "rank": 2873,
-    "confidence": "folkets_only",
-    "sv_gt": "att resa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "fiercely",
@@ -27495,14 +26131,9 @@
   },
   {
     "en": "to accelerate",
-    "sv": [
-      "accelerera",
-      "decelerate",
-      "påskynda förloppet av något"
-    ],
+    "sv": "att accelerera",
     "rank": 2935,
     "confidence": "folkets+gt",
-    "sv_gt": "att accelerera",
     "sv_claude": "påskynda"
   },
   {
@@ -27549,13 +26180,9 @@
   },
   {
     "en": "to mentor",
-    "sv": [
-      "handledare",
-      "fadder"
-    ],
+    "sv": "att mentor",
     "rank": 2944,
-    "confidence": "folkets_only",
-    "sv_gt": "att mentor"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to make feel bad",
@@ -27565,14 +26192,9 @@
   },
   {
     "en": "to vex",
-    "sv": [
-      "förarga",
-      "irritera",
-      "reta"
-    ],
+    "sv": "att förarga",
     "rank": 2946,
-    "confidence": "folkets+gt",
-    "sv_gt": "att förarga"
+    "confidence": "folkets+gt"
   },
   {
     "en": "playing soccer",
@@ -27703,24 +26325,15 @@
   },
   {
     "en": "to precede",
-    "sv": [
-      "föregå",
-      "inleda"
-    ],
+    "sv": "att föregå",
     "rank": 2975,
-    "confidence": "folkets+gt",
-    "sv_gt": "att föregå"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to compose",
-    "sv": [
-      "komponera",
-      "sätta",
-      "bilägga"
-    ],
+    "sv": "att komponera",
     "rank": 2977,
-    "confidence": "folkets+gt",
-    "sv_gt": "att komponera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "glass",
@@ -27742,14 +26355,9 @@
   },
   {
     "en": "to inspire",
-    "sv": [
-      "inspirera",
-      "andas in",
-      "besjäla"
-    ],
+    "sv": "att inspirera",
     "rank": 2983,
-    "confidence": "folkets+gt",
-    "sv_gt": "att inspirera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "business life",
@@ -27759,14 +26367,9 @@
   },
   {
     "en": "to entertain",
-    "sv": [
-      "ha gäster",
-      "hysa",
-      "ha"
-    ],
+    "sv": "att underhålla",
     "rank": 2985,
-    "confidence": "folkets_only",
-    "sv_gt": "att underhålla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "government program",
@@ -27838,14 +26441,10 @@
   },
   {
     "en": "to recover",
-    "sv": [
-      "återhämta sig",
-      "tillfriskna",
-      "han är helt återställd"
-    ],
+    "sv": "att återhämta sig",
     "rank": 2994,
-    "confidence": "3sources",
-    "sv_gt": "att återhämta sig"
+    "confidence": "folkets+gt",
+    "sv_claude": "återhämta sig"
   },
   {
     "en": "highest",
@@ -27871,14 +26470,9 @@
   },
   {
     "en": "to decompose",
-    "sv": [
-      "falla sönder",
-      "lösas upp",
-      "ruttna"
-    ],
+    "sv": "att sönderdela",
     "rank": 2997,
-    "confidence": "folkets_only",
-    "sv_gt": "att sönderdela"
+    "confidence": "folkets+gt"
   },
   {
     "en": "catch",
@@ -27929,24 +26523,15 @@
   },
   {
     "en": "to incur",
-    "sv": [
-      "ådra sig",
-      "åsamka sig"
-    ],
+    "sv": "att ådra sig",
     "rank": 3012,
-    "confidence": "folkets+gt",
-    "sv_gt": "att ådra sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to donate",
-    "sv": [
-      "donera",
-      "ge",
-      "skänka"
-    ],
+    "sv": "att donera",
     "rank": 3014,
-    "confidence": "folkets+gt",
-    "sv_gt": "att donera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "valuation",
@@ -27976,10 +26561,9 @@
   },
   {
     "en": "to admire",
-    "sv": "beundra",
+    "sv": "att beundra",
     "rank": 3018,
-    "confidence": "folkets+gt",
-    "sv_gt": "att beundra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "safeguarding",
@@ -28006,14 +26590,9 @@
   },
   {
     "en": "to abolish",
-    "sv": [
-      "avskaffa",
-      "upphäva",
-      "slopa"
-    ],
+    "sv": "att avskaffa",
     "rank": 3029,
-    "confidence": "folkets+gt",
-    "sv_gt": "att avskaffa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "cricket",
@@ -28034,14 +26613,9 @@
   },
   {
     "en": "to reassure",
-    "sv": [
-      "inge ny tillförsikt",
-      "uppmuntra",
-      "på nytt försäkra"
-    ],
+    "sv": "att lugna",
     "rank": 3031,
-    "confidence": "folkets_only",
-    "sv_gt": "att lugna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "modern era",
@@ -28147,14 +26721,10 @@
   },
   {
     "en": "to treat",
-    "sv": [
-      "behandla",
-      "sköta",
-      "vårda"
-    ],
+    "sv": "att behandla",
     "rank": 3059,
-    "confidence": "3sources",
-    "sv_gt": "att behandla"
+    "confidence": "folkets+gt",
+    "sv_claude": "behandla"
   },
   {
     "en": "ridge",
@@ -28190,14 +26760,9 @@
   },
   {
     "en": "to refine",
-    "sv": [
-      "raffinerar",
-      "raffinerad råolja",
-      "ren|odlar"
-    ],
+    "sv": "att förfina",
     "rank": 3066,
-    "confidence": "folkets_only",
-    "sv_gt": "att förfina"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to be emphasized",
@@ -28231,10 +26796,9 @@
   },
   {
     "en": "to fascinate",
-    "sv": "gottskriva",
+    "sv": "att fascinera",
     "rank": 3071,
-    "confidence": "folkets_only",
-    "sv_gt": "att fascinera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "elevation",
@@ -28303,20 +26867,15 @@
   },
   {
     "en": "to resort",
-    "sv": "tillflyktsort",
+    "sv": "att tillgripa",
     "rank": 3081,
-    "confidence": "folkets_only",
-    "sv_gt": "att tillgripa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to resort to",
-    "sv": [
-      "tillgriper",
-      "tillgripa våld"
-    ],
+    "sv": "att tillgripa",
     "rank": 3081,
-    "confidence": "folkets_only",
-    "sv_gt": "att tillgripa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "voluntary",
@@ -28377,10 +26936,9 @@
   },
   {
     "en": "to orient",
-    "sv": "orientera",
+    "sv": "att orientera",
     "rank": 3090,
-    "confidence": "folkets+gt",
-    "sv_gt": "att orientera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "a semi-trailer",
@@ -28412,14 +26970,9 @@
   },
   {
     "en": "to argue",
-    "sv": [
-      "argumentera",
-      "anföra skäl",
-      "tala för"
-    ],
+    "sv": "att argumentera",
     "rank": 3094,
-    "confidence": "folkets+gt",
-    "sv_gt": "att argumentera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to dress",
@@ -28436,14 +26989,9 @@
   },
   {
     "en": "to deteriorate",
-    "sv": [
-      "försämras",
-      "bli sämre",
-      "förfalla"
-    ],
+    "sv": "att försämras",
     "rank": 3100,
-    "confidence": "folkets+gt",
-    "sv_gt": "att försämras"
+    "confidence": "folkets+gt"
   },
   {
     "en": "tobacco",
@@ -28453,13 +27001,9 @@
   },
   {
     "en": "to drag on",
-    "sv": [
-      "dra ut på tiden",
-      "fortsätta"
-    ],
+    "sv": "att dra vidare",
     "rank": 3105,
-    "confidence": "folkets_only",
-    "sv_gt": "att dra vidare"
+    "confidence": "folkets+gt"
   },
   {
     "en": "Japanese",
@@ -28512,14 +27056,9 @@
   },
   {
     "en": "to tire",
-    "sv": [
-      "däck",
-      "ring",
-      "ytterring"
-    ],
+    "sv": "att tröttna",
     "rank": 3115,
-    "confidence": "folkets_only",
-    "sv_gt": "att tröttna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "shoe",
@@ -29027,24 +27566,15 @@
   },
   {
     "en": "to formulate",
-    "sv": [
-      "formulera",
-      "utarbeta"
-    ],
+    "sv": "att formulera",
     "rank": 3210,
-    "confidence": "folkets+gt",
-    "sv_gt": "att formulera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to shape",
-    "sv": [
-      "form",
-      "fason",
-      "ta form, utformas"
-    ],
+    "sv": "att forma",
     "rank": 3210,
-    "confidence": "folkets+gt",
-    "sv_gt": "att forma"
+    "confidence": "folkets+gt"
   },
   {
     "en": "get along",
@@ -29059,10 +27589,9 @@
   },
   {
     "en": "to finalize",
-    "sv": "beslut",
+    "sv": "att slutföra",
     "rank": 3214,
-    "confidence": "folkets_only",
-    "sv_gt": "att slutföra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to finish",
@@ -29233,14 +27762,9 @@
   },
   {
     "en": "to surround",
-    "sv": [
-      "omge",
-      "omringa",
-      "innesluta"
-    ],
+    "sv": "att omge",
     "rank": 3235,
-    "confidence": "folkets+gt",
-    "sv_gt": "att omge"
+    "confidence": "folkets+gt"
   },
   {
     "en": "soil",
@@ -29271,14 +27795,9 @@
   },
   {
     "en": "to consume",
-    "sv": [
-      "konsumera",
-      "förtära",
-      "förbruka"
-    ],
+    "sv": "att konsumera",
     "rank": 3245,
-    "confidence": "folkets+gt",
-    "sv_gt": "att konsumera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "cross",
@@ -29305,14 +27824,9 @@
   },
   {
     "en": "to tolerate",
-    "sv": [
-      "tolerera",
-      "stå ut med",
-      "vara tolerant mot"
-    ],
+    "sv": "att tolerera",
     "rank": 3248,
-    "confidence": "folkets+gt",
-    "sv_gt": "att tolerera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "sexual",
@@ -29412,10 +27926,9 @@
   },
   {
     "en": "to enumerate",
-    "sv": "räkna upp",
+    "sv": "att räkna upp",
     "rank": 3270,
-    "confidence": "folkets+gt",
-    "sv_gt": "att räkna upp"
+    "confidence": "folkets+gt"
   },
   {
     "en": "throw",
@@ -29453,14 +27966,9 @@
   },
   {
     "en": "to warm",
-    "sv": [
-      "varm",
-      "även bildligt",
-      "ett varmt välkomnande"
-    ],
+    "sv": "att värma",
     "rank": 3275,
-    "confidence": "folkets_only",
-    "sv_gt": "att värma"
+    "confidence": "folkets+gt"
   },
   {
     "en": "grass",
@@ -29583,21 +28091,15 @@
   },
   {
     "en": "to reflect",
-    "sv": [
-      "reflektera",
-      "spegla",
-      "avspegla"
-    ],
+    "sv": "att reflektera",
     "rank": 3300,
-    "confidence": "folkets+gt",
-    "sv_gt": "att reflektera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to iterate",
-    "sv": "iterera",
+    "sv": "att iterera",
     "rank": 3301,
-    "confidence": "folkets+gt",
-    "sv_gt": "att iterera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "setting",
@@ -29614,14 +28116,9 @@
   },
   {
     "en": "to blow",
-    "sv": [
-      "dra från",
-      "lämna",
-      "sticka från"
-    ],
+    "sv": "att blåsa",
     "rank": 3306,
-    "confidence": "folkets_only",
-    "sv_gt": "att blåsa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "foreign policy",
@@ -29670,14 +28167,10 @@
   },
   {
     "en": "to postpone",
-    "sv": [
-      "skjuta upp",
-      "senarelägga",
-      "bordlägga"
-    ],
+    "sv": "att skjuta upp",
     "rank": 3315,
-    "confidence": "3sources",
-    "sv_gt": "att skjuta upp"
+    "confidence": "folkets+gt",
+    "sv_claude": "skjuta upp"
   },
   {
     "en": "constituency",
@@ -29690,14 +28183,9 @@
   },
   {
     "en": "to bury",
-    "sv": [
-      "begrava",
-      "gräva ned",
-      "dölja"
-    ],
+    "sv": "att begrava",
     "rank": 3321,
-    "confidence": "folkets+gt",
-    "sv_gt": "att begrava"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to bend",
@@ -30026,25 +28514,16 @@
   },
   {
     "en": "to install",
-    "sv": [
-      "installera",
-      "inviga",
-      "montera"
-    ],
+    "sv": "att installera",
     "rank": 3390,
-    "confidence": "3sources",
-    "sv_gt": "att installera"
+    "confidence": "folkets+gt",
+    "sv_claude": "installera"
   },
   {
     "en": "to drown",
-    "sv": [
-      "dränka",
-      "döva",
-      "överrösta"
-    ],
+    "sv": "att drunkna",
     "rank": 3392,
-    "confidence": "folkets_only",
-    "sv_gt": "att drunkna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "catastrophe",
@@ -30144,13 +28623,9 @@
   },
   {
     "en": "to launder",
-    "sv": [
-      "tvätta",
-      "tvätta och stryka"
-    ],
+    "sv": "att tvätta",
     "rank": 3414,
-    "confidence": "folkets+gt",
-    "sv_gt": "att tvätta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to wash",
@@ -30356,10 +28831,9 @@
   },
   {
     "en": "to repeal",
-    "sv": "återkalla, återtaga",
+    "sv": "att upphäva",
     "rank": 3448,
-    "confidence": "folkets_only",
-    "sv_gt": "att upphäva"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to turn over",
@@ -30392,14 +28866,9 @@
   },
   {
     "en": "to dismiss",
-    "sv": [
-      "avvisa",
-      "slå bort",
-      "slå ur tankarna"
-    ],
+    "sv": "att avfärda",
     "rank": 3453,
-    "confidence": "folkets_only",
-    "sv_gt": "att avfärda"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to terminate an employment",
@@ -30436,13 +28905,9 @@
   },
   {
     "en": "to voyage",
-    "sv": [
-      "resa",
-      "längre resa"
-    ],
+    "sv": "att resa",
     "rank": 3460,
-    "confidence": "folkets+gt",
-    "sv_gt": "att resa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "greatly",
@@ -30489,14 +28954,9 @@
   },
   {
     "en": "to bully",
-    "sv": [
-      "bra",
-      "fint",
-      "så bra!"
-    ],
+    "sv": "att mobba",
     "rank": 3468,
-    "confidence": "folkets_only",
-    "sv_gt": "att mobba"
+    "confidence": "folkets+gt"
   },
   {
     "en": "threesome",
@@ -30546,14 +29006,9 @@
   },
   {
     "en": "to match",
-    "sv": [
-      "anpassa",
-      "giftermål",
-      "parti"
-    ],
+    "sv": "att matcha",
     "rank": 3477,
-    "confidence": "folkets_only",
-    "sv_gt": "att matcha"
+    "confidence": "folkets+gt"
   },
   {
     "en": "family with children",
@@ -30563,14 +29018,9 @@
   },
   {
     "en": "to possess",
-    "sv": [
-      "fylla",
-      "behärska",
-      "behärska sig"
-    ],
+    "sv": "att äga",
     "rank": 3480,
-    "confidence": "folkets_only",
-    "sv_gt": "att äga"
+    "confidence": "folkets+gt"
   },
   {
     "en": "corner",
@@ -30667,10 +29117,9 @@
   },
   {
     "en": "to redeem",
-    "sv": "lösa in",
+    "sv": "att lösa in",
     "rank": 3502,
-    "confidence": "folkets+gt",
-    "sv_gt": "att lösa in"
+    "confidence": "folkets+gt"
   },
   {
     "en": "dell",
@@ -30724,14 +29173,9 @@
   },
   {
     "en": "to rush",
-    "sv": [
-      "brådska",
-      "det är ingen brådska",
-      "jäkt"
-    ],
+    "sv": "att rusa",
     "rank": 3515,
-    "confidence": "folkets_only",
-    "sv_gt": "att rusa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "draw",
@@ -30746,25 +29190,15 @@
   },
   {
     "en": "to slow",
-    "sv": [
-      "dum",
-      "trögtänkt",
-      "bakom"
-    ],
+    "sv": "att sakta ner",
     "rank": 3517,
-    "confidence": "folkets_only",
-    "sv_gt": "att sakta ner"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to slow down",
-    "sv": [
-      "sakta in",
-      "få att sänka farten",
-      "försena"
-    ],
+    "sv": "att sakta ner",
     "rank": 3517,
-    "confidence": "folkets_only",
-    "sv_gt": "att sakta ner"
+    "confidence": "folkets+gt"
   },
   {
     "en": "from Oulu",
@@ -30926,14 +29360,9 @@
   },
   {
     "en": "to go down",
-    "sv": [
-      "gå ned",
-      "bli nedflyttad i rangordning",
-      "förlora"
-    ],
+    "sv": "att gå ner",
     "rank": 3547,
-    "confidence": "folkets_only",
-    "sv_gt": "att gå ner"
+    "confidence": "folkets+gt"
   },
   {
     "en": "lay-off",
@@ -30967,25 +29396,15 @@
   },
   {
     "en": "to knock out",
-    "sv": [
-      "sno ihop",
-      "yxa till",
-      "rafsa ihop"
-    ],
+    "sv": "att slå ut",
     "rank": 3552,
-    "confidence": "folkets_only",
-    "sv_gt": "att slå ut"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to stun",
-    "sv": [
-      "bedöva",
-      "chocka",
-      "förbluffa"
-    ],
+    "sv": "att bedöva",
     "rank": 3552,
-    "confidence": "folkets+gt",
-    "sv_gt": "att bedöva"
+    "confidence": "folkets+gt"
   },
   {
     "en": "appellant",
@@ -31022,14 +29441,10 @@
   },
   {
     "en": "to classify",
-    "sv": [
-      "klassificera",
-      "placera i klasser",
-      "systematisera"
-    ],
+    "sv": "att klassificera",
     "rank": 3558,
-    "confidence": "3sources",
-    "sv_gt": "att klassificera"
+    "confidence": "folkets+gt",
+    "sv_claude": "klassificera"
   },
   {
     "en": "income policy agreement",
@@ -31095,14 +29510,9 @@
   },
   {
     "en": "to flatten",
-    "sv": [
-      "platta till",
-      "göra nedslagen",
-      "göra plan"
-    ],
+    "sv": "att platta till",
     "rank": 3568,
-    "confidence": "folkets+gt",
-    "sv_gt": "att platta till"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to offset",
@@ -31142,36 +29552,21 @@
   },
   {
     "en": "to enter into",
-    "sv": [
-      "ingå",
-      "gå in i",
-      "komma överens om"
-    ],
+    "sv": "att ingå",
     "rank": 3571,
-    "confidence": "folkets+gt",
-    "sv_gt": "att ingå"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to pick",
-    "sv": [
-      "stjäla",
-      "stjäla ur fickor",
-      "stjäla ur väskor)"
-    ],
+    "sv": "att plocka",
     "rank": 3572,
-    "confidence": "folkets_only",
-    "sv_gt": "att plocka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to pick up",
-    "sv": [
-      "få att må bättre",
-      "få in",
-      "få in på radio"
-    ],
+    "sv": "att hämta",
     "rank": 3572,
-    "confidence": "folkets_only",
-    "sv_gt": "att hämta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "thuja",
@@ -31198,14 +29593,9 @@
   },
   {
     "en": "to join",
-    "sv": [
-      "delta i",
-      "förena",
-      "förenas"
-    ],
+    "sv": "att gå med",
     "rank": 3576,
-    "confidence": "folkets_only",
-    "sv_gt": "att gå med"
+    "confidence": "folkets+gt"
   },
   {
     "en": "enthusiastic",
@@ -31311,24 +29701,15 @@
   },
   {
     "en": "to cancel out",
-    "sv": [
-      "upphäva varandra",
-      "ta ut varandra"
-    ],
+    "sv": "att avbryta",
     "rank": 3595,
-    "confidence": "folkets_only",
-    "sv_gt": "att avbryta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to contract",
-    "sv": [
-      "kontrakt",
-      "entreprenad",
-      "ackord"
-    ],
+    "sv": "att kontraktera",
     "rank": 3595,
-    "confidence": "folkets+gt",
-    "sv_gt": "att kontraktera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "armed force",
@@ -31414,24 +29795,15 @@
   },
   {
     "en": "to invest in",
-    "sv": [
-      "investera i",
-      "köpa"
-    ],
+    "sv": "att investera i",
     "rank": 3621,
-    "confidence": "folkets+gt",
-    "sv_gt": "att investera i"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to crumble",
-    "sv": [
-      "smula sönder",
-      "smula sig",
-      "smulpaj"
-    ],
+    "sv": "att smula sönder",
     "rank": 3622,
-    "confidence": "folkets+gt",
-    "sv_gt": "att smula sönder"
+    "confidence": "folkets+gt"
   },
   {
     "en": "regularly",
@@ -31458,25 +29830,15 @@
   },
   {
     "en": "to bargain",
-    "sv": [
-      "affärsuppgörelse",
-      "vara tuff i affärer",
-      "till råga på allt"
-    ],
+    "sv": "att pruta",
     "rank": 3627,
-    "confidence": "folkets_only",
-    "sv_gt": "att pruta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to haggle",
-    "sv": [
-      "pruta",
-      "hacka",
-      "köpslå"
-    ],
+    "sv": "att pruta",
     "rank": 3627,
-    "confidence": "folkets+gt",
-    "sv_gt": "att pruta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "first of May",
@@ -31492,21 +29854,15 @@
   },
   {
     "en": "to pitch",
-    "sv": [
-      "pitcha",
-      "bre på",
-      "bestämma trumf"
-    ],
+    "sv": "att pitcha",
     "rank": 3633,
-    "confidence": "folkets+gt",
-    "sv_gt": "att pitcha"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to invade",
-    "sv": "invadera",
+    "sv": "att invadera",
     "rank": 3634,
-    "confidence": "folkets+gt",
-    "sv_gt": "att invadera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to penetrate",
@@ -31619,14 +29975,9 @@
   },
   {
     "en": "to strain",
-    "sv": [
-      "ras",
-      "stam",
-      "art"
-    ],
+    "sv": "att spänna",
     "rank": 3655,
-    "confidence": "folkets_only",
-    "sv_gt": "att spänna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "crash",
@@ -31666,14 +30017,9 @@
   },
   {
     "en": "to tighten",
-    "sv": [
-      "bli stel",
-      "stelna",
-      "dras åt"
-    ],
+    "sv": "att dra åt",
     "rank": 3666,
-    "confidence": "folkets_only",
-    "sv_gt": "att dra åt"
+    "confidence": "folkets+gt"
   },
   {
     "en": "fisher",
@@ -31705,25 +30051,15 @@
   },
   {
     "en": "to alarm",
-    "sv": [
-      "alarm",
-      "larmsignal",
-      "varningssignal"
-    ],
+    "sv": "att larma",
     "rank": 3672,
-    "confidence": "folkets_only",
-    "sv_gt": "att larma"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to alert",
-    "sv": [
-      "larm",
-      "larmberedskap",
-      "flyglarm"
-    ],
+    "sv": "att larma",
     "rank": 3672,
-    "confidence": "folkets+gt",
-    "sv_gt": "att larma"
+    "confidence": "folkets+gt"
   },
   {
     "en": "working",
@@ -31769,13 +30105,9 @@
   },
   {
     "en": "to speed up",
-    "sv": [
-      "öka farten",
-      "höja takten"
-    ],
+    "sv": "att påskynda",
     "rank": 3682,
-    "confidence": "folkets_only",
-    "sv_gt": "att påskynda"
+    "confidence": "folkets+gt"
   },
   {
     "en": "parish priest",
@@ -31883,24 +30215,15 @@
   },
   {
     "en": "to separate",
-    "sv": [
-      "dela sig",
-      "dela upp sig",
-      "dela"
-    ],
+    "sv": "att separera",
     "rank": 3711,
-    "confidence": "folkets_only",
-    "sv_gt": "att separera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to edit",
-    "sv": [
-      "redigera",
-      "vara redaktör för"
-    ],
+    "sv": "att redigera",
     "rank": 3712,
-    "confidence": "folkets+gt",
-    "sv_gt": "att redigera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "labour party",
@@ -32019,14 +30342,9 @@
   },
   {
     "en": "to sponsor",
-    "sv": [
-      "beskyddare",
-      "främjare",
-      "garant"
-    ],
+    "sv": "att sponsra",
     "rank": 3746,
-    "confidence": "folkets_only",
-    "sv_gt": "att sponsra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "landowner",
@@ -32143,21 +30461,15 @@
   },
   {
     "en": "to obligate",
-    "sv": "förpliktiga",
+    "sv": "att förplikta",
     "rank": 3763,
-    "confidence": "folkets_only",
-    "sv_gt": "att förplikta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to oblige",
-    "sv": [
-      "förpliktiga",
-      "tvinga",
-      "tillmötesgå"
-    ],
+    "sv": "att förplikta",
     "rank": 3763,
-    "confidence": "folkets_only",
-    "sv_gt": "att förplikta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "gallery",
@@ -32175,25 +30487,15 @@
   },
   {
     "en": "to cram",
-    "sv": [
-      "plugga med",
-      "drilla",
-      "plugga"
-    ],
+    "sv": "att proppa",
     "rank": 3766,
-    "confidence": "folkets_only",
-    "sv_gt": "att proppa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to pack",
-    "sv": [
-      "paket",
-      "ask",
-      "kedja"
-    ],
+    "sv": "att packa",
     "rank": 3766,
-    "confidence": "folkets_only",
-    "sv_gt": "att packa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "interval",
@@ -32215,21 +30517,15 @@
   },
   {
     "en": "to adapt",
-    "sv": [
-      "anpassa sig",
-      "anpassa",
-      "ställa om"
-    ],
+    "sv": "att anpassa sig",
     "rank": 3769,
-    "confidence": "folkets+gt",
-    "sv_gt": "att anpassa sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to integrate",
-    "sv": "integrera",
+    "sv": "att integrera",
     "rank": 3769,
-    "confidence": "folkets+gt",
-    "sv_gt": "att integrera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "studio",
@@ -32320,14 +30616,9 @@
   },
   {
     "en": "to descend",
-    "sv": [
-      "gå ned",
-      "nedstiga",
-      "komma ned"
-    ],
+    "sv": "att gå ner",
     "rank": 3786,
-    "confidence": "folkets_only",
-    "sv_gt": "att gå ner"
+    "confidence": "folkets+gt"
   },
   {
     "en": "beverage",
@@ -32347,21 +30638,15 @@
   },
   {
     "en": "to burst",
-    "sv": [
-      "salva",
-      "skottsalva",
-      "brista"
-    ],
+    "sv": "att spricka",
     "rank": 3794,
-    "confidence": "folkets_only",
-    "sv_gt": "att spricka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to pop",
-    "sv": "pop",
+    "sv": "att poppa",
     "rank": 3794,
-    "confidence": "folkets+gt",
-    "sv_gt": "att poppa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "confrontation",
@@ -32381,21 +30666,16 @@
   },
   {
     "en": "to analyze",
-    "sv": [
-      "analysera",
-      "noga undersöka",
-      "reda ut"
-    ],
+    "sv": "att analysera",
     "rank": 3797,
-    "confidence": "3sources",
-    "sv_gt": "att analysera"
+    "confidence": "folkets+gt",
+    "sv_claude": "analysera"
   },
   {
     "en": "to crop up",
-    "sv": "dyka upp",
+    "sv": "att dyka upp",
     "rank": 3798,
-    "confidence": "folkets+gt",
-    "sv_gt": "att dyka upp"
+    "confidence": "folkets+gt"
   },
   {
     "en": "neighborhood",
@@ -32432,14 +30712,9 @@
   },
   {
     "en": "to map",
-    "sv": [
-      "kartlägga",
-      "karta",
-      "sjökort"
-    ],
+    "sv": "att kartlägga",
     "rank": 3804,
-    "confidence": "folkets+gt",
-    "sv_gt": "att kartlägga"
+    "confidence": "folkets+gt"
   },
   {
     "en": "villager",
@@ -32575,17 +30850,15 @@
   },
   {
     "en": "to abbreviate",
-    "sv": "förkorta",
+    "sv": "att förkorta",
     "rank": 3839,
-    "confidence": "folkets+gt",
-    "sv_gt": "att förkorta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to shorten",
-    "sv": "förkorta",
+    "sv": "att förkorta",
     "rank": 3839,
-    "confidence": "folkets+gt",
-    "sv_gt": "att förkorta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to divide",
@@ -32680,14 +30953,9 @@
   },
   {
     "en": "to risk",
-    "sv": [
-      "fara",
-      "risk",
-      "vara i farozonen"
-    ],
+    "sv": "att riskera",
     "rank": 3867,
-    "confidence": "folkets_only",
-    "sv_gt": "att riskera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "fuck",
@@ -32698,14 +30966,9 @@
   },
   {
     "en": "to advocate",
-    "sv": [
-      "förespråka",
-      "advokat",
-      "rekommendera"
-    ],
+    "sv": "att förespråka",
     "rank": 3869,
-    "confidence": "folkets+gt",
-    "sv_gt": "att förespråka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "department store",
@@ -32721,14 +30984,9 @@
   },
   {
     "en": "to look out",
-    "sv": [
-      "titta ut",
-      "se sig för",
-      "titta ut genom fönstret"
-    ],
+    "sv": "att se ut",
     "rank": 3872,
-    "confidence": "folkets_only",
-    "sv_gt": "att se ut"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to look out for",
@@ -32786,25 +31044,15 @@
   },
   {
     "en": "to bomb",
-    "sv": [
-      "misslyckas med",
-      "misslyckas katastrofalt med",
-      "köra på"
-    ],
+    "sv": "att bomba",
     "rank": 3886,
-    "confidence": "folkets_only",
-    "sv_gt": "att bomba"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to bombard",
-    "sv": [
-      "bombardera",
-      "beskjuta",
-      "bombardera med frågor"
-    ],
+    "sv": "att bombardera",
     "rank": 3886,
-    "confidence": "folkets+gt",
-    "sv_gt": "att bombardera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "Ministry of Defence",
@@ -32826,10 +31074,9 @@
   },
   {
     "en": "to hone",
-    "sv": "finslipa",
+    "sv": "att finslipa",
     "rank": 3889,
-    "confidence": "folkets+gt",
-    "sv_gt": "att finslipa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "in a row",
@@ -32852,14 +31099,9 @@
   },
   {
     "en": "to behave",
-    "sv": [
-      "sköta sig",
-      "uppföra sig väl",
-      "vara snäll"
-    ],
+    "sv": "att bete sig",
     "rank": 3893,
-    "confidence": "folkets_only",
-    "sv_gt": "att bete sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "assortment",
@@ -32910,14 +31152,9 @@
   },
   {
     "en": "to like",
-    "sv": [
-      "av samma typ",
-      "av samma sort",
-      "liknande"
-    ],
+    "sv": "att gilla",
     "rank": 3900,
-    "confidence": "folkets_only",
-    "sv_gt": "att gilla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "substantive",
@@ -32977,13 +31214,9 @@
   },
   {
     "en": "to abridge",
-    "sv": [
-      "förkorta",
-      "den förkortade upplagan av"
-    ],
+    "sv": "att förkorta",
     "rank": 3920,
-    "confidence": "folkets+gt",
-    "sv_gt": "att förkorta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "publication",
@@ -33056,25 +31289,15 @@
   },
   {
     "en": "to advertise",
-    "sv": [
-      "underrätta",
-      "annonsera efter",
-      "efterfråga genom annons"
-    ],
+    "sv": "att annonsera",
     "rank": 3934,
-    "confidence": "folkets_only",
-    "sv_gt": "att annonsera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to bestow",
-    "sv": [
-      "skänka",
-      "använda",
-      "ge"
-    ],
+    "sv": "att skänka",
     "rank": 3935,
-    "confidence": "folkets+gt",
-    "sv_gt": "att skänka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "ethical",
@@ -33114,13 +31337,9 @@
   },
   {
     "en": "to dream",
-    "sv": [
-      "drömma",
-      "dröm"
-    ],
+    "sv": "att drömma",
     "rank": 3943,
-    "confidence": "folkets+gt",
-    "sv_gt": "att drömma"
+    "confidence": "folkets+gt"
   },
   {
     "en": "business activity",
@@ -33130,14 +31349,9 @@
   },
   {
     "en": "to fire",
-    "sv": [
-      "elda upp",
-      "egga",
-      "stimulera"
-    ],
+    "sv": "att elda",
     "rank": 3946,
-    "confidence": "folkets_only",
-    "sv_gt": "att elda",
+    "confidence": "folkets+gt",
     "sv_claude": "avskeda"
   },
   {
@@ -33148,10 +31362,9 @@
   },
   {
     "en": "to revoke",
-    "sv": "återkalla",
+    "sv": "att återkalla",
     "rank": 3947,
-    "confidence": "folkets+gt",
-    "sv_gt": "att återkalla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "counterpart",
@@ -33202,14 +31415,9 @@
   },
   {
     "en": "to tax",
-    "sv": [
-      "skatt",
-      "statlig skatt",
-      "pålaga"
-    ],
+    "sv": "att beskatta",
     "rank": 3963,
-    "confidence": "folkets+gt",
-    "sv_gt": "att beskatta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "egg",
@@ -33306,25 +31514,15 @@
   },
   {
     "en": "to curb",
-    "sv": [
-      "hämma",
-      "tygla",
-      "kuva"
-    ],
+    "sv": "att stävja",
     "rank": 3981,
-    "confidence": "folkets_only",
-    "sv_gt": "att stävja"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to restrain",
-    "sv": [
-      "hålla tillbaka",
-      "hindra",
-      "avhålla"
-    ],
+    "sv": "att hålla tillbaka",
     "rank": 3981,
-    "confidence": "folkets+gt",
-    "sv_gt": "att hålla tillbaka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "esker",
@@ -33385,14 +31583,9 @@
   },
   {
     "en": "to flatter",
-    "sv": [
-      "smickra",
-      "bereda glädje",
-      "ge överdrivet beröm"
-    ],
+    "sv": "att smickra",
     "rank": 3993,
-    "confidence": "folkets+gt",
-    "sv_gt": "att smickra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "preservation",
@@ -33450,14 +31643,9 @@
   },
   {
     "en": "to startle",
-    "sv": [
-      "skrämma upp",
-      "fara upp",
-      "bli skrämd"
-    ],
+    "sv": "att skrämma",
     "rank": 4004,
-    "confidence": "folkets_only",
-    "sv_gt": "att skrämma"
+    "confidence": "folkets+gt"
   },
   {
     "en": "this year's",
@@ -33700,14 +31888,9 @@
   },
   {
     "en": "to hook",
-    "sv": [
-      "ge ett krokslag",
-      "krokslag",
-      "hook"
-    ],
+    "sv": "att kroka",
     "rank": 4041,
-    "confidence": "folkets_only",
-    "sv_gt": "att kroka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to smile faintly",
@@ -33717,24 +31900,15 @@
   },
   {
     "en": "to pry",
-    "sv": [
-      "bända",
-      "snoka omkring"
-    ],
+    "sv": "att bända",
     "rank": 4043,
-    "confidence": "folkets+gt",
-    "sv_gt": "att bända"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to twist",
-    "sv": [
-      "vrida",
-      "snurra",
-      "skruva"
-    ],
+    "sv": "att vrida",
     "rank": 4043,
-    "confidence": "folkets+gt",
-    "sv_gt": "att vrida"
+    "confidence": "folkets+gt"
   },
   {
     "en": "European elections",
@@ -33853,14 +32027,9 @@
   },
   {
     "en": "to tilt",
-    "sv": [
-      "luta",
-      "vippa",
-      "lutande"
-    ],
+    "sv": "att luta",
     "rank": 4060,
-    "confidence": "folkets+gt",
-    "sv_gt": "att luta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "congestion",
@@ -33949,14 +32118,9 @@
   },
   {
     "en": "to raise",
-    "sv": [
-      "föda upp",
-      "odla",
-      "lyfta"
-    ],
+    "sv": "att höja",
     "rank": 4071,
-    "confidence": "folkets_only",
-    "sv_gt": "att höja",
+    "confidence": "folkets+gt",
     "sv_claude": "samla in"
   },
   {
@@ -33985,14 +32149,9 @@
   },
   {
     "en": "to dispose of",
-    "sv": [
-      "förfoga över",
-      "fritt förfoga över",
-      "disponera"
-    ],
+    "sv": "att göra sig av med",
     "rank": 4078,
-    "confidence": "folkets_only",
-    "sv_gt": "att göra sig av med"
+    "confidence": "folkets+gt"
   },
   {
     "en": "dividend",
@@ -34349,10 +32508,9 @@
   },
   {
     "en": "to crystallize",
-    "sv": "kristallisera",
+    "sv": "att kristallisera",
     "rank": 4141,
-    "confidence": "folkets+gt",
-    "sv_gt": "att kristallisera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to sum up",
@@ -34427,14 +32585,9 @@
   },
   {
     "en": "to find out",
-    "sv": [
-      "avslöja",
-      "ertappa",
-      "få reda på"
-    ],
+    "sv": "att ta reda på det",
     "rank": 4151,
-    "confidence": "folkets_only",
-    "sv_gt": "att ta reda på det"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to untangle",
@@ -34551,14 +32704,9 @@
   },
   {
     "en": "to empty",
-    "sv": [
-      "falla ut i",
-      "hälla upp",
-      "tom"
-    ],
+    "sv": "att tömma",
     "rank": 4175,
-    "confidence": "folkets_only",
-    "sv_gt": "att tömma"
+    "confidence": "folkets+gt"
   },
   {
     "en": "fan",
@@ -34932,36 +33080,21 @@
   },
   {
     "en": "to ally",
-    "sv": [
-      "bundsförvant",
-      "allierad",
-      "förena"
-    ],
+    "sv": "att alliera sig",
     "rank": 4246,
-    "confidence": "folkets_only",
-    "sv_gt": "att alliera sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to adopt",
-    "sv": [
-      "adoptera",
-      "jag är adopterad",
-      "anta"
-    ],
+    "sv": "att adoptera",
     "rank": 4247,
-    "confidence": "folkets+gt",
-    "sv_gt": "att adoptera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to embrace",
-    "sv": [
-      "anta",
-      "ta emot",
-      "gripa"
-    ],
+    "sv": "att omfamna",
     "rank": 4247,
-    "confidence": "folkets_only",
-    "sv_gt": "att omfamna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "frame",
@@ -35201,14 +33334,9 @@
   },
   {
     "en": "to climb",
-    "sv": [
-      "klättra",
-      "kliva",
-      "klänga"
-    ],
+    "sv": "att klättra",
     "rank": 4285,
-    "confidence": "folkets+gt",
-    "sv_gt": "att klättra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to shinny",
@@ -35313,10 +33441,9 @@
   },
   {
     "en": "to ripen",
-    "sv": "mogna",
+    "sv": "att mogna",
     "rank": 4298,
-    "confidence": "folkets+gt",
-    "sv_gt": "att mogna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "spike",
@@ -35349,13 +33476,9 @@
   },
   {
     "en": "to irritate",
-    "sv": [
-      "irritera",
-      "reta"
-    ],
+    "sv": "att irritera",
     "rank": 4306,
-    "confidence": "folkets+gt",
-    "sv_gt": "att irritera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to tease",
@@ -35447,14 +33570,9 @@
   },
   {
     "en": "to melt",
-    "sv": [
-      "drunkna i",
-      "försvinna i",
-      "övergå i"
-    ],
+    "sv": "att smälta",
     "rank": 4323,
-    "confidence": "folkets_only",
-    "sv_gt": "att smälta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "vision",
@@ -35497,14 +33615,9 @@
   },
   {
     "en": "to mess up",
-    "sv": [
-      "misslyckas",
-      "göra bort sig",
-      "förstöra"
-    ],
+    "sv": "att stöka till",
     "rank": 4333,
-    "confidence": "folkets_only",
-    "sv_gt": "att stöka till"
+    "confidence": "folkets+gt"
   },
   {
     "en": "blond",
@@ -35524,14 +33637,9 @@
   },
   {
     "en": "to murder",
-    "sv": [
-      "mörda",
-      "begå mord",
-      "fördärva"
-    ],
+    "sv": "att mörda",
     "rank": 4341,
-    "confidence": "folkets+gt",
-    "sv_gt": "att mörda"
+    "confidence": "folkets+gt"
   },
   {
     "en": "annual contribution margin",
@@ -35611,25 +33719,15 @@
   },
   {
     "en": "to shock",
-    "sv": [
-      "stöt",
-      "elektrisk stöt",
-      "få en (elektrisk) stöt"
-    ],
+    "sv": "att chocka",
     "rank": 4364,
-    "confidence": "folkets_only",
-    "sv_gt": "att chocka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to upset",
-    "sv": [
-      "oväntad seger",
-      "oväntat nederlag",
-      "kullkasta"
-    ],
+    "sv": "att uppröra",
     "rank": 4364,
-    "confidence": "folkets_only",
-    "sv_gt": "att uppröra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to be saved",
@@ -35752,14 +33850,9 @@
   },
   {
     "en": "to machine",
-    "sv": [
-      "organisation",
-      "partiorganisation",
-      "apparat"
-    ],
+    "sv": "att bearbeta",
     "rank": 4388,
-    "confidence": "folkets_only",
-    "sv_gt": "att bearbeta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "depth",
@@ -36043,14 +34136,9 @@
   },
   {
     "en": "to delight",
-    "sv": [
-      "glädja",
-      "fröjda",
-      "glädje"
-    ],
+    "sv": "att glädja",
     "rank": 4452,
-    "confidence": "folkets+gt",
-    "sv_gt": "att glädja"
+    "confidence": "folkets+gt"
   },
   {
     "en": "quotation",
@@ -36081,25 +34169,15 @@
   },
   {
     "en": "to illuminate",
-    "sv": [
-      "belysa",
-      "kasta ljus över",
-      "illuminera"
-    ],
+    "sv": "att belysa",
     "rank": 4457,
-    "confidence": "folkets+gt",
-    "sv_gt": "att belysa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to boil",
-    "sv": [
-      "koka",
-      "sjuda",
-      "koka av ilska"
-    ],
+    "sv": "att koka",
     "rank": 4459,
-    "confidence": "folkets+gt",
-    "sv_gt": "att koka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "decent",
@@ -36138,14 +34216,9 @@
   },
   {
     "en": "to regulate",
-    "sv": [
-      "reglera",
-      "normera",
-      "avpassa"
-    ],
+    "sv": "att reglera",
     "rank": 4465,
-    "confidence": "folkets+gt",
-    "sv_gt": "att reglera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to introduce oneself",
@@ -36296,14 +34369,9 @@
   },
   {
     "en": "to rampage",
-    "sv": [
-      "raseri",
-      "vild framfart",
-      "rusa omkring"
-    ],
+    "sv": "att härja",
     "rank": 4500,
-    "confidence": "folkets_only",
-    "sv_gt": "att härja"
+    "confidence": "folkets+gt"
   },
   {
     "en": "tractor",
@@ -36525,10 +34593,9 @@
   },
   {
     "en": "to swallow",
-    "sv": "svälja",
+    "sv": "att svälja",
     "rank": 4543,
-    "confidence": "folkets+gt",
-    "sv_gt": "att svälja"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to patch",
@@ -36715,13 +34782,9 @@
   },
   {
     "en": "to swear",
-    "sv": [
-      "lovar",
-      "svär"
-    ],
+    "sv": "att svära",
     "rank": 4587,
-    "confidence": "folkets_only",
-    "sv_gt": "att svära"
+    "confidence": "folkets+gt"
   },
   {
     "en": "exclusively",
@@ -36736,10 +34799,9 @@
   },
   {
     "en": "to skate",
-    "sv": "åka skridskor",
+    "sv": "att åka skridskor",
     "rank": 4592,
-    "confidence": "folkets+gt",
-    "sv_gt": "att åka skridskor"
+    "confidence": "folkets+gt"
   },
   {
     "en": "special exam",
@@ -36792,14 +34854,9 @@
   },
   {
     "en": "to clean up",
-    "sv": [
-      "rensa up",
-      "snygga till",
-      "rensa upp"
-    ],
+    "sv": "att städa upp",
     "rank": 4602,
-    "confidence": "folkets_only",
-    "sv_gt": "att städa upp"
+    "confidence": "folkets+gt"
   },
   {
     "en": "bow",
@@ -36929,14 +34986,9 @@
   },
   {
     "en": "to expel",
-    "sv": [
-      "driva ut",
-      "fördriva",
-      "jaga bort"
-    ],
+    "sv": "att utvisa",
     "rank": 4624,
-    "confidence": "folkets_only",
-    "sv_gt": "att utvisa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "Ministry of Industry",
@@ -36967,14 +35019,9 @@
   },
   {
     "en": "to sigh",
-    "sv": [
-      "sucka",
-      "suck",
-      "dra en lättnadens suck"
-    ],
+    "sv": "att sucka",
     "rank": 4630,
-    "confidence": "folkets+gt",
-    "sv_gt": "att sucka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "slippery",
@@ -40371,69 +38418,40 @@
   },
   {
     "en": "to abstract",
-    "sv": [
-      "abstrahera",
-      "skilja ut",
-      "ta bort"
-    ],
+    "sv": "att abstrahera",
     "rank": 9999,
-    "confidence": "folkets+gt",
-    "sv_gt": "att abstrahera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to activate",
-    "sv": [
-      "aktivera",
-      "göra aktiv",
-      "aktivera barnen i skolan"
-    ],
+    "sv": "att aktivera",
     "rank": 9999,
-    "confidence": "3sources",
-    "sv_gt": "att aktivera"
+    "confidence": "folkets+gt",
+    "sv_claude": "aktivera"
   },
   {
     "en": "to amputate",
-    "sv": [
-      "amputera",
-      "vi måste tyvärr amputera",
-      "operera bort"
-    ],
+    "sv": "att amputera",
     "rank": 9999,
-    "confidence": "folkets+gt",
-    "sv_gt": "att amputera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to anchor",
-    "sv": [
-      "ankare",
-      "kasta ankar",
-      "ligga för ankar"
-    ],
+    "sv": "att ankra",
     "rank": 9999,
-    "confidence": "folkets_only",
-    "sv_gt": "att ankra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to archive",
-    "sv": [
-      "arkivera",
-      "arkiv",
-      "ibland även komprimera"
-    ],
+    "sv": "att arkivera",
     "rank": 9999,
-    "confidence": "folkets+gt",
-    "sv_gt": "att arkivera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to articulate",
-    "sv": [
-      "artikulera",
-      "leddjur",
-      "uttala"
-    ],
+    "sv": "att artikulera",
     "rank": 9999,
-    "confidence": "folkets+gt",
-    "sv_gt": "att artikulera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to bake",
@@ -40455,58 +38473,33 @@
   },
   {
     "en": "to bike",
-    "sv": [
-      "cykla",
-      "hoj",
-      "cykel"
-    ],
+    "sv": "att cykla",
     "rank": 9999,
-    "confidence": "folkets+gt",
-    "sv_gt": "att cykla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to brush",
-    "sv": [
-      "borsta av",
-      "borsta",
-      "sopa"
-    ],
+    "sv": "att borsta",
     "rank": 9999,
-    "confidence": "folkets_only",
-    "sv_gt": "att borsta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to comb",
-    "sv": [
-      "bryta sig",
-      "honungskaka",
-      "kam"
-    ],
+    "sv": "att kamma",
     "rank": 9999,
-    "confidence": "folkets_only",
-    "sv_gt": "att kamma"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to corrugate",
-    "sv": [
-      "korrugera",
-      "rynka",
-      "lägga i veck"
-    ],
+    "sv": "att korrugera",
     "rank": 9999,
-    "confidence": "folkets+gt",
-    "sv_gt": "att korrugera"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to devour",
-    "sv": [
-      "sluka",
-      "förstöra",
-      "förtära"
-    ],
+    "sv": "att sluka",
     "rank": 9999,
-    "confidence": "folkets+gt",
-    "sv_gt": "att sluka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to draw lots",
@@ -40523,47 +38516,27 @@
   },
   {
     "en": "to fence",
-    "sv": [
-      "handla med tjuvgods",
-      "hälare",
-      "fäkta"
-    ],
+    "sv": "att stängsla",
     "rank": 9999,
-    "confidence": "folkets_only",
-    "sv_gt": "att stängsla"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to gape",
-    "sv": [
-      "gapa vidöppen",
-      "öppna sig vitt",
-      "ett öppet sår"
-    ],
+    "sv": "att gapa",
     "rank": 9999,
-    "confidence": "folkets_only",
-    "sv_gt": "att gapa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to grow up",
-    "sv": [
-      "växa upp",
-      "växa fram",
-      "utvecklas"
-    ],
+    "sv": "att växa upp",
     "rank": 9999,
-    "confidence": "folkets+gt",
-    "sv_gt": "att växa upp"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to hoard",
-    "sv": [
-      "hamstra",
-      "förråd",
-      "lager"
-    ],
+    "sv": "att hamstra",
     "rank": 9999,
-    "confidence": "folkets+gt",
-    "sv_gt": "att hamstra"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to hug",
@@ -40573,47 +38546,27 @@
   },
   {
     "en": "to iron",
-    "sv": [
-      "järn-",
-      "styra med järnhand",
-      "järn"
-    ],
+    "sv": "att stryka",
     "rank": 9999,
-    "confidence": "folkets_only",
-    "sv_gt": "att stryka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to linger",
-    "sv": [
-      "dröja sig kvar",
-      "leva kvar",
-      "fortleva"
-    ],
+    "sv": "att dröja kvar",
     "rank": 9999,
-    "confidence": "folkets_only",
-    "sv_gt": "att dröja kvar"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to mail",
-    "sv": [
-      "pansar",
-      "brynja",
-      "rustning"
-    ],
+    "sv": "att maila",
     "rank": 9999,
-    "confidence": "folkets_only",
-    "sv_gt": "att maila"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to moo",
-    "sv": [
-      "böla",
-      "råma",
-      "mua"
-    ],
+    "sv": "att moo",
     "rank": 9999,
-    "confidence": "folkets_only",
-    "sv_gt": "att moo"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to oppress",
@@ -40623,14 +38576,9 @@
   },
   {
     "en": "to pardon",
-    "sv": [
-      "benåda",
-      "benådning",
-      "amnesti"
-    ],
+    "sv": "att benåda",
     "rank": 9999,
-    "confidence": "folkets+gt",
-    "sv_gt": "att benåda"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to rail",
@@ -40653,14 +38601,9 @@
   },
   {
     "en": "to sense",
-    "sv": [
-      "känna av",
-      "mäta",
-      "betydelse"
-    ],
+    "sv": "att känna",
     "rank": 9999,
-    "confidence": "folkets_only",
-    "sv_gt": "att känna"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to set a trap",
@@ -40670,14 +38613,9 @@
   },
   {
     "en": "to sneeze",
-    "sv": [
-      "nysa",
-      "nysning",
-      "matt"
-    ],
+    "sv": "att nysa",
     "rank": 9999,
-    "confidence": "folkets+gt",
-    "sv_gt": "att nysa"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to spray bullets",
@@ -40687,47 +38625,27 @@
   },
   {
     "en": "to stoop",
-    "sv": [
-      "sänka sig",
-      "ödmjuka sig",
-      "förnedra sig"
-    ],
+    "sv": "att böja sig",
     "rank": 9999,
-    "confidence": "folkets_only",
-    "sv_gt": "att böja sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to subject",
-    "sv": [
-      "ämne",
-      "skolämne",
-      "subjekt"
-    ],
+    "sv": "att underkasta sig",
     "rank": 9999,
-    "confidence": "folkets_only",
-    "sv_gt": "att underkasta sig"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to suppress",
-    "sv": [
-      "dra in",
-      "förbjuda",
-      "bannlysa"
-    ],
+    "sv": "att undertrycka",
     "rank": 9999,
-    "confidence": "folkets_only",
-    "sv_gt": "att undertrycka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to surrender",
-    "sv": [
-      "hänge sig",
-      "överlämna sig",
-      "ge sig"
-    ],
+    "sv": "att kapitulera",
     "rank": 9999,
-    "confidence": "folkets_only",
-    "sv_gt": "att kapitulera",
+    "confidence": "folkets+gt",
     "sv_claude": "ge upp"
   },
   {
@@ -40749,14 +38667,9 @@
   },
   {
     "en": "to underestimate",
-    "sv": [
-      "underskatta",
-      "undervärdera",
-      "beräkna för lågt"
-    ],
+    "sv": "att underskatta",
     "rank": 9999,
-    "confidence": "folkets+gt",
-    "sv_gt": "att underskatta"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to underline",
@@ -40772,14 +38685,9 @@
   },
   {
     "en": "to vacuum",
-    "sv": [
-      "dammsuga",
-      "vakuum",
-      "tomrum"
-    ],
+    "sv": "att dammsuga",
     "rank": 9999,
-    "confidence": "folkets+gt",
-    "sv_gt": "att dammsuga"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to wash oneself",
@@ -40789,10 +38697,9 @@
   },
   {
     "en": "to wipe",
-    "sv": "torka av",
+    "sv": "att torka",
     "rank": 9999,
-    "confidence": "folkets_only",
-    "sv_gt": "att torka"
+    "confidence": "folkets+gt"
   },
   {
     "en": "to work hard",

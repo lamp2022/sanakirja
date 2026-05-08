@@ -72,10 +72,7 @@
   },
   {
     "sv": "men",
-    "en": [
-      "but",
-      "to hurt"
-    ],
+    "en": "but",
     "rank": 8
   },
   {
@@ -152,7 +149,10 @@
   },
   {
     "sv": "att göra",
-    "en": "to make",
+    "en": [
+      "to make",
+      "to do"
+    ],
     "rank": 16
   },
   {
@@ -167,7 +167,10 @@
   },
   {
     "sv": "att hålla",
-    "en": "to hold",
+    "en": [
+      "to hold",
+      "to last"
+    ],
     "rank": 18
   },
   {
@@ -223,8 +226,7 @@
     "sv": "bra",
     "en": [
       "good",
-      "fine",
-      "to bully"
+      "fine"
     ],
     "rank": 23
   },
@@ -239,7 +241,7 @@
     "rank": 25
   },
   {
-    "sv": "säga",
+    "sv": "att säga",
     "en": "to say",
     "rank": 25
   },
@@ -281,7 +283,7 @@
     "rank": 29
   },
   {
-    "sv": "föröka",
+    "sv": "att föröka sig",
     "en": "to multiply",
     "rank": 30
   },
@@ -360,10 +362,7 @@
   },
   {
     "sv": "sak",
-    "en": [
-      "thing",
-      "to cause"
-    ],
+    "en": "thing",
     "rank": 43
   },
   {
@@ -482,8 +481,11 @@
     "rank": 59
   },
   {
-    "sv": "ta",
-    "en": "to take",
+    "sv": "att ta",
+    "en": [
+      "to take",
+      "to run out"
+    ],
     "rank": 59
   },
   {
@@ -497,7 +499,7 @@
     "rank": 61
   },
   {
-    "sv": "ge",
+    "sv": "att ge efter",
     "en": "to yield",
     "rank": 61
   },
@@ -532,24 +534,19 @@
     "rank": 64
   },
   {
-    "sv": "vilja",
+    "sv": "att vilja",
     "en": [
       "to want",
-      "will"
+      "to will"
     ],
     "rank": 64
   },
   {
-    "sv": "börja",
+    "sv": "att börja",
     "en": [
       "to begin",
-      "open"
+      "to start"
     ],
-    "rank": 65
-  },
-  {
-    "sv": "att börja",
-    "en": "to start",
     "rank": 65
   },
   {
@@ -622,7 +619,7 @@
     "en": [
       "part",
       "end",
-      "to part"
+      "section"
     ],
     "rank": 73
   },
@@ -826,7 +823,7 @@
     "rank": 96
   },
   {
-    "sv": "höra hemma",
+    "sv": "att tillhöra",
     "en": "to belong",
     "rank": 96
   },
@@ -908,7 +905,7 @@
     "rank": 102
   },
   {
-    "sv": "behöva",
+    "sv": "att behöva",
     "en": "to need",
     "rank": 104
   },
@@ -966,11 +963,8 @@
     "rank": 111
   },
   {
-    "sv": "stiga upp",
-    "en": [
-      "to rise",
-      "rise"
-    ],
+    "sv": "att stiga",
+    "en": "to rise",
     "rank": 111
   },
   {
@@ -1008,10 +1002,7 @@
   },
   {
     "sv": "företag",
-    "en": [
-      "company",
-      "to concern"
-    ],
+    "en": "company",
     "rank": 117
   },
   {
@@ -1045,7 +1036,10 @@
   },
   {
     "sv": "att följa",
-    "en": "to follow",
+    "en": [
+      "to follow",
+      "to ensue"
+    ],
     "rank": 120
   },
   {
@@ -1174,10 +1168,10 @@
     "rank": 134
   },
   {
-    "sv": "betala",
+    "sv": "att betala",
     "en": [
       "to pay",
-      "pay"
+      "to repay"
     ],
     "rank": 134
   },
@@ -1254,21 +1248,25 @@
     "rank": 140
   },
   {
-    "sv": "tro",
-    "en": [
-      "to believe",
-      "belief",
-      "faith"
-    ],
+    "sv": "att tro",
+    "en": "to believe",
     "rank": 140
   },
   {
-    "sv": "anförtro",
+    "sv": "att anförtro",
     "en": "to entrust",
     "rank": 140
   },
   {
-    "sv": "fungera väl",
+    "sv": "tro",
+    "en": [
+      "belief",
+      "faith"
+    ],
+    "rank": 141
+  },
+  {
+    "sv": "att utföra",
     "en": "to perform",
     "rank": 141
   },
@@ -1331,19 +1329,19 @@
   },
   {
     "sv": "ras",
-    "en": [
-      "race",
-      "to strain"
-    ],
+    "en": "race",
     "rank": 148
   },
   {
-    "sv": "döda",
-    "en": "to kill",
+    "sv": "att döda",
+    "en": [
+      "to kill",
+      "to slay"
+    ],
     "rank": 149
   },
   {
-    "sv": "tröska",
+    "sv": "att tröska",
     "en": "to thresh",
     "rank": 149
   },
@@ -1442,7 +1440,10 @@
   },
   {
     "sv": "att bestämma",
-    "en": "to decide",
+    "en": [
+      "to decide",
+      "to determine"
+    ],
     "rank": 161
   },
   {
@@ -1471,7 +1472,7 @@
     "rank": 162
   },
   {
-    "sv": "eskort",
+    "sv": "att eskortera",
     "en": "to escort",
     "rank": 162
   },
@@ -1482,10 +1483,7 @@
   },
   {
     "sv": "beslut",
-    "en": [
-      "decision",
-      "to finalize"
-    ],
+    "en": "decision",
     "rank": 163
   },
   {
@@ -1514,7 +1512,7 @@
     "rank": 165
   },
   {
-    "sv": "initiera",
+    "sv": "att initiera",
     "en": "to initiate",
     "rank": 166
   },
@@ -1534,7 +1532,7 @@
     "rank": 169
   },
   {
-    "sv": "vaxa",
+    "sv": "att vaxa",
     "en": "to wax",
     "rank": 169
   },
@@ -1567,7 +1565,7 @@
     "rank": 172
   },
   {
-    "sv": "dirigera",
+    "sv": "att bedriva",
     "en": "to conduct",
     "rank": 172
   },
@@ -1714,16 +1712,11 @@
     "rank": 187
   },
   {
-    "sv": "möte",
+    "sv": "att träffas",
     "en": [
       "to meet",
-      "meeting"
+      "to meet up"
     ],
-    "rank": 187
-  },
-  {
-    "sv": "att träffas",
-    "en": "to meet up",
     "rank": 187
   },
   {
@@ -1732,7 +1725,7 @@
     "rank": 188
   },
   {
-    "sv": "fortsätta",
+    "sv": "att fortsätta",
     "en": [
       "to continue",
       "to proceed"
@@ -1781,17 +1774,11 @@
     "rank": 194
   },
   {
-    "sv": "spela",
+    "sv": "att spela",
     "en": [
       "to gamble",
-      "play",
-      "record"
+      "to play"
     ],
-    "rank": 194
-  },
-  {
-    "sv": "att spela",
-    "en": "to play",
     "rank": 194
   },
   {
@@ -1808,8 +1795,11 @@
     "rank": 195
   },
   {
-    "sv": "ta med sig",
-    "en": "to take away",
+    "sv": "att ta bort",
+    "en": [
+      "to take away",
+      "to remove"
+    ],
     "rank": 195
   },
   {
@@ -1833,7 +1823,10 @@
   },
   {
     "sv": "att passa",
-    "en": "to fit",
+    "en": [
+      "to fit",
+      "to suit"
+    ],
     "rank": 197
   },
   {
@@ -1875,7 +1868,10 @@
   },
   {
     "sv": "att uppskatta",
-    "en": "to estimate",
+    "en": [
+      "to estimate",
+      "to appreciate"
+    ],
     "rank": 203
   },
   {
@@ -2022,7 +2018,10 @@
   },
   {
     "sv": "att känna",
-    "en": "to feel",
+    "en": [
+      "to feel",
+      "to sense"
+    ],
     "rank": 219
   },
   {
@@ -2037,10 +2036,7 @@
   },
   {
     "sv": "miss",
-    "en": [
-      "Miss",
-      "to strike"
-    ],
+    "en": "Miss",
     "rank": 222
   },
   {
@@ -2064,7 +2060,10 @@
   },
   {
     "sv": "att kunna",
-    "en": "to be able to",
+    "en": [
+      "to be able to",
+      "to might"
+    ],
     "rank": 224
   },
   {
@@ -2150,7 +2149,7 @@
     "rank": 234
   },
   {
-    "sv": "hända",
+    "sv": "att hända",
     "en": "to happen",
     "rank": 236
   },
@@ -2159,7 +2158,7 @@
     "en": [
       "objective",
       "target",
-      "to target"
+      "goal"
     ],
     "rank": 237
   },
@@ -2183,7 +2182,7 @@
     "en": [
       "journey",
       "travel",
-      "to voyage"
+      "trip"
     ],
     "rank": 239
   },
@@ -2275,8 +2274,7 @@
     "sv": "klocka",
     "en": [
       "bell",
-      "clock",
-      "to watch"
+      "clock"
     ],
     "rank": 248
   },
@@ -2350,10 +2348,7 @@
   },
   {
     "sv": "lem",
-    "en": [
-      "limb",
-      "to limb"
-    ],
+    "en": "limb",
     "rank": 258
   },
   {
@@ -2451,7 +2446,10 @@
   },
   {
     "sv": "att låta",
-    "en": "to sound",
+    "en": [
+      "to sound",
+      "to let"
+    ],
     "rank": 267
   },
   {
@@ -2517,7 +2515,7 @@
     "rank": 277
   },
   {
-    "sv": "höra",
+    "sv": "att höra",
     "en": "to hear",
     "rank": 277
   },
@@ -2656,8 +2654,7 @@
     "sv": "boka",
     "en": [
       "book",
-      "reserve",
-      "to book"
+      "reserve"
     ],
     "rank": 289
   },
@@ -2667,7 +2664,7 @@
     "rank": 290
   },
   {
-    "sv": "acceptera",
+    "sv": "att acceptera",
     "en": "to accept",
     "rank": 290
   },
@@ -2734,11 +2731,8 @@
     "rank": 295
   },
   {
-    "sv": "flytta",
-    "en": [
-      "to move",
-      "move"
-    ],
+    "sv": "att flytta",
+    "en": "to move",
     "rank": 297
   },
   {
@@ -2748,6 +2742,11 @@
       "close",
       "closely"
     ],
+    "rank": 298
+  },
+  {
+    "sv": "att orsaka",
+    "en": "to cause",
     "rank": 298
   },
   {
@@ -2774,16 +2773,11 @@
     "rank": 300
   },
   {
-    "sv": "byta om",
+    "sv": "att ändra",
     "en": [
       "to change",
-      "change"
+      "to modify"
     ],
-    "rank": 301
-  },
-  {
-    "sv": "ändra",
-    "en": "to modify",
     "rank": 301
   },
   {
@@ -2811,16 +2805,13 @@
     "rank": 305
   },
   {
-    "sv": "sälja",
+    "sv": "att sälja",
     "en": "to sell",
     "rank": 305
   },
   {
-    "sv": "skjuts",
-    "en": [
-      "to lift",
-      "lift"
-    ],
+    "sv": "att lyfta",
+    "en": "to lift",
     "rank": 306
   },
   {
@@ -2849,12 +2840,12 @@
     "rank": 312
   },
   {
-    "sv": "påminna",
+    "sv": "att påminna",
     "en": "to remind",
     "rank": 313
   },
   {
-    "sv": "likna",
+    "sv": "att likna",
     "en": "to resemble",
     "rank": 313
   },
@@ -2878,13 +2869,21 @@
     "rank": 318
   },
   {
-    "sv": "delta",
+    "sv": "att delta",
     "en": "to participate",
     "rank": 318
   },
   {
     "sv": "elak",
     "en": "evil",
+    "rank": 320
+  },
+  {
+    "sv": "att oroa sig",
+    "en": [
+      "to concern",
+      "to worry"
+    ],
     "rank": 320
   },
   {
@@ -2950,16 +2949,17 @@
   },
   {
     "sv": "dö",
-    "en": [
-      "die",
-      "to die",
-      "to check out"
-    ],
+    "en": "die",
     "rank": 328
   },
   {
     "sv": "ändamål",
     "en": "purpose",
+    "rank": 328
+  },
+  {
+    "sv": "att dö",
+    "en": "to die",
     "rank": 328
   },
   {
@@ -2989,6 +2989,11 @@
   {
     "sv": "ändring",
     "en": "amendment",
+    "rank": 333
+  },
+  {
+    "sv": "byta om",
+    "en": "change",
     "rank": 333
   },
   {
@@ -3124,7 +3129,10 @@
   },
   {
     "sv": "att slutföra",
-    "en": "to complete",
+    "en": [
+      "to complete",
+      "to finalize"
+    ],
     "rank": 346
   },
   {
@@ -3135,6 +3143,11 @@
   {
     "sv": "under året",
     "en": "in the year",
+    "rank": 347
+  },
+  {
+    "sv": "möte",
+    "en": "meeting",
     "rank": 347
   },
   {
@@ -3217,11 +3230,8 @@
     "rank": 357
   },
   {
-    "sv": "byte",
-    "en": [
-      "to shift",
-      "cop"
-    ],
+    "sv": "att växla",
+    "en": "to shift",
     "rank": 358
   },
   {
@@ -3293,6 +3303,11 @@
     "rank": 367
   },
   {
+    "sv": "börja",
+    "en": "open",
+    "rank": 368
+  },
+  {
     "sv": "obundet",
     "en": "untied",
     "rank": 368
@@ -3304,10 +3319,7 @@
   },
   {
     "sv": "dela ut",
-    "en": [
-      "share",
-      "to share"
-    ],
+    "en": "share",
     "rank": 369
   },
   {
@@ -3374,12 +3386,12 @@
     "rank": 376
   },
   {
-    "sv": "nå",
+    "sv": "att nå",
     "en": "to reach",
     "rank": 376
   },
   {
-    "sv": "peka med",
+    "sv": "att peka",
     "en": "to point",
     "rank": 378
   },
@@ -3452,23 +3464,17 @@
     "rank": 386
   },
   {
-    "sv": "ersätta",
-    "en": [
-      "to spell",
-      "to replace"
-    ],
+    "sv": "att stava",
+    "en": "to spell",
     "rank": 387
   },
   {
-    "sv": "ansvar",
-    "en": [
-      "to trust",
-      "responsibility"
-    ],
+    "sv": "att lita på",
+    "en": "to trust",
     "rank": 387
   },
   {
-    "sv": "skriva",
+    "sv": "att skriva",
     "en": "to write",
     "rank": 387
   },
@@ -3487,11 +3493,7 @@
   },
   {
     "sv": "begränsa",
-    "en": [
-      "limit",
-      "to contain",
-      "to restrict"
-    ],
+    "en": "limit",
     "rank": 389
   },
   {
@@ -3567,6 +3569,14 @@
     "rank": 399
   },
   {
+    "sv": "att dela",
+    "en": [
+      "to share",
+      "to divide"
+    ],
+    "rank": 399
+  },
+  {
     "sv": "att uppleva",
     "en": "to experience",
     "rank": 400
@@ -3603,7 +3613,10 @@
   },
   {
     "sv": "att markera",
-    "en": "to highlight",
+    "en": [
+      "to highlight",
+      "to mark"
+    ],
     "rank": 404
   },
   {
@@ -3627,7 +3640,7 @@
     "rank": 407
   },
   {
-    "sv": "skyffla",
+    "sv": "att skotta",
     "en": "to shovel",
     "rank": 407
   },
@@ -3701,7 +3714,7 @@
     "rank": 416
   },
   {
-    "sv": "utforska",
+    "sv": "att utforska",
     "en": "to explore",
     "rank": 417
   },
@@ -3726,11 +3739,8 @@
     "rank": 422
   },
   {
-    "sv": "lukt",
-    "en": [
-      "to smell",
-      "smell"
-    ],
+    "sv": "att lukta",
+    "en": "to smell",
     "rank": 422
   },
   {
@@ -3858,7 +3868,7 @@
     "rank": 437
   },
   {
-    "sv": "leva sig in i",
+    "sv": "att identifiera sig med",
     "en": "to identify with",
     "rank": 438
   },
@@ -3941,24 +3951,15 @@
   },
   {
     "sv": "avslöja",
-    "en": [
-      "find out",
-      "to reveal",
-      "to explode"
-    ],
+    "en": "find out",
     "rank": 451
   },
   {
-    "sv": "förklara",
+    "sv": "att förklara",
     "en": [
       "to explain",
-      "to justify"
+      "to explicate"
     ],
-    "rank": 453
-  },
-  {
-    "sv": "att förklara",
-    "en": "to explicate",
     "rank": 453
   },
   {
@@ -3990,7 +3991,7 @@
     "rank": 457
   },
   {
-    "sv": "sticker",
+    "sv": "att sätta",
     "en": "to put",
     "rank": 458
   },
@@ -4015,7 +4016,7 @@
     "rank": 460
   },
   {
-    "sv": "ta itu med",
+    "sv": "att ta itu med",
     "en": "to deal with",
     "rank": 460
   },
@@ -4044,20 +4045,12 @@
     "rank": 463
   },
   {
-    "sv": "anmäla",
-    "en": [
-      "to enter",
-      "to notice"
-    ],
+    "sv": "att gå in",
+    "en": "to enter",
     "rank": 463
   },
   {
-    "sv": "markera",
-    "en": "to mark",
-    "rank": 463
-  },
-  {
-    "sv": "prenumerera",
+    "sv": "att prenumerera",
     "en": "to subscribe",
     "rank": 463
   },
@@ -4117,10 +4110,10 @@
     "rank": 471
   },
   {
-    "sv": "lösa",
+    "sv": "att lösa",
     "en": [
       "to solve",
-      "resolving"
+      "to settle"
     ],
     "rank": 472
   },
@@ -4228,13 +4221,17 @@
     "rank": 482
   },
   {
-    "sv": "förflyta",
+    "sv": "att förflyta",
     "en": "to elapse",
     "rank": 482
   },
   {
-    "sv": "finna sig i",
-    "en": "to wear",
+    "sv": "att bära",
+    "en": [
+      "to wear",
+      "to carry",
+      "to bear"
+    ],
     "rank": 482
   },
   {
@@ -4254,10 +4251,7 @@
   },
   {
     "sv": "försiktig",
-    "en": [
-      "careful",
-      "to deliberate"
-    ],
+    "en": "careful",
     "rank": 485
   },
   {
@@ -4296,21 +4290,16 @@
     "rank": 489
   },
   {
-    "sv": "skicka",
-    "en": "to dispatch",
-    "rank": 490
-  },
-  {
     "sv": "att skicka",
-    "en": "to send",
+    "en": [
+      "to dispatch",
+      "to send"
+    ],
     "rank": 490
   },
   {
-    "sv": "leda",
-    "en": [
-      "to transmit",
-      "moderate"
-    ],
+    "sv": "att sända",
+    "en": "to transmit",
     "rank": 490
   },
   {
@@ -4324,12 +4313,12 @@
     "rank": 491
   },
   {
-    "sv": "leta efter",
+    "sv": "att leta efter",
     "en": "to look for",
     "rank": 491
   },
   {
-    "sv": "sätta",
+    "sv": "att ställa in",
     "en": "to set",
     "rank": 492
   },
@@ -4370,12 +4359,12 @@
     "rank": 496
   },
   {
-    "sv": "diskutera",
+    "sv": "att diskutera",
     "en": "to discuss",
     "rank": 496
   },
   {
-    "sv": "begrunda",
+    "sv": "att begrunda",
     "en": "to ponder",
     "rank": 496
   },
@@ -4426,13 +4415,11 @@
     "rank": 502
   },
   {
-    "sv": "lova",
-    "en": "to bode",
-    "rank": 503
-  },
-  {
     "sv": "att lova",
-    "en": "to promise",
+    "en": [
+      "to bode",
+      "to promise"
+    ],
     "rank": 503
   },
   {
@@ -4487,7 +4474,7 @@
     "rank": 510
   },
   {
-    "sv": "förvärva",
+    "sv": "att förvärva",
     "en": "to acquire",
     "rank": 510
   },
@@ -4500,11 +4487,8 @@
     "rank": 511
   },
   {
-    "sv": "passera",
-    "en": [
-      "to pass",
-      "pass"
-    ],
+    "sv": "att passera",
+    "en": "to pass",
     "rank": 511
   },
   {
@@ -4778,7 +4762,7 @@
     "rank": 552
   },
   {
-    "sv": "läsa",
+    "sv": "att läsa",
     "en": "to read",
     "rank": 552
   },
@@ -4831,7 +4815,7 @@
     "rank": 566
   },
   {
-    "sv": "förekomma",
+    "sv": "att inträffa",
     "en": "to occur",
     "rank": 566
   },
@@ -4844,7 +4828,7 @@
     "rank": 567
   },
   {
-    "sv": "övertyga",
+    "sv": "att övertyga",
     "en": "to convince",
     "rank": 567
   },
@@ -4943,12 +4927,12 @@
     "rank": 576
   },
   {
-    "sv": "förnya",
+    "sv": "att förnya",
     "en": "to renew",
     "rank": 576
   },
   {
-    "sv": "göra bekant med",
+    "sv": "att införa",
     "en": "to introduce",
     "rank": 577
   },
@@ -4964,8 +4948,7 @@
     "sv": "ämne",
     "en": [
       "subject",
-      "topic",
-      "to subject"
+      "topic"
     ],
     "rank": 578
   },
@@ -4973,7 +4956,6 @@
     "sv": "bevis",
     "en": [
       "to evidence",
-      "to pledge",
       "evidence"
     ],
     "rank": 578
@@ -5033,19 +5015,12 @@
   },
   {
     "sv": "bli förvånad",
-    "en": [
-      "wonder",
-      "to wonder"
-    ],
+    "en": "wonder",
     "rank": 583
   },
   {
-    "sv": "överföring",
-    "en": [
-      "to transfer",
-      "transmission",
-      "transfer"
-    ],
+    "sv": "att överföra",
+    "en": "to transfer",
     "rank": 584
   },
   {
@@ -5083,10 +5058,7 @@
   },
   {
     "sv": "fylla",
-    "en": [
-      "to stuff",
-      "to possess"
-    ],
+    "en": "to stuff",
     "rank": 590
   },
   {
@@ -5168,7 +5140,7 @@
     "rank": 602
   },
   {
-    "sv": "hindra",
+    "sv": "att motverka",
     "en": "to thwart",
     "rank": 603
   },
@@ -5179,10 +5151,7 @@
   },
   {
     "sv": "placera",
-    "en": [
-      "position",
-      "to place"
-    ],
+    "en": "position",
     "rank": 604
   },
   {
@@ -5231,6 +5200,11 @@
     "rank": 609
   },
   {
+    "sv": "att lägga märke till",
+    "en": "to notice",
+    "rank": 610
+  },
+  {
     "sv": "mindre",
     "en": "less",
     "rank": 611
@@ -5254,7 +5228,7 @@
     "rank": 614
   },
   {
-    "sv": "reproducera",
+    "sv": "att reproducera",
     "en": "to reproduce",
     "rank": 614
   },
@@ -5288,21 +5262,27 @@
   },
   {
     "sv": "att kontrollera",
-    "en": "to control",
+    "en": [
+      "to control",
+      "to check"
+    ],
     "rank": 618
   },
   {
-    "sv": "dominera",
+    "sv": "att dominera",
     "en": "to dominate",
     "rank": 618
   },
   {
     "sv": "att styra",
-    "en": "to rule",
+    "en": [
+      "to rule",
+      "to steer"
+    ],
     "rank": 618
   },
   {
-    "sv": "tacka",
+    "sv": "att tacka",
     "en": "to thank",
     "rank": 618
   },
@@ -5344,9 +5324,9 @@
     "rank": 624
   },
   {
-    "sv": "styra",
-    "en": "to steer",
-    "rank": 624
+    "sv": "ansvar",
+    "en": "responsibility",
+    "rank": 626
   },
   {
     "sv": "parlamentsledamot",
@@ -5355,10 +5335,12 @@
   },
   {
     "sv": "flyga upp",
-    "en": [
-      "fly",
-      "to fly"
-    ],
+    "en": "fly",
+    "rank": 627
+  },
+  {
+    "sv": "att flyga",
+    "en": "to fly",
     "rank": 627
   },
   {
@@ -5367,7 +5349,7 @@
     "rank": 628
   },
   {
-    "sv": "föreställa sig",
+    "sv": "att föreställa sig",
     "en": "to imagine",
     "rank": 628
   },
@@ -5409,10 +5391,7 @@
   },
   {
     "sv": "organisation",
-    "en": [
-      "organization",
-      "to machine"
-    ],
+    "en": "organization",
     "rank": 633
   },
   {
@@ -5431,7 +5410,7 @@
     "rank": 635
   },
   {
-    "sv": "lida",
+    "sv": "att lida",
     "en": "to suffer",
     "rank": 635
   },
@@ -5454,7 +5433,7 @@
     "rank": 638
   },
   {
-    "sv": "vara ute tillsammans",
+    "sv": "att gå runt",
     "en": "to go around",
     "rank": 638
   },
@@ -5493,9 +5472,13 @@
     "sv": "byta",
     "en": [
       "swap",
-      "to exchange",
       "switch"
     ],
+    "rank": 641
+  },
+  {
+    "sv": "att byta",
+    "en": "to exchange",
     "rank": 641
   },
   {
@@ -5572,15 +5555,12 @@
     "rank": 652
   },
   {
-    "sv": "backe",
-    "en": [
-      "to slope",
-      "hill"
-    ],
+    "sv": "att slutta",
+    "en": "to slope",
     "rank": 652
   },
   {
-    "sv": "spendera",
+    "sv": "att spendera",
     "en": "to spend",
     "rank": 652
   },
@@ -5600,12 +5580,7 @@
     "rank": 654
   },
   {
-    "sv": "låta",
-    "en": "to let",
-    "rank": 654
-  },
-  {
-    "sv": "skydda",
+    "sv": "att skydda",
     "en": "to protect",
     "rank": 655
   },
@@ -5661,7 +5636,7 @@
     "rank": 662
   },
   {
-    "sv": "centralisera",
+    "sv": "att centralisera",
     "en": "to centralize",
     "rank": 662
   },
@@ -5681,10 +5656,7 @@
   },
   {
     "sv": "varm",
-    "en": [
-      "hot",
-      "to warm"
-    ],
+    "en": "hot",
     "rank": 663
   },
   {
@@ -5776,7 +5748,7 @@
     "rank": 672
   },
   {
-    "sv": "lyssna",
+    "sv": "att lyssna",
     "en": "to listen",
     "rank": 672
   },
@@ -5851,16 +5823,20 @@
     "rank": 682
   },
   {
-    "sv": "skrämma bort",
-    "en": "to scare",
+    "sv": "att skrämma",
+    "en": [
+      "to scare",
+      "to startle",
+      "to horrify"
+    ],
     "rank": 682
   },
   {
-    "sv": "anta",
+    "sv": "att anta",
     "en": [
       "to suppose",
-      "to take up",
-      "to embrace"
+      "to assume",
+      "to enact"
     ],
     "rank": 684
   },
@@ -5905,6 +5881,11 @@
     "rank": 688
   },
   {
+    "sv": "att göra ont",
+    "en": "to hurt",
+    "rank": 688
+  },
+  {
     "sv": "evolution",
     "en": "evolution",
     "rank": 689
@@ -5915,12 +5896,8 @@
     "rank": 689
   },
   {
-    "sv": "fara",
-    "en": [
-      "to fear",
-      "danger",
-      "to risk"
-    ],
+    "sv": "att frukta",
+    "en": "to fear",
     "rank": 690
   },
   {
@@ -5954,7 +5931,12 @@
     "rank": 697
   },
   {
-    "sv": "hota",
+    "sv": "stiga upp",
+    "en": "rise",
+    "rank": 698
+  },
+  {
+    "sv": "att hota",
     "en": "to threaten",
     "rank": 699
   },
@@ -6041,8 +6023,11 @@
     "rank": 709
   },
   {
-    "sv": "äga",
-    "en": "to own",
+    "sv": "att äga",
+    "en": [
+      "to own",
+      "to possess"
+    ],
     "rank": 709
   },
   {
@@ -6074,7 +6059,7 @@
     "rank": 716
   },
   {
-    "sv": "överraska",
+    "sv": "att överraska",
     "en": "to surprise",
     "rank": 716
   },
@@ -6089,7 +6074,7 @@
     "rank": 717
   },
   {
-    "sv": "iaktta",
+    "sv": "att anmärka",
     "en": "to remark",
     "rank": 717
   },
@@ -6124,7 +6109,7 @@
     "rank": 720
   },
   {
-    "sv": "debatt",
+    "sv": "att debattera",
     "en": "to debate",
     "rank": 721
   },
@@ -6217,16 +6202,13 @@
     "rank": 732
   },
   {
-    "sv": "fördöma",
+    "sv": "att fördöma",
     "en": "to condemn",
     "rank": 734
   },
   {
-    "sv": "döma",
-    "en": [
-      "to sentence",
-      "sentence"
-    ],
+    "sv": "att döma",
+    "en": "to sentence",
     "rank": 734
   },
   {
@@ -6265,11 +6247,10 @@
     "rank": 738
   },
   {
-    "sv": "fly",
+    "sv": "att fly",
     "en": [
       "to escape",
-      "to flee",
-      "escape"
+      "to flee"
     ],
     "rank": 738
   },
@@ -6295,7 +6276,7 @@
     "rank": 746
   },
   {
-    "sv": "förbättra",
+    "sv": "att förbättra",
     "en": "to improve",
     "rank": 747
   },
@@ -6356,11 +6337,6 @@
     "rank": 754
   },
   {
-    "sv": "att bära",
-    "en": "to carry",
-    "rank": 754
-  },
-  {
     "sv": "komma i form",
     "en": "get fit",
     "rank": 755
@@ -6381,24 +6357,26 @@
     "rank": 757
   },
   {
+    "sv": "fly",
+    "en": [
+      "escape",
+      "run away"
+    ],
+    "rank": 757
+  },
+  {
     "sv": "senator",
     "en": "senator",
     "rank": 758
   },
   {
-    "sv": "bekämpa",
-    "en": [
-      "to combat",
-      "combat"
-    ],
+    "sv": "att bekämpa",
+    "en": "to combat",
     "rank": 759
   },
   {
-    "sv": "kämpa för",
-    "en": [
-      "to fight",
-      "fight"
-    ],
+    "sv": "att slåss",
+    "en": "to fight",
     "rank": 759
   },
   {
@@ -6416,10 +6394,7 @@
   },
   {
     "sv": "misslyckas med",
-    "en": [
-      "bomb",
-      "to bomb"
-    ],
+    "en": "bomb",
     "rank": 764
   },
   {
@@ -6433,7 +6408,7 @@
     "rank": 765
   },
   {
-    "sv": "avancera",
+    "sv": "att avancera",
     "en": "to advance",
     "rank": 765
   },
@@ -6443,17 +6418,26 @@
     "rank": 766
   },
   {
+    "sv": "att motivera",
+    "en": "to justify",
+    "rank": 766
+  },
+  {
     "sv": "förbjuda",
-    "en": [
-      "ban",
-      "to forbid",
-      "to prohibit"
-    ],
+    "en": "ban",
     "rank": 767
   },
   {
     "sv": "att förneka",
     "en": "to deny",
+    "rank": 767
+  },
+  {
+    "sv": "att förbjuda",
+    "en": [
+      "to forbid",
+      "to prohibit"
+    ],
     "rank": 767
   },
   {
@@ -6550,12 +6534,8 @@
     "rank": 780
   },
   {
-    "sv": "djup",
-    "en": [
-      "to drop",
-      "deep",
-      "depth"
-    ],
+    "sv": "att släppa",
+    "en": "to drop",
     "rank": 780
   },
   {
@@ -6567,7 +6547,7 @@
     "rank": 782
   },
   {
-    "sv": "blanda ihop",
+    "sv": "att sammansätta",
     "en": "to compound",
     "rank": 784
   },
@@ -6632,7 +6612,7 @@
     "rank": 791
   },
   {
-    "sv": "dagens",
+    "sv": "att existera",
     "en": "to existent",
     "rank": 793
   },
@@ -6658,12 +6638,10 @@
   },
   {
     "sv": "att bry sig",
-    "en": "to care",
-    "rank": 796
-  },
-  {
-    "sv": "att oroa sig",
-    "en": "to worry",
+    "en": [
+      "to care",
+      "to bother"
+    ],
     "rank": 796
   },
   {
@@ -6720,7 +6698,7 @@
     "rank": 803
   },
   {
-    "sv": "testa",
+    "sv": "att prova",
     "en": "to try out",
     "rank": 803
   },
@@ -6790,6 +6768,11 @@
   {
     "sv": "mest",
     "en": "most",
+    "rank": 814
+  },
+  {
+    "sv": "att placera",
+    "en": "to place",
     "rank": 814
   },
   {
@@ -6884,6 +6867,11 @@
     "rank": 828
   },
   {
+    "sv": "betala",
+    "en": "pay",
+    "rank": 828
+  },
+  {
     "sv": "vad sägs om",
     "en": [
       "how about",
@@ -6967,14 +6955,6 @@
     "rank": 838
   },
   {
-    "sv": "bestämma",
-    "en": [
-      "to determine",
-      "to name"
-    ],
-    "rank": 838
-  },
-  {
     "sv": "agera",
     "en": [
       "act",
@@ -7026,7 +7006,7 @@
     "rank": 845
   },
   {
-    "sv": "längta efter",
+    "sv": "att längta efter",
     "en": "to long for",
     "rank": 845
   },
@@ -7084,16 +7064,21 @@
     "rank": 854
   },
   {
+    "sv": "att boka",
+    "en": "to book",
+    "rank": 854
+  },
+  {
     "sv": "att slå",
     "en": [
       "to beat",
       "to hit",
-      "to settle down"
+      "to strike"
     ],
     "rank": 855
   },
   {
-    "sv": "gå ut",
+    "sv": "att gå ur",
     "en": "to exit",
     "rank": 855
   },
@@ -7111,9 +7096,17 @@
     "rank": 857
   },
   {
-    "sv": "fullkomlig",
+    "sv": "att rangordna",
     "en": "to rank",
     "rank": 857
+  },
+  {
+    "sv": "spela",
+    "en": [
+      "play",
+      "record"
+    ],
+    "rank": 858
   },
   {
     "sv": "att dricka",
@@ -7137,10 +7130,7 @@
   },
   {
     "sv": "uppskatta",
-    "en": [
-      "estimate",
-      "to appreciate"
-    ],
+    "en": "estimate",
     "rank": 861
   },
   {
@@ -7197,7 +7187,10 @@
   },
   {
     "sv": "att dyka upp",
-    "en": "to appear",
+    "en": [
+      "to appear",
+      "to crop up"
+    ],
     "rank": 868
   },
   {
@@ -7234,7 +7227,7 @@
     "rank": 874
   },
   {
-    "sv": "ge upp",
+    "sv": "att överge",
     "en": "to abandon",
     "rank": 874
   },
@@ -7253,7 +7246,7 @@
     "rank": 875
   },
   {
-    "sv": "tänka ut",
+    "sv": "att uppfinna",
     "en": "to invent",
     "rank": 876
   },
@@ -7287,7 +7280,7 @@
     "rank": 879
   },
   {
-    "sv": "väcka",
+    "sv": "att väcka",
     "en": "to arouse",
     "rank": 879
   },
@@ -7340,12 +7333,22 @@
     "rank": 883
   },
   {
+    "sv": "bekämpa",
+    "en": "combat",
+    "rank": 884
+  },
+  {
+    "sv": "kämpa för",
+    "en": "fight",
+    "rank": 884
+  },
+  {
     "sv": "att stjäla",
     "en": "to steal",
     "rank": 884
   },
   {
-    "sv": "lyckas",
+    "sv": "att panorera ut",
     "en": "to pan out",
     "rank": 885
   },
@@ -7373,7 +7376,12 @@
     "rank": 887
   },
   {
-    "sv": "försvinna snabbt",
+    "sv": "att innehålla",
+    "en": "to contain",
+    "rank": 888
+  },
+  {
+    "sv": "att scat",
     "en": "to scat",
     "rank": 888
   },
@@ -7394,10 +7402,7 @@
   },
   {
     "sv": "mörda",
-    "en": [
-      "murder",
-      "to murder"
-    ],
+    "en": "murder",
     "rank": 890
   },
   {
@@ -7419,7 +7424,7 @@
     "rank": 892
   },
   {
-    "sv": "anklaga",
+    "sv": "att anklaga",
     "en": "to accuse",
     "rank": 893
   },
@@ -7477,6 +7482,15 @@
     "rank": 901
   },
   {
+    "sv": "att ersätta",
+    "en": [
+      "to replace",
+      "to supersede",
+      "to supplant"
+    ],
+    "rank": 901
+  },
+  {
     "sv": "kuperad",
     "en": "hilly",
     "rank": 902
@@ -7514,8 +7528,7 @@
     "sv": "form",
     "en": [
       "form",
-      "shape",
-      "to shape"
+      "shape"
     ],
     "rank": 907
   },
@@ -7526,11 +7539,7 @@
   },
   {
     "sv": "besegra",
-    "en": [
-      "defeat",
-      "to defeat",
-      "to overthrow"
-    ],
+    "en": "defeat",
     "rank": 908
   },
   {
@@ -7649,19 +7658,19 @@
     "rank": 924
   },
   {
-    "sv": "invända",
+    "sv": "att undra",
+    "en": "to wonder",
+    "rank": 926
+  },
+  {
+    "sv": "att invända",
     "en": "to object",
     "rank": 927
   },
   {
-    "sv": "göra motstånd mot",
+    "sv": "att göra motstånd",
     "en": "to resist",
     "rank": 927
-  },
-  {
-    "sv": "stanna",
-    "en": "to check",
-    "rank": 929
   },
   {
     "sv": "att njuta",
@@ -7675,11 +7684,6 @@
       "weak"
     ],
     "rank": 930
-  },
-  {
-    "sv": "leva",
-    "en": "to last",
-    "rank": 931
   },
   {
     "sv": "februari",
@@ -7757,16 +7761,13 @@
     "rank": 939
   },
   {
-    "sv": "förmedla",
+    "sv": "att förmedla",
     "en": "to convey",
     "rank": 940
   },
   {
-    "sv": "se favour",
-    "en": [
-      "to favor",
-      "favor"
-    ],
+    "sv": "att gynna",
+    "en": "to favor",
     "rank": 940
   },
   {
@@ -7811,12 +7812,12 @@
     "rank": 944
   },
   {
-    "sv": "tillfalla",
+    "sv": "att tillfalla",
     "en": "to accrue",
     "rank": 945
   },
   {
-    "sv": "hopa sig",
+    "sv": "att ackumulera",
     "en": "to accumulate",
     "rank": 945
   },
@@ -7944,18 +7945,11 @@
     "rank": 961
   },
   {
-    "sv": "att ta",
-    "en": "to run out",
-    "rank": 961
-  },
-  {
-    "sv": "låna",
-    "en": "to borrow",
-    "rank": 962
-  },
-  {
-    "sv": "låna ut",
-    "en": "to loan",
+    "sv": "att låna",
+    "en": [
+      "to borrow",
+      "to loan"
+    ],
     "rank": 962
   },
   {
@@ -7969,7 +7963,7 @@
     "rank": 963
   },
   {
-    "sv": "gå över",
+    "sv": "att gå över",
     "en": "to go over",
     "rank": 963
   },
@@ -8074,7 +8068,7 @@
     "rank": 974
   },
   {
-    "sv": "framsteg",
+    "sv": "att gå vidare",
     "en": "to progress",
     "rank": 974
   },
@@ -8167,7 +8161,7 @@
     "rank": 986
   },
   {
-    "sv": "rådfråga",
+    "sv": "att rådfråga",
     "en": "to consult",
     "rank": 986
   },
@@ -8177,16 +8171,13 @@
     "rank": 986
   },
   {
-    "sv": "erkänna",
+    "sv": "att känna igen",
     "en": "to recognize",
     "rank": 987
   },
   {
-    "sv": "belöna",
-    "en": [
-      "to reward",
-      "reward"
-    ],
+    "sv": "att belöna",
+    "en": "to reward",
     "rank": 987
   },
   {
@@ -8315,10 +8306,7 @@
   },
   {
     "sv": "reform",
-    "en": [
-      "reform",
-      "to reform"
-    ],
+    "en": "reform",
     "rank": 1004
   },
   {
@@ -8340,6 +8328,11 @@
     "sv": "att hamna",
     "en": "to end up",
     "rank": 1008
+  },
+  {
+    "sv": "byte",
+    "en": "cop",
+    "rank": 1010
   },
   {
     "sv": "att bevara",
@@ -8382,7 +8375,7 @@
     "rank": 1016
   },
   {
-    "sv": "göra skillnad",
+    "sv": "att särskilja",
     "en": "to distinguish",
     "rank": 1017
   },
@@ -8417,7 +8410,7 @@
     "rank": 1024
   },
   {
-    "sv": "roterar",
+    "sv": "att rotera",
     "en": "to rotate",
     "rank": 1025
   },
@@ -8428,10 +8421,7 @@
   },
   {
     "sv": "bön",
-    "en": [
-      "suit",
-      "to suit"
-    ],
+    "en": "suit",
     "rank": 1028
   },
   {
@@ -8440,11 +8430,8 @@
     "rank": 1029
   },
   {
-    "sv": "regn",
-    "en": [
-      "to rain",
-      "rain"
-    ],
+    "sv": "att regna",
+    "en": "to rain",
     "rank": 1030
   },
   {
@@ -8488,7 +8475,7 @@
     "rank": 1034
   },
   {
-    "sv": "bekänna",
+    "sv": "att bekänna",
     "en": "to confess",
     "rank": 1036
   },
@@ -8550,7 +8537,10 @@
   },
   {
     "sv": "att avslöja",
-    "en": "to expose",
+    "en": [
+      "to expose",
+      "to reveal"
+    ],
     "rank": 1044
   },
   {
@@ -8559,13 +8549,18 @@
     "rank": 1046
   },
   {
-    "sv": "detonera",
+    "sv": "att detonera",
     "en": "to detonate",
     "rank": 1046
   },
   {
-    "sv": "utbilda",
+    "sv": "att utbilda",
     "en": "to educate",
+    "rank": 1046
+  },
+  {
+    "sv": "att explodera",
+    "en": "to explode",
     "rank": 1046
   },
   {
@@ -8577,7 +8572,6 @@
     "sv": "skatt",
     "en": [
       "tax",
-      "to tax",
       "treasure"
     ],
     "rank": 1047
@@ -8619,6 +8613,11 @@
     "rank": 1052
   },
   {
+    "sv": "se favour",
+    "en": "favor",
+    "rank": 1053
+  },
+  {
     "sv": "yta",
     "en": "surface",
     "rank": 1053
@@ -8629,17 +8628,17 @@
     "rank": 1054
   },
   {
-    "sv": "dö ut",
+    "sv": "att försvinna",
     "en": "to disappear",
     "rank": 1054
   },
   {
-    "sv": "alienera",
+    "sv": "att alienera",
     "en": "to alienate",
     "rank": 1055
   },
   {
-    "sv": "räcka över",
+    "sv": "att lämna över",
     "en": "to hand over",
     "rank": 1055
   },
@@ -8706,8 +8705,7 @@
     "sv": "handledare",
     "en": [
       "supervisor",
-      "tutor",
-      "to mentor"
+      "tutor"
     ],
     "rank": 1064
   },
@@ -8722,7 +8720,7 @@
     "rank": 1067
   },
   {
-    "sv": "strova igenom",
+    "sv": "att ströva",
     "en": "to roam",
     "rank": 1069
   },
@@ -8735,17 +8733,20 @@
     "sv": "skada",
     "en": [
       "damage",
-      "to damage",
-      "to harm"
+      "injury"
     ],
     "rank": 1070
+  },
+  {
+    "sv": "fara",
+    "en": "danger",
+    "rank": 1072
   },
   {
     "sv": "advokat",
     "en": [
       "attorney-at-law",
-      "lawyer",
-      "to counsel"
+      "lawyer"
     ],
     "rank": 1073
   },
@@ -8756,20 +8757,12 @@
   },
   {
     "sv": "larm",
-    "en": [
-      "alarm",
-      "to alert"
-    ],
+    "en": "alarm",
     "rank": 1076
   },
   {
-    "sv": "ta bort",
+    "sv": "att radera",
     "en": "to delete",
-    "rank": 1076
-  },
-  {
-    "sv": "att ta bort",
-    "en": "to remove",
     "rank": 1076
   },
   {
@@ -8783,10 +8776,10 @@
     "rank": 1079
   },
   {
-    "sv": "dölja",
+    "sv": "att hålla tillbaka",
     "en": [
       "to hold back",
-      "to conceal"
+      "to restrain"
     ],
     "rank": 1080
   },
@@ -8816,7 +8809,7 @@
     "rank": 1084
   },
   {
-    "sv": "återuppliva",
+    "sv": "att återuppliva",
     "en": "to revive",
     "rank": 1084
   },
@@ -8827,10 +8820,7 @@
   },
   {
     "sv": "kraft",
-    "en": [
-      "operation",
-      "to might"
-    ],
+    "en": "operation",
     "rank": 1086
   },
   {
@@ -8869,7 +8859,7 @@
     "rank": 1093
   },
   {
-    "sv": "petar",
+    "sv": "att peta",
     "en": "to poke",
     "rank": 1093
   },
@@ -8894,7 +8884,7 @@
     "rank": 1097
   },
   {
-    "sv": "andas",
+    "sv": "att andas",
     "en": "to breathe",
     "rank": 1098
   },
@@ -8979,7 +8969,7 @@
     "rank": 1112
   },
   {
-    "sv": "göra gällande",
+    "sv": "att lämna in",
     "en": "to submit",
     "rank": 1112
   },
@@ -8990,7 +8980,10 @@
   },
   {
     "sv": "att garantera",
-    "en": "to guarantee",
+    "en": [
+      "to guarantee",
+      "to underwrite"
+    ],
     "rank": 1113
   },
   {
@@ -9032,12 +9025,12 @@
     "rank": 1117
   },
   {
-    "sv": "läcka",
+    "sv": "att läcka",
     "en": "to leak",
     "rank": 1118
   },
   {
-    "sv": "utsläpp",
+    "sv": "att spilla",
     "en": "to spill",
     "rank": 1118
   },
@@ -9092,6 +9085,11 @@
     "rank": 1126
   },
   {
+    "sv": "att överväga",
+    "en": "to deliberate",
+    "rank": 1126
+  },
+  {
     "sv": "teknik",
     "en": "technique",
     "rank": 1127
@@ -9110,7 +9108,6 @@
     "sv": "fånga",
     "en": [
       "mesh",
-      "to capture",
       "arrest"
     ],
     "rank": 1131
@@ -9185,7 +9182,7 @@
     "rank": 1142
   },
   {
-    "sv": "kapsejsa",
+    "sv": "att kapsejsa",
     "en": "to capsize",
     "rank": 1142
   },
@@ -9354,17 +9351,17 @@
     "rank": 1166
   },
   {
-    "sv": "betydande",
+    "sv": "att signalera",
     "en": "to signal",
     "rank": 1166
   },
   {
-    "sv": "få att stämma",
+    "sv": "att komma överens",
     "en": "to agree",
     "rank": 1167
   },
   {
-    "sv": "värdera",
+    "sv": "att värdera",
     "en": "to value",
     "rank": 1168
   },
@@ -9384,7 +9381,7 @@
     "rank": 1170
   },
   {
-    "sv": "förstöra",
+    "sv": "att skämma bort",
     "en": "to spoil",
     "rank": 1171
   },
@@ -9412,7 +9409,7 @@
     "rank": 1176
   },
   {
-    "sv": "driva tillbaka",
+    "sv": "att stöta bort",
     "en": "to repel",
     "rank": 1176
   },
@@ -9470,7 +9467,7 @@
     "rank": 1184
   },
   {
-    "sv": "blomstra",
+    "sv": "att blomstra",
     "en": "to prosper",
     "rank": 1184
   },
@@ -9570,8 +9567,11 @@
     "rank": 1198
   },
   {
-    "sv": "bryta upp",
-    "en": "to force",
+    "sv": "att tvinga",
+    "en": [
+      "to force",
+      "to coerce"
+    ],
     "rank": 1198
   },
   {
@@ -9598,20 +9598,13 @@
     "rank": 1200
   },
   {
-    "sv": "besvär",
-    "en": [
-      "to appeal",
-      "appeal",
-      "to bother"
-    ],
+    "sv": "att överklaga",
+    "en": "to appeal",
     "rank": 1201
   },
   {
-    "sv": "stöna",
-    "en": [
-      "to moan",
-      "moan"
-    ],
+    "sv": "att stöna",
+    "en": "to moan",
     "rank": 1201
   },
   {
@@ -9678,16 +9671,16 @@
     "rank": 1211
   },
   {
-    "sv": "fästa",
-    "en": "to fasten",
+    "sv": "att fästa",
+    "en": [
+      "to fasten",
+      "to attach"
+    ],
     "rank": 1212
   },
   {
-    "sv": "förtöja",
-    "en": [
-      "to moor",
-      "Moor"
-    ],
+    "sv": "att förtöja",
+    "en": "to moor",
     "rank": 1212
   },
   {
@@ -9742,6 +9735,11 @@
     "sv": "stygg",
     "en": "naughty",
     "rank": 1217
+  },
+  {
+    "sv": "att checka ut",
+    "en": "to check out",
+    "rank": 1218
   },
   {
     "sv": "att mäta",
@@ -9902,8 +9900,13 @@
     "rank": 1248
   },
   {
-    "sv": "vara av olika mening",
+    "sv": "att skilja sig åt",
     "en": "to differ",
+    "rank": 1249
+  },
+  {
+    "sv": "att skiljas åt",
+    "en": "to part",
     "rank": 1249
   },
   {
@@ -9928,10 +9931,7 @@
   },
   {
     "sv": "drömma",
-    "en": [
-      "moon",
-      "to dream"
-    ],
+    "en": "moon",
     "rank": 1252
   },
   {
@@ -9960,12 +9960,12 @@
     "rank": 1257
   },
   {
-    "sv": "hålla fast vid",
+    "sv": "att hålla sig till",
     "en": "to adhere to",
     "rank": 1258
   },
   {
-    "sv": "dribbla",
+    "sv": "att dribbla",
     "en": "to dribble",
     "rank": 1259
   },
@@ -10108,7 +10108,7 @@
     "rank": 1281
   },
   {
-    "sv": "beteckna",
+    "sv": "att beteckna",
     "en": "to denote",
     "rank": 1282
   },
@@ -10128,7 +10128,12 @@
     "rank": 1283
   },
   {
-    "sv": "nominera",
+    "sv": "att namnge",
+    "en": "to name",
+    "rank": 1283
+  },
+  {
+    "sv": "att nominera",
     "en": "to nominate",
     "rank": 1283
   },
@@ -10179,11 +10184,7 @@
   },
   {
     "sv": "avbryta",
-    "en": [
-      "cut",
-      "to interrupt",
-      "to cut off"
-    ],
+    "en": "cut",
     "rank": 1290
   },
   {
@@ -10192,7 +10193,7 @@
     "rank": 1290
   },
   {
-    "sv": "fart",
+    "sv": "att klippa",
     "en": "to clip",
     "rank": 1290
   },
@@ -10260,11 +10261,13 @@
     "rank": 1302
   },
   {
+    "sv": "att mana",
+    "en": "to urge",
+    "rank": 1302
+  },
+  {
     "sv": "driva på",
-    "en": [
-      "to urge",
-      "urge"
-    ],
+    "en": "urge",
     "rank": 1302
   },
   {
@@ -10289,15 +10292,20 @@
   },
   {
     "sv": "i säkerhet",
-    "en": [
-      "secure",
-      "to secure"
-    ],
+    "en": "secure",
     "rank": 1308
   },
   {
     "sv": "att vara beroende av",
     "en": "to depend on",
+    "rank": 1308
+  },
+  {
+    "sv": "att säkra",
+    "en": [
+      "to secure",
+      "to hedge"
+    ],
     "rank": 1308
   },
   {
@@ -10484,7 +10492,7 @@
     "rank": 1335
   },
   {
-    "sv": "bryta fram",
+    "sv": "att gry",
     "en": "to dawn",
     "rank": 1335
   },
@@ -10514,7 +10522,7 @@
     "rank": 1338
   },
   {
-    "sv": "förkasta",
+    "sv": "att förkasta",
     "en": "to reject",
     "rank": 1338
   },
@@ -10527,6 +10535,14 @@
     "sv": "grad",
     "en": "degree",
     "rank": 1340
+  },
+  {
+    "sv": "överföring",
+    "en": [
+      "transmission",
+      "transfer"
+    ],
+    "rank": 1341
   },
   {
     "sv": "design",
@@ -10559,7 +10575,7 @@
     "rank": 1345
   },
   {
-    "sv": "undvika",
+    "sv": "att undvika",
     "en": "to avoid",
     "rank": 1346
   },
@@ -10574,6 +10590,14 @@
     "rank": 1348
   },
   {
+    "sv": "djup",
+    "en": [
+      "deep",
+      "depth"
+    ],
+    "rank": 1349
+  },
+  {
     "sv": "djupgående",
     "en": "profound",
     "rank": 1349
@@ -10584,7 +10608,7 @@
     "rank": 1350
   },
   {
-    "sv": "träna",
+    "sv": "att träna",
     "en": "to train",
     "rank": 1350
   },
@@ -10614,8 +10638,13 @@
     "rank": 1353
   },
   {
-    "sv": "deklarera",
+    "sv": "att deklarera",
     "en": "to declare",
+    "rank": 1354
+  },
+  {
+    "sv": "att förkunna",
+    "en": "to proclaim",
     "rank": 1354
   },
   {
@@ -10661,7 +10690,7 @@
     "rank": 1359
   },
   {
-    "sv": "förhandsberäkning",
+    "sv": "att prognostisera",
     "en": "to forecast",
     "rank": 1359
   },
@@ -10715,6 +10744,14 @@
     "rank": 1369
   },
   {
+    "sv": "att skada",
+    "en": [
+      "to damage",
+      "to harm"
+    ],
+    "rank": 1370
+  },
+  {
     "sv": "vistelse",
     "en": "stay",
     "rank": 1371
@@ -10735,8 +10772,11 @@
     "rank": 1372
   },
   {
-    "sv": "använda sig av",
-    "en": "to employ",
+    "sv": "att anställa",
+    "en": [
+      "to employ",
+      "to hire"
+    ],
     "rank": 1373
   },
   {
@@ -10745,20 +10785,13 @@
     "rank": 1374
   },
   {
-    "sv": "avveckla",
-    "en": [
-      "to dismantle",
-      "layoff"
-    ],
+    "sv": "att demontera",
+    "en": "to dismantle",
     "rank": 1376
   },
   {
-    "sv": "rike",
-    "en": [
-      "to land",
-      "kingdom",
-      "realm"
-    ],
+    "sv": "att landa",
+    "en": "to land",
     "rank": 1376
   },
   {
@@ -10809,11 +10842,14 @@
   },
   {
     "sv": "att fånga",
-    "en": "to catch",
+    "en": [
+      "to catch",
+      "to capture"
+    ],
     "rank": 1384
   },
   {
-    "sv": "gripa",
+    "sv": "att ta tag i",
     "en": "to grab",
     "rank": 1384
   },
@@ -10861,13 +10897,11 @@
     "rank": 1392
   },
   {
-    "sv": "hämnas",
-    "en": "to avenge",
-    "rank": 1393
-  },
-  {
     "sv": "att hämnas",
-    "en": "to revenge",
+    "en": [
+      "to avenge",
+      "to revenge"
+    ],
     "rank": 1393
   },
   {
@@ -10892,7 +10926,7 @@
     "rank": 1396
   },
   {
-    "sv": "känna smak",
+    "sv": "att smaka",
     "en": "to taste",
     "rank": 1396
   },
@@ -10942,7 +10976,7 @@
     "rank": 1401
   },
   {
-    "sv": "utom fara, räddad",
+    "sv": "att rensa",
     "en": "to clear",
     "rank": 1403
   },
@@ -10961,7 +10995,7 @@
     "rank": 1404
   },
   {
-    "sv": "driva",
+    "sv": "att fullfölja",
     "en": "to pursue",
     "rank": 1405
   },
@@ -11040,11 +11074,13 @@
     "rank": 1417
   },
   {
-    "sv": "skydd",
-    "en": [
-      "to guard",
-      "protection"
-    ],
+    "sv": "att vakta",
+    "en": "to guard",
+    "rank": 1417
+  },
+  {
+    "sv": "att titta på",
+    "en": "to watch",
     "rank": 1417
   },
   {
@@ -11079,8 +11115,8 @@
     "sv": "röra",
     "en": [
       "mess",
-      "to bind",
-      "touch"
+      "touch",
+      "cream"
     ],
     "rank": 1421
   },
@@ -11106,10 +11142,7 @@
   },
   {
     "sv": "bestrida",
-    "en": [
-      "dispute",
-      "to dispute"
-    ],
+    "en": "dispute",
     "rank": 1425
   },
   {
@@ -11128,13 +11161,8 @@
     "rank": 1426
   },
   {
-    "sv": "göra korstecknet över",
+    "sv": "att skriva under",
     "en": "to sign",
-    "rank": 1427
-  },
-  {
-    "sv": "förbinda sig att överta",
-    "en": "to underwrite",
     "rank": 1427
   },
   {
@@ -11199,10 +11227,7 @@
   },
   {
     "sv": "erbjuda",
-    "en": [
-      "offer",
-      "to do"
-    ],
+    "en": "offer",
     "rank": 1440
   },
   {
@@ -11241,7 +11266,7 @@
     "rank": 1445
   },
   {
-    "sv": "åberopa",
+    "sv": "att åberopa",
     "en": "to invoke",
     "rank": 1446
   },
@@ -11289,7 +11314,7 @@
     "rank": 1453
   },
   {
-    "sv": "underlätta",
+    "sv": "att underlätta",
     "en": "to facilitate",
     "rank": 1453
   },
@@ -11314,7 +11339,7 @@
     "rank": 1457
   },
   {
-    "sv": "ångra sig",
+    "sv": "att omvända sig",
     "en": "to repent",
     "rank": 1457
   },
@@ -11334,7 +11359,7 @@
     "rank": 1459
   },
   {
-    "sv": "hälla ned",
+    "sv": "att hälla",
     "en": "to pour",
     "rank": 1459
   },
@@ -11392,7 +11417,7 @@
     "rank": 1465
   },
   {
-    "sv": "skratta bort",
+    "sv": "att skratta",
     "en": "to laugh",
     "rank": 1465
   },
@@ -11425,11 +11450,6 @@
     "rank": 1469
   },
   {
-    "sv": "att vilja",
-    "en": "to will",
-    "rank": 1469
-  },
-  {
     "sv": "nämligen",
     "en": "namely",
     "rank": 1471
@@ -11446,7 +11466,11 @@
   },
   {
     "sv": "att resa",
-    "en": "to travel",
+    "en": [
+      "to travel",
+      "to erect",
+      "to voyage"
+    ],
     "rank": 1474
   },
   {
@@ -11499,7 +11523,7 @@
     "rank": 1482
   },
   {
-    "sv": "lugna ner",
+    "sv": "att lugna ner sig",
     "en": "to calm down",
     "rank": 1483
   },
@@ -11582,7 +11606,7 @@
     "rank": 1496
   },
   {
-    "sv": "sträcka, svälla",
+    "sv": "att tänja ut",
     "en": "to distend",
     "rank": 1498
   },
@@ -11651,6 +11675,11 @@
     "sv": "väska",
     "en": "bag",
     "rank": 1509
+  },
+  {
+    "sv": "lukt",
+    "en": "smell",
+    "rank": 1511
   },
   {
     "sv": "fritt",
@@ -11725,7 +11754,7 @@
     "rank": 1521
   },
   {
-    "sv": "gråta",
+    "sv": "att gråta",
     "en": "to cry",
     "rank": 1523
   },
@@ -11763,11 +11792,8 @@
     "rank": 1528
   },
   {
-    "sv": "kommentar",
-    "en": [
-      "to comment",
-      "comment"
-    ],
+    "sv": "att kommentera",
+    "en": "to comment",
     "rank": 1529
   },
   {
@@ -11814,7 +11840,7 @@
     "rank": 1535
   },
   {
-    "sv": "avsättas",
+    "sv": "att divergera",
     "en": "to diverge",
     "rank": 1535
   },
@@ -11829,7 +11855,7 @@
     "rank": 1540
   },
   {
-    "sv": "befordra",
+    "sv": "att främja",
     "en": "to promote",
     "rank": 1541
   },
@@ -11840,10 +11866,7 @@
   },
   {
     "sv": "paket",
-    "en": [
-      "package",
-      "to pack"
-    ],
+    "en": "package",
     "rank": 1542
   },
   {
@@ -11961,7 +11984,7 @@
     "rank": 1558
   },
   {
-    "sv": "jämföra",
+    "sv": "att jämföra",
     "en": "to compare",
     "rank": 1558
   },
@@ -11969,11 +11992,6 @@
     "sv": "guide",
     "en": "guide",
     "rank": 1559
-  },
-  {
-    "sv": "slå sig ner",
-    "en": "to settle",
-    "rank": 1560
   },
   {
     "sv": "att rymma",
@@ -11986,7 +12004,7 @@
     "rank": 1563
   },
   {
-    "sv": "sprida ut sig",
+    "sv": "att sprida sig",
     "en": "to sprawl",
     "rank": 1563
   },
@@ -12009,7 +12027,7 @@
     "rank": 1564
   },
   {
-    "sv": "bryta mot",
+    "sv": "att bryta mot",
     "en": "to violate",
     "rank": 1565
   },
@@ -12143,10 +12161,7 @@
   },
   {
     "sv": "björn",
-    "en": [
-      "bear",
-      "to bear"
-    ],
+    "en": "bear",
     "rank": 1593
   },
   {
@@ -12208,8 +12223,18 @@
     "rank": 1607
   },
   {
-    "sv": "förvirra",
+    "sv": "att panta",
+    "en": "to pledge",
+    "rank": 1607
+  },
+  {
+    "sv": "att förvirra",
     "en": "to confuse",
+    "rank": 1608
+  },
+  {
+    "sv": "att bestrida",
+    "en": "to dispute",
     "rank": 1608
   },
   {
@@ -12258,7 +12283,7 @@
     "rank": 1615
   },
   {
-    "sv": "bilda",
+    "sv": "att odla",
     "en": "to cultivate",
     "rank": 1615
   },
@@ -12320,7 +12345,7 @@
     "rank": 1622
   },
   {
-    "sv": "koppla av",
+    "sv": "att koppla av",
     "en": "to relax",
     "rank": 1622
   },
@@ -12358,7 +12383,7 @@
     "rank": 1634
   },
   {
-    "sv": "ärva",
+    "sv": "att ärva",
     "en": "to inherit",
     "rank": 1634
   },
@@ -12386,7 +12411,7 @@
     "rank": 1642
   },
   {
-    "sv": "tolka",
+    "sv": "att tolka",
     "en": "to interpret",
     "rank": 1645
   },
@@ -12424,6 +12449,16 @@
     "sv": "besittning",
     "en": "possession",
     "rank": 1657
+  },
+  {
+    "sv": "att binda",
+    "en": "to bind",
+    "rank": 1659
+  },
+  {
+    "sv": "att knyta",
+    "en": "to tie",
+    "rank": 1659
   },
   {
     "sv": "opposition",
@@ -12521,7 +12556,7 @@
     "rank": 1689
   },
   {
-    "sv": "bestå av",
+    "sv": "att bestå av",
     "en": "to consist of",
     "rank": 1689
   },
@@ -12546,24 +12581,19 @@
     "rank": 1693
   },
   {
-    "sv": "utmärka sig",
+    "sv": "att utmärka sig",
     "en": "to excel",
     "rank": 1695
   },
   {
-    "sv": "skinande",
+    "sv": "att glänsa",
     "en": "to shine",
     "rank": 1695
   },
   {
-    "sv": "skildra",
+    "sv": "att skildra",
     "en": "to portray",
     "rank": 1696
-  },
-  {
-    "sv": "anställa",
-    "en": "to hire",
-    "rank": 1704
   },
   {
     "sv": "hockey",
@@ -12576,13 +12606,16 @@
     "rank": 1711
   },
   {
-    "sv": "förtjäna",
+    "sv": "att förtjäna",
     "en": "to deserve",
     "rank": 1712
   },
   {
     "sv": "att begränsa",
-    "en": "to limit",
+    "en": [
+      "to limit",
+      "to restrict"
+    ],
     "rank": 1713
   },
   {
@@ -12596,7 +12629,7 @@
     "rank": 1715
   },
   {
-    "sv": "krya på dig",
+    "sv": "att bli frisk",
     "en": "to get well",
     "rank": 1716
   },
@@ -12612,11 +12645,14 @@
   },
   {
     "sv": "att ingå",
-    "en": "to be included",
+    "en": [
+      "to be included",
+      "to enter into"
+    ],
     "rank": 1728
   },
   {
-    "sv": "inkludera",
+    "sv": "att inkludera",
     "en": "to include",
     "rank": 1728
   },
@@ -12742,6 +12778,11 @@
     "rank": 1767
   },
   {
+    "sv": "att rikta in sig på",
+    "en": "to target",
+    "rank": 1767
+  },
+  {
     "sv": "delvis",
     "en": "partly",
     "rank": 1770
@@ -12775,7 +12816,7 @@
     "rank": 1778
   },
   {
-    "sv": "bli gammal",
+    "sv": "att komma vidare",
     "en": "to get on",
     "rank": 1779
   },
@@ -12816,10 +12857,7 @@
   },
   {
     "sv": "föda upp",
-    "en": [
-      "raise",
-      "to raise"
-    ],
+    "en": "raise",
     "rank": 1793
   },
   {
@@ -12911,11 +12949,6 @@
     "rank": 1821
   },
   {
-    "sv": "knyta",
-    "en": "to attach",
-    "rank": 1823
-  },
-  {
     "sv": "våldsam",
     "en": [
       "fierce",
@@ -12987,7 +13020,7 @@
     "rank": 1846
   },
   {
-    "sv": "kollidera",
+    "sv": "att kollidera",
     "en": "to collide",
     "rank": 1847
   },
@@ -12997,7 +13030,7 @@
     "rank": 1847
   },
   {
-    "sv": "kontur",
+    "sv": "att skissera",
     "en": "to outline",
     "rank": 1848
   },
@@ -13063,7 +13096,17 @@
     "rank": 1864
   },
   {
-    "sv": "råda",
+    "sv": "besvär",
+    "en": "appeal",
+    "rank": 1865
+  },
+  {
+    "sv": "stöna",
+    "en": "moan",
+    "rank": 1865
+  },
+  {
+    "sv": "att segra",
     "en": "to prevail",
     "rank": 1867
   },
@@ -13133,11 +13176,6 @@
   {
     "sv": "att orsakas av",
     "en": "to be caused by",
-    "rank": 1890
-  },
-  {
-    "sv": "följa",
-    "en": "to ensue",
     "rank": 1890
   },
   {
@@ -13318,6 +13356,11 @@
     "rank": 1945
   },
   {
+    "sv": "vilja",
+    "en": "will",
+    "rank": 1946
+  },
+  {
     "sv": "media",
     "en": "media",
     "rank": 1947
@@ -13328,17 +13371,17 @@
     "rank": 1950
   },
   {
-    "sv": "klara av",
+    "sv": "att klara sig",
     "en": "to cope",
     "rank": 1951
   },
   {
-    "sv": "överleva",
+    "sv": "att överleva",
     "en": "to survive",
     "rank": 1951
   },
   {
-    "sv": "vänta på avgörande",
+    "sv": "att vara beroende",
     "en": "to depend",
     "rank": 1955
   },
@@ -13368,7 +13411,7 @@
     "rank": 1959
   },
   {
-    "sv": "erövra",
+    "sv": "att erövra",
     "en": "to conquer",
     "rank": 1962
   },
@@ -13399,6 +13442,14 @@
     "sv": "huvudtränare",
     "en": "head coach",
     "rank": 1967
+  },
+  {
+    "sv": "att avbryta",
+    "en": [
+      "to interrupt",
+      "to cancel out"
+    ],
+    "rank": 1980
   },
   {
     "sv": "att sluta utan att avsluta",
@@ -13477,10 +13528,7 @@
   },
   {
     "sv": "kontrakt",
-    "en": [
-      "contract",
-      "to contract"
-    ],
+    "en": "contract",
     "rank": 2008
   },
   {
@@ -13543,12 +13591,10 @@
   },
   {
     "sv": "att komplettera",
-    "en": "to complement",
-    "rank": 2024
-  },
-  {
-    "sv": "bilaga",
-    "en": "to supplement",
+    "en": [
+      "to complement",
+      "to supplement"
+    ],
     "rank": 2024
   },
   {
@@ -13683,7 +13729,6 @@
     "sv": "dela sig",
     "en": [
       "separate",
-      "to separate",
       "fork"
     ],
     "rank": 2058
@@ -13752,11 +13797,6 @@
     "sv": "rättstvist",
     "en": "litigation",
     "rank": 2079
-  },
-  {
-    "sv": "att döda",
-    "en": "to slay",
-    "rank": 2081
   },
   {
     "sv": "riksdagsgruppen",
@@ -13829,6 +13869,11 @@
     "rank": 2104
   },
   {
+    "sv": "att reformera",
+    "en": "to reform",
+    "rank": 2108
+  },
+  {
     "sv": "funktion",
     "en": "function",
     "rank": 2113
@@ -13850,14 +13895,11 @@
   },
   {
     "sv": "behandla",
-    "en": [
-      "process",
-      "to treat"
-    ],
+    "en": "process",
     "rank": 2116
   },
   {
-    "sv": "komma ikapp",
+    "sv": "att komma ikapp",
     "en": "to catch up",
     "rank": 2117
   },
@@ -13901,6 +13943,11 @@
     "rank": 2131
   },
   {
+    "sv": "regn",
+    "en": "rain",
+    "rank": 2132
+  },
+  {
     "sv": "hit",
     "en": "hit",
     "rank": 2133
@@ -13911,7 +13958,7 @@
     "rank": 2135
   },
   {
-    "sv": "förlänga",
+    "sv": "att förlänga",
     "en": "to extend",
     "rank": 2136
   },
@@ -14055,12 +14102,12 @@
     "rank": 2180
   },
   {
-    "sv": "festlig måltid",
+    "sv": "att heja",
     "en": "to cheer",
     "rank": 2181
   },
   {
-    "sv": "främja",
+    "sv": "att uppmuntra",
     "en": "to encourage",
     "rank": 2181
   },
@@ -14094,10 +14141,7 @@
   },
   {
     "sv": "däck",
-    "en": [
-      "tyre",
-      "to tire"
-    ],
+    "en": "tyre",
     "rank": 2188
   },
   {
@@ -14181,6 +14225,11 @@
     "rank": 2216
   },
   {
+    "sv": "att lem",
+    "en": "to limb",
+    "rank": 2217
+  },
+  {
     "sv": "ackrediterad",
     "en": "accredited",
     "rank": 2219
@@ -14227,6 +14276,11 @@
     "rank": 2228
   },
   {
+    "sv": "skydd",
+    "en": "protection",
+    "rank": 2231
+  },
+  {
     "sv": "turist",
     "en": "tourist",
     "rank": 2232
@@ -14263,6 +14317,11 @@
     "sv": "drag",
     "en": "feature",
     "rank": 2239
+  },
+  {
+    "sv": "flytta",
+    "en": "move",
+    "rank": 2242
   },
   {
     "sv": "typisk",
@@ -14328,7 +14387,7 @@
     "rank": 2265
   },
   {
-    "sv": "omfatta",
+    "sv": "att omfatta",
     "en": "to comprise",
     "rank": 2268
   },
@@ -14348,7 +14407,7 @@
     "rank": 2271
   },
   {
-    "sv": "kompaktbil",
+    "sv": "att kompaktera",
     "en": "to compact",
     "rank": 2271
   },
@@ -14408,6 +14467,14 @@
     "rank": 2286
   },
   {
+    "sv": "rike",
+    "en": [
+      "kingdom",
+      "realm"
+    ],
+    "rank": 2289
+  },
+  {
     "sv": "skildring",
     "en": "depiction",
     "rank": 2290
@@ -14423,14 +14490,6 @@
     "rank": 2291
   },
   {
-    "sv": "att anta",
-    "en": [
-      "to assume",
-      "to enact"
-    ],
-    "rank": 2293
-  },
-  {
     "sv": "kommunal",
     "en": "municipal",
     "rank": 2294
@@ -14441,7 +14500,7 @@
     "rank": 2296
   },
   {
-    "sv": "begå",
+    "sv": "att begå",
     "en": "to perpetrate",
     "rank": 2297
   },
@@ -14471,7 +14530,7 @@
     "rank": 2309
   },
   {
-    "sv": "antända",
+    "sv": "att antända",
     "en": "to ignite",
     "rank": 2309
   },
@@ -14574,7 +14633,10 @@
   },
   {
     "sv": "att spänna",
-    "en": "to tense",
+    "en": [
+      "to tense",
+      "to strain"
+    ],
     "rank": 2347
   },
   {
@@ -14686,7 +14748,7 @@
     "rank": 2390
   },
   {
-    "sv": "utrusta",
+    "sv": "att utrusta",
     "en": "to equip",
     "rank": 2393
   },
@@ -14701,8 +14763,13 @@
     "rank": 2394
   },
   {
-    "sv": "agera som rådgivare",
+    "sv": "att ge råd",
     "en": "to advise",
+    "rank": 2395
+  },
+  {
+    "sv": "att rådgöra",
+    "en": "to counsel",
     "rank": 2395
   },
   {
@@ -14796,6 +14863,11 @@
     "rank": 2412
   },
   {
+    "sv": "att ta upp",
+    "en": "to take up",
+    "rank": 2413
+  },
+  {
     "sv": "tillverkare",
     "en": "manufacturer",
     "rank": 2414
@@ -14836,7 +14908,7 @@
     "rank": 2421
   },
   {
-    "sv": "betona",
+    "sv": "att betona",
     "en": "to emphasize",
     "rank": 2422
   },
@@ -14891,7 +14963,7 @@
     "rank": 2437
   },
   {
-    "sv": "dra ur striden",
+    "sv": "att koppla ur",
     "en": "to disengage",
     "rank": 2439
   },
@@ -14954,7 +15026,7 @@
     "rank": 2456
   },
   {
-    "sv": "intensifiera",
+    "sv": "att intensifiera",
     "en": "to intensify",
     "rank": 2456
   },
@@ -14964,7 +15036,7 @@
     "rank": 2457
   },
   {
-    "sv": "anropa",
+    "sv": "att utmana",
     "en": "to challenge",
     "rank": 2458
   },
@@ -15009,6 +15081,11 @@
     "rank": 2470
   },
   {
+    "sv": "kommentar",
+    "en": "comment",
+    "rank": 2471
+  },
+  {
     "sv": "se resource",
     "en": "resources",
     "rank": 2474
@@ -15034,7 +15111,7 @@
     "rank": 2479
   },
   {
-    "sv": "bada",
+    "sv": "att bada",
     "en": "to bathe",
     "rank": 2480
   },
@@ -15069,12 +15146,12 @@
     "rank": 2488
   },
   {
-    "sv": "underminera",
+    "sv": "att underminera",
     "en": "to undermine",
     "rank": 2491
   },
   {
-    "sv": "försvagas",
+    "sv": "att försvaga",
     "en": "to weaken",
     "rank": 2491
   },
@@ -15089,7 +15166,12 @@
     "rank": 2495
   },
   {
-    "sv": "avgränsa",
+    "sv": "förtöja",
+    "en": "Moor",
+    "rank": 2496
+  },
+  {
+    "sv": "att avgränsa",
     "en": "to delimit",
     "rank": 2497
   },
@@ -15119,14 +15201,24 @@
     "rank": 2502
   },
   {
-    "sv": "formatera",
+    "sv": "att formatera",
     "en": "to format",
     "rank": 2504
   },
   {
-    "sv": "le",
+    "sv": "att le",
     "en": "to smile",
     "rank": 2505
+  },
+  {
+    "sv": "att besegra",
+    "en": "to defeat",
+    "rank": 2507
+  },
+  {
+    "sv": "att störta",
+    "en": "to overthrow",
+    "rank": 2507
   },
   {
     "sv": "sydlig",
@@ -15212,8 +15304,17 @@
     "rank": 2535
   },
   {
-    "sv": "sätta i fängelse",
-    "en": "to imprison",
+    "sv": "backe",
+    "en": "hill",
+    "rank": 2539
+  },
+  {
+    "sv": "att fängsla",
+    "en": [
+      "to imprison",
+      "to enthrall",
+      "to captivate"
+    ],
     "rank": 2541
   },
   {
@@ -15232,8 +15333,11 @@
     "rank": 2544
   },
   {
-    "sv": "bevara",
-    "en": "to maintain",
+    "sv": "att underhålla",
+    "en": [
+      "to maintain",
+      "to entertain"
+    ],
     "rank": 2548
   },
   {
@@ -15280,7 +15384,7 @@
     "rank": 2558
   },
   {
-    "sv": "sluta sig till",
+    "sv": "att härleda",
     "en": "to deduce",
     "rank": 2559
   },
@@ -15327,11 +15431,6 @@
     "sv": "lund",
     "en": "grove",
     "rank": 2572
-  },
-  {
-    "sv": "att betala",
-    "en": "to repay",
-    "rank": 2574
   },
   {
     "sv": "att skriva under för",
@@ -15427,7 +15526,7 @@
     "rank": 2599
   },
   {
-    "sv": "specialisera sig",
+    "sv": "att specialisera sig",
     "en": "to specialize",
     "rank": 2600
   },
@@ -15636,6 +15735,16 @@
     "rank": 2662
   },
   {
+    "sv": "leda",
+    "en": "moderate",
+    "rank": 2667
+  },
+  {
+    "sv": "att dölja",
+    "en": "to conceal",
+    "rank": 2669
+  },
+  {
     "sv": "beräkning",
     "en": "calculation",
     "rank": 2670
@@ -15704,7 +15813,7 @@
     "rank": 2682
   },
   {
-    "sv": "behaga",
+    "sv": "att behaga",
     "en": "to please",
     "rank": 2684
   },
@@ -15744,7 +15853,7 @@
     "rank": 2693
   },
   {
-    "sv": "ta på",
+    "sv": "att röra vid",
     "en": "to touch",
     "rank": 2695
   },
@@ -15767,17 +15876,22 @@
     "rank": 2697
   },
   {
-    "sv": "renovera",
+    "sv": "att skära av",
+    "en": "to cut off",
+    "rank": 2699
+  },
+  {
+    "sv": "att renovera",
     "en": "to renovate",
     "rank": 2700
   },
   {
-    "sv": "kollapsa",
+    "sv": "att kollapsa",
     "en": "to collapse",
     "rank": 2702
   },
   {
-    "sv": "rasa",
+    "sv": "att rasa",
     "en": "to plummet",
     "rank": 2702
   },
@@ -15800,11 +15914,6 @@
     "sv": "andefattig",
     "en": "barren",
     "rank": 2705
-  },
-  {
-    "sv": "att säkra",
-    "en": "to hedge",
-    "rank": 2706
   },
   {
     "sv": "bulletin",
@@ -15983,7 +16092,7 @@
     "rank": 2747
   },
   {
-    "sv": "förena sig",
+    "sv": "att förena sig",
     "en": "to unite",
     "rank": 2747
   },
@@ -15993,7 +16102,7 @@
     "rank": 2749
   },
   {
-    "sv": "auktorisera",
+    "sv": "att auktorisera",
     "en": "to authorize",
     "rank": 2753
   },
@@ -16127,16 +16236,13 @@
     "rank": 2779
   },
   {
-    "sv": "komplicera",
+    "sv": "att komplicera",
     "en": "to complicate",
     "rank": 2782
   },
   {
-    "sv": "hämma",
-    "en": [
-      "to hamper",
-      "to curb"
-    ],
+    "sv": "att hämma",
+    "en": "to hamper",
     "rank": 2782
   },
   {
@@ -16215,12 +16321,12 @@
     "rank": 2809
   },
   {
-    "sv": "bli av",
+    "sv": "att komma av",
     "en": "to come off",
     "rank": 2810
   },
   {
-    "sv": "lossa",
+    "sv": "att lossa",
     "en": "to loosen",
     "rank": 2810
   },
@@ -16303,7 +16409,7 @@
     "rank": 2832
   },
   {
-    "sv": "stämpel",
+    "sv": "att stämpla",
     "en": "to stamp",
     "rank": 2834
   },
@@ -16323,7 +16429,7 @@
     "rank": 2839
   },
   {
-    "sv": "värdera skada",
+    "sv": "att justera",
     "en": "to adjust",
     "rank": 2843
   },
@@ -16369,7 +16475,10 @@
   },
   {
     "sv": "att irritera",
-    "en": "to annoy",
+    "en": [
+      "to annoy",
+      "to irritate"
+    ],
     "rank": 2866
   },
   {
@@ -16388,7 +16497,7 @@
     "rank": 2868
   },
   {
-    "sv": "intervjua",
+    "sv": "att intervjua",
     "en": "to interview",
     "rank": 2869
   },
@@ -16634,7 +16743,7 @@
     "rank": 2933
   },
   {
-    "sv": "accelerera",
+    "sv": "att accelerera",
     "en": "to accelerate",
     "rank": 2935
   },
@@ -16659,12 +16768,17 @@
     "rank": 2944
   },
   {
+    "sv": "att mentor",
+    "en": "to mentor",
+    "rank": 2944
+  },
+  {
     "sv": "att få må dåligt",
     "en": "to make feel bad",
     "rank": 2946
   },
   {
-    "sv": "förarga",
+    "sv": "att förarga",
     "en": "to vex",
     "rank": 2946
   },
@@ -16744,12 +16858,12 @@
     "rank": 2969
   },
   {
-    "sv": "föregå",
+    "sv": "att föregå",
     "en": "to precede",
     "rank": 2975
   },
   {
-    "sv": "komponera",
+    "sv": "att komponera",
     "en": "to compose",
     "rank": 2977
   },
@@ -16769,7 +16883,7 @@
     "rank": 2982
   },
   {
-    "sv": "inspirera",
+    "sv": "att inspirera",
     "en": "to inspire",
     "rank": 2983
   },
@@ -16777,11 +16891,6 @@
     "sv": "affärslivet",
     "en": "business life",
     "rank": 2984
-  },
-  {
-    "sv": "ha gäster",
-    "en": "to entertain",
-    "rank": 2985
   },
   {
     "sv": "regeringsprogram",
@@ -16809,7 +16918,7 @@
     "rank": 2991
   },
   {
-    "sv": "återhämta sig",
+    "sv": "att återhämta sig",
     "en": "to recover",
     "rank": 2994
   },
@@ -16819,7 +16928,7 @@
     "rank": 2995
   },
   {
-    "sv": "falla sönder",
+    "sv": "att sönderdela",
     "en": "to decompose",
     "rank": 2997
   },
@@ -16849,12 +16958,12 @@
     "rank": 3009
   },
   {
-    "sv": "ådra sig",
+    "sv": "att ådra sig",
     "en": "to incur",
     "rank": 3012
   },
   {
-    "sv": "donera",
+    "sv": "att donera",
     "en": "to donate",
     "rank": 3014
   },
@@ -16874,7 +16983,7 @@
     "rank": 3017
   },
   {
-    "sv": "beundra",
+    "sv": "att beundra",
     "en": "to admire",
     "rank": 3018
   },
@@ -16889,7 +16998,7 @@
     "rank": 3026
   },
   {
-    "sv": "avskaffa",
+    "sv": "att avskaffa",
     "en": "to abolish",
     "rank": 3029
   },
@@ -16900,12 +17009,10 @@
   },
   {
     "sv": "att lugna",
-    "en": "to pacify",
-    "rank": 3031
-  },
-  {
-    "sv": "inge ny tillförsikt",
-    "en": "to reassure",
+    "en": [
+      "to pacify",
+      "to reassure"
+    ],
     "rank": 3031
   },
   {
@@ -16959,6 +17066,11 @@
     "rank": 3057
   },
   {
+    "sv": "att behandla",
+    "en": "to treat",
+    "rank": 3059
+  },
+  {
     "sv": "kam",
     "en": "ridge",
     "rank": 3060
@@ -16979,7 +17091,7 @@
     "rank": 3065
   },
   {
-    "sv": "raffinerar",
+    "sv": "att förfina",
     "en": "to refine",
     "rank": 3066
   },
@@ -17004,15 +17116,7 @@
     "rank": 3070
   },
   {
-    "sv": "att fängsla",
-    "en": [
-      "to enthrall",
-      "to captivate"
-    ],
-    "rank": 3071
-  },
-  {
-    "sv": "gottskriva",
+    "sv": "att fascinera",
     "en": "to fascinate",
     "rank": 3071
   },
@@ -17063,13 +17167,11 @@
     "rank": 3079
   },
   {
-    "sv": "tillflyktsort",
-    "en": "to resort",
-    "rank": 3081
-  },
-  {
-    "sv": "tillgriper",
-    "en": "to resort to",
+    "sv": "att tillgripa",
+    "en": [
+      "to resort",
+      "to resort to"
+    ],
     "rank": 3081
   },
   {
@@ -17098,12 +17200,17 @@
     "rank": 3085
   },
   {
+    "sv": "passera",
+    "en": "pass",
+    "rank": 3085
+  },
+  {
     "sv": "att bekanta sig med",
     "en": "to get acquainted with",
     "rank": 3090
   },
   {
-    "sv": "orientera",
+    "sv": "att orientera",
     "en": "to orient",
     "rank": 3090
   },
@@ -17118,7 +17225,7 @@
     "rank": 3091
   },
   {
-    "sv": "argumentera",
+    "sv": "att argumentera",
     "en": "to argue",
     "rank": 3094
   },
@@ -17133,7 +17240,7 @@
     "rank": 3095
   },
   {
-    "sv": "försämras",
+    "sv": "att försämras",
     "en": "to deteriorate",
     "rank": 3100
   },
@@ -17143,7 +17250,7 @@
     "rank": 3101
   },
   {
-    "sv": "dra ut på tiden",
+    "sv": "att dra vidare",
     "en": "to drag on",
     "rank": 3105
   },
@@ -17175,6 +17282,14 @@
   {
     "sv": "att bli/bli trött",
     "en": "to become/get tired",
+    "rank": 3115
+  },
+  {
+    "sv": "att tröttna",
+    "en": [
+      "to tire",
+      "to get tired"
+    ],
     "rank": 3115
   },
   {
@@ -17523,8 +17638,13 @@
     "rank": 3209
   },
   {
-    "sv": "formulera",
+    "sv": "att formulera",
     "en": "to formulate",
+    "rank": 3210
+  },
+  {
+    "sv": "att forma",
+    "en": "to shape",
     "rank": 3210
   },
   {
@@ -17586,6 +17706,11 @@
     "rank": 3224
   },
   {
+    "sv": "belöna",
+    "en": "reward",
+    "rank": 3225
+  },
+  {
     "sv": "vinna",
     "en": "notch",
     "rank": 3226
@@ -17616,7 +17741,7 @@
     "rank": 3233
   },
   {
-    "sv": "omge",
+    "sv": "att omge",
     "en": "to surround",
     "rank": 3235
   },
@@ -17631,7 +17756,7 @@
     "rank": 3241
   },
   {
-    "sv": "konsumera",
+    "sv": "att konsumera",
     "en": "to consume",
     "rank": 3245
   },
@@ -17646,7 +17771,7 @@
     "rank": 3248
   },
   {
-    "sv": "tolerera",
+    "sv": "att tolerera",
     "en": "to tolerate",
     "rank": 3248
   },
@@ -17696,7 +17821,7 @@
     "rank": 3267
   },
   {
-    "sv": "räkna upp",
+    "sv": "att räkna upp",
     "en": "to enumerate",
     "rank": 3270
   },
@@ -17721,6 +17846,11 @@
   {
     "sv": "att värma upp",
     "en": "to reheat",
+    "rank": 3275
+  },
+  {
+    "sv": "att värma",
+    "en": "to warm",
     "rank": 3275
   },
   {
@@ -17799,12 +17929,12 @@
     "rank": 3300
   },
   {
-    "sv": "reflektera",
+    "sv": "att reflektera",
     "en": "to reflect",
     "rank": 3300
   },
   {
-    "sv": "iterera",
+    "sv": "att iterera",
     "en": "to iterate",
     "rank": 3301
   },
@@ -17819,7 +17949,7 @@
     "rank": 3304
   },
   {
-    "sv": "dra från",
+    "sv": "att blåsa",
     "en": "to blow",
     "rank": 3306
   },
@@ -17849,7 +17979,7 @@
     "rank": 3314
   },
   {
-    "sv": "skjuta upp",
+    "sv": "att skjuta upp",
     "en": "to postpone",
     "rank": 3315
   },
@@ -17859,7 +17989,7 @@
     "rank": 3320
   },
   {
-    "sv": "begrava",
+    "sv": "att begrava",
     "en": "to bury",
     "rank": 3321
   },
@@ -18067,12 +18197,12 @@
     "rank": 3384
   },
   {
-    "sv": "installera",
+    "sv": "att installera",
     "en": "to install",
     "rank": 3390
   },
   {
-    "sv": "dränka",
+    "sv": "att drunkna",
     "en": "to drown",
     "rank": 3392
   },
@@ -18135,13 +18265,11 @@
     "rank": 3412
   },
   {
-    "sv": "tvätta",
-    "en": "to launder",
-    "rank": 3414
-  },
-  {
     "sv": "att tvätta",
-    "en": "to wash",
+    "en": [
+      "to launder",
+      "to wash"
+    ],
     "rank": 3414
   },
   {
@@ -18201,10 +18329,7 @@
   },
   {
     "sv": "handla med tjuvgods",
-    "en": [
-      "fence",
-      "to fence"
-    ],
+    "en": "fence",
     "rank": 3432
   },
   {
@@ -18266,7 +18391,7 @@
     "rank": 3447
   },
   {
-    "sv": "återkalla, återtaga",
+    "sv": "att upphäva",
     "en": "to repeal",
     "rank": 3448
   },
@@ -18284,7 +18409,7 @@
     "rank": 3450
   },
   {
-    "sv": "avvisa",
+    "sv": "att avfärda",
     "en": "to dismiss",
     "rank": 3453
   },
@@ -18332,6 +18457,11 @@
     "rank": 3466
   },
   {
+    "sv": "att mobba",
+    "en": "to bully",
+    "rank": 3468
+  },
+  {
     "sv": "trekant",
     "en": "threesome",
     "rank": 3469
@@ -18362,7 +18492,7 @@
     "rank": 3474
   },
   {
-    "sv": "anpassa",
+    "sv": "att matcha",
     "en": "to match",
     "rank": 3477
   },
@@ -18432,7 +18562,7 @@
     "rank": 3502
   },
   {
-    "sv": "lösa in",
+    "sv": "att lösa in",
     "en": "to redeem",
     "rank": 3502
   },
@@ -18467,7 +18597,7 @@
     "rank": 3515
   },
   {
-    "sv": "brådska",
+    "sv": "att rusa",
     "en": "to rush",
     "rank": 3515
   },
@@ -18477,13 +18607,11 @@
     "rank": 3516
   },
   {
-    "sv": "dum",
-    "en": "to slow",
-    "rank": 3517
-  },
-  {
-    "sv": "sakta in",
-    "en": "to slow down",
+    "sv": "att sakta ner",
+    "en": [
+      "to slow",
+      "to slow down"
+    ],
     "rank": 3517
   },
   {
@@ -18585,7 +18713,7 @@
     "rank": 3543
   },
   {
-    "sv": "gå ned",
+    "sv": "att gå ner",
     "en": [
       "to go down",
       "to descend"
@@ -18595,6 +18723,11 @@
   {
     "sv": "friställning",
     "en": "lay-off",
+    "rank": 3549
+  },
+  {
+    "sv": "avveckla",
+    "en": "layoff",
     "rank": 3549
   },
   {
@@ -18608,12 +18741,12 @@
     "rank": 3551
   },
   {
-    "sv": "sno ihop",
+    "sv": "att slå ut",
     "en": "to knock out",
     "rank": 3552
   },
   {
-    "sv": "bedöva",
+    "sv": "att bedöva",
     "en": "to stun",
     "rank": 3552
   },
@@ -18638,7 +18771,7 @@
     "rank": 3556
   },
   {
-    "sv": "klassificera",
+    "sv": "att klassificera",
     "en": "to classify",
     "rank": 3558
   },
@@ -18676,7 +18809,7 @@
     "rank": 3566
   },
   {
-    "sv": "platta till",
+    "sv": "att platta till",
     "en": "to flatten",
     "rank": 3568
   },
@@ -18701,17 +18834,12 @@
     "rank": 3571
   },
   {
-    "sv": "ingå",
-    "en": "to enter into",
-    "rank": 3571
-  },
-  {
-    "sv": "stjäla",
+    "sv": "att plocka",
     "en": "to pick",
     "rank": 3572
   },
   {
-    "sv": "få att må bättre",
+    "sv": "att hämta",
     "en": "to pick up",
     "rank": 3572
   },
@@ -18731,7 +18859,7 @@
     "rank": 3575
   },
   {
-    "sv": "delta i",
+    "sv": "att gå med",
     "en": "to join",
     "rank": 3576
   },
@@ -18796,8 +18924,8 @@
     "rank": 3592
   },
   {
-    "sv": "upphäva varandra",
-    "en": "to cancel out",
+    "sv": "att kontraktera",
+    "en": "to contract",
     "rank": 3595
   },
   {
@@ -18852,12 +18980,12 @@
     "rank": 3620
   },
   {
-    "sv": "investera i",
+    "sv": "att investera i",
     "en": "to invest in",
     "rank": 3621
   },
   {
-    "sv": "smula sönder",
+    "sv": "att smula sönder",
     "en": "to crumble",
     "rank": 3622
   },
@@ -18877,13 +19005,11 @@
     "rank": 3625
   },
   {
-    "sv": "affärsuppgörelse",
-    "en": "to bargain",
-    "rank": 3627
-  },
-  {
-    "sv": "pruta",
-    "en": "to haggle",
+    "sv": "att pruta",
+    "en": [
+      "to bargain",
+      "to haggle"
+    ],
     "rank": 3627
   },
   {
@@ -18892,12 +19018,12 @@
     "rank": 3628
   },
   {
-    "sv": "pitcha",
+    "sv": "att pitcha",
     "en": "to pitch",
     "rank": 3633
   },
   {
-    "sv": "invadera",
+    "sv": "att invadera",
     "en": "to invade",
     "rank": 3634
   },
@@ -18995,7 +19121,7 @@
     "rank": 3661
   },
   {
-    "sv": "bli stel",
+    "sv": "att dra åt",
     "en": "to tighten",
     "rank": 3666
   },
@@ -19018,8 +19144,11 @@
     "rank": 3671
   },
   {
-    "sv": "alarm",
-    "en": "to alarm",
+    "sv": "att larma",
+    "en": [
+      "to alarm",
+      "to alert"
+    ],
     "rank": 3672
   },
   {
@@ -19053,7 +19182,7 @@
     "rank": 3680
   },
   {
-    "sv": "öka farten",
+    "sv": "att påskynda",
     "en": "to speed up",
     "rank": 3682
   },
@@ -19111,7 +19240,12 @@
     "rank": 3710
   },
   {
-    "sv": "redigera",
+    "sv": "att separera",
+    "en": "to separate",
+    "rank": 3711
+  },
+  {
+    "sv": "att redigera",
     "en": "to edit",
     "rank": 3712
   },
@@ -19199,7 +19333,7 @@
     "rank": 3739
   },
   {
-    "sv": "beskyddare",
+    "sv": "att sponsra",
     "en": "to sponsor",
     "rank": 3746
   },
@@ -19264,7 +19398,7 @@
     "rank": 3762
   },
   {
-    "sv": "förpliktiga",
+    "sv": "att förplikta",
     "en": [
       "to obligate",
       "to oblige"
@@ -19277,8 +19411,13 @@
     "rank": 3764
   },
   {
-    "sv": "plugga med",
+    "sv": "att proppa",
     "en": "to cram",
+    "rank": 3766
+  },
+  {
+    "sv": "att packa",
+    "en": "to pack",
     "rank": 3766
   },
   {
@@ -19297,12 +19436,12 @@
     "rank": 3768
   },
   {
-    "sv": "anpassa sig",
+    "sv": "att anpassa sig",
     "en": "to adapt",
     "rank": 3769
   },
   {
-    "sv": "integrera",
+    "sv": "att integrera",
     "en": "to integrate",
     "rank": 3769
   },
@@ -19368,12 +19507,12 @@
     "rank": 3791
   },
   {
-    "sv": "salva",
+    "sv": "att spricka",
     "en": "to burst",
     "rank": 3794
   },
   {
-    "sv": "pop",
+    "sv": "att poppa",
     "en": "to pop",
     "rank": 3794
   },
@@ -19388,14 +19527,9 @@
     "rank": 3797
   },
   {
-    "sv": "analysera",
+    "sv": "att analysera",
     "en": "to analyze",
     "rank": 3797
-  },
-  {
-    "sv": "dyka upp",
-    "en": "to crop up",
-    "rank": 3798
   },
   {
     "sv": "bas",
@@ -19413,7 +19547,7 @@
     "rank": 3803
   },
   {
-    "sv": "kartlägga",
+    "sv": "att kartlägga",
     "en": "to map",
     "rank": 3804
   },
@@ -19508,18 +19642,13 @@
     "rank": 3838
   },
   {
-    "sv": "förkorta",
+    "sv": "att förkorta",
     "en": [
       "to abbreviate",
       "to shorten",
       "to abridge"
     ],
     "rank": 3839
-  },
-  {
-    "sv": "att dela",
-    "en": "to divide",
-    "rank": 3841
   },
   {
     "sv": "progression",
@@ -19587,12 +19716,17 @@
     "rank": 3867
   },
   {
+    "sv": "att riskera",
+    "en": "to risk",
+    "rank": 3867
+  },
+  {
     "sv": "knulla",
     "en": "fuck",
     "rank": 3868
   },
   {
-    "sv": "förespråka",
+    "sv": "att förespråka",
     "en": "to advocate",
     "rank": 3869
   },
@@ -19602,7 +19736,7 @@
     "rank": 3870
   },
   {
-    "sv": "titta ut",
+    "sv": "att se ut",
     "en": "to look out",
     "rank": 3872
   },
@@ -19642,7 +19776,12 @@
     "rank": 3884
   },
   {
-    "sv": "bombardera",
+    "sv": "att bomba",
+    "en": "to bomb",
+    "rank": 3886
+  },
+  {
+    "sv": "att bombardera",
     "en": "to bombard",
     "rank": 3886
   },
@@ -19662,7 +19801,7 @@
     "rank": 3889
   },
   {
-    "sv": "finslipa",
+    "sv": "att finslipa",
     "en": "to hone",
     "rank": 3889
   },
@@ -19677,7 +19816,7 @@
     "rank": 3890
   },
   {
-    "sv": "sköta sig",
+    "sv": "att bete sig",
     "en": "to behave",
     "rank": 3893
   },
@@ -19707,7 +19846,7 @@
     "rank": 3899
   },
   {
-    "sv": "av samma typ",
+    "sv": "att gilla",
     "en": "to like",
     "rank": 3900
   },
@@ -19797,12 +19936,12 @@
     "rank": 3932
   },
   {
-    "sv": "underrätta",
+    "sv": "att annonsera",
     "en": "to advertise",
     "rank": 3934
   },
   {
-    "sv": "skänka",
+    "sv": "att skänka",
     "en": "to bestow",
     "rank": 3935
   },
@@ -19822,12 +19961,17 @@
     "rank": 3942
   },
   {
+    "sv": "att drömma",
+    "en": "to dream",
+    "rank": 3943
+  },
+  {
     "sv": "affärsverksamhet",
     "en": "business activity",
     "rank": 3945
   },
   {
-    "sv": "elda upp",
+    "sv": "att elda",
     "en": "to fire",
     "rank": 3946
   },
@@ -19837,7 +19981,7 @@
     "rank": 3947
   },
   {
-    "sv": "återkalla",
+    "sv": "att återkalla",
     "en": "to revoke",
     "rank": 3947
   },
@@ -19870,6 +20014,11 @@
     "sv": "representativt organ",
     "en": "representative body",
     "rank": 3962
+  },
+  {
+    "sv": "att beskatta",
+    "en": "to tax",
+    "rank": 3963
   },
   {
     "sv": "ägg",
@@ -19942,8 +20091,8 @@
     "rank": 3980
   },
   {
-    "sv": "hålla tillbaka",
-    "en": "to restrain",
+    "sv": "att stävja",
+    "en": "to curb",
     "rank": 3981
   },
   {
@@ -19982,7 +20131,7 @@
     "rank": 3992
   },
   {
-    "sv": "smickra",
+    "sv": "att smickra",
     "en": "to flatter",
     "rank": 3993
   },
@@ -20009,11 +20158,6 @@
   {
     "sv": "att bli överraskad",
     "en": "to be surprised",
-    "rank": 4004
-  },
-  {
-    "sv": "skrämma upp",
-    "en": "to startle",
     "rank": 4004
   },
   {
@@ -20171,7 +20315,7 @@
     "rank": 4041
   },
   {
-    "sv": "ge ett krokslag",
+    "sv": "att kroka",
     "en": "to hook",
     "rank": 4041
   },
@@ -20181,12 +20325,12 @@
     "rank": 4042
   },
   {
-    "sv": "bända",
+    "sv": "att bända",
     "en": "to pry",
     "rank": 4043
   },
   {
-    "sv": "vrida",
+    "sv": "att vrida",
     "en": "to twist",
     "rank": 4043
   },
@@ -20261,7 +20405,7 @@
     "rank": 4059
   },
   {
-    "sv": "luta",
+    "sv": "att luta",
     "en": "to tilt",
     "rank": 4060
   },
@@ -20324,9 +20468,9 @@
     "rank": 4071
   },
   {
-    "sv": "att tvinga",
-    "en": "to coerce",
-    "rank": 4074
+    "sv": "att höja",
+    "en": "to raise",
+    "rank": 4071
   },
   {
     "sv": "humanitär",
@@ -20342,7 +20486,7 @@
     "rank": 4076
   },
   {
-    "sv": "förfoga över",
+    "sv": "att göra sig av med",
     "en": "to dispose of",
     "rank": 4078
   },
@@ -20369,11 +20513,6 @@
   {
     "sv": "att bli uttråkad",
     "en": "to get bored",
-    "rank": 4083
-  },
-  {
-    "sv": "att tröttna",
-    "en": "to get tired",
     "rank": 4083
   },
   {
@@ -20550,7 +20689,7 @@
     "rank": 4139
   },
   {
-    "sv": "kristallisera",
+    "sv": "att kristallisera",
     "en": "to crystallize",
     "rank": 4141
   },
@@ -20593,6 +20732,11 @@
     "sv": "transportminister",
     "en": "Minister of Transport",
     "rank": 4149
+  },
+  {
+    "sv": "att ta reda på det",
+    "en": "to find out",
+    "rank": 4151
   },
   {
     "sv": "rent",
@@ -20653,6 +20797,11 @@
     "rank": 4168
   },
   {
+    "sv": "lösa",
+    "en": "resolving",
+    "rank": 4169
+  },
+  {
     "sv": "utomhus-",
     "en": "outdoor",
     "rank": 4170
@@ -20668,7 +20817,7 @@
     "rank": 4173
   },
   {
-    "sv": "falla ut i",
+    "sv": "att tömma",
     "en": "to empty",
     "rank": 4175
   },
@@ -20744,6 +20893,11 @@
     "sv": "rehabilitering",
     "en": "rehabilitation",
     "rank": 4193
+  },
+  {
+    "sv": "skjuts",
+    "en": "lift",
+    "rank": 4194
   },
   {
     "sv": "underst",
@@ -20909,13 +21063,18 @@
     "rank": 4244
   },
   {
-    "sv": "bundsförvant",
+    "sv": "att alliera sig",
     "en": "to ally",
     "rank": 4246
   },
   {
-    "sv": "adoptera",
+    "sv": "att adoptera",
     "en": "to adopt",
+    "rank": 4247
+  },
+  {
+    "sv": "att omfamna",
+    "en": "to embrace",
     "rank": 4247
   },
   {
@@ -21066,7 +21225,7 @@
     "rank": 4284
   },
   {
-    "sv": "klättra",
+    "sv": "att klättra",
     "en": "to climb",
     "rank": 4285
   },
@@ -21083,6 +21242,11 @@
   {
     "sv": "klausul",
     "en": "clause",
+    "rank": 4287
+  },
+  {
+    "sv": "döma",
+    "en": "sentence",
     "rank": 4287
   },
   {
@@ -21119,7 +21283,7 @@
     "rank": 4298
   },
   {
-    "sv": "mogna",
+    "sv": "att mogna",
     "en": "to ripen",
     "rank": 4298
   },
@@ -21142,11 +21306,6 @@
     "sv": "akademiker",
     "en": "academic",
     "rank": 4305
-  },
-  {
-    "sv": "irritera",
-    "en": "to irritate",
-    "rank": 4306
   },
   {
     "sv": "att reta",
@@ -21202,7 +21361,7 @@
     "rank": 4323
   },
   {
-    "sv": "drunkna i",
+    "sv": "att smälta",
     "en": "to melt",
     "rank": 4323
   },
@@ -21237,7 +21396,7 @@
     "rank": 4333
   },
   {
-    "sv": "misslyckas",
+    "sv": "att stöka till",
     "en": "to mess up",
     "rank": 4333
   },
@@ -21245,6 +21404,11 @@
     "sv": "blond",
     "en": "blond",
     "rank": 4334
+  },
+  {
+    "sv": "att mörda",
+    "en": "to murder",
+    "rank": 4341
   },
   {
     "sv": "årliga täckningsbidrag",
@@ -21297,12 +21461,12 @@
     "rank": 4359
   },
   {
-    "sv": "stöt",
+    "sv": "att chocka",
     "en": "to shock",
     "rank": 4364
   },
   {
-    "sv": "oväntad seger",
+    "sv": "att uppröra",
     "en": "to upset",
     "rank": 4364
   },
@@ -21378,6 +21542,11 @@
     "sv": "operatör",
     "en": "operator",
     "rank": 4387
+  },
+  {
+    "sv": "att bearbeta",
+    "en": "to machine",
+    "rank": 4388
   },
   {
     "sv": "skönhet",
@@ -21545,7 +21714,7 @@
     "rank": 4449
   },
   {
-    "sv": "glädja",
+    "sv": "att glädja",
     "en": "to delight",
     "rank": 4452
   },
@@ -21560,12 +21729,12 @@
     "rank": 4456
   },
   {
-    "sv": "belysa",
+    "sv": "att belysa",
     "en": "to illuminate",
     "rank": 4457
   },
   {
-    "sv": "koka",
+    "sv": "att koka",
     "en": "to boil",
     "rank": 4459
   },
@@ -21595,7 +21764,7 @@
     "rank": 4464
   },
   {
-    "sv": "reglera",
+    "sv": "att reglera",
     "en": "to regulate",
     "rank": 4465
   },
@@ -21693,7 +21862,7 @@
     "rank": 4499
   },
   {
-    "sv": "raseri",
+    "sv": "att härja",
     "en": "to rampage",
     "rank": 4500
   },
@@ -21759,16 +21928,8 @@
   },
   {
     "sv": "känna av",
-    "en": [
-      "sense",
-      "to sense"
-    ],
+    "en": "sense",
     "rank": 4523
-  },
-  {
-    "sv": "att skrämma",
-    "en": "to horrify",
-    "rank": 4525
   },
   {
     "sv": "panel",
@@ -21832,7 +21993,7 @@
     "rank": 4542
   },
   {
-    "sv": "svälja",
+    "sv": "att svälja",
     "en": "to swallow",
     "rank": 4543
   },
@@ -21957,7 +22118,7 @@
     "rank": 4586
   },
   {
-    "sv": "lovar",
+    "sv": "att svära",
     "en": "to swear",
     "rank": 4587
   },
@@ -21967,7 +22128,7 @@
     "rank": 4590
   },
   {
-    "sv": "åka skridskor",
+    "sv": "att åka skridskor",
     "en": "to skate",
     "rank": 4592
   },
@@ -21992,7 +22153,7 @@
     "rank": 4601
   },
   {
-    "sv": "rensa up",
+    "sv": "att städa upp",
     "en": "to clean up",
     "rank": 4602
   },
@@ -22055,14 +22216,6 @@
     "rank": 4616
   },
   {
-    "sv": "att ersätta",
-    "en": [
-      "to supersede",
-      "to supplant"
-    ],
-    "rank": 4618
-  },
-  {
     "sv": "kritiker",
     "en": "critic",
     "rank": 4619
@@ -22083,7 +22236,7 @@
     "rank": 4624
   },
   {
-    "sv": "driva ut",
+    "sv": "att utvisa",
     "en": "to expel",
     "rank": 4624
   },
@@ -22108,7 +22261,7 @@
     "rank": 4630
   },
   {
-    "sv": "sucka",
+    "sv": "att sucka",
     "en": "to sigh",
     "rank": 4630
   },
@@ -22584,10 +22737,7 @@
   },
   {
     "sv": "ankare",
-    "en": [
-      "anchor",
-      "to anchor"
-    ],
+    "en": "anchor",
     "rank": 9999
   },
   {
@@ -24315,27 +24465,32 @@
     "rank": 9999
   },
   {
-    "sv": "abstrahera",
+    "sv": "att abstrahera",
     "en": "to abstract",
     "rank": 9999
   },
   {
-    "sv": "aktivera",
+    "sv": "att aktivera",
     "en": "to activate",
     "rank": 9999
   },
   {
-    "sv": "amputera",
+    "sv": "att amputera",
     "en": "to amputate",
     "rank": 9999
   },
   {
-    "sv": "arkivera",
+    "sv": "att ankra",
+    "en": "to anchor",
+    "rank": 9999
+  },
+  {
+    "sv": "att arkivera",
     "en": "to archive",
     "rank": 9999
   },
   {
-    "sv": "artikulera",
+    "sv": "att artikulera",
     "en": "to articulate",
     "rank": 9999
   },
@@ -24355,27 +24510,27 @@
     "rank": 9999
   },
   {
-    "sv": "cykla",
+    "sv": "att cykla",
     "en": "to bike",
     "rank": 9999
   },
   {
-    "sv": "borsta av",
+    "sv": "att borsta",
     "en": "to brush",
     "rank": 9999
   },
   {
-    "sv": "bryta sig",
+    "sv": "att kamma",
     "en": "to comb",
     "rank": 9999
   },
   {
-    "sv": "korrugera",
+    "sv": "att korrugera",
     "en": "to corrugate",
     "rank": 9999
   },
   {
-    "sv": "sluka",
+    "sv": "att sluka",
     "en": "to devour",
     "rank": 9999
   },
@@ -24385,17 +24540,22 @@
     "rank": 9999
   },
   {
-    "sv": "gapa vidöppen",
+    "sv": "att stängsla",
+    "en": "to fence",
+    "rank": 9999
+  },
+  {
+    "sv": "att gapa",
     "en": "to gape",
     "rank": 9999
   },
   {
-    "sv": "växa upp",
+    "sv": "att växa upp",
     "en": "to grow up",
     "rank": 9999
   },
   {
-    "sv": "hamstra",
+    "sv": "att hamstra",
     "en": "to hoard",
     "rank": 9999
   },
@@ -24405,22 +24565,22 @@
     "rank": 9999
   },
   {
-    "sv": "järn-",
+    "sv": "att stryka",
     "en": "to iron",
     "rank": 9999
   },
   {
-    "sv": "dröja sig kvar",
+    "sv": "att dröja kvar",
     "en": "to linger",
     "rank": 9999
   },
   {
-    "sv": "pansar",
+    "sv": "att maila",
     "en": "to mail",
     "rank": 9999
   },
   {
-    "sv": "böla",
+    "sv": "att moo",
     "en": "to moo",
     "rank": 9999
   },
@@ -24430,7 +24590,7 @@
     "rank": 9999
   },
   {
-    "sv": "benåda",
+    "sv": "att benåda",
     "en": "to pardon",
     "rank": 9999
   },
@@ -24450,7 +24610,7 @@
     "rank": 9999
   },
   {
-    "sv": "nysa",
+    "sv": "att nysa",
     "en": "to sneeze",
     "rank": 9999
   },
@@ -24460,17 +24620,22 @@
     "rank": 9999
   },
   {
-    "sv": "sänka sig",
+    "sv": "att böja sig",
     "en": "to stoop",
     "rank": 9999
   },
   {
-    "sv": "dra in",
+    "sv": "att underkasta sig",
+    "en": "to subject",
+    "rank": 9999
+  },
+  {
+    "sv": "att undertrycka",
     "en": "to suppress",
     "rank": 9999
   },
   {
-    "sv": "hänge sig",
+    "sv": "att kapitulera",
     "en": "to surrender",
     "rank": 9999
   },
@@ -24485,7 +24650,7 @@
     "rank": 9999
   },
   {
-    "sv": "underskatta",
+    "sv": "att underskatta",
     "en": "to underestimate",
     "rank": 9999
   },
@@ -24500,7 +24665,7 @@
     "rank": 9999
   },
   {
-    "sv": "dammsuga",
+    "sv": "att dammsuga",
     "en": "to vacuum",
     "rank": 9999
   },
@@ -24510,7 +24675,7 @@
     "rank": 9999
   },
   {
-    "sv": "torka av",
+    "sv": "att torka",
     "en": "to wipe",
     "rank": 9999
   },
