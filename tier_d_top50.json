@@ -1,0 +1,802 @@
+[
+  {
+    "en": "everyone",
+    "primary_fi": "jokainen",
+    "candidate_fi": "kaikki",
+    "rank": 22,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "pron",
+    "candidate_pos": "pron",
+    "gt_en_fi": "kaikille",
+    "gt_fi_en": "all"
+  },
+  {
+    "en": "to walk",
+    "primary_fi": "kävellä",
+    "candidate_fi": "käydä",
+    "rank": 69,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "kävellä",
+    "gt_fi_en": "visit"
+  },
+  {
+    "en": "term",
+    "primary_fi": "ehto",
+    "candidate_fi": "kausi",
+    "rank": 186,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "termi",
+    "gt_fi_en": "season"
+  },
+  {
+    "en": "to blow",
+    "primary_fi": "puhaltaa",
+    "candidate_fi": "palaa",
+    "rank": 283,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "puhaltaa",
+    "gt_fi_en": "burn"
+  },
+  {
+    "en": "to resist",
+    "primary_fi": "vastustaa",
+    "candidate_fi": "kestää",
+    "rank": 310,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "vastustaa",
+    "gt_fi_en": "take"
+  },
+  {
+    "en": "to enter",
+    "primary_fi": "astua",
+    "candidate_fi": "merkitä",
+    "rank": 463,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "päästä sisään",
+    "gt_fi_en": "subscribe"
+  },
+  {
+    "en": "to arrange",
+    "primary_fi": "järjestää",
+    "candidate_fi": "asettaa",
+    "rank": 492,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "järjestää",
+    "gt_fi_en": "set"
+  },
+  {
+    "en": "to be found",
+    "primary_fi": "löytyä",
+    "candidate_fi": "esiintyä",
+    "rank": 566,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "löydettäväksi",
+    "gt_fi_en": "occur"
+  },
+  {
+    "en": "to find",
+    "primary_fi": "löytää",
+    "candidate_fi": "huomata",
+    "rank": 610,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "löytää",
+    "gt_fi_en": "note"
+  },
+  {
+    "en": "credit",
+    "primary_fi": "luotto",
+    "candidate_fi": "kunnia",
+    "rank": 638,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "luotto",
+    "gt_fi_en": "honor"
+  },
+  {
+    "en": "marking",
+    "primary_fi": "merkintä",
+    "candidate_fi": "merkki",
+    "rank": 732,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "merkintä",
+    "gt_fi_en": "make"
+  },
+  {
+    "en": "to wear",
+    "primary_fi": "kulua",
+    "candidate_fi": "kantaa",
+    "rank": 754,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "käyttää",
+    "gt_fi_en": "carry"
+  },
+  {
+    "en": "department",
+    "primary_fi": "osasto",
+    "candidate_fi": "laitos",
+    "rank": 853,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "osasto",
+    "gt_fi_en": "facility"
+  },
+  {
+    "en": "examination",
+    "primary_fi": "tutkinto",
+    "candidate_fi": "koe",
+    "rank": 974,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "tutkimus",
+    "gt_fi_en": "test"
+  },
+  {
+    "en": "to flow",
+    "primary_fi": "virrata",
+    "candidate_fi": "juosta",
+    "rank": 1048,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "virrata",
+    "gt_fi_en": "run"
+  },
+  {
+    "en": "to damage",
+    "primary_fi": "vahingoittaa",
+    "candidate_fi": "pilata",
+    "rank": 1171,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "vahingoittaa",
+    "gt_fi_en": "ruin"
+  },
+  {
+    "en": "commodity",
+    "primary_fi": "raaka-aine",
+    "candidate_fi": "tavara",
+    "rank": 1183,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "hyödyke",
+    "gt_fi_en": "goods"
+  },
+  {
+    "en": "to dig",
+    "primary_fi": "kaivaa",
+    "candidate_fi": "tajuta",
+    "rank": 1315,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "kaivaa",
+    "gt_fi_en": "realize"
+  },
+  {
+    "en": "advertisement",
+    "primary_fi": "mainos",
+    "candidate_fi": "ilmoitus",
+    "rank": 1544,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "mainos",
+    "gt_fi_en": "ad"
+  },
+  {
+    "en": "mastery",
+    "primary_fi": "mestaruus",
+    "candidate_fi": "hallinta",
+    "rank": 1657,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "mestaruus",
+    "gt_fi_en": "possession"
+  },
+  {
+    "en": "leg",
+    "primary_fi": "jalka",
+    "candidate_fi": "varsi",
+    "rank": 1762,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "jalka",
+    "gt_fi_en": "arm"
+  },
+  {
+    "en": "pattern",
+    "primary_fi": "kuvio",
+    "candidate_fi": "kaava",
+    "rank": 1986,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "kuvio",
+    "gt_fi_en": "formula"
+  },
+  {
+    "en": "movie",
+    "primary_fi": "elokuva",
+    "candidate_fi": "filmi",
+    "rank": 2013,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "elokuva",
+    "gt_fi_en": "film"
+  },
+  {
+    "en": "procedure",
+    "primary_fi": "menettely",
+    "candidate_fi": "toimenpide",
+    "rank": 2022,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "menettelyä",
+    "gt_fi_en": "measures"
+  },
+  {
+    "en": "shape",
+    "primary_fi": "muoto",
+    "candidate_fi": "kuvio",
+    "rank": 2178,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "muoto",
+    "gt_fi_en": "pattern"
+  },
+  {
+    "en": "crazy",
+    "primary_fi": "hullu",
+    "candidate_fi": "hurja",
+    "rank": 2258,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "adj",
+    "candidate_pos": "adj",
+    "gt_en_fi": "hullu",
+    "gt_fi_en": "ferocious"
+  },
+  {
+    "en": "prescription",
+    "primary_fi": "resepti",
+    "candidate_fi": "määräys",
+    "rank": 2310,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "reseptiä",
+    "gt_fi_en": "regulation"
+  },
+  {
+    "en": "sequence",
+    "primary_fi": "järjestys",
+    "candidate_fi": "jono",
+    "rank": 2521,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "järjestys",
+    "gt_fi_en": "queue"
+  },
+  {
+    "en": "hurry",
+    "primary_fi": "kiire",
+    "candidate_fi": "hätä",
+    "rank": 2627,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "kiire",
+    "gt_fi_en": "emergency"
+  },
+  {
+    "en": "fund",
+    "primary_fi": "rahasto",
+    "candidate_fi": "kassa",
+    "rank": 2987,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 8,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "rahoittaa",
+    "gt_fi_en": "cash"
+  },
+  {
+    "en": "depression",
+    "primary_fi": "masennus",
+    "candidate_fi": "lama",
+    "rank": 1693,
+    "sources": [
+      "apertium",
+      "jukka",
+      "kaikki"
+    ],
+    "score": 7,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "masennus",
+    "gt_fi_en": "recession"
+  },
+  {
+    "en": "too",
+    "primary_fi": "liian",
+    "candidate_fi": "myös",
+    "rank": 9,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "adv",
+    "candidate_pos": "adv",
+    "gt_en_fi": "liian",
+    "gt_fi_en": "also"
+  },
+  {
+    "en": "self",
+    "primary_fi": "itse",
+    "candidate_fi": "minä",
+    "rank": 11,
+    "sources": [
+      "jukka",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "pron",
+    "candidate_pos": "noun",
+    "gt_en_fi": "itse",
+    "gt_fi_en": "i"
+  },
+  {
+    "en": "big",
+    "primary_fi": "iso",
+    "candidate_fi": "suuri",
+    "rank": 29,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "adj",
+    "candidate_pos": "adj",
+    "gt_en_fi": "iso",
+    "gt_fi_en": "large"
+  },
+  {
+    "en": "friendly",
+    "primary_fi": "ystävällinen",
+    "candidate_fi": "oma",
+    "rank": 37,
+    "sources": [
+      "apertium",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "adj",
+    "candidate_pos": "adj",
+    "gt_en_fi": "ystävällinen",
+    "gt_fi_en": "own"
+  },
+  {
+    "en": "after all",
+    "primary_fi": "sittenkin",
+    "candidate_fi": "kuitenkin",
+    "rank": 49,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "adv",
+    "candidate_pos": "adv",
+    "gt_en_fi": "loppujen lopuksi",
+    "gt_fi_en": "however"
+  },
+  {
+    "en": "appointment",
+    "primary_fi": "nimitys",
+    "candidate_fi": "aika",
+    "rank": 53,
+    "sources": [
+      "apertium",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "nimittäminen",
+    "gt_fi_en": "time"
+  },
+  {
+    "en": "job",
+    "primary_fi": "homma",
+    "candidate_fi": "työ",
+    "rank": 58,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "job",
+    "gt_fi_en": "work"
+  },
+  {
+    "en": "to assume",
+    "primary_fi": "olettaa",
+    "candidate_fi": "ottaa",
+    "rank": 59,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "olettaa",
+    "gt_fi_en": "take"
+  },
+  {
+    "en": "favorite",
+    "primary_fi": "suosikki",
+    "candidate_fi": "mieli",
+    "rank": 62,
+    "sources": [
+      "apertium",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "suosikki",
+    "gt_fi_en": "mind"
+  },
+  {
+    "en": "foot",
+    "primary_fi": "jalka",
+    "candidate_fi": "juuri",
+    "rank": 64,
+    "sources": [
+      "apertium",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "jalka",
+    "gt_fi_en": "just"
+  },
+  {
+    "en": "band",
+    "primary_fi": "bändi",
+    "candidate_fi": "alue",
+    "rank": 75,
+    "sources": [
+      "apertium",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "bändi",
+    "gt_fi_en": "area"
+  },
+  {
+    "en": "seat",
+    "primary_fi": "istuin",
+    "candidate_fi": "paikka",
+    "rank": 123,
+    "sources": [
+      "apertium",
+      "kaikki",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "istuin",
+    "gt_fi_en": "place"
+  },
+  {
+    "en": "location",
+    "primary_fi": "sijainti",
+    "candidate_fi": "paikka",
+    "rank": 123,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "sijainti",
+    "gt_fi_en": "place"
+  },
+  {
+    "en": "to trust",
+    "primary_fi": "luottaa",
+    "candidate_fi": "uskoa",
+    "rank": 140,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "luottaa",
+    "gt_fi_en": "believe"
+  },
+  {
+    "en": "to offer",
+    "primary_fi": "tarjota",
+    "candidate_fi": "esittää",
+    "rank": 141,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "tarjota",
+    "gt_fi_en": "present"
+  },
+  {
+    "en": "to represent",
+    "primary_fi": "edustaa",
+    "candidate_fi": "esittää",
+    "rank": 141,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "edustamaan",
+    "gt_fi_en": "present"
+  },
+  {
+    "en": "to propose",
+    "primary_fi": "ehdottaa",
+    "candidate_fi": "esittää",
+    "rank": 141,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "ehdottaa",
+    "gt_fi_en": "present"
+  },
+  {
+    "en": "to anticipate",
+    "primary_fi": "ennakoida",
+    "candidate_fi": "odottaa",
+    "rank": 152,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "verb",
+    "candidate_pos": "verb",
+    "gt_en_fi": "ennakoida",
+    "gt_fi_en": "expect"
+  },
+  {
+    "en": "score",
+    "primary_fi": "tilanne",
+    "candidate_fi": "tulos",
+    "rank": 159,
+    "sources": [
+      "apertium",
+      "jukka",
+      "wikt"
+    ],
+    "score": 6,
+    "primary_pos": "noun",
+    "candidate_pos": "noun",
+    "gt_en_fi": "pisteet",
+    "gt_fi_en": "result"
+  }
+]

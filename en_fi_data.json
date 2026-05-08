@@ -241,6 +241,14 @@
     "rank": 22
   },
   {
+    "en": "everyone",
+    "fi": [
+      "kaikki",
+      "jokainen"
+    ],
+    "rank": 22
+  },
+  {
     "en": "good",
     "fi": [
       "hyvä",
@@ -1543,7 +1551,10 @@
   },
   {
     "en": "to be found",
-    "fi": "löytyä",
+    "fi": [
+      "löytyä",
+      "esiintyä"
+    ],
     "rank": 137
   },
   {
@@ -2005,7 +2016,10 @@
   },
   {
     "en": "to arrange",
-    "fi": "järjestää",
+    "fi": [
+      "järjestää",
+      "asettaa"
+    ],
     "rank": 171
   },
   {
@@ -2164,6 +2178,14 @@
     "fi": [
       "kausi",
       "runkosarja"
+    ],
+    "rank": 186
+  },
+  {
+    "en": "term",
+    "fi": [
+      "kausi",
+      "ehto"
     ],
     "rank": 186
   },
@@ -2722,7 +2744,10 @@
   },
   {
     "en": "to find",
-    "fi": "löytää",
+    "fi": [
+      "löytää",
+      "huomata"
+    ],
     "rank": 233
   },
   {
@@ -3088,7 +3113,10 @@
   },
   {
     "en": "crazy",
-    "fi": "hullu",
+    "fi": [
+      "hullu",
+      "hurja"
+    ],
     "rank": 265
   },
   {
@@ -3624,11 +3652,6 @@
     "rank": 316
   },
   {
-    "en": "everyone",
-    "fi": "jokainen",
-    "rank": 316
-  },
-  {
     "en": "to attend",
     "fi": "osallistua",
     "rank": 318
@@ -3699,7 +3722,10 @@
   },
   {
     "en": "movie",
-    "fi": "elokuva",
+    "fi": [
+      "elokuva",
+      "filmi"
+    ],
     "rank": 326
   },
   {
@@ -5091,6 +5117,14 @@
     "rank": 463
   },
   {
+    "en": "to enter",
+    "fi": [
+      "merkitä",
+      "astua"
+    ],
+    "rank": 463
+  },
+  {
     "en": "to mark",
     "fi": "merkitä",
     "rank": 463
@@ -5315,7 +5349,10 @@
   },
   {
     "en": "to wear",
-    "fi": "kulua",
+    "fi": [
+      "kulua",
+      "pitää päällään"
+    ],
     "rank": 482
   },
   {
@@ -6440,7 +6477,10 @@
   },
   {
     "en": "hurry",
-    "fi": "kiire",
+    "fi": [
+      "kiire",
+      "hätä"
+    ],
     "rank": 591
   },
   {
@@ -7880,6 +7920,14 @@
     "rank": 732
   },
   {
+    "en": "marking",
+    "fi": [
+      "merkki",
+      "merkintä"
+    ],
+    "rank": 732
+  },
+  {
     "en": "sign",
     "fi": [
       "merkki",
@@ -8590,7 +8638,10 @@
   },
   {
     "en": "mastery",
-    "fi": "mestaruus",
+    "fi": [
+      "mestaruus",
+      "hallinta"
+    ],
     "rank": 808
   },
   {
@@ -9451,11 +9502,6 @@
     "rank": 897
   },
   {
-    "en": "term",
-    "fi": "ehto",
-    "rank": 897
-  },
-  {
     "en": "art",
     "fi": "taide",
     "rank": 898
@@ -9558,7 +9604,10 @@
   },
   {
     "en": "shape",
-    "fi": "muoto",
+    "fi": [
+      "muoto",
+      "kuvio"
+    ],
     "rank": 907
   },
   {
@@ -9715,7 +9764,10 @@
   },
   {
     "en": "to resist",
-    "fi": "vastustaa",
+    "fi": [
+      "vastustaa",
+      "kestää"
+    ],
     "rank": 927
   },
   {
@@ -11990,6 +12042,14 @@
     "rank": 1182
   },
   {
+    "en": "commodity",
+    "fi": [
+      "tavara",
+      "raaka-aine"
+    ],
+    "rank": 1183
+  },
+  {
     "en": "goods",
     "fi": "tavara",
     "rank": 1183
@@ -12277,7 +12337,10 @@
   },
   {
     "en": "department",
-    "fi": "osasto",
+    "fi": [
+      "osasto",
+      "laitos"
+    ],
     "rank": 1215
   },
   {
@@ -13523,7 +13586,10 @@
   },
   {
     "en": "to damage",
-    "fi": "vahingoittaa",
+    "fi": [
+      "vahingoittaa",
+      "pilata"
+    ],
     "rank": 1370
   },
   {
@@ -14954,6 +15020,14 @@
     "rank": 1544
   },
   {
+    "en": "advertisement",
+    "fi": [
+      "ilmoitus",
+      "mainos"
+    ],
+    "rank": 1544
+  },
+  {
     "en": "notification",
     "fi": "ilmoitus",
     "rank": 1544
@@ -15268,7 +15342,10 @@
   },
   {
     "en": "to dig",
-    "fi": "kaivaa",
+    "fi": [
+      "kaivaa",
+      "tajuta"
+    ],
     "rank": 1580
   },
   {
@@ -15545,11 +15622,6 @@
       "oiva",
       "mainio"
     ],
-    "rank": 1620
-  },
-  {
-    "en": "to enter",
-    "fi": "astua",
     "rank": 1620
   },
   {
@@ -16548,7 +16620,10 @@
   },
   {
     "en": "sequence",
-    "fi": "järjestys",
+    "fi": [
+      "järjestys",
+      "jono"
+    ],
     "rank": 1882
   },
   {
@@ -17570,7 +17645,10 @@
   },
   {
     "en": "fund",
-    "fi": "rahasto",
+    "fi": [
+      "rahasto",
+      "varat"
+    ],
     "rank": 2121
   },
   {
@@ -17775,7 +17853,10 @@
   },
   {
     "en": "pattern",
-    "fi": "kuvio",
+    "fi": [
+      "kuvio",
+      "kaava"
+    ],
     "rank": 2178
   },
   {
@@ -19712,11 +19793,6 @@
     "rank": 2629
   },
   {
-    "en": "advertisement",
-    "fi": "mainos",
-    "rank": 2630
-  },
-  {
     "en": "daydream",
     "fi": "haave",
     "rank": 2633
@@ -20190,11 +20266,6 @@
     "rank": 2732
   },
   {
-    "en": "commodity",
-    "fi": "raaka-aine",
-    "rank": 2733
-  },
-  {
     "en": "raw material",
     "fi": "raaka-aine",
     "rank": 2733
@@ -20411,7 +20482,10 @@
   },
   {
     "en": "examination",
-    "fi": "tutkinto",
+    "fi": [
+      "tutkinto",
+      "koe"
+    ],
     "rank": 2775
   },
   {
@@ -23077,7 +23151,10 @@
   },
   {
     "en": "procedure",
-    "fi": "menettely",
+    "fi": [
+      "menettely",
+      "toimenpide"
+    ],
     "rank": 3449
   },
   {
@@ -24147,7 +24224,10 @@
   },
   {
     "en": "credit",
-    "fi": "luotto",
+    "fi": [
+      "luotto",
+      "kunnia"
+    ],
     "rank": 3721
   },
   {
@@ -27152,7 +27232,10 @@
   },
   {
     "en": "prescription",
-    "fi": "resepti",
+    "fi": [
+      "resepti",
+      "määräys"
+    ],
     "rank": 4484
   },
   {
@@ -27274,11 +27357,6 @@
     "en": "European Parliament",
     "fi": "europarlamentti",
     "rank": 4517
-  },
-  {
-    "en": "marking",
-    "fi": "merkintä",
-    "rank": 4519
   },
   {
     "en": "motive",

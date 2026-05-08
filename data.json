@@ -1681,7 +1681,8 @@
       "to take",
       "to stand",
       "to last",
-      "to tolerate"
+      "to tolerate",
+      "to resist"
     ],
     "sv": "stå",
     "de": "stehen",
@@ -2358,7 +2359,8 @@
     "fi": "merkitä",
     "en": [
       "to subscribe",
-      "to mark"
+      "to mark",
+      "to enter"
     ],
     "sv": "märke",
     "it": "segnare",
@@ -2464,7 +2466,8 @@
     "fi": "asettaa",
     "en": [
       "to set",
-      "to put"
+      "to put",
+      "to arrange"
     ],
     "it": "mettere",
     "fr": "mettre",
@@ -2799,7 +2802,8 @@
       "to occur",
       "to appear",
       "to perform",
-      "to behave"
+      "to behave",
+      "to be found"
     ],
     "sv": "te",
     "it": "apparire",
@@ -3037,7 +3041,8 @@
     "fi": "huomata",
     "en": [
       "to note",
-      "to notice"
+      "to notice",
+      "to find"
     ],
     "sv": "märka",
     "it": "avviso",
@@ -3525,7 +3530,8 @@
     "fi": "merkki",
     "en": [
       "mark",
-      "sign"
+      "sign",
+      "marking"
     ],
     "pos": "noun"
   },
@@ -4041,7 +4047,8 @@
     "fi": "laitos",
     "en": [
       "facility",
-      "institution"
+      "institution",
+      "department"
     ],
     "sv": "institution",
     "it": "istituzione",
@@ -5324,7 +5331,8 @@
     "fi": "tavara",
     "en": [
       "goods",
-      "good"
+      "good",
+      "commodity"
     ],
     "sv": "bra",
     "it": "bene",
@@ -5365,7 +5373,8 @@
     "fi": "kunnia",
     "en": [
       "honor",
-      "distinction"
+      "distinction",
+      "credit"
     ],
     "sv": "sann",
     "fr": "honneur",
@@ -6475,7 +6484,8 @@
     "en": [
       "test",
       "experiment",
-      "a trial"
+      "a trial",
+      "examination"
     ],
     "fr": "expérience",
     "de": "Experiment",
@@ -6553,7 +6563,8 @@
     "fi": "tajuta",
     "en": [
       "to realize",
-      "to get"
+      "to get",
+      "to dig"
     ],
     "sv": "inse",
     "de": "realisieren",
@@ -6706,7 +6717,8 @@
     "fi": "pilata",
     "en": [
       "to ruin",
-      "to spoil"
+      "to spoil",
+      "to damage"
     ],
     "de": "spoilern",
     "pos": "verb"
@@ -10387,7 +10399,8 @@
     "pos": "noun",
     "en": [
       "ad",
-      "notification"
+      "notification",
+      "advertisement"
     ]
   },
   {
@@ -10883,7 +10896,8 @@
     "pos": "noun",
     "en": [
       "possession",
-      "control"
+      "control",
+      "mastery"
     ]
   },
   {
@@ -11746,7 +11760,8 @@
     "pos": "noun",
     "en": [
       "measures",
-      "action"
+      "action",
+      "procedure"
     ]
   },
   {
@@ -12127,7 +12142,8 @@
     "pos": "noun",
     "en": [
       "pattern",
-      "figure"
+      "figure",
+      "shape"
     ]
   },
   {
@@ -12329,7 +12345,8 @@
     "pos": "adj",
     "en": [
       "ferocious",
-      "fierce"
+      "fierce",
+      "crazy"
     ]
   },
   {
@@ -12480,7 +12497,8 @@
     "pos": "noun",
     "en": [
       "regulation",
-      "order"
+      "order",
+      "prescription"
     ]
   },
   {
@@ -13394,7 +13412,8 @@
     "en": [
       "emergency",
       "distress",
-      "need"
+      "need",
+      "hurry"
     ]
   },
   {
@@ -22027,7 +22046,10 @@
   },
   {
     "fi": "kaikki",
-    "en": "all",
+    "en": [
+      "all",
+      "everyone"
+    ],
     "pos": "pron"
   },
   {
@@ -22559,7 +22581,8 @@
     "fi": "kausi",
     "en": [
       "period",
-      "season"
+      "season",
+      "term"
     ],
     "pos": "noun"
   },
@@ -27570,7 +27593,10 @@
   },
   {
     "fi": "kaava",
-    "en": "formula",
+    "en": [
+      "formula",
+      "pattern"
+    ],
     "pos": "noun"
   },
   {
@@ -27632,7 +27658,10 @@
   },
   {
     "fi": "filmi",
-    "en": "film",
+    "en": [
+      "film",
+      "movie"
+    ],
     "pos": "noun"
   },
   {
@@ -28380,7 +28409,10 @@
   },
   {
     "fi": "jono",
-    "en": "queue",
+    "en": [
+      "queue",
+      "sequence"
+    ],
     "pos": "noun"
   },
   {
@@ -32080,5 +32112,15 @@
     "en": "alone",
     "fi_rank": 182,
     "pos": "adv"
+  },
+  {
+    "fi": "varat",
+    "en": "fund",
+    "pos": "noun"
+  },
+  {
+    "fi": "pitää päällään",
+    "en": "to wear",
+    "pos": "verb"
   }
 ]
