@@ -2124,6 +2124,14 @@
     "rank": 181
   },
   {
+    "en": "alone",
+    "fi": [
+      "yksin",
+      "kahdestaan"
+    ],
+    "rank": 182
+  },
+  {
     "en": "young",
     "fi": "nuori",
     "rank": 182
@@ -13707,11 +13715,6 @@
     "en": "bottle",
     "fi": "pullo",
     "rank": 1399
-  },
-  {
-    "en": "alone",
-    "fi": "kahdestaan",
-    "rank": 1400
   },
   {
     "en": "between the two",
