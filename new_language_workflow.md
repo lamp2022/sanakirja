@@ -9,6 +9,12 @@ Before starting:
 - `en_fi_data.json` — EN keys source (read-only, do NOT modify)
 - `../sanakirja/` — data directory for large downloaded files
 - `utils.py` — `gt()` helper for Google Translate
+- `.venv/` — Python virtualenv with `nltk` and WordNet for POS tagging:
+  ```bash
+  python3 -m venv .venv
+  .venv/bin/pip install nltk simplemma
+  .venv/bin/python -c "import nltk; nltk.download('wordnet'); nltk.download('omw-1.4')"
+  ```
 
 Choose a language code: `de` / `it` / `fr` / `es` / etc.
 
@@ -127,13 +133,53 @@ def _norm(s):
     return s
 ```
 
-### Source priority
+### Source priority (Apertium DROPPED — see SKILL.md)
 
 ```python
-# DE: kaikki_german → dict.cc → Apertium → GT → Claude
-# IT: kaikki_italian → Apertium → GT → Claude
-# FR: kaikki_french → GT → Claude  (no Apertium)
+# DE: kaikki_german → dict.cc → GT → Claude
+# IT: kaikki_italian → GT → Claude
+# FR: kaikki_french → GT → Claude
 ```
+
+Apertium is never used as a translation source. Its swe-eng dump produced
+archaic/concatenated junk (`accurately→ackurat`, `gig→harpun`,
+`somehow→påettellerannatsätt`). Same risk applies to eng-deu and eng-ita.
+
+### POS-aware lookup (Level 0, before override chain)
+
+The local source (kaikki/dict.cc) tags entries with POS. Use NLTK + WordNet
+to determine the dominant English POS, then filter the local source to that
+class. Within the chosen POS list, prefer single-word lemmas over multi-word
+phrases. See `multilingual-quality-control` skill for the `dominant_en_pos()`
+and `select_local_by_pos()` helpers — they're language-agnostic, only the
+local source POS class names need adapting (kaikki uses `noun`/`verb`/`adj`,
+Folkets uses `nn`/`vb`/`jj`).
+
+### Extras file (`en_X_extras.json`)
+
+Create alongside the main pipeline. Merge at the end of the build:
+
+```json
+{
+  "extras": [
+    {"en": "not", "X": "<not-in-target-lang>", "rank": 25},
+    {"en": "from", "X": "<from-in-target-lang>", "rank": 70}
+  ],
+  "overrides": [{"en": "no", "X": "<correct-form>"}]
+}
+```
+
+Only add entries you are 100% certain about. Articles, generic determiners,
+and context-dependent particles must be skipped.
+
+### Irregular lemma map (`X_irregular_lemmas.json`)
+
+Hand-curated inflection→lemma map for the target language's top irregulars.
+Used by site-side search to resolve inflected forms back to dictionary entries.
+NOT used during pipeline build. See `sv_irregular_lemmas.json` as template.
+
+Coverage target: top-30 irregular verbs (all conjugated forms), pronoun
+object/possessive forms, irregular noun plurals.
 
 ### Stats to print
 
@@ -201,6 +247,20 @@ git push
 | 36–39 | DE (next) |
 | 40–43 | IT |
 | 44–47 | FR |
+
+## Files to create per new language
+
+| File | Purpose |
+|------|---------|
+| `freq_X.txt` | Top-5000 freq word list (download from hermitdave/FrequencyWords) |
+| `en_X.json` | Built EN→X dictionary |
+| `X_en.json` | Reverse view |
+| `en_X_extras.json` | High-confidence common-word additions/overrides |
+| `X_irregular_lemmas.json` | Hand-curated inflection→lemma map for site search |
+| `3N_download_X.py` | Download local source |
+| `3N+1_build_en_X.py` | Main pipeline |
+| `3N+2_build_X_en.py` | Reverse view |
+| `3N+3_write_claude_X.py` | Claude inline data for top-2000 |
 
 ---
 
