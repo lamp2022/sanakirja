@@ -30634,5 +30634,85 @@
     "en": "yogurt",
     "fi": "jogurtti",
     "rank": 9999
+  },
+  {
+    "en": "phone",
+    "fi": "puhelin",
+    "rank": 5247
+  },
+  {
+    "en": "city",
+    "fi": "kaupunki",
+    "rank": 5248
+  },
+  {
+    "en": "headache",
+    "fi": "päänsärky",
+    "rank": 5249
+  },
+  {
+    "en": "fever",
+    "fi": "kuume",
+    "rank": 5250
+  },
+  {
+    "en": "cough",
+    "fi": "yskä",
+    "rank": 5251
+  },
+  {
+    "en": "flu",
+    "fi": "flunssa",
+    "rank": 5252
+  },
+  {
+    "en": "sick",
+    "fi": "sairas",
+    "rank": 5253
+  },
+  {
+    "en": "hurt",
+    "fi": "sattua",
+    "rank": 5254
+  },
+  {
+    "en": "buy",
+    "fi": "ostaa",
+    "rank": 5255
+  },
+  {
+    "en": "sell",
+    "fi": "myydä",
+    "rank": 5256
+  },
+  {
+    "en": "push",
+    "fi": "työntää",
+    "rank": 5257
+  },
+  {
+    "en": "tennis",
+    "fi": "tennis",
+    "rank": 5258
+  },
+  {
+    "en": "walk",
+    "fi": "kävellä",
+    "rank": 5259
+  },
+  {
+    "en": "sit",
+    "fi": "istua",
+    "rank": 5260
+  },
+  {
+    "en": "birthday",
+    "fi": "syntymäpäivä",
+    "rank": 5261
+  },
+  {
+    "en": "gift",
+    "fi": "lahja",
+    "rank": 5262
   }
 ]

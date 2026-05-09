@@ -9,5 +9,7 @@
     {"en": "no one", "it": "nessuno", "rank": 800}
   ],
 
-  "overrides": []
+  "overrides": [
+    {"en": "run", "it": "correre"}
+  ]
 }

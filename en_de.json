@@ -3606,12 +3606,9 @@
   },
   {
     "en": "house",
-    "de": [
-      "Haus",
-      "Vater-Mutter-Kind"
-    ],
+    "de": "Haus",
     "rank": 277,
-    "confidence": "kaikki+gt",
+    "confidence": "extras_override",
     "de_gt": "haus"
   },
   {
@@ -38738,5 +38735,101 @@
     "rank": 9999,
     "confidence": "kaikki+gt",
     "de_gt": "joghurt"
+  },
+  {
+    "en": "phone",
+    "de": "Telefon",
+    "rank": 5247,
+    "confidence": "curated"
+  },
+  {
+    "en": "city",
+    "de": "Stadt",
+    "rank": 5248,
+    "confidence": "curated"
+  },
+  {
+    "en": "headache",
+    "de": "Kopfschmerzen",
+    "rank": 5249,
+    "confidence": "curated"
+  },
+  {
+    "en": "fever",
+    "de": "Fieber",
+    "rank": 5250,
+    "confidence": "curated"
+  },
+  {
+    "en": "cough",
+    "de": "Husten",
+    "rank": 5251,
+    "confidence": "curated"
+  },
+  {
+    "en": "flu",
+    "de": "Grippe",
+    "rank": 5252,
+    "confidence": "curated"
+  },
+  {
+    "en": "sick",
+    "de": "krank",
+    "rank": 5253,
+    "confidence": "curated"
+  },
+  {
+    "en": "hurt",
+    "de": "wehtun",
+    "rank": 5254,
+    "confidence": "curated"
+  },
+  {
+    "en": "buy",
+    "de": "kaufen",
+    "rank": 5255,
+    "confidence": "curated"
+  },
+  {
+    "en": "sell",
+    "de": "verkaufen",
+    "rank": 5256,
+    "confidence": "curated"
+  },
+  {
+    "en": "push",
+    "de": "drücken",
+    "rank": 5257,
+    "confidence": "curated"
+  },
+  {
+    "en": "tennis",
+    "de": "Tennis",
+    "rank": 5258,
+    "confidence": "curated"
+  },
+  {
+    "en": "walk",
+    "de": "gehen",
+    "rank": 5259,
+    "confidence": "curated"
+  },
+  {
+    "en": "sit",
+    "de": "sitzen",
+    "rank": 5260,
+    "confidence": "curated"
+  },
+  {
+    "en": "birthday",
+    "de": "Geburtstag",
+    "rank": 5261,
+    "confidence": "curated"
+  },
+  {
+    "en": "gift",
+    "de": "Geschenk",
+    "rank": 5262,
+    "confidence": "curated"
   }
 ]

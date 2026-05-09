@@ -39301,5 +39301,101 @@
     "sv": "yoghurt",
     "rank": 9999,
     "confidence": "folkets+gt"
+  },
+  {
+    "en": "phone",
+    "sv": "telefon",
+    "rank": 5247,
+    "confidence": "curated"
+  },
+  {
+    "en": "city",
+    "sv": "stad",
+    "rank": 5248,
+    "confidence": "curated"
+  },
+  {
+    "en": "headache",
+    "sv": "huvudvärk",
+    "rank": 5249,
+    "confidence": "curated"
+  },
+  {
+    "en": "fever",
+    "sv": "feber",
+    "rank": 5250,
+    "confidence": "curated"
+  },
+  {
+    "en": "cough",
+    "sv": "hosta",
+    "rank": 5251,
+    "confidence": "curated"
+  },
+  {
+    "en": "flu",
+    "sv": "influensa",
+    "rank": 5252,
+    "confidence": "curated"
+  },
+  {
+    "en": "sick",
+    "sv": "sjuk",
+    "rank": 5253,
+    "confidence": "curated"
+  },
+  {
+    "en": "hurt",
+    "sv": "göra ont",
+    "rank": 5254,
+    "confidence": "curated"
+  },
+  {
+    "en": "buy",
+    "sv": "köpa",
+    "rank": 5255,
+    "confidence": "curated"
+  },
+  {
+    "en": "sell",
+    "sv": "sälja",
+    "rank": 5256,
+    "confidence": "curated"
+  },
+  {
+    "en": "push",
+    "sv": "trycka",
+    "rank": 5257,
+    "confidence": "curated"
+  },
+  {
+    "en": "tennis",
+    "sv": "tennis",
+    "rank": 5258,
+    "confidence": "curated"
+  },
+  {
+    "en": "walk",
+    "sv": "gå",
+    "rank": 5259,
+    "confidence": "curated"
+  },
+  {
+    "en": "sit",
+    "sv": "sitta",
+    "rank": 5260,
+    "confidence": "curated"
+  },
+  {
+    "en": "birthday",
+    "sv": "födelsedag",
+    "rank": 5261,
+    "confidence": "curated"
+  },
+  {
+    "en": "gift",
+    "sv": "present",
+    "rank": 5262,
+    "confidence": "curated"
   }
 ]

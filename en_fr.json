@@ -147,9 +147,9 @@
   },
   {
     "en": "can",
-    "fr": "peut",
+    "fr": "pouvoir",
     "rank": 13,
-    "confidence": "gt_only"
+    "confidence": "extras_override"
   },
   {
     "en": "to become",
@@ -5752,13 +5752,9 @@
   },
   {
     "en": "dog",
-    "fr": [
-      "chien",
-      "clébard",
-      "iench"
-    ],
+    "fr": "chien",
     "rank": 482,
-    "confidence": "kaikki+gt"
+    "confidence": "extras_override"
   },
   {
     "en": "to elapse",
@@ -36194,5 +36190,101 @@
     "fr": "yaourt",
     "rank": 9999,
     "confidence": "kaikki+gt"
+  },
+  {
+    "en": "phone",
+    "fr": "téléphone",
+    "rank": 5247,
+    "confidence": "curated"
+  },
+  {
+    "en": "city",
+    "fr": "ville",
+    "rank": 5248,
+    "confidence": "curated"
+  },
+  {
+    "en": "headache",
+    "fr": "mal de tête",
+    "rank": 5249,
+    "confidence": "curated"
+  },
+  {
+    "en": "fever",
+    "fr": "fièvre",
+    "rank": 5250,
+    "confidence": "curated"
+  },
+  {
+    "en": "cough",
+    "fr": "toux",
+    "rank": 5251,
+    "confidence": "curated"
+  },
+  {
+    "en": "flu",
+    "fr": "grippe",
+    "rank": 5252,
+    "confidence": "curated"
+  },
+  {
+    "en": "sick",
+    "fr": "malade",
+    "rank": 5253,
+    "confidence": "curated"
+  },
+  {
+    "en": "hurt",
+    "fr": "faire mal",
+    "rank": 5254,
+    "confidence": "curated"
+  },
+  {
+    "en": "buy",
+    "fr": "acheter",
+    "rank": 5255,
+    "confidence": "curated"
+  },
+  {
+    "en": "sell",
+    "fr": "vendre",
+    "rank": 5256,
+    "confidence": "curated"
+  },
+  {
+    "en": "push",
+    "fr": "pousser",
+    "rank": 5257,
+    "confidence": "curated"
+  },
+  {
+    "en": "tennis",
+    "fr": "tennis",
+    "rank": 5258,
+    "confidence": "curated"
+  },
+  {
+    "en": "walk",
+    "fr": "marcher",
+    "rank": 5259,
+    "confidence": "curated"
+  },
+  {
+    "en": "sit",
+    "fr": "s'asseoir",
+    "rank": 5260,
+    "confidence": "curated"
+  },
+  {
+    "en": "birthday",
+    "fr": "anniversaire",
+    "rank": 5261,
+    "confidence": "curated"
+  },
+  {
+    "en": "gift",
+    "fr": "cadeau",
+    "rank": 5262,
+    "confidence": "curated"
   }
 ]

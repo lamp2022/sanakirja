@@ -2711,13 +2711,9 @@
   },
   {
     "en": "run",
-    "it": [
-      "punto",
-      "mandata",
-      "montata"
-    ],
+    "it": "correre",
     "rank": 217,
-    "confidence": "kaikki_only",
+    "confidence": "extras_override",
     "it_gt": "correre"
   },
   {
@@ -36858,5 +36854,101 @@
     ],
     "rank": 9999,
     "confidence": "kaikki+gt"
+  },
+  {
+    "en": "phone",
+    "it": "telefono",
+    "rank": 5247,
+    "confidence": "curated"
+  },
+  {
+    "en": "city",
+    "it": "città",
+    "rank": 5248,
+    "confidence": "curated"
+  },
+  {
+    "en": "headache",
+    "it": "mal di testa",
+    "rank": 5249,
+    "confidence": "curated"
+  },
+  {
+    "en": "fever",
+    "it": "febbre",
+    "rank": 5250,
+    "confidence": "curated"
+  },
+  {
+    "en": "cough",
+    "it": "tosse",
+    "rank": 5251,
+    "confidence": "curated"
+  },
+  {
+    "en": "flu",
+    "it": "influenza",
+    "rank": 5252,
+    "confidence": "curated"
+  },
+  {
+    "en": "sick",
+    "it": "malato",
+    "rank": 5253,
+    "confidence": "curated"
+  },
+  {
+    "en": "hurt",
+    "it": "fare male",
+    "rank": 5254,
+    "confidence": "curated"
+  },
+  {
+    "en": "buy",
+    "it": "comprare",
+    "rank": 5255,
+    "confidence": "curated"
+  },
+  {
+    "en": "sell",
+    "it": "vendere",
+    "rank": 5256,
+    "confidence": "curated"
+  },
+  {
+    "en": "push",
+    "it": "spingere",
+    "rank": 5257,
+    "confidence": "curated"
+  },
+  {
+    "en": "tennis",
+    "it": "tennis",
+    "rank": 5258,
+    "confidence": "curated"
+  },
+  {
+    "en": "walk",
+    "it": "camminare",
+    "rank": 5259,
+    "confidence": "curated"
+  },
+  {
+    "en": "sit",
+    "it": "sedersi",
+    "rank": 5260,
+    "confidence": "curated"
+  },
+  {
+    "en": "birthday",
+    "it": "compleanno",
+    "rank": 5261,
+    "confidence": "curated"
+  },
+  {
+    "en": "gift",
+    "it": "regalo",
+    "rank": 5262,
+    "confidence": "curated"
   }
 ]

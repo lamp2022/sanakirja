@@ -11,6 +11,7 @@
   ],
 
   "overrides": [
-    {"en": "no", "de": "nein"}
+    {"en": "no", "de": "nein"},
+    {"en": "house", "de": "Haus"}
   ]
 }
