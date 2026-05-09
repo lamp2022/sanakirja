@@ -1052,10 +1052,11 @@
   },
   {
     "en": "okay",
-    "fr": "mouais",
+    "fr": "d'accord",
     "rank": 86,
-    "confidence": "kaikki_only",
-    "fr_gt": "d'accord"
+    "confidence": "manual_review_native",
+    "fr_gt": "d'accord",
+    "fix_reason": "mouais = 'meh/yeah-but' (informal hesitation); okay = d'accord"
   },
   {
     "en": "small",
@@ -1463,9 +1464,10 @@
   },
   {
     "en": "to follow",
-    "fr": "à suivre",
+    "fr": "suivre",
     "rank": 120,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "'à suivre' = 'to be continued'; to follow = suivre"
   },
   {
     "en": "to keep track",
@@ -2451,9 +2453,10 @@
   },
   {
     "en": "to gamble",
-    "fr": "jouer",
+    "fr": "parier",
     "rank": 194,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "jouer = 'to play'; to gamble (specifically) = parier"
   },
   {
     "en": "to play",
@@ -3489,13 +3492,14 @@
   {
     "en": "pleasant",
     "fr": [
-      "amène",
+      "agréable",
       "plaisant",
       "vivable"
     ],
     "rank": 281,
-    "confidence": "kaikki_only",
-    "fr_gt": "agréable"
+    "confidence": "manual_review_native",
+    "fr_gt": "agréable",
+    "fix_reason": "amène = rare 'affable'; pleasant = agréable"
   },
   {
     "en": "to offer",
@@ -4618,10 +4622,11 @@
   },
   {
     "en": "fortunately",
-    "fr": "tant mieux",
+    "fr": "heureusement",
     "rank": 379,
-    "confidence": "kaikki_only",
-    "fr_gt": "heureusement"
+    "confidence": "manual_review_native",
+    "fr_gt": "heureusement",
+    "fix_reason": "'tant mieux' = 'so much the better'; fortunately = heureusement"
   },
   {
     "en": "leaf",
@@ -5308,10 +5313,11 @@
   },
   {
     "en": "between",
-    "fr": "à mi-chemin",
+    "fr": "entre",
     "rank": 442,
-    "confidence": "kaikki_only",
-    "fr_gt": "entre"
+    "confidence": "manual_review_native",
+    "fr_gt": "entre",
+    "fix_reason": "'à mi-chemin' = 'halfway'; between = entre"
   },
   {
     "en": "training",
@@ -6461,13 +6467,14 @@
   {
     "en": "remarkable",
     "fr": [
-      "fier",
+      "remarquable",
       "frappant",
       "maous"
     ],
     "rank": 542,
-    "confidence": "kaikki_only",
-    "fr_gt": "remarquable"
+    "confidence": "manual_review_native",
+    "fr_gt": "remarquable",
+    "fix_reason": "fier = 'proud'; remarkable = remarquable"
   },
   {
     "en": "significant",
@@ -8481,9 +8488,10 @@
   },
   {
     "en": "in one's opinion",
-    "fr": "à mon avis",
+    "fr": "à son avis",
     "rank": 720,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "'à mon avis' = 'in MY opinion' (1st person); generic 'in one's' = à son avis"
   },
   {
     "en": "trier",
@@ -18061,9 +18069,10 @@
   },
   {
     "en": "to portray",
-    "fr": "représenter",
+    "fr": "dépeindre",
     "rank": 1696,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "représenter = 'to represent'; to portray = dépeindre"
   },
   {
     "en": "to hire",
@@ -22546,9 +22555,10 @@
   },
   {
     "en": "Midsummer",
-    "fr": "sollicitude",
+    "fr": "solstice d'été",
     "rank": 2635,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "sollicitude = 'concern/care'; midsummer = solstice d'été"
   },
   {
     "en": "negative",
@@ -22768,13 +22778,14 @@
   {
     "en": "to please",
     "fr": [
-      "voir",
+      "plaire",
       "pour faveur",
       "prière de"
     ],
     "rank": 2684,
-    "confidence": "kaikki_only",
-    "fr_gt": "plaire"
+    "confidence": "manual_review_native",
+    "fr_gt": "plaire",
+    "fix_reason": "voir = 'to see'; to please = plaire"
   },
   {
     "en": "defence capacity",
@@ -29633,13 +29644,13 @@
   {
     "en": "email",
     "fr": [
-      "mail",
-      "email",
-      "courriel"
+      "courriel",
+      "email"
     ],
     "rank": 4063,
-    "confidence": "kaikki_only",
-    "fr_gt": "e-mail"
+    "confidence": "manual_review_native",
+    "fr_gt": "e-mail",
+    "fix_reason": "in French 'mail' = 'tree-lined avenue/mall'; email = courriel"
   },
   {
     "en": "gas",

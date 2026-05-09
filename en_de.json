@@ -203,13 +203,14 @@
   {
     "en": "when",
     "de": [
-      "wie",
+      "wann",
       "da",
       "wo"
     ],
     "rank": 17,
-    "confidence": "kaikki_only",
-    "de_gt": "wann"
+    "confidence": "manual_review_native",
+    "de_gt": "wann",
+    "fix_reason": "wie = 'how', not 'when'"
   },
   {
     "en": "to hold",
@@ -371,13 +372,14 @@
   {
     "en": "large",
     "de": [
-      "weit",
+      "groß",
       "lichterloh",
       "kinderreich"
     ],
     "rank": 29,
-    "confidence": "kaikki_only",
-    "de_gt": "groß"
+    "confidence": "manual_review_native",
+    "de_gt": "groß",
+    "fix_reason": "weit = 'wide/far'; large = groß"
   },
   {
     "en": "to multiply",
@@ -664,13 +666,13 @@
   {
     "en": "there",
     "de": [
-      "hier",
       "da",
       "dahin"
     ],
     "rank": 58,
-    "confidence": "kaikki_only",
-    "de_gt": "dort"
+    "confidence": "manual_review_native",
+    "de_gt": "dort",
+    "fix_reason": "hier = 'here'; there = da/dort"
   },
   {
     "en": "work",
@@ -705,12 +707,13 @@
   {
     "en": "back",
     "de": [
-      "wieder",
+      "zurück",
       "retour"
     ],
     "rank": 60,
-    "confidence": "kaikki_only",
-    "de_gt": "zurück"
+    "confidence": "manual_review_native",
+    "de_gt": "zurück",
+    "fix_reason": "wieder = 'again'; back = zurück"
   },
   {
     "en": "to give",
@@ -894,12 +897,13 @@
   {
     "en": "size",
     "de": [
-      "Nummer",
+      "größe",
       "Maß"
     ],
     "rank": 75,
-    "confidence": "kaikki_only",
-    "de_gt": "größe"
+    "confidence": "manual_review_native",
+    "de_gt": "größe",
+    "fix_reason": "Nummer = 'number'; Size = Größe"
   },
   {
     "en": "whole",
@@ -1028,13 +1032,14 @@
   {
     "en": "really",
     "de": [
-      "schon",
+      "wirklich",
       "doch",
       "schön"
     ],
     "rank": 85,
-    "confidence": "kaikki_only",
-    "de_gt": "wirklich"
+    "confidence": "manual_review_native",
+    "de_gt": "wirklich",
+    "fix_reason": "schon = 'already'; really = wirklich"
   },
   {
     "en": "in shape",
@@ -1075,10 +1080,11 @@
   },
   {
     "en": "next",
-    "de": "weiter",
+    "de": "nächste",
     "rank": 89,
-    "confidence": "kaikki_only",
-    "de_gt": "nächste"
+    "confidence": "manual_review_native",
+    "de_gt": "nächste",
+    "fix_reason": "weiter = 'further'; next = nächste"
   },
   {
     "en": "commune",
@@ -1273,13 +1279,14 @@
   {
     "en": "quite",
     "de": [
-      "aber",
+      "ziemlich",
       "gar",
       "voll"
     ],
     "rank": 101,
-    "confidence": "kaikki_only",
-    "de_gt": "ganz"
+    "confidence": "manual_review_native",
+    "de_gt": "ganz",
+    "fix_reason": "aber = 'but'; quite = ziemlich"
   },
   {
     "en": "leave",
@@ -1805,23 +1812,24 @@
   {
     "en": "sure",
     "de": [
-      "schon",
+      "sicher",
       "sowieso"
     ],
     "rank": 143,
-    "confidence": "kaikki_only",
-    "de_gt": "sicher"
+    "confidence": "manual_review_native",
+    "de_gt": "sicher",
+    "fix_reason": "schon = 'already'; sure = sicher"
   },
   {
     "en": "ever",
     "de": [
-      "nur",
       "je",
       "jemals"
     ],
     "rank": 144,
-    "confidence": "kaikki_only",
-    "de_gt": "immer"
+    "confidence": "manual_review_native",
+    "de_gt": "immer",
+    "fix_reason": "nur = 'only'; ever = je/jemals"
   },
   {
     "en": "four",
@@ -1993,13 +2001,14 @@
   {
     "en": "former",
     "de": [
-      "gewesen",
+      "ehemalig",
       "vormalig",
       "erstere"
     ],
     "rank": 155,
-    "confidence": "kaikki_only",
-    "de_gt": "ehemalig"
+    "confidence": "manual_review_native",
+    "de_gt": "ehemalig",
+    "fix_reason": "gewesen = past participle of sein; former = ehemalig"
   },
   {
     "en": "once",
@@ -2386,9 +2395,10 @@
   },
   {
     "en": "possibility",
-    "de": "wahrscheinlichkeit",
+    "de": "möglichkeit",
     "rank": 184,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "Wahrscheinlichkeit = 'probability'; Possibility = Möglichkeit"
   },
   {
     "en": "shit",
@@ -3341,13 +3351,14 @@
   {
     "en": "cooperation",
     "de": [
-      "Miteinander",
+      "zusammenarbeit",
       "Kooperation",
       "Mitwirkung"
     ],
     "rank": 257,
-    "confidence": "kaikki_only",
-    "de_gt": "zusammenarbeit"
+    "confidence": "manual_review_native",
+    "de_gt": "zusammenarbeit",
+    "fix_reason": "miteinander = 'with each other'; cooperation = Zusammenarbeit"
   },
   {
     "en": "little old",
@@ -4305,10 +4316,11 @@
   },
   {
     "en": "wrongly",
-    "de": "unrecht",
+    "de": "fälschlicherweise",
     "rank": 337,
-    "confidence": "gt_only",
-    "de_gt": "zu unrecht"
+    "confidence": "manual_review_native",
+    "de_gt": "zu unrecht",
+    "fix_reason": "Unrecht = 'injustice' (noun); wrongly = fälschlicherweise"
   },
   {
     "en": "supposedly",
@@ -5201,12 +5213,13 @@
   {
     "en": "hardly",
     "de": [
-      "fast",
+      "kaum",
       "schwerlich"
     ],
     "rank": 401,
-    "confidence": "kaikki_only",
-    "de_gt": "kaum"
+    "confidence": "manual_review_native",
+    "de_gt": "kaum",
+    "fix_reason": "fast = 'almost'; hardly = kaum"
   },
   {
     "en": "kilometre/kilometer",
@@ -5771,10 +5784,11 @@
   },
   {
     "en": "reportedly",
-    "de": "sollen",
+    "de": "angeblich",
     "rank": 459,
-    "confidence": "kaikki_only",
-    "de_gt": "angeblich"
+    "confidence": "manual_review_native",
+    "de_gt": "angeblich",
+    "fix_reason": "sollen = modal verb 'shall'; reportedly = angeblich"
   },
   {
     "en": "said to be",
@@ -8830,12 +8844,13 @@
   {
     "en": "suddenly",
     "de": [
-      "von heute auf morgen",
+      "plötzlich",
       "mir nichts, dir nichts"
     ],
     "rank": 705,
-    "confidence": "kaikki_only",
-    "de_gt": "plötzlich"
+    "confidence": "manual_review_native",
+    "de_gt": "plötzlich",
+    "fix_reason": "'von heute auf morgen' = 'overnight'; suddenly = plötzlich"
   },
   {
     "en": "strict",
@@ -11419,10 +11434,11 @@
   },
   {
     "en": "handling",
-    "de": "Hehlerei",
+    "de": "handhabung",
     "rank": 924,
-    "confidence": "kaikki_only",
-    "de_gt": "handhabung"
+    "confidence": "manual_review_native",
+    "de_gt": "handhabung",
+    "fix_reason": "Hehlerei = 'receiving stolen goods'; handling = Handhabung"
   },
   {
     "en": "hearing",
@@ -18134,10 +18150,11 @@
   },
   {
     "en": "quarter",
-    "de": "Pardon",
+    "de": "viertel",
     "rank": 1552,
-    "confidence": "kaikki_only",
-    "de_gt": "quartal"
+    "confidence": "manual_review_native",
+    "de_gt": "quartal",
+    "fix_reason": "Pardon = 'pardon'; quarter = Viertel"
   },
   {
     "en": "peaceful",
@@ -19189,9 +19206,10 @@
   },
   {
     "en": "to hire",
-    "de": "mieten",
+    "de": "einstellen",
     "rank": 1704,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "mieten = 'to rent' (objects); to hire (people) = einstellen"
   },
   {
     "en": "hockey",
@@ -20207,10 +20225,11 @@
   },
   {
     "en": "mainly",
-    "de": "worüber",
+    "de": "hauptsächlich",
     "rank": 1915,
-    "confidence": "kaikki_only",
-    "de_gt": "hauptsächlich"
+    "confidence": "manual_review_native",
+    "de_gt": "hauptsächlich",
+    "fix_reason": "worüber = 'about what' (interrogative pronoun); mainly = hauptsächlich"
   },
   {
     "en": "to be waiting",
@@ -20306,10 +20325,11 @@
   },
   {
     "en": "secondary school",
-    "de": "Pennal",
+    "de": "weiterführende schule",
     "rank": 1937,
-    "confidence": "kaikki_only",
-    "de_gt": "weiterführende schule"
+    "confidence": "manual_review_native",
+    "de_gt": "weiterführende schule",
+    "fix_reason": "Pennal = 'pencil case'; secondary school = weiterführende Schule"
   },
   {
     "en": "display",
@@ -20969,12 +20989,13 @@
   {
     "en": "separate",
     "de": [
-      "extra",
+      "separat",
       "einzeln"
     ],
     "rank": 2058,
-    "confidence": "kaikki_only",
-    "de_gt": "separate"
+    "confidence": "manual_review_native",
+    "de_gt": "separate",
+    "fix_reason": "extra = 'additional'; separate = separat"
   },
   {
     "en": "airport",
@@ -21065,13 +21086,14 @@
   {
     "en": "consumption",
     "de": [
-      "Genuss",
+      "konsum",
       "Konsum",
       "Verzehr"
     ],
     "rank": 2073,
-    "confidence": "kaikki_only",
-    "de_gt": "verbrauch"
+    "confidence": "manual_review_native",
+    "de_gt": "verbrauch",
+    "fix_reason": "Genuss = 'enjoyment'; consumption = Konsum"
   },
   {
     "en": "dealer",
@@ -21609,12 +21631,13 @@
   {
     "en": "assembly",
     "de": [
-      "Sitzung",
+      "versammlung",
       "Versammlung"
     ],
     "rank": 2183,
-    "confidence": "kaikki_only",
-    "de_gt": "montage"
+    "confidence": "manual_review_native",
+    "de_gt": "montage",
+    "fix_reason": "Sitzung = 'session/meeting'; assembly = Versammlung"
   },
   {
     "en": "long-term",

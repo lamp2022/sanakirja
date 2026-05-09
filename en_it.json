@@ -156,13 +156,13 @@
   {
     "en": "you",
     "it": [
-      "la",
-      "ti",
-      "tu"
+      "tu",
+      "ti"
     ],
     "rank": 14,
-    "confidence": "kaikki_only",
-    "it_gt": "voi"
+    "confidence": "manual_review_native",
+    "it_gt": "voi",
+    "fix_reason": "la = 'the/her' (article/pronoun); you (singular) = tu"
   },
   {
     "en": "now",
@@ -933,13 +933,14 @@
   {
     "en": "even if",
     "it": [
-      "se",
+      "anche se",
       "magari",
       "quand'anche"
     ],
     "rank": 79,
-    "confidence": "kaikki_only",
-    "it_gt": "anche se"
+    "confidence": "manual_review_native",
+    "it_gt": "anche se",
+    "fix_reason": "se = 'if' alone; even if = anche se"
   },
   {
     "en": "child",
@@ -1014,13 +1015,14 @@
   {
     "en": "really",
     "it": [
-      "grande",
+      "veramente",
       "seriamente",
       "invero"
     ],
     "rank": 85,
-    "confidence": "kaikki_only",
-    "it_gt": "veramente"
+    "confidence": "manual_review_native",
+    "it_gt": "veramente",
+    "fix_reason": "grande = 'big/large'; really = veramente"
   },
   {
     "en": "in shape",
@@ -1464,13 +1466,14 @@
   {
     "en": "start",
     "it": [
-      "via",
+      "inizio",
       "partenza",
       "sussulto"
     ],
     "rank": 122,
-    "confidence": "kaikki_only",
-    "it_gt": "inizio"
+    "confidence": "manual_review_native",
+    "it_gt": "inizio",
+    "fix_reason": "via = 'away/street'; start (noun) = inizio"
   },
   {
     "en": "place",
@@ -1964,12 +1967,13 @@
   {
     "en": "down",
     "it": [
-      "sotto",
+      "giù",
       "abbasso"
     ],
     "rank": 162,
-    "confidence": "kaikki_only",
-    "it_gt": "giù"
+    "confidence": "manual_review_native",
+    "it_gt": "giù",
+    "fix_reason": "sotto = 'below/under'; down (motion) = giù"
   },
   {
     "en": "down with",
@@ -3860,9 +3864,10 @@
   },
   {
     "en": "evil",
-    "it": "cattivo",
+    "it": "malvagio",
     "rank": 320,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "cattivo = 'bad'; evil = malvagio"
   },
   {
     "en": "to concern",
@@ -5217,12 +5222,13 @@
   {
     "en": "worry",
     "it": [
-      "pensiero",
+      "preoccupazione",
       "dispiacere"
     ],
     "rank": 433,
-    "confidence": "kaikki_only",
-    "it_gt": "preoccupazione"
+    "confidence": "manual_review_native",
+    "it_gt": "preoccupazione",
+    "fix_reason": "pensiero = 'thought'; worry = preoccupazione"
   },
   {
     "en": "bank",
@@ -7924,13 +7930,14 @@
   {
     "en": "selection",
     "it": [
-      "adozione",
+      "selezione",
       "scrematura",
       "selezionamento"
     ],
     "rank": 668,
-    "confidence": "kaikki_only",
-    "it_gt": "selezione"
+    "confidence": "manual_review_native",
+    "it_gt": "selezione",
+    "fix_reason": "adozione = 'adoption'; selection = selezione"
   },
   {
     "en": "at the destination",
@@ -8288,13 +8295,14 @@
   {
     "en": "rise",
     "it": [
-      "dosso",
+      "aumento",
       "spuntare",
       "lievitatura"
     ],
     "rank": 698,
-    "confidence": "kaikki_only",
-    "it_gt": "salita"
+    "confidence": "manual_review_native",
+    "it_gt": "salita",
+    "fix_reason": "dosso = 'hump/back'; rise = aumento"
   },
   {
     "en": "to threaten",
@@ -8555,12 +8563,13 @@
   {
     "en": "along",
     "it": [
-      "dietro",
+      "lungo",
       "assieme"
     ],
     "rank": 722,
-    "confidence": "kaikki_only",
-    "it_gt": "lungo"
+    "confidence": "manual_review_native",
+    "it_gt": "lungo",
+    "fix_reason": "dietro = 'behind'; along = lungo"
   },
   {
     "en": "domestic",
@@ -9292,13 +9301,14 @@
   {
     "en": "background",
     "it": [
-      "campo",
+      "sfondo",
       "fondo",
       "sottofondo"
     ],
     "rank": 791,
-    "confidence": "kaikki_only",
-    "it_gt": "sfondo"
+    "confidence": "manual_review_native",
+    "it_gt": "sfondo",
+    "fix_reason": "campo = 'field'; background = sfondo"
   },
   {
     "en": "blank",
@@ -11720,13 +11730,14 @@
   {
     "en": "opinion",
     "it": [
-      "viso",
+      "opinione",
       "avviso",
       "concetto"
     ],
     "rank": 990,
-    "confidence": "kaikki_only",
-    "it_gt": "opinione"
+    "confidence": "manual_review_native",
+    "it_gt": "opinione",
+    "fix_reason": "viso = 'face'; opinion = opinione"
   },
   {
     "en": "well",
@@ -12642,13 +12653,13 @@
   {
     "en": "ring",
     "it": [
-      "giro",
       "anello",
       "quadrato"
     ],
     "rank": 1090,
-    "confidence": "kaikki_only",
-    "it_gt": "squillo"
+    "confidence": "manual_review_native",
+    "it_gt": "squillo",
+    "fix_reason": "giro = 'tour/turn'; ring (object) = anello"
   },
   {
     "en": "address",
@@ -13094,12 +13105,13 @@
   {
     "en": "gate",
     "it": [
-      "porta",
+      "cancello",
       "quadruccio"
     ],
     "rank": 1136,
-    "confidence": "kaikki_only",
-    "it_gt": "cancello"
+    "confidence": "manual_review_native",
+    "it_gt": "cancello",
+    "fix_reason": "porta = 'door'; gate = cancello"
   },
   {
     "en": "port",
@@ -15264,13 +15276,14 @@
   {
     "en": "deep",
     "it": [
-      "alto",
+      "profondo",
       "fondo",
       "cupo"
     ],
     "rank": 1349,
-    "confidence": "kaikki_only",
-    "it_gt": "profondo"
+    "confidence": "manual_review_native",
+    "it_gt": "profondo",
+    "fix_reason": "alto = 'tall/high'; deep = profondo"
   },
   {
     "en": "profound",
@@ -17711,13 +17724,14 @@
   {
     "en": "supporter",
     "it": [
-      "supporto",
+      "sostenitore",
       "sostegno",
       "partigiano"
     ],
     "rank": 1605,
-    "confidence": "kaikki_only",
-    "it_gt": "sostenitore"
+    "confidence": "manual_review_native",
+    "it_gt": "sostenitore",
+    "fix_reason": "supporto = 'support' (noun, the thing); supporter (person) = sostenitore"
   },
   {
     "en": "jealous",
@@ -19301,13 +19315,14 @@
   {
     "en": "square",
     "it": [
-      "casa",
+      "piazza",
       "campo",
       "quadro"
     ],
     "rank": 1924,
-    "confidence": "kaikki_only",
-    "it_gt": "piazza"
+    "confidence": "manual_review_native",
+    "it_gt": "piazza",
+    "fix_reason": "casa = 'house'; square (plaza) = piazza"
   },
   {
     "en": "world champion",
@@ -19680,13 +19695,14 @@
   {
     "en": "contract",
     "it": [
-      "scrittura",
+      "contratto",
       "cartellino",
       "appalto"
     ],
     "rank": 2008,
-    "confidence": "kaikki_only",
-    "it_gt": "contrarre"
+    "confidence": "manual_review_native",
+    "it_gt": "contrarre",
+    "fix_reason": "scrittura = 'writing'; contract = contratto"
   },
   {
     "en": "to ski",
@@ -21839,12 +21855,12 @@
   {
     "en": "household",
     "it": [
-      "famiglia",
       "nucleo familiare"
     ],
     "rank": 2434,
-    "confidence": "kaikki_only",
-    "it_gt": "domestico"
+    "confidence": "manual_review_native",
+    "it_gt": "domestico",
+    "fix_reason": "famiglia = 'family'; household = nucleo familiare"
   },
   {
     "en": "unchanged",
@@ -22998,13 +23014,13 @@
   {
     "en": "block",
     "it": [
-      "pane",
       "blocco",
       "isolato"
     ],
     "rank": 2659,
-    "confidence": "kaikki_only",
-    "it_gt": "bloccare"
+    "confidence": "manual_review_native",
+    "it_gt": "bloccare",
+    "fix_reason": "pane = 'bread'; block = blocco"
   },
   {
     "en": "lobe",
@@ -23656,12 +23672,13 @@
   {
     "en": "script",
     "it": [
-      "soggetto",
+      "sceneggiatura",
       "copione"
     ],
     "rank": 2761,
-    "confidence": "kaikki_only",
-    "it_gt": "sceneggiatura"
+    "confidence": "manual_review_native",
+    "it_gt": "sceneggiatura",
+    "fix_reason": "soggetto = 'subject/topic'; script (film) = sceneggiatura"
   },
   {
     "en": "combination",
