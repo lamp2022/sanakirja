@@ -9,9 +9,7 @@ Run: python3 50_backfill_fi_rank.py
 """
 
 import json
-import subprocess
-import sys
-from utils import atomic_write_json
+from utils import atomic_write_json, run_validator
 
 EN_FI_FILE = "en_fi_data.json"
 DATA_FILE = "data.json"
@@ -19,7 +17,7 @@ FALLBACK_RANK = 9999
 
 
 def build_fi_rank_map(en_fi: list) -> dict:
-    """Build {fi_word: rank} from en_fi_data.json. Handles list fi values."""
+    """Handles list fi values; keeps minimum rank when a word appears multiple times."""
     rank_map = {}
     for entry in en_fi:
         rank = entry.get("rank", FALLBACK_RANK)
@@ -34,8 +32,10 @@ def build_fi_rank_map(en_fi: list) -> dict:
 
 
 def main():
-    en_fi = json.load(open(EN_FI_FILE, encoding="utf-8"))
-    data = json.load(open(DATA_FILE, encoding="utf-8"))
+    with open(EN_FI_FILE, encoding="utf-8") as f:
+        en_fi = json.load(f)
+    with open(DATA_FILE, encoding="utf-8") as f:
+        data = json.load(f)
 
     rank_map = build_fi_rank_map(en_fi)
     print(f"Rank map built: {len(rank_map):,} FI words")
@@ -62,15 +62,7 @@ def main():
 
     atomic_write_json(DATA_FILE, data)
     print(f"Written {DATA_FILE}")
-
-    result = subprocess.run(
-        [sys.executable, "12_validate_output.py"],
-        capture_output=True, text=True
-    )
-    print(result.stdout)
-    if result.returncode != 0:
-        print(result.stderr, file=sys.stderr)
-        sys.exit(result.returncode)
+    run_validator()
 
 
 if __name__ == "__main__":

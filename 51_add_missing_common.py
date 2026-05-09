@@ -9,13 +9,10 @@ Run: python3 51_add_missing_common.py
 """
 
 import json
-import subprocess
-import sys
-from utils import atomic_write_json
+from utils import atomic_write_json, run_validator
 
 SUPPLEMENT = [
     # fmt: off
-    # (en, fi, sv, de, it, fr, fi_pos, rank)
     ("phone",    "puhelin",      "telefon",    "Telefon",      "telefono",     "téléphone",   "noun", 5247),
     ("city",     "kaupunki",     "stad",       "Stadt",        "città",        "ville",       "noun", 5248),
     ("headache", "päänsärky",    "huvudvärk",  "Kopfschmerzen","mal di testa", "mal de tête", "noun", 5249),
@@ -81,15 +78,7 @@ def main():
     atomic_write_json("en_fr.json",      en_fr)
     atomic_write_json("data.json",       data)
     print("All files written.")
-
-    result = subprocess.run(
-        [sys.executable, "12_validate_output.py"],
-        capture_output=True, text=True
-    )
-    print(result.stdout)
-    if result.returncode != 0:
-        print(result.stderr, file=sys.stderr)
-        sys.exit(result.returncode)
+    run_validator()
 
 
 if __name__ == "__main__":

@@ -2,6 +2,8 @@
 import json
 import os
 import re
+import subprocess
+import sys
 import tempfile
 import time
 
@@ -95,6 +97,18 @@ def is_content_pos(pos: str) -> bool:
 def normalize_pos(pos: str) -> str:
     """Normalize POS label to canonical form (adjective -> adj, adverb -> adv)."""
     return POS_NORMALIZE.get(pos.lower().strip(), pos.lower().strip())
+
+
+def run_validator() -> None:
+    """Run 12_validate_output.py and exit with its return code on failure."""
+    result = subprocess.run(
+        [sys.executable, "12_validate_output.py"],
+        capture_output=True, text=True
+    )
+    print(result.stdout)
+    if result.returncode != 0:
+        print(result.stderr, file=sys.stderr)
+        sys.exit(result.returncode)
 
 
 def atomic_write_json(path: str, data, indent: int = 2) -> None:

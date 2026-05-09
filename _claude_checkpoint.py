@@ -11,7 +11,7 @@ BATCH_SIZE = 20
 DELAY = 0.5
 
 
-def _call_claude(client, words: list[str], lang: str, system: str, prompt_template: str) -> dict[str, str]:
+def _call_claude(client, words: list[str], system: str, prompt_template: str) -> dict[str, str]:
     words_str = "\n".join(f"- {w}" for w in words)
     msg = client.messages.create(
         model="claude-haiku-4-5-20251001",
@@ -28,14 +28,10 @@ def _call_claude(client, words: list[str], lang: str, system: str, prompt_templa
 
 
 def run_checkpoint(lang: str, system: str, prompt_template: str, rebuild_script: str, lowercase: bool = True) -> None:
-    """Translate the top-1000 EN words to `lang` via Claude, appending to a resumable JSONL checkpoint.
+    """Translate top-1000 EN words to `lang`, appending to a resumable JSONL checkpoint.
 
-    Args:
-        lang: Target language code (de/it/fr).
-        system: Claude system prompt with language-specific instructions.
-        prompt_template: User prompt template; must contain {words}.
-        rebuild_script: Name of the build script to run next (printed at end).
-        lowercase: Whether to lowercase the output (False for German — nouns stay capitalised).
+    prompt_template must contain {words}. Set lowercase=False for German (nouns stay capitalised).
+    rebuild_script is printed at the end as the next step — it is not executed.
     """
     import anthropic
     checkpoint = os.path.join(SOURCES_DIR, f"claude_en_{lang}.jsonl")
@@ -68,13 +64,13 @@ def run_checkpoint(lang: str, system: str, prompt_template: str, rebuild_script:
     print(f"Translating {len(todo):,} words in batches of {BATCH_SIZE} …")
     client = anthropic.Anthropic()
     errors = 0
-    total_done = len(done)
+    written = 0
 
     with open(checkpoint, "a", encoding="utf-8") as ckpt:
         for i in range(0, len(todo), BATCH_SIZE):
             batch = todo[i: i + BATCH_SIZE]
             try:
-                translations = _call_claude(client, batch, lang, system, prompt_template)
+                translations = _call_claude(client, batch, system, prompt_template)
                 for en in batch:
                     val = translations.get(en, "").strip()
                     if not val:
@@ -84,7 +80,7 @@ def run_checkpoint(lang: str, system: str, prompt_template: str, rebuild_script:
                         val = val.lower()
                     if val:
                         ckpt.write(json.dumps({"en": en, lang: val}, ensure_ascii=False) + "\n")
-                        total_done += 1
+                        written += 1
                     else:
                         print(f"  WARN: no {lang.upper()} for '{en}'")
                 ckpt.flush()
@@ -100,5 +96,5 @@ def run_checkpoint(lang: str, system: str, prompt_template: str, rebuild_script:
                 print(f"  {done_count}/{len(todo)} processed")
             time.sleep(DELAY)
 
-    print(f"\nDone. {total_done:,} total in {checkpoint}")
+    print(f"\nDone. {len(done) + written:,} total in {checkpoint}")
     print(f"Now run: python3 {rebuild_script}")
