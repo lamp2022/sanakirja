@@ -2,7 +2,7 @@
 """
 50_backfill_fi_rank.py
 
-Populate fi_rank in data.json for the 4,749 entries that are missing it.
+Populate fi_rank in data.json for entries missing it.
 Uses en_fi_data.json as the rank source (keyed by FI word, minimum rank wins).
 
 Run: python3 50_backfill_fi_rank.py
@@ -45,7 +45,7 @@ def main():
     already_had = 0
 
     for entry in data:
-        if entry.get("fi_rank"):
+        if entry.get("fi_rank") is not None:
             already_had += 1
             continue
         fi_word = entry.get("fi", "")

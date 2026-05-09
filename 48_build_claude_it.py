@@ -1,25 +1,6 @@
 #!/usr/bin/env python3
-"""
-48_build_claude_it.py
-
-Generate Claude EN→IT translations for the top 1000 EN keys (by rank).
-Uses claude-haiku-4-5 — fast mechanical translation.
-Saves results to ../sanakirja/claude_en_it.jsonl (resumable checkpoint).
-
-After running: rebuild en_it.json with python3 41_build_en_it.py
-"""
-
-import json
-import os
-import sys
-import time
-
-SOURCES_DIR = "../sanakirja"
-EN_FI_FILE = "en_fi_data.json"
-CHECKPOINT = os.path.join(SOURCES_DIR, "claude_en_it.jsonl")
-TOP_N = 1000
-BATCH_SIZE = 20
-DELAY = 0.5
+"""Generate Claude EN→IT checkpoint. After running: python3 41_build_en_it.py"""
+from _claude_checkpoint import run_checkpoint
 
 SYSTEM = (
     "You are a precise English-Italian bilingual dictionary. "
@@ -30,7 +11,7 @@ SYSTEM = (
     "Output only JSON, no commentary."
 )
 
-PROMPT_TEMPLATE = """\
+PROMPT = """\
 Translate these English words/phrases to Italian.
 Output a JSON object mapping each English input to its Italian translation.
 Use lowercase Italian. Only one translation per word.
@@ -40,85 +21,5 @@ Words:
 
 Output format: {{"word1": "it1", "word2": "it2", ...}}"""
 
-
-def call_claude(words: list[str]) -> dict[str, str]:
-    import anthropic
-    client = anthropic.Anthropic()
-    words_str = "\n".join(f"- {w}" for w in words)
-    msg = client.messages.create(
-        model="claude-haiku-4-5-20251001",
-        max_tokens=1024,
-        system=SYSTEM,
-        messages=[{"role": "user", "content": PROMPT_TEMPLATE.format(words=words_str)}],
-    )
-    text = msg.content[0].text.strip()
-    start = text.find("{")
-    end = text.rfind("}") + 1
-    if start == -1 or end == 0:
-        raise ValueError(f"No JSON in response: {text[:200]}")
-    return json.loads(text[start:end])
-
-
-def main():
-    enfi = json.load(open(EN_FI_FILE, encoding="utf-8"))
-    enfi_sorted = sorted(enfi, key=lambda e: e.get("rank", 9999))
-    top_en = [e["en"] for e in enfi_sorted if isinstance(e.get("en"), str)][:TOP_N]
-    print(f"Top {TOP_N} EN keys loaded ({len(top_en)} valid)")
-
-    done: dict[str, str] = {}
-    if os.path.exists(CHECKPOINT):
-        with open(CHECKPOINT) as f:
-            for line in f:
-                line = line.strip()
-                if not line:
-                    continue
-                try:
-                    rec = json.loads(line)
-                    done[rec["en"]] = rec["it"]
-                except (json.JSONDecodeError, KeyError):
-                    pass
-        print(f"Already done: {len(done):,}")
-
-    todo = [en for en in top_en if en not in done]
-    if not todo:
-        print("All done — nothing to translate.")
-        return
-
-    print(f"Translating {len(todo):,} words in batches of {BATCH_SIZE} …")
-
-    errors = 0
-    total_done = len(done)
-    with open(CHECKPOINT, "a") as ckpt:
-        for i in range(0, len(todo), BATCH_SIZE):
-            batch = todo[i: i + BATCH_SIZE]
-            try:
-                translations = call_claude(batch)
-                for en in batch:
-                    it = translations.get(en, "").strip().lower()
-                    if not it:
-                        en_bare = en[3:] if en.lower().startswith("to ") else en
-                        it = translations.get(en_bare, "").strip().lower()
-                    if it:
-                        ckpt.write(json.dumps({"en": en, "it": it}, ensure_ascii=False) + "\n")
-                        ckpt.flush()
-                        total_done += 1
-                    else:
-                        print(f"  WARN: no IT for '{en}'")
-            except Exception as e:
-                errors += 1
-                print(f"  ERROR batch {i // BATCH_SIZE}: {e}")
-                if errors > 5:
-                    print("Too many errors — aborting.")
-                    sys.exit(1)
-
-            done_count = i + len(batch)
-            if done_count % 100 == 0 or done_count >= len(todo):
-                print(f"  {done_count}/{len(todo)} processed")
-            time.sleep(DELAY)
-
-    print(f"\nDone. {total_done:,} total in {CHECKPOINT}")
-    print("Now run: python3 41_build_en_it.py")
-
-
 if __name__ == "__main__":
-    main()
+    run_checkpoint("it", SYSTEM, PROMPT, "41_build_en_it.py")
