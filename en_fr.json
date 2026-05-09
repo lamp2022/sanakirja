@@ -553,9 +553,9 @@
   },
   {
     "en": "who",
-    "fr": "oms",
+    "fr": "qui",
     "rank": 47,
-    "confidence": "gt_only"
+    "confidence": "extras_override"
   },
   {
     "en": "man",
@@ -4643,9 +4643,9 @@
   },
   {
     "en": "below",
-    "fr": "au-deçà",
+    "fr": "en bas",
     "rank": 383,
-    "confidence": "kaikki_only",
+    "confidence": "extras_override",
     "fr_gt": "ci-dessous"
   },
   {

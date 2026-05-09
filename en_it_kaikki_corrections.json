@@ -1,0 +1,995 @@
+{
+  "proposals": [
+    {
+      "en": "can",
+      "it": "lattina",
+      "rank": 13,
+      "_old_primary": "potere",
+      "_kaikki_alternatives": [
+        "lattina"
+      ]
+    },
+    {
+      "en": "you",
+      "it": "ti",
+      "rank": 14,
+      "_old_primary": "la",
+      "_kaikki_alternatives": [
+        "ti",
+        "te",
+        "tu"
+      ]
+    },
+    {
+      "en": "to hold",
+      "it": "contenere",
+      "rank": 18,
+      "_old_primary": "tenere",
+      "_kaikki_alternatives": [
+        "contenere",
+        "presa"
+      ]
+    },
+    {
+      "en": "by",
+      "it": "con",
+      "rank": 19,
+      "_old_primary": "di",
+      "_kaikki_alternatives": [
+        "con",
+        "per mezzo di",
+        "mediante"
+      ]
+    },
+    {
+      "en": "good",
+      "it": "buono",
+      "rank": 23,
+      "_old_primary": "bene",
+      "_kaikki_alternatives": [
+        "buono",
+        "mangiabile"
+      ]
+    },
+    {
+      "en": "to say",
+      "it": "diciamo",
+      "rank": 25,
+      "_old_primary": "dire",
+      "_kaikki_alternatives": [
+        "diciamo"
+      ]
+    },
+    {
+      "en": "to tell",
+      "it": "notare",
+      "rank": 30,
+      "_old_primary": "raccontare",
+      "_kaikki_alternatives": [
+        "notare"
+      ]
+    },
+    {
+      "en": "much",
+      "it": "molto",
+      "rank": 33,
+      "_old_primary": "tanto",
+      "_kaikki_alternatives": [
+        "molto"
+      ]
+    },
+    {
+      "en": "tail",
+      "it": "pedinare",
+      "rank": 46,
+      "_old_primary": "coda",
+      "_kaikki_alternatives": [
+        "pedinare"
+      ]
+    },
+    {
+      "en": "who",
+      "it": "che",
+      "rank": 47,
+      "_old_primary": "chi",
+      "_kaikki_alternatives": [
+        "che"
+      ]
+    },
+    {
+      "en": "work",
+      "it": "lavorare",
+      "rank": 58,
+      "_old_primary": "lavoro",
+      "_kaikki_alternatives": [
+        "lavorare"
+      ]
+    },
+    {
+      "en": "back",
+      "it": "schiena",
+      "rank": 60,
+      "_old_primary": "di rimando",
+      "_kaikki_alternatives": [
+        "schiena",
+        "dorso",
+        "fondo"
+      ]
+    },
+    {
+      "en": "just",
+      "it": "solo",
+      "rank": 64,
+      "_old_primary": "appena",
+      "_kaikki_alternatives": [
+        "solo"
+      ]
+    },
+    {
+      "en": "to go",
+      "it": "dire",
+      "rank": 71,
+      "_old_primary": "andare",
+      "_kaikki_alternatives": [
+        "dire",
+        "fare"
+      ]
+    },
+    {
+      "en": "whole",
+      "it": "intero",
+      "rank": 75,
+      "_old_primary": "tutto",
+      "_kaikki_alternatives": [
+        "intero"
+      ]
+    },
+    {
+      "en": "to nor",
+      "it": "né",
+      "rank": 76,
+      "_old_primary": "a né",
+      "_kaikki_alternatives": [
+        "né"
+      ]
+    },
+    {
+      "en": "child",
+      "it": "bambino",
+      "rank": 80,
+      "_old_primary": "figlio",
+      "_kaikki_alternatives": [
+        "bambino",
+        "bambina"
+      ]
+    },
+    {
+      "en": "to act",
+      "it": "scena",
+      "rank": 83,
+      "_old_primary": "agire",
+      "_kaikki_alternatives": [
+        "scena",
+        "messinscena"
+      ]
+    },
+    {
+      "en": "to know",
+      "it": "conoscere",
+      "rank": 84,
+      "_old_primary": "sapere",
+      "_kaikki_alternatives": [
+        "conoscere"
+      ]
+    },
+    {
+      "en": "really",
+      "it": "davvero?",
+      "rank": 85,
+      "_old_primary": "grande",
+      "_kaikki_alternatives": [
+        "davvero?",
+        "veramente?",
+        "ma dai?"
+      ]
+    },
+    {
+      "en": "next",
+      "it": "accanto",
+      "rank": 89,
+      "_old_primary": "prossimo",
+      "_kaikki_alternatives": [
+        "accanto",
+        "vicino"
+      ]
+    },
+    {
+      "en": "little",
+      "it": "poco",
+      "rank": 94,
+      "_old_primary": "piccolo",
+      "_kaikki_alternatives": [
+        "poco"
+      ]
+    },
+    {
+      "en": "quite",
+      "it": "proprio",
+      "rank": 101,
+      "_old_primary": "abbastanza",
+      "_kaikki_alternatives": [
+        "proprio",
+        "piuttosto"
+      ]
+    },
+    {
+      "en": "to leave",
+      "it": "partire",
+      "rank": 102,
+      "_old_primary": "lasciare",
+      "_kaikki_alternatives": [
+        "partire",
+        "andarsene",
+        "permesso"
+      ]
+    },
+    {
+      "en": "to see",
+      "it": "vedere",
+      "rank": 112,
+      "_old_primary": "da vedere",
+      "_kaikki_alternatives": [
+        "vedere"
+      ]
+    },
+    {
+      "en": "to show",
+      "it": "mostra",
+      "rank": 117,
+      "_old_primary": "mostrare",
+      "_kaikki_alternatives": [
+        "mostra",
+        "esibizione"
+      ]
+    },
+    {
+      "en": "to talk",
+      "it": "conversazione",
+      "rank": 121,
+      "_old_primary": "parlare",
+      "_kaikki_alternatives": [
+        "conversazione"
+      ]
+    },
+    {
+      "en": "score",
+      "it": "ventina",
+      "rank": 125,
+      "_old_primary": "punto",
+      "_kaikki_alternatives": [
+        "ventina"
+      ]
+    },
+    {
+      "en": "belief",
+      "it": "fiducia",
+      "rank": 141,
+      "_old_primary": "credenza",
+      "_kaikki_alternatives": [
+        "fiducia"
+      ]
+    },
+    {
+      "en": "to perform",
+      "it": "comportarsi con correttezza",
+      "rank": 141,
+      "_old_primary": "eseguire",
+      "_kaikki_alternatives": [
+        "comportarsi con correttezza"
+      ]
+    },
+    {
+      "en": "more",
+      "it": "più",
+      "rank": 146,
+      "_old_primary": "di più",
+      "_kaikki_alternatives": [
+        "più"
+      ]
+    },
+    {
+      "en": "race",
+      "it": "razza",
+      "rank": 148,
+      "_old_primary": "gara",
+      "_kaikki_alternatives": [
+        "razza"
+      ]
+    },
+    {
+      "en": "to kill",
+      "it": "sopprimere",
+      "rank": 149,
+      "_old_primary": "uccidere",
+      "_kaikki_alternatives": [
+        "sopprimere",
+        "annullare"
+      ]
+    },
+    {
+      "en": "may",
+      "it": "mag.",
+      "rank": 162,
+      "_old_primary": "maggio",
+      "_kaikki_alternatives": [
+        "mag.",
+        "mag"
+      ]
+    },
+    {
+      "en": "to escort",
+      "it": "scorta",
+      "rank": 162,
+      "_old_primary": "scortare",
+      "_kaikki_alternatives": [
+        "scorta"
+      ]
+    },
+    {
+      "en": "reason",
+      "it": "ragione",
+      "rank": 167,
+      "_old_primary": "motivo",
+      "_kaikki_alternatives": [
+        "ragione",
+        "causa",
+        "perché"
+      ]
+    },
+    {
+      "en": "to wax",
+      "it": "crescere",
+      "rank": 169,
+      "_old_primary": "fare la cera",
+      "_kaikki_alternatives": [
+        "crescere"
+      ]
+    },
+    {
+      "en": "case",
+      "it": "rivestimento",
+      "rank": 170,
+      "_old_primary": "caso",
+      "_kaikki_alternatives": [
+        "rivestimento",
+        "copertura"
+      ]
+    },
+    {
+      "en": "to conduct",
+      "it": "dirigere",
+      "rank": 172,
+      "_old_primary": "condurre",
+      "_kaikki_alternatives": [
+        "dirigere"
+      ]
+    },
+    {
+      "en": "to lead",
+      "it": "lamiera",
+      "rank": 172,
+      "_old_primary": "condurre",
+      "_kaikki_alternatives": [
+        "lamiera",
+        "comportarsi"
+      ]
+    },
+    {
+      "en": "still",
+      "it": "fermo immagine",
+      "rank": 178,
+      "_old_primary": "ancora",
+      "_kaikki_alternatives": [
+        "fermo immagine",
+        "istantanea",
+        "fotogramma"
+      ]
+    },
+    {
+      "en": "shit",
+      "it": "cazzo",
+      "rank": 184,
+      "_old_primary": "merda",
+      "_kaikki_alternatives": [
+        "cazzo"
+      ]
+    },
+    {
+      "en": "over",
+      "it": "terminato",
+      "rank": 194,
+      "_old_primary": "sopra",
+      "_kaikki_alternatives": [
+        "terminato",
+        "finito",
+        "al di là"
+      ]
+    },
+    {
+      "en": "to play",
+      "it": "recitare",
+      "rank": 194,
+      "_old_primary": "per giocare",
+      "_kaikki_alternatives": [
+        "recitare",
+        "giocare",
+        "gioco"
+      ]
+    },
+    {
+      "en": "to take away",
+      "it": "togliere",
+      "rank": 195,
+      "_old_primary": "portare via",
+      "_kaikki_alternatives": [
+        "togliere"
+      ]
+    },
+    {
+      "en": "fit",
+      "it": "adattare",
+      "rank": 197,
+      "_old_primary": "crisi",
+      "_kaikki_alternatives": [
+        "adattare"
+      ]
+    },
+    {
+      "en": "to fit",
+      "it": "adattare",
+      "rank": 197,
+      "_old_primary": "adattarsi",
+      "_kaikki_alternatives": [
+        "adattare"
+      ]
+    },
+    {
+      "en": "to estimate",
+      "it": "stima",
+      "rank": 203,
+      "_old_primary": "stimare",
+      "_kaikki_alternatives": [
+        "stima"
+      ]
+    },
+    {
+      "en": "guy",
+      "it": "gente",
+      "rank": 204,
+      "_old_primary": "tipo",
+      "_kaikki_alternatives": [
+        "gente"
+      ]
+    },
+    {
+      "en": "set",
+      "it": "fruttificare",
+      "rank": 207,
+      "_old_primary": "insieme",
+      "_kaikki_alternatives": [
+        "fruttificare"
+      ]
+    },
+    {
+      "en": "tall",
+      "it": "alto",
+      "rank": 208,
+      "_old_primary": "grande",
+      "_kaikki_alternatives": [
+        "alto"
+      ]
+    },
+    {
+      "en": "loose",
+      "it": "sciolto",
+      "rank": 209,
+      "_old_primary": "comodo",
+      "_kaikki_alternatives": [
+        "sciolto",
+        "sfuso"
+      ]
+    },
+    {
+      "en": "to mean",
+      "it": "volere",
+      "rank": 211,
+      "_old_primary": "significare",
+      "_kaikki_alternatives": [
+        "volere",
+        "avere intenzione",
+        "aver l'intenzione"
+      ]
+    },
+    {
+      "en": "to answer",
+      "it": "risposta",
+      "rank": 212,
+      "_old_primary": "rispondere",
+      "_kaikki_alternatives": [
+        "risposta"
+      ]
+    },
+    {
+      "en": "run",
+      "it": "correre",
+      "rank": 217,
+      "_old_primary": "punto",
+      "_kaikki_alternatives": [
+        "correre",
+        "fluire",
+        "venire"
+      ]
+    },
+    {
+      "en": "to chase",
+      "it": "caccia",
+      "rank": 217,
+      "_old_primary": "inseguire",
+      "_kaikki_alternatives": [
+        "caccia",
+        "cacciare"
+      ]
+    },
+    {
+      "en": "matter",
+      "it": "materia",
+      "rank": 218,
+      "_old_primary": "questione",
+      "_kaikki_alternatives": [
+        "materia"
+      ]
+    },
+    {
+      "en": "big",
+      "it": "grande",
+      "rank": 220,
+      "_old_primary": "in grande",
+      "_kaikki_alternatives": [
+        "grande"
+      ]
+    },
+    {
+      "en": "Miss",
+      "it": "perdere",
+      "rank": 222,
+      "_old_primary": "signorina",
+      "_kaikki_alternatives": [
+        "perdere"
+      ]
+    },
+    {
+      "en": "deuce",
+      "it": "due",
+      "rank": 227,
+      "_old_primary": "diavolo",
+      "_kaikki_alternatives": [
+        "due"
+      ]
+    },
+    {
+      "en": "deal",
+      "it": "ripartire",
+      "rank": 240,
+      "_old_primary": "parte",
+      "_kaikki_alternatives": [
+        "ripartire",
+        "distribuire",
+        "dare"
+      ]
+    },
+    {
+      "en": "to call",
+      "it": "visitare",
+      "rank": 240,
+      "_old_primary": "chiamare",
+      "_kaikki_alternatives": [
+        "visitare"
+      ]
+    },
+    {
+      "en": "agreement",
+      "it": "concordanza",
+      "rank": 242,
+      "_old_primary": "accordo",
+      "_kaikki_alternatives": [
+        "concordanza"
+      ]
+    },
+    {
+      "en": "straight",
+      "it": "retto",
+      "rank": 263,
+      "_old_primary": "dritto",
+      "_kaikki_alternatives": [
+        "retto",
+        "diretto"
+      ]
+    },
+    {
+      "en": "issue",
+      "it": "emissione",
+      "rank": 273,
+      "_old_primary": "problema",
+      "_kaikki_alternatives": [
+        "emissione",
+        "fuoriuscita",
+        "questione"
+      ]
+    },
+    {
+      "en": "to manage",
+      "it": "riuscire",
+      "rank": 288,
+      "_old_primary": "gestire",
+      "_kaikki_alternatives": [
+        "riuscire"
+      ]
+    },
+    {
+      "en": "to nurse",
+      "it": "infermiera",
+      "rank": 288,
+      "_old_primary": "allattare",
+      "_kaikki_alternatives": [
+        "infermiera",
+        "infermiere"
+      ]
+    },
+    {
+      "en": "book",
+      "it": "prenotare",
+      "rank": 289,
+      "_old_primary": "libro",
+      "_kaikki_alternatives": [
+        "prenotare",
+        "riservare"
+      ]
+    },
+    {
+      "en": "proposition",
+      "it": "proposizione",
+      "rank": 295,
+      "_old_primary": "proposta",
+      "_kaikki_alternatives": [
+        "proposizione"
+      ]
+    },
+    {
+      "en": "to live",
+      "it": "abitare",
+      "rank": 295,
+      "_old_primary": "vivere",
+      "_kaikki_alternatives": [
+        "abitare"
+      ]
+    },
+    {
+      "en": "to move",
+      "it": "muovere",
+      "rank": 297,
+      "_old_primary": "muoversi",
+      "_kaikki_alternatives": [
+        "muovere",
+        "spostare"
+      ]
+    },
+    {
+      "en": "to cause",
+      "it": "causa",
+      "rank": 298,
+      "_old_primary": "causare",
+      "_kaikki_alternatives": [
+        "causa"
+      ]
+    },
+    {
+      "en": "on",
+      "it": "dentro",
+      "rank": 304,
+      "_old_primary": "su",
+      "_kaikki_alternatives": [
+        "dentro"
+      ]
+    },
+    {
+      "en": "to lift",
+      "it": "alzare",
+      "rank": 306,
+      "_old_primary": "sollevare",
+      "_kaikki_alternatives": [
+        "alzare",
+        "levare"
+      ]
+    },
+    {
+      "en": "ice",
+      "it": "gelare",
+      "rank": 311,
+      "_old_primary": "ghiaccio",
+      "_kaikki_alternatives": [
+        "gelare",
+        "ghiacciare",
+        "congelare"
+      ]
+    },
+    {
+      "en": "to attend",
+      "it": "frequentare",
+      "rank": 318,
+      "_old_primary": "partecipare",
+      "_kaikki_alternatives": [
+        "frequentare"
+      ]
+    },
+    {
+      "en": "to succeed",
+      "it": "succedere",
+      "rank": 321,
+      "_old_primary": "avere successo",
+      "_kaikki_alternatives": [
+        "succedere",
+        "riuscire"
+      ]
+    },
+    {
+      "en": "power",
+      "it": "potenza",
+      "rank": 327,
+      "_old_primary": "potere",
+      "_kaikki_alternatives": [
+        "potenza"
+      ]
+    },
+    {
+      "en": "bad",
+      "it": "sbagliato",
+      "rank": 331,
+      "_old_primary": "cattivo",
+      "_kaikki_alternatives": [
+        "sbagliato"
+      ]
+    },
+    {
+      "en": "to hope",
+      "it": "Speranza",
+      "rank": 331,
+      "_old_primary": "sperare",
+      "_kaikki_alternatives": [
+        "Speranza"
+      ]
+    },
+    {
+      "en": "to stop",
+      "it": "fermare",
+      "rank": 346,
+      "_old_primary": "fermarsi",
+      "_kaikki_alternatives": [
+        "fermare",
+        "pulsante di arresto",
+        "punto"
+      ]
+    },
+    {
+      "en": "alliance",
+      "it": "trattato",
+      "rank": 349,
+      "_old_primary": "alleanza",
+      "_kaikki_alternatives": [
+        "trattato"
+      ]
+    },
+    {
+      "en": "level",
+      "it": "costante",
+      "rank": 356,
+      "_old_primary": "livello",
+      "_kaikki_alternatives": [
+        "costante",
+        "uniforme"
+      ]
+    },
+    {
+      "en": "to shift",
+      "it": "scambiare",
+      "rank": 358,
+      "_old_primary": "spostare",
+      "_kaikki_alternatives": [
+        "scambiare",
+        "permutare",
+        "barattare"
+      ]
+    },
+    {
+      "en": "full",
+      "it": "completo",
+      "rank": 362,
+      "_old_primary": "pieno",
+      "_kaikki_alternatives": [
+        "completo"
+      ]
+    },
+    {
+      "en": "open",
+      "it": "aperto",
+      "rank": 368,
+      "_old_primary": "scoperto",
+      "_kaikki_alternatives": [
+        "aperto",
+        "dischiuso",
+        "aprire"
+      ]
+    },
+    {
+      "en": "like",
+      "it": "piacere a",
+      "rank": 384,
+      "_old_primary": "alla stregua di",
+      "_kaikki_alternatives": [
+        "piacere a"
+      ]
+    },
+    {
+      "en": "to write",
+      "it": "scrivere a",
+      "rank": 387,
+      "_old_primary": "scrivere",
+      "_kaikki_alternatives": [
+        "scrivere a"
+      ]
+    },
+    {
+      "en": "particularly",
+      "it": "in particolare",
+      "rank": 396,
+      "_old_primary": "particolarmente",
+      "_kaikki_alternatives": [
+        "in particolare",
+        "estremamente"
+      ]
+    },
+    {
+      "en": "rock",
+      "it": "cullare",
+      "rank": 410,
+      "_old_primary": "rock",
+      "_kaikki_alternatives": [
+        "cullare",
+        "ondeggiare",
+        "trastullare"
+      ]
+    },
+    {
+      "en": "to design",
+      "it": "intenzione",
+      "rank": 412,
+      "_old_primary": "progettare",
+      "_kaikki_alternatives": [
+        "intenzione",
+        "piano",
+        "progettazione"
+      ]
+    },
+    {
+      "en": "ahead",
+      "it": "antecedentemente",
+      "rank": 414,
+      "_old_primary": "avanti",
+      "_kaikki_alternatives": [
+        "antecedentemente",
+        "in anticipo"
+      ]
+    },
+    {
+      "en": "discourse",
+      "it": "discussione",
+      "rank": 415,
+      "_old_primary": "discorso",
+      "_kaikki_alternatives": [
+        "discussione"
+      ]
+    },
+    {
+      "en": "to smell",
+      "it": "sentire l'odore",
+      "rank": 422,
+      "_old_primary": "annusare",
+      "_kaikki_alternatives": [
+        "sentire l'odore",
+        "fiutare",
+        "odorare"
+      ]
+    },
+    {
+      "en": "late",
+      "it": "tardo",
+      "rank": 430,
+      "_old_primary": "tardi",
+      "_kaikki_alternatives": [
+        "tardo"
+      ]
+    },
+    {
+      "en": "to love",
+      "it": "amore",
+      "rank": 439,
+      "_old_primary": "amare",
+      "_kaikki_alternatives": [
+        "amore"
+      ]
+    },
+    {
+      "en": "to mark",
+      "it": "macchia",
+      "rank": 463,
+      "_old_primary": "segnare",
+      "_kaikki_alternatives": [
+        "macchia"
+      ]
+    },
+    {
+      "en": "stupid",
+      "it": "stupefatto",
+      "rank": 464,
+      "_old_primary": "stupido",
+      "_kaikki_alternatives": [
+        "stupefatto"
+      ]
+    },
+    {
+      "en": "player",
+      "it": "protagonista",
+      "rank": 469,
+      "_old_primary": "giocatore",
+      "_kaikki_alternatives": [
+        "protagonista"
+      ]
+    },
+    {
+      "en": "show",
+      "it": "mostra",
+      "rank": 476,
+      "_old_primary": "spettacolo",
+      "_kaikki_alternatives": [
+        "mostra",
+        "esibizione"
+      ]
+    },
+    {
+      "en": "connection",
+      "it": "connessione",
+      "rank": 477,
+      "_old_primary": "relazione",
+      "_kaikki_alternatives": [
+        "connessione"
+      ]
+    },
+    {
+      "en": "at once",
+      "it": "insieme",
+      "rank": 489,
+      "_old_primary": "subito",
+      "_kaikki_alternatives": [
+        "insieme"
+      ]
+    },
+    {
+      "en": "to set",
+      "it": "fruttificare",
+      "rank": 492,
+      "_old_primary": "impostare",
+      "_kaikki_alternatives": [
+        "fruttificare"
+      ]
+    }
+  ]
+}

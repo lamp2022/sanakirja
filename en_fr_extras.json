@@ -9,5 +9,8 @@
     {"en": "no one", "fr": "personne", "rank": 800}
   ],
 
-  "overrides": []
+  "overrides": [
+    {"en": "who", "fr": "qui"},
+    {"en": "below", "fr": "en bas"}
+  ]
 }

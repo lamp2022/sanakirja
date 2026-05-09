@@ -2257,12 +2257,12 @@
   {
     "en": "reason",
     "sv": [
-      "förnuft",
-      "förstånd",
-      "rimlighet"
+      "anledning",
+      "skäl",
+      "grund"
     ],
     "rank": 167,
-    "confidence": "folkets_only",
+    "confidence": "extras_override",
     "sv_gt": "resonera",
     "sv_claude": "anledning",
     "sv_apert": "resonera"
@@ -4678,9 +4678,9 @@
   },
   {
     "en": "condition",
-    "sv": "skick",
+    "sv": "tillstånd",
     "rank": 355,
-    "confidence": "folkets+gt",
+    "confidence": "extras_override",
     "sv_claude": "villkor",
     "sv_apert": "arbetsvillkor"
   },
@@ -9113,13 +9113,9 @@
   },
   {
     "en": "lucky",
-    "sv": [
-      "tur-",
-      "lycklig",
-      "tursam"
-    ],
+    "sv": "lycklig",
     "rank": 707,
-    "confidence": "folkets+gt",
+    "confidence": "extras_override",
     "sv_apert": "lycklig"
   },
   {

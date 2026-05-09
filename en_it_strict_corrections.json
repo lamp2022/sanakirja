@@ -1,0 +1,465 @@
+{
+  "corrections": [
+    {
+      "rank": 141,
+      "en": "belief",
+      "old_primary": "credenza",
+      "old_primary_freq_rank": 14950,
+      "proposed": "fiducia",
+      "proposed_freq_rank": 1461,
+      "kaikki_alternatives": [
+        "fiducia"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 211,
+      "en": "to mean",
+      "old_primary": "significare",
+      "old_primary_freq_rank": 7690,
+      "proposed": "avere intenzione",
+      "proposed_freq_rank": 212,
+      "kaikki_alternatives": [
+        "volere",
+        "avere intenzione",
+        "aver l'intenzione",
+        "intendere",
+        "media"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 217,
+      "en": "to chase",
+      "old_primary": "inseguire",
+      "old_primary_freq_rank": 9066,
+      "proposed": "caccia",
+      "proposed_freq_rank": 1129,
+      "kaikki_alternatives": [
+        "caccia",
+        "cacciare"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 288,
+      "en": "to nurse",
+      "old_primary": "allattare",
+      "old_primary_freq_rank": 30603,
+      "proposed": "infermiera",
+      "proposed_freq_rank": 1937,
+      "kaikki_alternatives": [
+        "infermiera",
+        "infermiere"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 298,
+      "en": "to cause",
+      "old_primary": "causare",
+      "old_primary_freq_rank": 5366,
+      "proposed": "causa",
+      "proposed_freq_rank": 625,
+      "kaikki_alternatives": [
+        "causa"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 346,
+      "en": "to stop",
+      "old_primary": "fermarsi",
+      "old_primary_freq_rank": 5956,
+      "proposed": "punto",
+      "proposed_freq_rank": 390,
+      "kaikki_alternatives": [
+        "fermare",
+        "pulsante di arresto",
+        "punto"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 412,
+      "en": "to design",
+      "old_primary": "progettare",
+      "old_primary_freq_rank": 18712,
+      "proposed": "piano",
+      "proposed_freq_rank": 349,
+      "kaikki_alternatives": [
+        "intenzione",
+        "piano",
+        "progettazione"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 422,
+      "en": "to smell",
+      "old_primary": "annusare",
+      "old_primary_freq_rank": 17127,
+      "proposed": "sentire l'odore",
+      "proposed_freq_rank": 495,
+      "kaikki_alternatives": [
+        "sentire l'odore",
+        "fiutare",
+        "odorare"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 961,
+      "en": "to run out",
+      "old_primary": "esaurirsi",
+      "old_primary_freq_rank": 99999,
+      "proposed": "finire",
+      "proposed_freq_rank": 804,
+      "kaikki_alternatives": [
+        "esaurire",
+        "finire"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 1049,
+      "en": "backward",
+      "old_primary": "arretrato",
+      "old_primary_freq_rank": 23165,
+      "proposed": "indietro",
+      "proposed_freq_rank": 441,
+      "kaikki_alternatives": [
+        "indietro",
+        "retromarcia"
+      ],
+      "confidence": "kaikki_only"
+    },
+    {
+      "rank": 1066,
+      "en": "to draw",
+      "old_primary": "disegnare",
+      "old_primary_freq_rank": 7495,
+      "proposed": "cambiare",
+      "proposed_freq_rank": 784,
+      "kaikki_alternatives": [
+        "estrarre",
+        "attirare",
+        "attrarre",
+        "affidarsi",
+        "confidare"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1166,
+      "en": "to signal",
+      "old_primary": "segnalare",
+      "old_primary_freq_rank": 15297,
+      "proposed": "segnale",
+      "proposed_freq_rank": 1478,
+      "kaikki_alternatives": [
+        "segnale"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1168,
+      "en": "to value",
+      "old_primary": "valorizzare",
+      "old_primary_freq_rank": 99999,
+      "proposed": "valore",
+      "proposed_freq_rank": 1819,
+      "kaikki_alternatives": [
+        "valore"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1198,
+      "en": "to force",
+      "old_primary": "forzare",
+      "old_primary_freq_rank": 11587,
+      "proposed": "forza",
+      "proposed_freq_rank": 254,
+      "kaikki_alternatives": [
+        "forza",
+        "forza"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1289,
+      "en": "to track",
+      "old_primary": "tracciare",
+      "old_primary_freq_rank": 13394,
+      "proposed": "discorso",
+      "proposed_freq_rank": 1475,
+      "kaikki_alternatives": [
+        "binario",
+        "sessione",
+        "discorso",
+        "monitorare",
+        "seguire"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1350,
+      "en": "to train",
+      "old_primary": "allenarsi",
+      "old_primary_freq_rank": 16975,
+      "proposed": "treno",
+      "proposed_freq_rank": 1322,
+      "kaikki_alternatives": [
+        "treno",
+        "traino",
+        "istruire"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1397,
+      "en": "to focus",
+      "old_primary": "concentrarsi",
+      "old_primary_freq_rank": 10406,
+      "proposed": "fuoco",
+      "proposed_freq_rank": 614,
+      "kaikki_alternatives": [
+        "fuoco"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1560,
+      "en": "to settle",
+      "old_primary": "sistemarsi",
+      "old_primary_freq_rank": 19995,
+      "proposed": "risolvere",
+      "proposed_freq_rank": 1643,
+      "kaikki_alternatives": [
+        "risolvere",
+        "stanziarsi"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1596,
+      "en": "nursery",
+      "old_primary": "nursery",
+      "old_primary_freq_rank": 37202,
+      "proposed": "sala dei bambini",
+      "proposed_freq_rank": 1007,
+      "kaikki_alternatives": [
+        "sala dei bambini"
+      ],
+      "confidence": "kaikki_only"
+    },
+    {
+      "rank": 1715,
+      "en": "to approach",
+      "old_primary": "avvicinarsi",
+      "old_primary_freq_rank": 7294,
+      "proposed": "accesso",
+      "proposed_freq_rank": 1641,
+      "kaikki_alternatives": [
+        "accesso",
+        "avvicinamento"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1886,
+      "en": "transition",
+      "old_primary": "transizione",
+      "old_primary_freq_rank": 12595,
+      "proposed": "passare",
+      "proposed_freq_rank": 591,
+      "kaikki_alternatives": [
+        "passare"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 2104,
+      "en": "to paint",
+      "old_primary": "dipingere",
+      "old_primary_freq_rank": 6901,
+      "proposed": "colore",
+      "proposed_freq_rank": 1598,
+      "kaikki_alternatives": [
+        "vernice",
+        "colore",
+        "pittura"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 2239,
+      "en": "feature",
+      "old_primary": "caratteristica",
+      "old_primary_freq_rank": 13191,
+      "proposed": "speciale",
+      "proposed_freq_rank": 783,
+      "kaikki_alternatives": [
+        "rubrica",
+        "servizio",
+        "speciale"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 2684,
+      "en": "to please",
+      "old_primary": "favorire",
+      "old_primary_freq_rank": 20706,
+      "proposed": "per favore",
+      "proposed_freq_rank": 9,
+      "kaikki_alternatives": [
+        "per favore",
+        "per piacere",
+        "per piacere"
+      ],
+      "confidence": "kaikki_only"
+    },
+    {
+      "rank": 3176,
+      "en": "core",
+      "old_primary": "nucleo",
+      "old_primary_freq_rank": 7727,
+      "proposed": "cuore",
+      "proposed_freq_rank": 449,
+      "kaikki_alternatives": [
+        "nocciolo",
+        "cuore",
+        "essenza",
+        "fondamento",
+        "nocciolo"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 3275,
+      "en": "to warm",
+      "old_primary": "riscaldare",
+      "old_primary_freq_rank": 22591,
+      "proposed": "caldo",
+      "proposed_freq_rank": 1272,
+      "kaikki_alternatives": [
+        "caldo",
+        "caldo",
+        "caloroso",
+        "cordiale"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 3702,
+      "en": "to wish",
+      "old_primary": "desiderare",
+      "old_primary_freq_rank": 6805,
+      "proposed": "voglia",
+      "proposed_freq_rank": 626,
+      "kaikki_alternatives": [
+        "desiderio",
+        "voglia"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 3794,
+      "en": "to burst",
+      "old_primary": "scoppiare",
+      "old_primary_freq_rank": 8122,
+      "proposed": "far scoppiare",
+      "proposed_freq_rank": 361,
+      "kaikki_alternatives": [
+        "far scoppiare",
+        "strappare",
+        "separare"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 3935,
+      "en": "to bestow",
+      "old_primary": "conferire",
+      "old_primary_freq_rank": 27991,
+      "proposed": "usare",
+      "proposed_freq_rank": 716,
+      "kaikki_alternatives": [
+        "applicare",
+        "usare"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 4396,
+      "en": "to base",
+      "old_primary": "basare",
+      "old_primary_freq_rank": 41314,
+      "proposed": "base",
+      "proposed_freq_rank": 1008,
+      "kaikki_alternatives": [
+        "basi",
+        "basamento",
+        "fondamenta",
+        "base",
+        "alcali"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 4459,
+      "en": "to boil",
+      "old_primary": "bollire",
+      "old_primary_freq_rank": 15375,
+      "proposed": "far bollire",
+      "proposed_freq_rank": 361,
+      "kaikki_alternatives": [
+        "far bollire"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 4555,
+      "en": "tool",
+      "old_primary": "attrezzo",
+      "old_primary_freq_rank": 15099,
+      "proposed": "mezzo",
+      "proposed_freq_rank": 555,
+      "kaikki_alternatives": [
+        "arnese",
+        "strumento",
+        "utensile",
+        "mezzo",
+        "strumento"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 9999,
+      "en": "pear",
+      "old_primary": "pera",
+      "old_primary_freq_rank": 21447,
+      "proposed": "pero",
+      "proposed_freq_rank": 842,
+      "kaikki_alternatives": [
+        "pero"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 9999,
+      "en": "to sense",
+      "old_primary": "percepire",
+      "old_primary_freq_rank": 12289,
+      "proposed": "senso",
+      "proposed_freq_rank": 517,
+      "kaikki_alternatives": [
+        "senso",
+        "significato"
+      ],
+      "confidence": "kaikki+gt"
+    }
+  ]
+}

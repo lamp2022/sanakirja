@@ -1,0 +1,375 @@
+{
+  "corrections": [
+    {
+      "rank": 96,
+      "en": "to belong",
+      "old_primary": "att tillhöra",
+      "old_primary_freq_rank": 8832,
+      "proposed": "höra",
+      "proposed_freq_rank": 316,
+      "kaikki_alternatives": [
+        "höra",
+        "höra hemma"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 115,
+      "en": "to state",
+      "old_primary": "att ange",
+      "old_primary_freq_rank": 6040,
+      "proposed": "tillstånd",
+      "proposed_freq_rank": 1215,
+      "kaikki_alternatives": [
+        "tillstånd",
+        "påstå"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 167,
+      "en": "reason",
+      "old_primary": "förnuft",
+      "old_primary_freq_rank": 5743,
+      "proposed": "grund",
+      "proposed_freq_rank": 629,
+      "kaikki_alternatives": [
+        "anledning",
+        "skäl",
+        "orsak",
+        "grund"
+      ],
+      "confidence": "folkets_only"
+    },
+    {
+      "rank": 172,
+      "en": "to conduct",
+      "old_primary": "att bedriva",
+      "old_primary_freq_rank": 23938,
+      "proposed": "leda",
+      "proposed_freq_rank": 1366,
+      "kaikki_alternatives": [
+        "anföra",
+        "dirigera",
+        "leda"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 193,
+      "en": "state",
+      "old_primary": "ange",
+      "old_primary_freq_rank": 6040,
+      "proposed": "tillstånd",
+      "proposed_freq_rank": 1215,
+      "kaikki_alternatives": [
+        "tillstånd",
+        "påstå"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 345,
+      "en": "spring",
+      "old_primary": "fjäder",
+      "old_primary_freq_rank": 12144,
+      "proposed": "vår",
+      "proposed_freq_rank": 149,
+      "kaikki_alternatives": [
+        "vår"
+      ],
+      "confidence": "folkets_only"
+    },
+    {
+      "rank": 355,
+      "en": "condition",
+      "old_primary": "skick",
+      "old_primary_freq_rank": 5078,
+      "proposed": "tillstånd",
+      "proposed_freq_rank": 1215,
+      "kaikki_alternatives": [
+        "tillstånd",
+        "kondition",
+        "tillstånd",
+        "kondition"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 400,
+      "en": "to request",
+      "old_primary": "att begära",
+      "old_primary_freq_rank": 5754,
+      "proposed": "be",
+      "proposed_freq_rank": 394,
+      "kaikki_alternatives": [
+        "anhålla om",
+        "be",
+        "bedja",
+        "utbe sig",
+        "utbedja sig"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 441,
+      "en": "to chat",
+      "old_primary": "att chatta",
+      "old_primary_freq_rank": 39838,
+      "proposed": "samtal",
+      "proposed_freq_rank": 785,
+      "kaikki_alternatives": [
+        "samtal"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 449,
+      "en": "belong",
+      "old_primary": "tillhöra",
+      "old_primary_freq_rank": 8832,
+      "proposed": "höra",
+      "proposed_freq_rank": 316,
+      "kaikki_alternatives": [
+        "höra",
+        "höra hemma"
+      ],
+      "confidence": "folkets+gt+apert"
+    },
+    {
+      "rank": 707,
+      "en": "lucky",
+      "old_primary": "tur-",
+      "old_primary_freq_rank": 99999,
+      "proposed": "lycklig",
+      "proposed_freq_rank": 887,
+      "kaikki_alternatives": [
+        "lyckosam",
+        "tursam",
+        "lycklig"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 746,
+      "en": "to teach",
+      "old_primary": "att undervisa",
+      "old_primary_freq_rank": 6556,
+      "proposed": "lära",
+      "proposed_freq_rank": 541,
+      "kaikki_alternatives": [
+        "lära",
+        "lära ut"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 784,
+      "en": "to compound",
+      "old_primary": "att sammansätta",
+      "old_primary_freq_rank": 99999,
+      "proposed": "sätta (ihop, samman)",
+      "proposed_freq_rank": 489,
+      "kaikki_alternatives": [
+        "blanda (ihop, till, tillsammans)",
+        "sätta (ihop, samman)"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 883,
+      "en": "female",
+      "old_primary": "kvinnlig",
+      "old_primary_freq_rank": 5230,
+      "proposed": "kvinna",
+      "proposed_freq_rank": 378,
+      "kaikki_alternatives": [
+        "kvinna"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 1094,
+      "en": "summit",
+      "old_primary": "toppmöte",
+      "old_primary_freq_rank": 38130,
+      "proposed": "nå toppen",
+      "proposed_freq_rank": 638,
+      "kaikki_alternatives": [
+        "nå toppen"
+      ],
+      "confidence": "folkets+gt+apert"
+    },
+    {
+      "rank": 1212,
+      "en": "to moor",
+      "old_primary": "att förtöja",
+      "old_primary_freq_rank": 99999,
+      "proposed": "mor",
+      "proposed_freq_rank": 444,
+      "kaikki_alternatives": [
+        "mor"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 1368,
+      "en": "drug",
+      "old_primary": "läkemedel",
+      "old_primary_freq_rank": 8269,
+      "proposed": "drog",
+      "proposed_freq_rank": 1062,
+      "kaikki_alternatives": [
+        "drog"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 1580,
+      "en": "flat",
+      "old_primary": "pank",
+      "old_primary_freq_rank": 5170,
+      "proposed": "plan",
+      "proposed_freq_rank": 535,
+      "kaikki_alternatives": [
+        "flat",
+        "plan",
+        "platt",
+        "avslagen"
+      ],
+      "confidence": "folkets_only"
+    },
+    {
+      "rank": 1649,
+      "en": "premiere",
+      "old_primary": "premiär",
+      "old_primary_freq_rank": 10790,
+      "proposed": "ha premiär",
+      "proposed_freq_rank": 52,
+      "kaikki_alternatives": [
+        "ha premiär"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 1689,
+      "en": "to consist",
+      "old_primary": "att bestå",
+      "old_primary_freq_rank": 17383,
+      "proposed": "vara (av)",
+      "proposed_freq_rank": 56,
+      "kaikki_alternatives": [
+        "vara (av)",
+        "bestå (av)"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 1966,
+      "en": "to enable",
+      "old_primary": "att aktivera",
+      "old_primary_freq_rank": 5780,
+      "proposed": "ge någon kraft",
+      "proposed_freq_rank": 113,
+      "kaikki_alternatives": [
+        "ge någon kraft",
+        "möjliggöra",
+        "möjliggöra",
+        "ursäkta"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 2496,
+      "en": "Moor",
+      "old_primary": "förtöja",
+      "old_primary_freq_rank": 99999,
+      "proposed": "mor",
+      "proposed_freq_rank": 444,
+      "kaikki_alternatives": [
+        "mor"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 2684,
+      "en": "to please",
+      "old_primary": "att behaga",
+      "old_primary_freq_rank": 12456,
+      "proposed": "var så god",
+      "proposed_freq_rank": 18,
+      "kaikki_alternatives": [
+        "tack",
+        "snälla",
+        "var så god",
+        "vänligen",
+        "snälla"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 3246,
+      "en": "cross",
+      "old_primary": "korsa",
+      "old_primary_freq_rank": 6255,
+      "proposed": "göra korstecknet",
+      "proposed_freq_rank": 61,
+      "kaikki_alternatives": [
+        "göra korstecknet"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 3275,
+      "en": "to warm",
+      "old_primary": "att värma",
+      "old_primary_freq_rank": 6420,
+      "proposed": "varm",
+      "proposed_freq_rank": 1593,
+      "kaikki_alternatives": [
+        "varm"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 3946,
+      "en": "to fire",
+      "old_primary": "att elda",
+      "old_primary_freq_rank": 13124,
+      "proposed": "eld",
+      "proposed_freq_rank": 941,
+      "kaikki_alternatives": [
+        "eld",
+        "brand"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 4364,
+      "en": "to upset",
+      "old_primary": "att uppröra",
+      "old_primary_freq_rank": 37596,
+      "proposed": "orolig",
+      "proposed_freq_rank": 761,
+      "kaikki_alternatives": [
+        "orolig"
+      ],
+      "confidence": "folkets+gt"
+    },
+    {
+      "rank": 9999,
+      "en": "abstract",
+      "old_primary": "abstrakt",
+      "old_primary_freq_rank": 23459,
+      "proposed": "ta bort",
+      "proposed_freq_rank": 59,
+      "kaikki_alternatives": [
+        "abstrahera",
+        "skilja av",
+        "skilja ut",
+        "ta bort"
+      ],
+      "confidence": "folkets+gt"
+    }
+  ]
+}

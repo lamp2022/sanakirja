@@ -1557,8 +1557,12 @@
     "rank": 167
   },
   {
-    "sv": "förnuft",
-    "en": "reason",
+    "sv": "anledning",
+    "en": [
+      "reason",
+      "occasion",
+      "grounds"
+    ],
     "rank": 167
   },
   {
@@ -3262,8 +3266,12 @@
     "rank": 353
   },
   {
-    "sv": "skick",
-    "en": "condition",
+    "sv": "tillstånd",
+    "en": [
+      "condition",
+      "authorization",
+      "permission"
+    ],
     "rank": 355
   },
   {
@@ -4517,14 +4525,6 @@
       "channel"
     ],
     "rank": 505
-  },
-  {
-    "sv": "tillstånd",
-    "en": [
-      "authorization",
-      "permission"
-    ],
-    "rank": 507
   },
   {
     "sv": "jätte",
@@ -6048,7 +6048,7 @@
     "rank": 706
   },
   {
-    "sv": "tur-",
+    "sv": "lycklig",
     "en": "lucky",
     "rank": 707
   },
@@ -6825,14 +6825,6 @@
     "sv": "att placera",
     "en": "to place",
     "rank": 814
-  },
-  {
-    "sv": "anledning",
-    "en": [
-      "occasion",
-      "grounds"
-    ],
-    "rank": 815
   },
   {
     "sv": "men nu",

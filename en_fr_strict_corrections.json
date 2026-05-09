@@ -1,0 +1,533 @@
+{
+  "corrections": [
+    {
+      "rank": 47,
+      "en": "who",
+      "old_primary": "oms",
+      "old_primary_freq_rank": 46798,
+      "proposed": "qui",
+      "proposed_freq_rank": 31,
+      "kaikki_alternatives": [
+        "qui"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 96,
+      "en": "to belong",
+      "old_primary": "appartenir",
+      "old_primary_freq_rank": 12218,
+      "proposed": "avoir sa place",
+      "proposed_freq_rank": 101,
+      "kaikki_alternatives": [
+        "avoir sa place"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 111,
+      "en": "to arise",
+      "old_primary": "surgir",
+      "old_primary_freq_rank": 19882,
+      "proposed": "se lever",
+      "proposed_freq_rank": 1757,
+      "kaikki_alternatives": [
+        "se lever",
+        "se relever"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 211,
+      "en": "to mean",
+      "old_primary": "signifier",
+      "old_primary_freq_rank": 13672,
+      "proposed": "avoir l'intention",
+      "proposed_freq_rank": 101,
+      "kaikki_alternatives": [
+        "avoir l'intention",
+        "entendre faire",
+        "moyenne"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 298,
+      "en": "to cause",
+      "old_primary": "provoquer",
+      "old_primary_freq_rank": 5306,
+      "proposed": "raison",
+      "proposed_freq_rank": 208,
+      "kaikki_alternatives": [
+        "cause",
+        "raison"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 306,
+      "en": "to lift",
+      "old_primary": "soulever",
+      "old_primary_freq_rank": 7653,
+      "proposed": "lever",
+      "proposed_freq_rank": 1757,
+      "kaikki_alternatives": [
+        "lever"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 369,
+      "en": "segment",
+      "old_primary": "segment",
+      "old_primary_freq_rank": 35500,
+      "proposed": "quartier",
+      "proposed_freq_rank": 1285,
+      "kaikki_alternatives": [
+        "quartier"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 378,
+      "en": "to point",
+      "old_primary": "pointer",
+      "old_primary_freq_rank": 6904,
+      "proposed": "point",
+      "proposed_freq_rank": 371,
+      "kaikki_alternatives": [
+        "pointe",
+        "point"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 383,
+      "en": "below",
+      "old_primary": "au-deçà",
+      "old_primary_freq_rank": 99999,
+      "proposed": "en bas",
+      "proposed_freq_rank": 20,
+      "kaikki_alternatives": [
+        "en bas"
+      ],
+      "confidence": "kaikki_only"
+    },
+    {
+      "rank": 412,
+      "en": "to design",
+      "old_primary": "concevoir",
+      "old_primary_freq_rank": 11955,
+      "proposed": "intention",
+      "proposed_freq_rank": 1598,
+      "kaikki_alternatives": [
+        "dessein",
+        "intention"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 449,
+      "en": "belong",
+      "old_primary": "appartenir",
+      "old_primary_freq_rank": 12218,
+      "proposed": "avoir sa place",
+      "proposed_freq_rank": 101,
+      "kaikki_alternatives": [
+        "avoir sa place"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 463,
+      "en": "to mark",
+      "old_primary": "marquer",
+      "old_primary_freq_rank": 6375,
+      "proposed": "trace",
+      "proposed_freq_rank": 1970,
+      "kaikki_alternatives": [
+        "trace"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 590,
+      "en": "to stuff",
+      "old_primary": "bourrer",
+      "old_primary_freq_rank": 16756,
+      "proposed": "truc",
+      "proposed_freq_rank": 278,
+      "kaikki_alternatives": [
+        "truc",
+        "truc"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 787,
+      "en": "cock",
+      "old_primary": "coq",
+      "old_primary_freq_rank": 8652,
+      "proposed": "con",
+      "proposed_freq_rank": 958,
+      "kaikki_alternatives": [
+        "mâle",
+        "gland",
+        "con",
+        "conne",
+        "débile"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 791,
+      "en": "background",
+      "old_primary": "arrière-plan",
+      "old_primary_freq_rank": 19735,
+      "proposed": "fond d'écran",
+      "proposed_freq_rank": 834,
+      "kaikki_alternatives": [
+        "fond d'écran"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 930,
+      "en": "faint",
+      "old_primary": "s'évanouir",
+      "old_primary_freq_rank": 9554,
+      "proposed": "faible",
+      "proposed_freq_rank": 1578,
+      "kaikki_alternatives": [
+        "faible",
+        "faible"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 961,
+      "en": "to run out",
+      "old_primary": "s'épuiser",
+      "old_primary_freq_rank": 19223,
+      "proposed": "venir à expiration",
+      "proposed_freq_rank": 272,
+      "kaikki_alternatives": [
+        "venir à expiration",
+        "toucher à sa fin",
+        "expirer",
+        "venir à manquer"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 1066,
+      "en": "to draw",
+      "old_primary": "dessiner",
+      "old_primary_freq_rank": 6633,
+      "proposed": "tirer",
+      "proposed_freq_rank": 747,
+      "kaikki_alternatives": [
+        "dégainer",
+        "attirer",
+        "tirer",
+        "égaliser",
+        "piocher"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1076,
+      "en": "to remove",
+      "old_primary": "supprimer",
+      "old_primary_freq_rank": 7330,
+      "proposed": "enlever",
+      "proposed_freq_rank": 1399,
+      "kaikki_alternatives": [
+        "enlever",
+        "ôter"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 1090,
+      "en": "ring",
+      "old_primary": "anneau",
+      "old_primary_freq_rank": 5337,
+      "proposed": "piste",
+      "proposed_freq_rank": 1497,
+      "kaikki_alternatives": [
+        "ring",
+        "manège",
+        "piste",
+        "sonner",
+        "sonner"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1166,
+      "en": "to signal",
+      "old_primary": "signaler",
+      "old_primary_freq_rank": 5108,
+      "proposed": "signal",
+      "proposed_freq_rank": 1608,
+      "kaikki_alternatives": [
+        "signal"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1168,
+      "en": "to value",
+      "old_primary": "valoriser",
+      "old_primary_freq_rank": 99999,
+      "proposed": "valeur",
+      "proposed_freq_rank": 1773,
+      "kaikki_alternatives": [
+        "valeur"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 1616,
+      "en": "strike",
+      "old_primary": "grève",
+      "old_primary_freq_rank": 5050,
+      "proposed": "amener",
+      "proposed_freq_rank": 1636,
+      "kaikki_alternatives": [
+        "affaler",
+        "baisser pavillon",
+        "amener",
+        "strike"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1924,
+      "en": "square",
+      "old_primary": "carré",
+      "old_primary_freq_rank": 7251,
+      "proposed": "place",
+      "proposed_freq_rank": 342,
+      "kaikki_alternatives": [
+        "équerre",
+        "place",
+        "square",
+        "perpendiculaire à"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 2235,
+      "en": "welfare",
+      "old_primary": "bien-être",
+      "old_primary_freq_rank": 8727,
+      "proposed": "aide sociale",
+      "proposed_freq_rank": 315,
+      "kaikki_alternatives": [
+        "aide sociale"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 2309,
+      "en": "to ignite",
+      "old_primary": "s'enflammer",
+      "old_primary_freq_rank": 20553,
+      "proposed": "mettre le feu",
+      "proposed_freq_rank": 328,
+      "kaikki_alternatives": [
+        "mettre le feu",
+        "allumer"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 2541,
+      "en": "to capture",
+      "old_primary": "capturer",
+      "old_primary_freq_rank": 6498,
+      "proposed": "prendre",
+      "proposed_freq_rank": 196,
+      "kaikki_alternatives": [
+        "prendre"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 2664,
+      "en": "to market",
+      "old_primary": "commercialiser",
+      "old_primary_freq_rank": 99999,
+      "proposed": "marché",
+      "proposed_freq_rank": 633,
+      "kaikki_alternatives": [
+        "marché"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 3275,
+      "en": "to warm",
+      "old_primary": "réchauffer",
+      "old_primary_freq_rank": 7617,
+      "proposed": "chaud",
+      "proposed_freq_rank": 922,
+      "kaikki_alternatives": [
+        "chaud",
+        "chaude",
+        "chaleureux",
+        "chaleureuse"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 3298,
+      "en": "to recur",
+      "old_primary": "se reproduire",
+      "old_primary_freq_rank": 8363,
+      "proposed": "revenir",
+      "proposed_freq_rank": 689,
+      "kaikki_alternatives": [
+        "réapparaître",
+        "resurvenir",
+        "revenir"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 3306,
+      "en": "to blow",
+      "old_primary": "souffler",
+      "old_primary_freq_rank": 8123,
+      "proposed": "sauter",
+      "proposed_freq_rank": 1415,
+      "kaikki_alternatives": [
+        "péter",
+        "sauter"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 3329,
+      "en": "evenly",
+      "old_primary": "pairement",
+      "old_primary_freq_rank": 99999,
+      "proposed": "également",
+      "proposed_freq_rank": 1765,
+      "kaikki_alternatives": [
+        "également",
+        "équitablement"
+      ],
+      "confidence": "kaikki_only"
+    },
+    {
+      "rank": 3516,
+      "en": "draw",
+      "old_primary": "dessiner",
+      "old_primary_freq_rank": 6633,
+      "proposed": "tirer",
+      "proposed_freq_rank": 747,
+      "kaikki_alternatives": [
+        "dégainer",
+        "attirer",
+        "tirer",
+        "égaliser",
+        "piocher"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 4080,
+      "en": "regular",
+      "old_primary": "régulier",
+      "old_primary_freq_rank": 10194,
+      "proposed": "en ordre",
+      "proposed_freq_rank": 20,
+      "kaikki_alternatives": [
+        "en ordre"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 4244,
+      "en": "raw",
+      "old_primary": "brut",
+      "old_primary_freq_rank": 13904,
+      "proposed": "cru",
+      "proposed_freq_rank": 763,
+      "kaikki_alternatives": [
+        "cru"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 4396,
+      "en": "to base",
+      "old_primary": "baser",
+      "old_primary_freq_rank": 32058,
+      "proposed": "bas",
+      "proposed_freq_rank": 535,
+      "kaikki_alternatives": [
+        "base",
+        "base",
+        "bas",
+        "abject",
+        "indigne"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 4609,
+      "en": "draft",
+      "old_primary": "brouillon",
+      "old_primary_freq_rank": 23319,
+      "proposed": "courant d'air",
+      "proposed_freq_rank": 615,
+      "kaikki_alternatives": [
+        "courant d'air"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 9999,
+      "en": "sheet",
+      "old_primary": "feuille",
+      "old_primary_freq_rank": 5174,
+      "proposed": "écoute",
+      "proposed_freq_rank": 362,
+      "kaikki_alternatives": [
+        "écoute"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 9999,
+      "en": "to trap",
+      "old_primary": "piéger",
+      "old_primary_freq_rank": 5361,
+      "proposed": "piège",
+      "proposed_freq_rank": 1857,
+      "kaikki_alternatives": [
+        "piège",
+        "traquenard",
+        "souricière",
+        "siphon"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 9999,
+      "en": "worm",
+      "old_primary": "ver",
+      "old_primary_freq_rank": 7134,
+      "proposed": "vis sans fin",
+      "proposed_freq_rank": 1330,
+      "kaikki_alternatives": [
+        "vis sans fin"
+      ],
+      "confidence": "kaikki+gt"
+    }
+  ]
+}

@@ -386,8 +386,11 @@
     "rank": 47
   },
   {
-    "fr": "oms",
-    "en": "who",
+    "fr": "qui",
+    "en": [
+      "who",
+      "whom"
+    ],
     "rank": 47
   },
   {
@@ -1820,11 +1823,6 @@
       "to get on"
     ],
     "rank": 188
-  },
-  {
-    "fr": "qui",
-    "en": "whom",
-    "rank": 189
   },
   {
     "fr": "même",
@@ -3546,8 +3544,12 @@
     "rank": 382
   },
   {
-    "fr": "au-deçà",
-    "en": "below",
+    "fr": "en bas",
+    "en": [
+      "below",
+      "down below",
+      "downstairs"
+    ],
     "rank": 383
   },
   {
@@ -6075,14 +6077,6 @@
   {
     "fr": "association",
     "en": "association",
-    "rank": 697
-  },
-  {
-    "fr": "en bas",
-    "en": [
-      "down below",
-      "downstairs"
-    ],
     "rank": 697
   },
   {

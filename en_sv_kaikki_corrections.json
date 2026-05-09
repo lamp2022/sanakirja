@@ -1,0 +1,1061 @@
+{
+  "proposals": [
+    {
+      "en": "this",
+      "sv": "den här",
+      "rank": 12,
+      "_old_primary": "detta",
+      "_kaikki_alternatives": [
+        "den här",
+        "denna",
+        "den"
+      ]
+    },
+    {
+      "en": "can",
+      "sv": "burk",
+      "rank": 13,
+      "_old_primary": "sparka",
+      "_kaikki_alternatives": [
+        "burk"
+      ]
+    },
+    {
+      "en": "to make",
+      "sv": "skapa",
+      "rank": 16,
+      "_old_primary": "att göra",
+      "_kaikki_alternatives": [
+        "skapa",
+        "forma"
+      ]
+    },
+    {
+      "en": "to hold",
+      "sv": "innehålla",
+      "rank": 18,
+      "_old_primary": "att hålla",
+      "_kaikki_alternatives": [
+        "innehålla",
+        "rymma"
+      ]
+    },
+    {
+      "en": "by",
+      "sv": "genom att",
+      "rank": 19,
+      "_old_primary": "av",
+      "_kaikki_alternatives": [
+        "genom att",
+        "vid"
+      ]
+    },
+    {
+      "en": "to say",
+      "sv": "ponera",
+      "rank": 25,
+      "_old_primary": "att säga",
+      "_kaikki_alternatives": [
+        "ponera",
+        "låt oss säga",
+        "låt säga"
+      ]
+    },
+    {
+      "en": "great",
+      "sv": "jättebra",
+      "rank": 29,
+      "_old_primary": "stor",
+      "_kaikki_alternatives": [
+        "jättebra"
+      ]
+    },
+    {
+      "en": "to tell",
+      "sv": "säga",
+      "rank": 30,
+      "_old_primary": "att berätta",
+      "_kaikki_alternatives": [
+        "säga",
+        "avgöra"
+      ]
+    },
+    {
+      "en": "what",
+      "sv": "den",
+      "rank": 31,
+      "_old_primary": "vad",
+      "_kaikki_alternatives": [
+        "den",
+        "vilken"
+      ]
+    },
+    {
+      "en": "tail",
+      "sv": "förföljare",
+      "rank": 46,
+      "_old_primary": "svans",
+      "_kaikki_alternatives": [
+        "förföljare"
+      ]
+    },
+    {
+      "en": "off",
+      "sv": "utanför",
+      "rank": 56,
+      "_old_primary": "av",
+      "_kaikki_alternatives": [
+        "utanför",
+        "vid"
+      ]
+    },
+    {
+      "en": "there",
+      "sv": "där",
+      "rank": 58,
+      "_old_primary": "dit",
+      "_kaikki_alternatives": [
+        "där",
+        "där)"
+      ]
+    },
+    {
+      "en": "work",
+      "sv": "jobba",
+      "rank": 58,
+      "_old_primary": "arbete",
+      "_kaikki_alternatives": [
+        "jobba",
+        "arbeta",
+        "åstadkomma"
+      ]
+    },
+    {
+      "en": "back",
+      "sv": "rygg",
+      "rank": 60,
+      "_old_primary": "tillbaka",
+      "_kaikki_alternatives": [
+        "rygg",
+        "bakände",
+        "slut"
+      ]
+    },
+    {
+      "en": "to give",
+      "sv": "ge efter",
+      "rank": 61,
+      "_old_primary": "att ge",
+      "_kaikki_alternatives": [
+        "ge efter"
+      ]
+    },
+    {
+      "en": "to yield",
+      "sv": "väja",
+      "rank": 61,
+      "_old_primary": "att ge efter",
+      "_kaikki_alternatives": [
+        "väja",
+        "ge vika",
+        "utbyte"
+      ]
+    },
+    {
+      "en": "mind",
+      "sv": "förstånd",
+      "rank": 62,
+      "_old_primary": "sinne",
+      "_kaikki_alternatives": [
+        "förstånd",
+        "intellekt",
+        "psyke"
+      ]
+    },
+    {
+      "en": "to go",
+      "sv": "ljuda",
+      "rank": 71,
+      "_old_primary": "att gå",
+      "_kaikki_alternatives": [
+        "ljuda",
+        "låta",
+        "säga"
+      ]
+    },
+    {
+      "en": "to nor",
+      "sv": "eller",
+      "rank": 76,
+      "_old_primary": "till nor",
+      "_kaikki_alternatives": [
+        "eller"
+      ]
+    },
+    {
+      "en": "right",
+      "sv": "riktigt",
+      "rank": 77,
+      "_old_primary": "rätt",
+      "_kaikki_alternatives": [
+        "riktigt"
+      ]
+    },
+    {
+      "en": "although",
+      "sv": "men",
+      "rank": 79,
+      "_old_primary": "även om",
+      "_kaikki_alternatives": [
+        "men"
+      ]
+    },
+    {
+      "en": "cabinet",
+      "sv": "kabinett",
+      "rank": 82,
+      "_old_primary": "skåp",
+      "_kaikki_alternatives": [
+        "kabinett",
+        "regering",
+        "ministär"
+      ]
+    },
+    {
+      "en": "to know",
+      "sv": "känna",
+      "rank": 84,
+      "_old_primary": "att veta",
+      "_kaikki_alternatives": [
+        "känna",
+        "känna till",
+        "veta om"
+      ]
+    },
+    {
+      "en": "really",
+      "sv": "verkligen?",
+      "rank": 85,
+      "_old_primary": "verkligen",
+      "_kaikki_alternatives": [
+        "verkligen?",
+        "jaså?",
+        "säger du det?"
+      ]
+    },
+    {
+      "en": "minor",
+      "sv": "smärre",
+      "rank": 86,
+      "_old_primary": "junior",
+      "_kaikki_alternatives": [
+        "smärre"
+      ]
+    },
+    {
+      "en": "small",
+      "sv": "liten",
+      "rank": 86,
+      "_old_primary": "små",
+      "_kaikki_alternatives": [
+        "liten"
+      ]
+    },
+    {
+      "en": "next",
+      "sv": "näst",
+      "rank": 89,
+      "_old_primary": "nästa",
+      "_kaikki_alternatives": [
+        "näst"
+      ]
+    },
+    {
+      "en": "second",
+      "sv": "stödjande",
+      "rank": 91,
+      "_old_primary": "andra",
+      "_kaikki_alternatives": [
+        "stödjande"
+      ]
+    },
+    {
+      "en": "little",
+      "sv": "ringa",
+      "rank": 94,
+      "_old_primary": "liten",
+      "_kaikki_alternatives": [
+        "ringa",
+        "föga"
+      ]
+    },
+    {
+      "en": "to belong",
+      "sv": "höra",
+      "rank": 96,
+      "_old_primary": "att tillhöra",
+      "_kaikki_alternatives": [
+        "höra",
+        "höra hemma"
+      ]
+    },
+    {
+      "en": "lady",
+      "sv": "Fru",
+      "rank": 98,
+      "_old_primary": "lady",
+      "_kaikki_alternatives": [
+        "Fru"
+      ]
+    },
+    {
+      "en": "her",
+      "sv": "hennes",
+      "rank": 100,
+      "_old_primary": "henne",
+      "_kaikki_alternatives": [
+        "hennes",
+        "sin"
+      ]
+    },
+    {
+      "en": "quite",
+      "sv": "fullständigt",
+      "rank": 101,
+      "_old_primary": "ganska",
+      "_kaikki_alternatives": [
+        "fullständigt",
+        "helt",
+        "komplett"
+      ]
+    },
+    {
+      "en": "leave",
+      "sv": "åka",
+      "rank": 102,
+      "_old_primary": "lämna",
+      "_kaikki_alternatives": [
+        "åka",
+        "avresa",
+        "ge sig av"
+      ]
+    },
+    {
+      "en": "to leave",
+      "sv": "åka",
+      "rank": 102,
+      "_old_primary": "att lämna",
+      "_kaikki_alternatives": [
+        "åka",
+        "avresa",
+        "ge sig av"
+      ]
+    },
+    {
+      "en": "today",
+      "sv": "idag",
+      "rank": 113,
+      "_old_primary": "i dag",
+      "_kaikki_alternatives": [
+        "idag"
+      ]
+    },
+    {
+      "en": "to state",
+      "sv": "tillstånd",
+      "rank": 115,
+      "_old_primary": "att ange",
+      "_kaikki_alternatives": [
+        "tillstånd",
+        "påstå"
+      ]
+    },
+    {
+      "en": "to show",
+      "sv": "uppvisning",
+      "rank": 117,
+      "_old_primary": "att visa",
+      "_kaikki_alternatives": [
+        "uppvisning",
+        "utställning"
+      ]
+    },
+    {
+      "en": "to talk",
+      "sv": "konversation",
+      "rank": 121,
+      "_old_primary": "att prata",
+      "_kaikki_alternatives": [
+        "konversation",
+        "prat",
+        "snack"
+      ]
+    },
+    {
+      "en": "place",
+      "sv": "placera sig",
+      "rank": 123,
+      "_old_primary": "plats",
+      "_kaikki_alternatives": [
+        "placera sig"
+      ]
+    },
+    {
+      "en": "score",
+      "sv": "tjog",
+      "rank": 125,
+      "_old_primary": "göra",
+      "_kaikki_alternatives": [
+        "tjog"
+      ]
+    },
+    {
+      "en": "to pay",
+      "sv": "betala sig",
+      "rank": 134,
+      "_old_primary": "att betala",
+      "_kaikki_alternatives": [
+        "betala sig",
+        "löna sig"
+      ]
+    },
+    {
+      "en": "to require",
+      "sv": "avkräva",
+      "rank": 135,
+      "_old_primary": "att kräva",
+      "_kaikki_alternatives": [
+        "avkräva"
+      ]
+    },
+    {
+      "en": "boy",
+      "sv": "kille",
+      "rank": 136,
+      "_old_primary": "pojke",
+      "_kaikki_alternatives": [
+        "kille",
+        "grabb"
+      ]
+    },
+    {
+      "en": "to kill",
+      "sv": "eliminera",
+      "rank": 149,
+      "_old_primary": "att döda",
+      "_kaikki_alternatives": [
+        "eliminera",
+        "förinta",
+        "förstöra"
+      ]
+    },
+    {
+      "en": "down",
+      "sv": "lodrätt",
+      "rank": 162,
+      "_old_primary": "ner",
+      "_kaikki_alternatives": [
+        "lodrätt"
+      ]
+    },
+    {
+      "en": "to escort",
+      "sv": "ledsagare",
+      "rank": 162,
+      "_old_primary": "att eskortera",
+      "_kaikki_alternatives": [
+        "ledsagare"
+      ]
+    },
+    {
+      "en": "cause",
+      "sv": "orsak",
+      "rank": 167,
+      "_old_primary": "orsaka",
+      "_kaikki_alternatives": [
+        "orsak",
+        "grund"
+      ]
+    },
+    {
+      "en": "reason",
+      "sv": "anledning",
+      "rank": 167,
+      "_old_primary": "förnuft",
+      "_kaikki_alternatives": [
+        "anledning",
+        "skäl",
+        "orsak"
+      ]
+    },
+    {
+      "en": "case",
+      "sv": "hölje",
+      "rank": 170,
+      "_old_primary": "fall",
+      "_kaikki_alternatives": [
+        "hölje"
+      ]
+    },
+    {
+      "en": "to conduct",
+      "sv": "anföra",
+      "rank": 172,
+      "_old_primary": "att bedriva",
+      "_kaikki_alternatives": [
+        "anföra",
+        "dirigera",
+        "leda"
+      ]
+    },
+    {
+      "en": "still",
+      "sv": "stillbild",
+      "rank": 178,
+      "_old_primary": "fortfarande",
+      "_kaikki_alternatives": [
+        "stillbild"
+      ]
+    },
+    {
+      "en": "season",
+      "sv": "årstid",
+      "rank": 186,
+      "_old_primary": "säsong",
+      "_kaikki_alternatives": [
+        "årstid"
+      ]
+    },
+    {
+      "en": "term",
+      "sv": "mandatperiod",
+      "rank": 186,
+      "_old_primary": "kalla",
+      "_kaikki_alternatives": [
+        "mandatperiod",
+        "term"
+      ]
+    },
+    {
+      "en": "state",
+      "sv": "tillstånd",
+      "rank": 193,
+      "_old_primary": "ange",
+      "_kaikki_alternatives": [
+        "tillstånd",
+        "påstå"
+      ]
+    },
+    {
+      "en": "current",
+      "sv": "ström",
+      "rank": 202,
+      "_old_primary": "nuvarande",
+      "_kaikki_alternatives": [
+        "ström"
+      ]
+    },
+    {
+      "en": "to estimate",
+      "sv": "uppskattning",
+      "rank": 203,
+      "_old_primary": "att uppskatta",
+      "_kaikki_alternatives": [
+        "uppskattning",
+        "skattning"
+      ]
+    },
+    {
+      "en": "tall",
+      "sv": "hög",
+      "rank": 208,
+      "_old_primary": "lång",
+      "_kaikki_alternatives": [
+        "hög"
+      ]
+    },
+    {
+      "en": "to mean",
+      "sv": "tänka",
+      "rank": 211,
+      "_old_primary": "att betyda",
+      "_kaikki_alternatives": [
+        "tänka"
+      ]
+    },
+    {
+      "en": "to answer",
+      "sv": "svar",
+      "rank": 212,
+      "_old_primary": "att svara",
+      "_kaikki_alternatives": [
+        "svar"
+      ]
+    },
+    {
+      "en": "run",
+      "sv": "springa",
+      "rank": 217,
+      "_old_primary": "gå",
+      "_kaikki_alternatives": [
+        "springa",
+        "löpa",
+        "rinna"
+      ]
+    },
+    {
+      "en": "to chase",
+      "sv": "jakt",
+      "rank": 217,
+      "_old_primary": "att jaga",
+      "_kaikki_alternatives": [
+        "jakt"
+      ]
+    },
+    {
+      "en": "hard",
+      "sv": "svår",
+      "rank": 218,
+      "_old_primary": "hård",
+      "_kaikki_alternatives": [
+        "svår",
+        "besvärlig"
+      ]
+    },
+    {
+      "en": "matter",
+      "sv": "materia",
+      "rank": 218,
+      "_old_primary": "var",
+      "_kaikki_alternatives": [
+        "materia"
+      ]
+    },
+    {
+      "en": "big",
+      "sv": "vuxen",
+      "rank": 220,
+      "_old_primary": "stor",
+      "_kaikki_alternatives": [
+        "vuxen"
+      ]
+    },
+    {
+      "en": "to find",
+      "sv": "finna",
+      "rank": 233,
+      "_old_primary": "att hitta",
+      "_kaikki_alternatives": [
+        "finna",
+        "konstatera"
+      ]
+    },
+    {
+      "en": "deal",
+      "sv": "dela",
+      "rank": 240,
+      "_old_primary": "handla",
+      "_kaikki_alternatives": [
+        "dela",
+        "ge"
+      ]
+    },
+    {
+      "en": "to call",
+      "sv": "besöka",
+      "rank": 240,
+      "_old_primary": "att ringa",
+      "_kaikki_alternatives": [
+        "besöka",
+        "hälsa på"
+      ]
+    },
+    {
+      "en": "agreement",
+      "sv": "kongruens",
+      "rank": 242,
+      "_old_primary": "avtal",
+      "_kaikki_alternatives": [
+        "kongruens"
+      ]
+    },
+    {
+      "en": "hell",
+      "sv": "helvete!",
+      "rank": 249,
+      "_old_primary": "helvete",
+      "_kaikki_alternatives": [
+        "helvete!"
+      ]
+    },
+    {
+      "en": "limb",
+      "sv": "kvista",
+      "rank": 258,
+      "_old_primary": "lem",
+      "_kaikki_alternatives": [
+        "kvista"
+      ]
+    },
+    {
+      "en": "straight",
+      "sv": "rak",
+      "rank": 263,
+      "_old_primary": "rakt",
+      "_kaikki_alternatives": [
+        "rak"
+      ]
+    },
+    {
+      "en": "issue",
+      "sv": "utmynna",
+      "rank": 273,
+      "_old_primary": "utfärda",
+      "_kaikki_alternatives": [
+        "utmynna"
+      ]
+    },
+    {
+      "en": "to burn",
+      "sv": "brinna",
+      "rank": 283,
+      "_old_primary": "att bränna",
+      "_kaikki_alternatives": [
+        "brinna"
+      ]
+    },
+    {
+      "en": "to manage",
+      "sv": "lyckas",
+      "rank": 288,
+      "_old_primary": "att hantera",
+      "_kaikki_alternatives": [
+        "lyckas"
+      ]
+    },
+    {
+      "en": "gun",
+      "sv": "bössa",
+      "rank": 290,
+      "_old_primary": "pistol",
+      "_kaikki_alternatives": [
+        "bössa"
+      ]
+    },
+    {
+      "en": "to live",
+      "sv": "bo",
+      "rank": 295,
+      "_old_primary": "att leva",
+      "_kaikki_alternatives": [
+        "bo"
+      ]
+    },
+    {
+      "en": "to cause",
+      "sv": "orsak",
+      "rank": 298,
+      "_old_primary": "att orsaka",
+      "_kaikki_alternatives": [
+        "orsak",
+        "grund"
+      ]
+    },
+    {
+      "en": "family",
+      "sv": "börd",
+      "rank": 309,
+      "_old_primary": "familj",
+      "_kaikki_alternatives": [
+        "börd"
+      ]
+    },
+    {
+      "en": "to ask",
+      "sv": "be om",
+      "rank": 326,
+      "_old_primary": "att fråga",
+      "_kaikki_alternatives": [
+        "be om"
+      ]
+    },
+    {
+      "en": "power",
+      "sv": "effekt",
+      "rank": 327,
+      "_old_primary": "driva",
+      "_kaikki_alternatives": [
+        "effekt"
+      ]
+    },
+    {
+      "en": "paint",
+      "sv": "färg",
+      "rank": 330,
+      "_old_primary": "måla",
+      "_kaikki_alternatives": [
+        "färg",
+        "målarfärg"
+      ]
+    },
+    {
+      "en": "bad",
+      "sv": "opassande",
+      "rank": 331,
+      "_old_primary": "dålig",
+      "_kaikki_alternatives": [
+        "opassande"
+      ]
+    },
+    {
+      "en": "spring",
+      "sv": "vår",
+      "rank": 345,
+      "_old_primary": "fjäder",
+      "_kaikki_alternatives": [
+        "vår"
+      ]
+    },
+    {
+      "en": "point",
+      "sv": "streck",
+      "rank": 346,
+      "_old_primary": "punkt",
+      "_kaikki_alternatives": [
+        "streck"
+      ]
+    },
+    {
+      "en": "to stop",
+      "sv": "stanna",
+      "rank": 346,
+      "_old_primary": "att sluta",
+      "_kaikki_alternatives": [
+        "stanna",
+        "stoppa",
+        "stopp"
+      ]
+    },
+    {
+      "en": "voice",
+      "sv": "tala",
+      "rank": 351,
+      "_old_primary": "röst",
+      "_kaikki_alternatives": [
+        "tala"
+      ]
+    },
+    {
+      "en": "service",
+      "sv": "betjäna",
+      "rank": 353,
+      "_old_primary": "service",
+      "_kaikki_alternatives": [
+        "betjäna"
+      ]
+    },
+    {
+      "en": "condition",
+      "sv": "tillstånd",
+      "rank": 355,
+      "_old_primary": "skick",
+      "_kaikki_alternatives": [
+        "tillstånd",
+        "kondition"
+      ]
+    },
+    {
+      "en": "level",
+      "sv": "jämn",
+      "rank": 356,
+      "_old_primary": "nivå",
+      "_kaikki_alternatives": [
+        "jämn",
+        "plan"
+      ]
+    },
+    {
+      "en": "full",
+      "sv": "fullödig",
+      "rank": 362,
+      "_old_primary": "full",
+      "_kaikki_alternatives": [
+        "fullödig",
+        "fullständig"
+      ]
+    },
+    {
+      "en": "open",
+      "sv": "öppen",
+      "rank": 368,
+      "_old_primary": "börja",
+      "_kaikki_alternatives": [
+        "öppen",
+        "öppna",
+        "inleda"
+      ]
+    },
+    {
+      "en": "to point",
+      "sv": "streck",
+      "rank": 378,
+      "_old_primary": "att peka",
+      "_kaikki_alternatives": [
+        "streck"
+      ]
+    },
+    {
+      "en": "like",
+      "sv": "tycka om",
+      "rank": 384,
+      "_old_primary": "som",
+      "_kaikki_alternatives": [
+        "tycka om",
+        "gilla"
+      ]
+    },
+    {
+      "en": "far",
+      "sv": "ytterst",
+      "rank": 393,
+      "_old_primary": "långt",
+      "_kaikki_alternatives": [
+        "ytterst",
+        "extrem"
+      ]
+    },
+    {
+      "en": "to request",
+      "sv": "anhålla om",
+      "rank": 400,
+      "_old_primary": "att begära",
+      "_kaikki_alternatives": [
+        "anhålla om",
+        "be",
+        "bedja"
+      ]
+    },
+    {
+      "en": "rock",
+      "sv": "gunga",
+      "rank": 410,
+      "_old_primary": "sten",
+      "_kaikki_alternatives": [
+        "gunga",
+        "vagga",
+        "vyssja"
+      ]
+    },
+    {
+      "en": "forward",
+      "sv": "främre",
+      "rank": 414,
+      "_old_primary": "fram",
+      "_kaikki_alternatives": [
+        "främre",
+        "framåt"
+      ]
+    },
+    {
+      "en": "discourse",
+      "sv": "diskurs",
+      "rank": 415,
+      "_old_primary": "samtala",
+      "_kaikki_alternatives": [
+        "diskurs"
+      ]
+    },
+    {
+      "en": "late",
+      "sv": "sen",
+      "rank": 430,
+      "_old_primary": "sent",
+      "_kaikki_alternatives": [
+        "sen"
+      ]
+    },
+    {
+      "en": "to love",
+      "sv": "kärlek",
+      "rank": 439,
+      "_old_primary": "att älska",
+      "_kaikki_alternatives": [
+        "kärlek"
+      ]
+    },
+    {
+      "en": "to chat",
+      "sv": "samtal",
+      "rank": 441,
+      "_old_primary": "att chatta",
+      "_kaikki_alternatives": [
+        "samtal"
+      ]
+    },
+    {
+      "en": "belong",
+      "sv": "höra",
+      "rank": 449,
+      "_old_primary": "tillhöra",
+      "_kaikki_alternatives": [
+        "höra",
+        "höra hemma"
+      ]
+    },
+    {
+      "en": "commission",
+      "sv": "kommission",
+      "rank": 466,
+      "_old_primary": "provision",
+      "_kaikki_alternatives": [
+        "kommission"
+      ]
+    },
+    {
+      "en": "dear",
+      "sv": "kära",
+      "rank": 476,
+      "_old_primary": "kär",
+      "_kaikki_alternatives": [
+        "kära"
+      ]
+    },
+    {
+      "en": "show",
+      "sv": "uppvisning",
+      "rank": 476,
+      "_old_primary": "visa",
+      "_kaikki_alternatives": [
+        "uppvisning",
+        "utställning"
+      ]
+    },
+    {
+      "en": "development",
+      "sv": "utbyggnad",
+      "rank": 484,
+      "_old_primary": "utveckling",
+      "_kaikki_alternatives": [
+        "utbyggnad"
+      ]
+    },
+    {
+      "en": "to dispatch",
+      "sv": "omintetgöra",
+      "rank": 490,
+      "_old_primary": "att skicka",
+      "_kaikki_alternatives": [
+        "omintetgöra"
+      ]
+    },
+    {
+      "en": "free",
+      "sv": "fri",
+      "rank": 498,
+      "_old_primary": "gratis",
+      "_kaikki_alternatives": [
+        "fri"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "corrections": [
+    {
+      "rank": 86,
+      "en": "minor",
+      "old_primary": "unerheblich",
+      "old_primary_freq_rank": 32819,
+      "proposed": "klein",
+      "proposed_freq_rank": 1017,
+      "kaikki_alternatives": [
+        "gering",
+        "geringfügig",
+        "klein",
+        "unbedeutend",
+        "untergeordnet"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 111,
+      "en": "to arise",
+      "old_primary": "entstehen",
+      "old_primary_freq_rank": 7365,
+      "proposed": "sich erheben",
+      "proposed_freq_rank": 46,
+      "kaikki_alternatives": [
+        "sich erheben",
+        "aufstehen"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 115,
+      "en": "to state",
+      "old_primary": "angeben",
+      "old_primary_freq_rank": 9615,
+      "proposed": "erklären",
+      "proposed_freq_rank": 744,
+      "kaikki_alternatives": [
+        "Zustand",
+        "erklären"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 288,
+      "en": "to manage",
+      "old_primary": "verwalten",
+      "old_primary_freq_rank": 20715,
+      "proposed": "schaffen",
+      "proposed_freq_rank": 665,
+      "kaikki_alternatives": [
+        "hinbekommen",
+        "schaffen"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 298,
+      "en": "to cause",
+      "old_primary": "verursachen",
+      "old_primary_freq_rank": 6005,
+      "proposed": "Grund",
+      "proposed_freq_rank": 464,
+      "kaikki_alternatives": [
+        "Ursache",
+        "Anlass",
+        "Grund"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 346,
+      "en": "to stop",
+      "old_primary": "aufzuhören",
+      "old_primary_freq_rank": 6779,
+      "proposed": "Punkt",
+      "proposed_freq_rank": 1183,
+      "kaikki_alternatives": [
+        "anhalten",
+        "stoppen",
+        "aufhalten",
+        "Stopper",
+        "Punkt"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 396,
+      "en": "particularly",
+      "old_primary": "insbesondere",
+      "old_primary_freq_rank": 9031,
+      "proposed": "besonders",
+      "proposed_freq_rank": 832,
+      "kaikki_alternatives": [
+        "besonders"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 407,
+      "en": "to create",
+      "old_primary": "erstellen",
+      "old_primary_freq_rank": 8939,
+      "proposed": "schaffen",
+      "proposed_freq_rank": 665,
+      "kaikki_alternatives": [
+        "schaffen",
+        "kreieren"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 541,
+      "en": "to pretend",
+      "old_primary": "vorgeben",
+      "old_primary_freq_rank": 13057,
+      "proposed": "so tun, als ob",
+      "proposed_freq_rank": 27,
+      "kaikki_alternatives": [
+        "so tun, als ob"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 590,
+      "en": "to stuff",
+      "old_primary": "stopfen",
+      "old_primary_freq_rank": 9250,
+      "proposed": "Sachen",
+      "proposed_freq_rank": 556,
+      "kaikki_alternatives": [
+        "Sachen",
+        "Kram",
+        "Zeug",
+        "Ding",
+        "Stoff"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 614,
+      "en": "to clean",
+      "old_primary": "reinigen",
+      "old_primary_freq_rank": 6979,
+      "proposed": "rein",
+      "proposed_freq_rank": 279,
+      "kaikki_alternatives": [
+        "sauber",
+        "rein",
+        "clean"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 614,
+      "en": "to increase",
+      "old_primary": "erhöhen",
+      "old_primary_freq_rank": 5170,
+      "proposed": "steigen",
+      "proposed_freq_rank": 1854,
+      "kaikki_alternatives": [
+        "zunehmen",
+        "steigen",
+        "ansteigen",
+        "wachsen",
+        "anwachsen"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 734,
+      "en": "to condemn",
+      "old_primary": "verurteilen",
+      "old_primary_freq_rank": 6443,
+      "proposed": "für abrissreif erklären",
+      "proposed_freq_rank": 31,
+      "kaikki_alternatives": [
+        "für abrissreif erklären"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 850,
+      "en": "to vote",
+      "old_primary": "abstimmen",
+      "old_primary_freq_rank": 10316,
+      "proposed": "Stimme",
+      "proposed_freq_rank": 848,
+      "kaikki_alternatives": [
+        "Stimme",
+        "Votum"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 880,
+      "en": "American",
+      "old_primary": "amerikanisch",
+      "old_primary_freq_rank": 16362,
+      "proposed": "Amerikaner",
+      "proposed_freq_rank": 1911,
+      "kaikki_alternatives": [
+        "Amerikaner",
+        "Amerikanerin"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 948,
+      "en": "vertex",
+      "old_primary": "scheitel",
+      "old_primary_freq_rank": 38505,
+      "proposed": "Ecke",
+      "proposed_freq_rank": 1655,
+      "kaikki_alternatives": [
+        "Spitze",
+        "Gipfel",
+        "Scheitelpunkt",
+        "Gipfelpunkt",
+        "Scheitelpunkt"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 1066,
+      "en": "to draw",
+      "old_primary": "zeichnen",
+      "old_primary_freq_rank": 6930,
+      "proposed": "auf sich ziehen",
+      "proposed_freq_rank": 23,
+      "kaikki_alternatives": [
+        "ziehen",
+        "herausziehen",
+        "zücken",
+        "blankziehen",
+        "anziehen"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1141,
+      "en": "foul",
+      "old_primary": "foul",
+      "old_primary_freq_rank": 16063,
+      "proposed": "schlecht",
+      "proposed_freq_rank": 558,
+      "kaikki_alternatives": [
+        "schlecht",
+        "ungünstig"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1142,
+      "en": "to capsize",
+      "old_primary": "kentern",
+      "old_primary_freq_rank": 47445,
+      "proposed": "zum Kentern bringen",
+      "proposed_freq_rank": 105,
+      "kaikki_alternatives": [
+        "zum Kentern bringen"
+      ],
+      "confidence": "gt_only"
+    },
+    {
+      "rank": 1201,
+      "en": "to appeal",
+      "old_primary": "Berufung",
+      "old_primary_freq_rank": 6983,
+      "proposed": "in Berufung gehen",
+      "proposed_freq_rank": 16,
+      "kaikki_alternatives": [
+        "in Berufung gehen"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1343,
+      "en": "charge",
+      "old_primary": "Aufladung",
+      "old_primary_freq_rank": 99999,
+      "proposed": "laden",
+      "proposed_freq_rank": 868,
+      "kaikki_alternatives": [
+        "Sturmangriff",
+        "beauftragen",
+        "verpflichten",
+        "zuweisen",
+        "anweisen"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1493,
+      "en": "vote",
+      "old_primary": "Abstimmung",
+      "old_primary_freq_rank": 8301,
+      "proposed": "Stimme",
+      "proposed_freq_rank": 848,
+      "kaikki_alternatives": [
+        "Stimme",
+        "Votum"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1539,
+      "en": "to attack",
+      "old_primary": "anzugreifen",
+      "old_primary_freq_rank": 7316,
+      "proposed": "Angriff",
+      "proposed_freq_rank": 1607,
+      "kaikki_alternatives": [
+        "Attacke",
+        "Angriff"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1608,
+      "en": "to dispute",
+      "old_primary": "zu bestreiten",
+      "old_primary_freq_rank": 13475,
+      "proposed": "Streit",
+      "proposed_freq_rank": 1819,
+      "kaikki_alternatives": [
+        "Streit",
+        "Disput"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1634,
+      "en": "to charge",
+      "old_primary": "aufzuladen",
+      "old_primary_freq_rank": 34967,
+      "proposed": "laden",
+      "proposed_freq_rank": 868,
+      "kaikki_alternatives": [
+        "Sturmangriff",
+        "beauftragen",
+        "verpflichten",
+        "zuweisen",
+        "anweisen"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1865,
+      "en": "appeal",
+      "old_primary": "Berufung",
+      "old_primary_freq_rank": 6983,
+      "proposed": "in Berufung gehen",
+      "proposed_freq_rank": 16,
+      "kaikki_alternatives": [
+        "in Berufung gehen"
+      ],
+      "confidence": "kaikki_only"
+    },
+    {
+      "rank": 1924,
+      "en": "square",
+      "old_primary": "Quadrat",
+      "old_primary_freq_rank": 20299,
+      "proposed": "Platz",
+      "proposed_freq_rank": 614,
+      "kaikki_alternatives": [
+        "Platz",
+        "rechtwinklig"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 1992,
+      "en": "reading",
+      "old_primary": "Lektüre",
+      "old_primary_freq_rank": 20428,
+      "proposed": "Lesen",
+      "proposed_freq_rank": 873,
+      "kaikki_alternatives": [
+        "Lesen",
+        "Reading"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 2625,
+      "en": "increase",
+      "old_primary": "Zunahme",
+      "old_primary_freq_rank": 43855,
+      "proposed": "steigen",
+      "proposed_freq_rank": 1854,
+      "kaikki_alternatives": [
+        "zunehmen",
+        "steigen",
+        "ansteigen",
+        "wachsen",
+        "anwachsen"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 2707,
+      "en": "release",
+      "old_primary": "Entlassung",
+      "old_primary_freq_rank": 7881,
+      "proposed": "Entlassen",
+      "proposed_freq_rank": 1985,
+      "kaikki_alternatives": [
+        "Entlassen",
+        "loslassen"
+      ],
+      "confidence": "kaikki_only"
+    },
+    {
+      "rank": 2774,
+      "en": "to light",
+      "old_primary": "beleuchten",
+      "old_primary_freq_rank": 32603,
+      "proposed": "leicht",
+      "proposed_freq_rank": 750,
+      "kaikki_alternatives": [
+        "Lichtquelle",
+        "Licht",
+        "Flamme",
+        "leicht"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 2812,
+      "en": "kick",
+      "old_primary": "Kick",
+      "old_primary_freq_rank": 11302,
+      "proposed": "treten",
+      "proposed_freq_rank": 1611,
+      "kaikki_alternatives": [
+        "treten",
+        "kicken"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 2875,
+      "en": "solid",
+      "old_primary": "solide",
+      "old_primary_freq_rank": 11240,
+      "proposed": "fest",
+      "proposed_freq_rank": 608,
+      "kaikki_alternatives": [
+        "fest",
+        "einfarbig"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 3012,
+      "en": "to incur",
+      "old_primary": "entstehen",
+      "old_primary_freq_rank": 7365,
+      "proposed": "sich aussetzen (etwas)",
+      "proposed_freq_rank": 46,
+      "kaikki_alternatives": [
+        "zufügen",
+        "sich aussetzen (etwas)",
+        "sich zuziehen (etwas)",
+        "sich einhandeln (etwas)",
+        "(etwas) auf sich nehmen"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 3193,
+      "en": "to flow",
+      "old_primary": "fließen",
+      "old_primary_freq_rank": 7919,
+      "proposed": "Fluss",
+      "proposed_freq_rank": 1954,
+      "kaikki_alternatives": [
+        "Fluss",
+        "Tätigkeitsrausch"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 3783,
+      "en": "champion",
+      "old_primary": "Champion",
+      "old_primary_freq_rank": 5841,
+      "proposed": "Meister",
+      "proposed_freq_rank": 940,
+      "kaikki_alternatives": [
+        "Sieger",
+        "Siegerin",
+        "Gewinner",
+        "Gewinnerin",
+        "Meister"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 3955,
+      "en": "communication",
+      "old_primary": "kommunikation",
+      "old_primary_freq_rank": 5411,
+      "proposed": "Verbindung",
+      "proposed_freq_rank": 1115,
+      "kaikki_alternatives": [
+        "Verbindung"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 4341,
+      "en": "to murder",
+      "old_primary": "morden",
+      "old_primary_freq_rank": 5493,
+      "proposed": "Mord",
+      "proposed_freq_rank": 909,
+      "kaikki_alternatives": [
+        "Mord",
+        "Mord"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 4364,
+      "en": "to upset",
+      "old_primary": "verärgern",
+      "old_primary_freq_rank": 9540,
+      "proposed": "nervös",
+      "proposed_freq_rank": 1324,
+      "kaikki_alternatives": [
+        "verstimmt",
+        "gereizt",
+        "nervös",
+        "verkorkst",
+        "verdorben"
+      ],
+      "confidence": "kaikki+gt"
+    },
+    {
+      "rank": 4609,
+      "en": "draft",
+      "old_primary": "Entwurf",
+      "old_primary_freq_rank": 9921,
+      "proposed": "Zug",
+      "proposed_freq_rank": 1072,
+      "kaikki_alternatives": [
+        "Zug",
+        "Luftzug",
+        "Durchzug",
+        "Zugluft",
+        "auswählen"
+      ],
+      "confidence": "kaikki+gt"
+    }
+  ]
+}

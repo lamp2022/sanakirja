@@ -1,0 +1,1058 @@
+{
+  "proposals": [
+    {
+      "en": "so",
+      "fr": "tellement",
+      "rank": 7,
+      "_old_primary": "bien",
+      "_kaikki_alternatives": [
+        "tellement",
+        "vraiment",
+        "si"
+      ]
+    },
+    {
+      "en": "only",
+      "fr": "mais",
+      "rank": 9,
+      "_old_primary": "seulement",
+      "_kaikki_alternatives": [
+        "mais"
+      ]
+    },
+    {
+      "en": "this",
+      "fr": "ce",
+      "rank": 12,
+      "_old_primary": "ça",
+      "_kaikki_alternatives": [
+        "ce",
+        "cette",
+        "ce ... ci"
+      ]
+    },
+    {
+      "en": "can",
+      "fr": "bidon",
+      "rank": 13,
+      "_old_primary": "peut",
+      "_kaikki_alternatives": [
+        "bidon",
+        "canette"
+      ]
+    },
+    {
+      "en": "to hold",
+      "fr": "contenir",
+      "rank": 18,
+      "_old_primary": "tenir",
+      "_kaikki_alternatives": [
+        "contenir"
+      ]
+    },
+    {
+      "en": "by",
+      "fr": "par",
+      "rank": 19,
+      "_old_primary": "de",
+      "_kaikki_alternatives": [
+        "par",
+        "en",
+        "au moyen de"
+      ]
+    },
+    {
+      "en": "to say",
+      "fr": "disons",
+      "rank": 25,
+      "_old_primary": "dire",
+      "_kaikki_alternatives": [
+        "disons"
+      ]
+    },
+    {
+      "en": "to tell",
+      "fr": "se voir",
+      "rank": 30,
+      "_old_primary": "dire",
+      "_kaikki_alternatives": [
+        "se voir",
+        "discerner"
+      ]
+    },
+    {
+      "en": "much",
+      "fr": "beaucoup",
+      "rank": 33,
+      "_old_primary": "bien",
+      "_kaikki_alternatives": [
+        "beaucoup"
+      ]
+    },
+    {
+      "en": "who",
+      "fr": "qui",
+      "rank": 47,
+      "_old_primary": "oms",
+      "_kaikki_alternatives": [
+        "qui"
+      ]
+    },
+    {
+      "en": "anyway",
+      "fr": "bref",
+      "rank": 49,
+      "_old_primary": "de toute façon",
+      "_kaikki_alternatives": [
+        "bref"
+      ]
+    },
+    {
+      "en": "however",
+      "fr": "peu importe",
+      "rank": 49,
+      "_old_primary": "si",
+      "_kaikki_alternatives": [
+        "peu importe"
+      ]
+    },
+    {
+      "en": "work",
+      "fr": "travailler",
+      "rank": 58,
+      "_old_primary": "travail",
+      "_kaikki_alternatives": [
+        "travailler",
+        "bosser",
+        "faire"
+      ]
+    },
+    {
+      "en": "clear",
+      "fr": "raser",
+      "rank": 62,
+      "_old_primary": "clair",
+      "_kaikki_alternatives": [
+        "raser",
+        "déboiser"
+      ]
+    },
+    {
+      "en": "to go",
+      "fr": "faire",
+      "rank": 71,
+      "_old_primary": "aller",
+      "_kaikki_alternatives": [
+        "faire"
+      ]
+    },
+    {
+      "en": "area",
+      "fr": "domaine",
+      "rank": 75,
+      "_old_primary": "zone",
+      "_kaikki_alternatives": [
+        "domaine"
+      ]
+    },
+    {
+      "en": "to nor",
+      "fr": "ni",
+      "rank": 76,
+      "_old_primary": "à ni",
+      "_kaikki_alternatives": [
+        "ni"
+      ]
+    },
+    {
+      "en": "although",
+      "fr": "mais",
+      "rank": 79,
+      "_old_primary": "bien que",
+      "_kaikki_alternatives": [
+        "mais"
+      ]
+    },
+    {
+      "en": "cabinet",
+      "fr": "cabinet",
+      "rank": 82,
+      "_old_primary": "armoire",
+      "_kaikki_alternatives": [
+        "cabinet"
+      ]
+    },
+    {
+      "en": "to act",
+      "fr": "acte",
+      "rank": 83,
+      "_old_primary": "agir",
+      "_kaikki_alternatives": [
+        "acte"
+      ]
+    },
+    {
+      "en": "to know",
+      "fr": "connaître",
+      "rank": 84,
+      "_old_primary": "savoir",
+      "_kaikki_alternatives": [
+        "connaître",
+        "connaitre"
+      ]
+    },
+    {
+      "en": "out",
+      "fr": "loin",
+      "rank": 93,
+      "_old_primary": "dehors",
+      "_kaikki_alternatives": [
+        "loin",
+        "hors",
+        "à fond"
+      ]
+    },
+    {
+      "en": "little",
+      "fr": "peu",
+      "rank": 94,
+      "_old_primary": "petit",
+      "_kaikki_alternatives": [
+        "peu",
+        "pas beaucoup de"
+      ]
+    },
+    {
+      "en": "to belong",
+      "fr": "avoir sa place",
+      "rank": 96,
+      "_old_primary": "appartenir",
+      "_kaikki_alternatives": [
+        "avoir sa place"
+      ]
+    },
+    {
+      "en": "quite",
+      "fr": "tout à fait",
+      "rank": 101,
+      "_old_primary": "assez",
+      "_kaikki_alternatives": [
+        "tout à fait",
+        "complètement",
+        "vraiment"
+      ]
+    },
+    {
+      "en": "to arise",
+      "fr": "se lever",
+      "rank": 111,
+      "_old_primary": "surgir",
+      "_kaikki_alternatives": [
+        "se lever",
+        "se relever"
+      ]
+    },
+    {
+      "en": "too",
+      "fr": "tres",
+      "rank": 114,
+      "_old_primary": "aussi",
+      "_kaikki_alternatives": [
+        "tres",
+        "très"
+      ]
+    },
+    {
+      "en": "to show",
+      "fr": "exposition",
+      "rank": 117,
+      "_old_primary": "montrer",
+      "_kaikki_alternatives": [
+        "exposition"
+      ]
+    },
+    {
+      "en": "to talk",
+      "fr": "discussion",
+      "rank": 121,
+      "_old_primary": "parler",
+      "_kaikki_alternatives": [
+        "discussion"
+      ]
+    },
+    {
+      "en": "place",
+      "fr": "se placer",
+      "rank": 123,
+      "_old_primary": "lieu",
+      "_kaikki_alternatives": [
+        "se placer",
+        "arriver",
+        "faire"
+      ]
+    },
+    {
+      "en": "score",
+      "fr": "vingtaine",
+      "rank": 125,
+      "_old_primary": "score",
+      "_kaikki_alternatives": [
+        "vingtaine"
+      ]
+    },
+    {
+      "en": "to require",
+      "fr": "exiger de",
+      "rank": 135,
+      "_old_primary": "exiger",
+      "_kaikki_alternatives": [
+        "exiger de",
+        "prier"
+      ]
+    },
+    {
+      "en": "in",
+      "fr": "en",
+      "rank": 138,
+      "_old_primary": "dans",
+      "_kaikki_alternatives": [
+        "en",
+        "dedans",
+        "à l'intérieur"
+      ]
+    },
+    {
+      "en": "to perform",
+      "fr": "performer",
+      "rank": 141,
+      "_old_primary": "effectuer",
+      "_kaikki_alternatives": [
+        "performer"
+      ]
+    },
+    {
+      "en": "sure",
+      "fr": "d'accord",
+      "rank": 143,
+      "_old_primary": "bien sûr",
+      "_kaikki_alternatives": [
+        "d'accord"
+      ]
+    },
+    {
+      "en": "race",
+      "fr": "race",
+      "rank": 148,
+      "_old_primary": "course",
+      "_kaikki_alternatives": [
+        "race"
+      ]
+    },
+    {
+      "en": "to kill",
+      "fr": "mettre fin",
+      "rank": 149,
+      "_old_primary": "tuer",
+      "_kaikki_alternatives": [
+        "mettre fin"
+      ]
+    },
+    {
+      "en": "down",
+      "fr": "laisser tomber",
+      "rank": 162,
+      "_old_primary": "vers le bas",
+      "_kaikki_alternatives": [
+        "laisser tomber"
+      ]
+    },
+    {
+      "en": "to wax",
+      "fr": "croître",
+      "rank": 169,
+      "_old_primary": "cire",
+      "_kaikki_alternatives": [
+        "croître"
+      ]
+    },
+    {
+      "en": "to lead",
+      "fr": "mener",
+      "rank": 172,
+      "_old_primary": "diriger",
+      "_kaikki_alternatives": [
+        "mener",
+        "amener"
+      ]
+    },
+    {
+      "en": "still",
+      "fr": "photogramme",
+      "rank": 178,
+      "_old_primary": "toujours",
+      "_kaikki_alternatives": [
+        "photogramme"
+      ]
+    },
+    {
+      "en": "shit",
+      "fr": "que dalle",
+      "rank": 184,
+      "_old_primary": "merde",
+      "_kaikki_alternatives": [
+        "que dalle"
+      ]
+    },
+    {
+      "en": "even",
+      "fr": "régulier",
+      "rank": 190,
+      "_old_primary": "même",
+      "_kaikki_alternatives": [
+        "régulier",
+        "uniforme"
+      ]
+    },
+    {
+      "en": "over",
+      "fr": "fini",
+      "rank": 194,
+      "_old_primary": "sur",
+      "_kaikki_alternatives": [
+        "fini",
+        "terminé",
+        "au-delà"
+      ]
+    },
+    {
+      "en": "to take away",
+      "fr": "retirer",
+      "rank": 195,
+      "_old_primary": "à emporter",
+      "_kaikki_alternatives": [
+        "retirer"
+      ]
+    },
+    {
+      "en": "to estimate",
+      "fr": "estimation",
+      "rank": 203,
+      "_old_primary": "estimer",
+      "_kaikki_alternatives": [
+        "estimation"
+      ]
+    },
+    {
+      "en": "set",
+      "fr": "set",
+      "rank": 207,
+      "_old_primary": "ensemble",
+      "_kaikki_alternatives": [
+        "set"
+      ]
+    },
+    {
+      "en": "tall",
+      "fr": "haut",
+      "rank": 208,
+      "_old_primary": "grand",
+      "_kaikki_alternatives": [
+        "haut"
+      ]
+    },
+    {
+      "en": "loose",
+      "fr": "à la pièce",
+      "rank": 209,
+      "_old_primary": "lâche",
+      "_kaikki_alternatives": [
+        "à la pièce"
+      ]
+    },
+    {
+      "en": "such",
+      "fr": "tellement",
+      "rank": 209,
+      "_old_primary": "tel",
+      "_kaikki_alternatives": [
+        "tellement"
+      ]
+    },
+    {
+      "en": "to mean",
+      "fr": "avoir l'intention",
+      "rank": 211,
+      "_old_primary": "signifier",
+      "_kaikki_alternatives": [
+        "avoir l'intention",
+        "entendre faire",
+        "moyenne"
+      ]
+    },
+    {
+      "en": "to answer",
+      "fr": "réponse",
+      "rank": 212,
+      "_old_primary": "répondre",
+      "_kaikki_alternatives": [
+        "réponse"
+      ]
+    },
+    {
+      "en": "to chase",
+      "fr": "poursuite",
+      "rank": 217,
+      "_old_primary": "chasser",
+      "_kaikki_alternatives": [
+        "poursuite"
+      ]
+    },
+    {
+      "en": "to feel",
+      "fr": "palper",
+      "rank": 219,
+      "_old_primary": "ressentir",
+      "_kaikki_alternatives": [
+        "palper",
+        "toucher"
+      ]
+    },
+    {
+      "en": "Miss",
+      "fr": "rater",
+      "rank": 222,
+      "_old_primary": "manquer",
+      "_kaikki_alternatives": [
+        "rater"
+      ]
+    },
+    {
+      "en": "deuce",
+      "fr": "deux",
+      "rank": 227,
+      "_old_primary": "diable",
+      "_kaikki_alternatives": [
+        "deux"
+      ]
+    },
+    {
+      "en": "party",
+      "fr": "faction",
+      "rank": 233,
+      "_old_primary": "faire la fête",
+      "_kaikki_alternatives": [
+        "faction"
+      ]
+    },
+    {
+      "en": "upright",
+      "fr": "montant",
+      "rank": 238,
+      "_old_primary": "droit",
+      "_kaikki_alternatives": [
+        "montant"
+      ]
+    },
+    {
+      "en": "deal",
+      "fr": "distribuer",
+      "rank": 240,
+      "_old_primary": "accord",
+      "_kaikki_alternatives": [
+        "distribuer"
+      ]
+    },
+    {
+      "en": "to call",
+      "fr": "visiter",
+      "rank": 240,
+      "_old_primary": "appeler",
+      "_kaikki_alternatives": [
+        "visiter"
+      ]
+    },
+    {
+      "en": "hell",
+      "fr": "merde",
+      "rank": 249,
+      "_old_primary": "enfer",
+      "_kaikki_alternatives": [
+        "merde"
+      ]
+    },
+    {
+      "en": "limb",
+      "fr": "démembrer",
+      "rank": 258,
+      "_old_primary": "membre",
+      "_kaikki_alternatives": [
+        "démembrer"
+      ]
+    },
+    {
+      "en": "straight",
+      "fr": "comme il faut",
+      "rank": 263,
+      "_old_primary": "droit",
+      "_kaikki_alternatives": [
+        "comme il faut"
+      ]
+    },
+    {
+      "en": "issue",
+      "fr": "sortie",
+      "rank": 273,
+      "_old_primary": "problème",
+      "_kaikki_alternatives": [
+        "sortie",
+        "émission",
+        "drain"
+      ]
+    },
+    {
+      "en": "to offer",
+      "fr": "offrir",
+      "rank": 281,
+      "_old_primary": "offre",
+      "_kaikki_alternatives": [
+        "offrir"
+      ]
+    },
+    {
+      "en": "to manage",
+      "fr": "parvenir",
+      "rank": 288,
+      "_old_primary": "gérer",
+      "_kaikki_alternatives": [
+        "parvenir",
+        "réussir",
+        "arriver"
+      ]
+    },
+    {
+      "en": "book",
+      "fr": "réserver",
+      "rank": 289,
+      "_old_primary": "livre",
+      "_kaikki_alternatives": [
+        "réserver"
+      ]
+    },
+    {
+      "en": "gun",
+      "fr": "flingue",
+      "rank": 290,
+      "_old_primary": "pistolet",
+      "_kaikki_alternatives": [
+        "flingue"
+      ]
+    },
+    {
+      "en": "to live",
+      "fr": "habiter",
+      "rank": 295,
+      "_old_primary": "vivre",
+      "_kaikki_alternatives": [
+        "habiter",
+        "demeurer"
+      ]
+    },
+    {
+      "en": "to cause",
+      "fr": "cause",
+      "rank": 298,
+      "_old_primary": "provoquer",
+      "_kaikki_alternatives": [
+        "cause",
+        "raison"
+      ]
+    },
+    {
+      "en": "on",
+      "fr": "parti",
+      "rank": 304,
+      "_old_primary": "sur",
+      "_kaikki_alternatives": [
+        "parti"
+      ]
+    },
+    {
+      "en": "to lift",
+      "fr": "lever",
+      "rank": 306,
+      "_old_primary": "soulever",
+      "_kaikki_alternatives": [
+        "lever"
+      ]
+    },
+    {
+      "en": "ice",
+      "fr": "congeler",
+      "rank": 311,
+      "_old_primary": "glace",
+      "_kaikki_alternatives": [
+        "congeler",
+        "geler",
+        "glacer"
+      ]
+    },
+    {
+      "en": "to resemble",
+      "fr": "ressembler à",
+      "rank": 313,
+      "_old_primary": "ressembler",
+      "_kaikki_alternatives": [
+        "ressembler à"
+      ]
+    },
+    {
+      "en": "high",
+      "fr": "élevé",
+      "rank": 315,
+      "_old_primary": "haut",
+      "_kaikki_alternatives": [
+        "élevé"
+      ]
+    },
+    {
+      "en": "to attend",
+      "fr": "aller",
+      "rank": 318,
+      "_old_primary": "assister",
+      "_kaikki_alternatives": [
+        "aller",
+        "fréquenter"
+      ]
+    },
+    {
+      "en": "power",
+      "fr": "puissance",
+      "rank": 327,
+      "_old_primary": "pouvoir",
+      "_kaikki_alternatives": [
+        "puissance"
+      ]
+    },
+    {
+      "en": "to hope",
+      "fr": "Espérance",
+      "rank": 331,
+      "_old_primary": "espoir",
+      "_kaikki_alternatives": [
+        "Espérance",
+        "Nadège"
+      ]
+    },
+    {
+      "en": "stop",
+      "fr": "arrêter",
+      "rank": 346,
+      "_old_primary": "arrêt",
+      "_kaikki_alternatives": [
+        "arrêter",
+        "point"
+      ]
+    },
+    {
+      "en": "union",
+      "fr": "connexion",
+      "rank": 349,
+      "_old_primary": "union",
+      "_kaikki_alternatives": [
+        "connexion"
+      ]
+    },
+    {
+      "en": "voice",
+      "fr": "proclamer",
+      "rank": 351,
+      "_old_primary": "voix",
+      "_kaikki_alternatives": [
+        "proclamer"
+      ]
+    },
+    {
+      "en": "service",
+      "fr": "servir",
+      "rank": 353,
+      "_old_primary": "service",
+      "_kaikki_alternatives": [
+        "servir"
+      ]
+    },
+    {
+      "en": "level",
+      "fr": "constant",
+      "rank": 356,
+      "_old_primary": "niveau",
+      "_kaikki_alternatives": [
+        "constant"
+      ]
+    },
+    {
+      "en": "to shift",
+      "fr": "échanger",
+      "rank": 358,
+      "_old_primary": "changer",
+      "_kaikki_alternatives": [
+        "échanger",
+        "permuter",
+        "switcher"
+      ]
+    },
+    {
+      "en": "full",
+      "fr": "complet",
+      "rank": 362,
+      "_old_primary": "plein",
+      "_kaikki_alternatives": [
+        "complet"
+      ]
+    },
+    {
+      "en": "worker",
+      "fr": "ouvrier",
+      "rank": 367,
+      "_old_primary": "travailleur",
+      "_kaikki_alternatives": [
+        "ouvrier",
+        "ouvrière"
+      ]
+    },
+    {
+      "en": "segment",
+      "fr": "quartier",
+      "rank": 369,
+      "_old_primary": "segment",
+      "_kaikki_alternatives": [
+        "quartier"
+      ]
+    },
+    {
+      "en": "to point",
+      "fr": "pointe",
+      "rank": 378,
+      "_old_primary": "pointer",
+      "_kaikki_alternatives": [
+        "pointe",
+        "point"
+      ]
+    },
+    {
+      "en": "fortunately",
+      "fr": "heureusement",
+      "rank": 379,
+      "_old_primary": "tant mieux",
+      "_kaikki_alternatives": [
+        "heureusement",
+        "par bonheur",
+        "par chance"
+      ]
+    },
+    {
+      "en": "below",
+      "fr": "en bas",
+      "rank": 383,
+      "_old_primary": "au-deçà",
+      "_kaikki_alternatives": [
+        "en bas"
+      ]
+    },
+    {
+      "en": "like",
+      "fr": "aimer",
+      "rank": 384,
+      "_old_primary": "comme",
+      "_kaikki_alternatives": [
+        "aimer",
+        "plaire (à)",
+        "bien aimer"
+      ]
+    },
+    {
+      "en": "page",
+      "fr": "Lepage",
+      "rank": 386,
+      "_old_primary": "page",
+      "_kaikki_alternatives": [
+        "Lepage"
+      ]
+    },
+    {
+      "en": "far",
+      "fr": "extrême",
+      "rank": 393,
+      "_old_primary": "loin",
+      "_kaikki_alternatives": [
+        "extrême"
+      ]
+    },
+    {
+      "en": "rock",
+      "fr": "remuer",
+      "rank": 410,
+      "_old_primary": "rocher",
+      "_kaikki_alternatives": [
+        "remuer",
+        "bercer"
+      ]
+    },
+    {
+      "en": "to design",
+      "fr": "dessein",
+      "rank": 412,
+      "_old_primary": "concevoir",
+      "_kaikki_alternatives": [
+        "dessein",
+        "intention"
+      ]
+    },
+    {
+      "en": "grand",
+      "fr": "Legrand",
+      "rank": 423,
+      "_old_primary": "grandiose",
+      "_kaikki_alternatives": [
+        "Legrand"
+      ]
+    },
+    {
+      "en": "late",
+      "fr": "tard",
+      "rank": 430,
+      "_old_primary": "en retard",
+      "_kaikki_alternatives": [
+        "tard"
+      ]
+    },
+    {
+      "en": "pull",
+      "fr": "influence",
+      "rank": 439,
+      "_old_primary": "tirer",
+      "_kaikki_alternatives": [
+        "influence"
+      ]
+    },
+    {
+      "en": "to love",
+      "fr": "amour",
+      "rank": 439,
+      "_old_primary": "aimer",
+      "_kaikki_alternatives": [
+        "amour"
+      ]
+    },
+    {
+      "en": "to pull",
+      "fr": "influence",
+      "rank": 439,
+      "_old_primary": "tirer",
+      "_kaikki_alternatives": [
+        "influence"
+      ]
+    },
+    {
+      "en": "to chat",
+      "fr": "discussion",
+      "rank": 441,
+      "_old_primary": "discuter",
+      "_kaikki_alternatives": [
+        "discussion"
+      ]
+    },
+    {
+      "en": "inside",
+      "fr": "dedans",
+      "rank": 445,
+      "_old_primary": "à l'intérieur",
+      "_kaikki_alternatives": [
+        "dedans",
+        "au-dedans",
+        "là-dedans"
+      ]
+    },
+    {
+      "en": "belong",
+      "fr": "avoir sa place",
+      "rank": 449,
+      "_old_primary": "appartenir",
+      "_kaikki_alternatives": [
+        "avoir sa place"
+      ]
+    },
+    {
+      "en": "to handle",
+      "fr": "indicatif",
+      "rank": 460,
+      "_old_primary": "gérer",
+      "_kaikki_alternatives": [
+        "indicatif",
+        "pseudonyme"
+      ]
+    },
+    {
+      "en": "to mark",
+      "fr": "trace",
+      "rank": 463,
+      "_old_primary": "marquer",
+      "_kaikki_alternatives": [
+        "trace"
+      ]
+    },
+    {
+      "en": "show",
+      "fr": "exposition",
+      "rank": 476,
+      "_old_primary": "montrer",
+      "_kaikki_alternatives": [
+        "exposition"
+      ]
+    },
+    {
+      "en": "TV",
+      "fr": "télé",
+      "rank": 481,
+      "_old_primary": "tv",
+      "_kaikki_alternatives": [
+        "télé"
+      ]
+    },
+    {
+      "en": "at once",
+      "fr": "à la fois",
+      "rank": 489,
+      "_old_primary": "immédiatement",
+      "_kaikki_alternatives": [
+        "à la fois"
+      ]
+    },
+    {
+      "en": "to set",
+      "fr": "set",
+      "rank": 492,
+      "_old_primary": "définir",
+      "_kaikki_alternatives": [
+        "set"
+      ]
+    },
+    {
+      "en": "ill",
+      "fr": "malade",
+      "rank": 495,
+      "_old_primary": "je vais",
+      "_kaikki_alternatives": [
+        "malade"
+      ]
+    },
+    {
+      "en": "free",
+      "fr": "libre",
+      "rank": 498,
+      "_old_primary": "gratuit",
+      "_kaikki_alternatives": [
+        "libre"
+      ]
+    }
+  ]
+}

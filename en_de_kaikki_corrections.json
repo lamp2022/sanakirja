@@ -1,0 +1,1167 @@
+{
+  "proposals": [
+    {
+      "en": "be",
+      "de": "werden",
+      "rank": 1,
+      "_old_primary": "sei",
+      "_kaikki_alternatives": [
+        "werden",
+        "sein"
+      ]
+    },
+    {
+      "en": "it",
+      "de": "es",
+      "rank": 3,
+      "_old_primary": "sie",
+      "_kaikki_alternatives": [
+        "es"
+      ]
+    },
+    {
+      "en": "so",
+      "de": "so",
+      "rank": 7,
+      "_old_primary": "da",
+      "_kaikki_alternatives": [
+        "so",
+        "sehr"
+      ]
+    },
+    {
+      "en": "this",
+      "de": "dieser",
+      "rank": 12,
+      "_old_primary": "das",
+      "_kaikki_alternatives": [
+        "dieser"
+      ]
+    },
+    {
+      "en": "can",
+      "de": "Blechdose",
+      "rank": 13,
+      "_old_primary": "können",
+      "_kaikki_alternatives": [
+        "Blechdose",
+        "Kanister"
+      ]
+    },
+    {
+      "en": "when",
+      "de": "wann",
+      "rank": 17,
+      "_old_primary": "wie",
+      "_kaikki_alternatives": [
+        "wann"
+      ]
+    },
+    {
+      "en": "by",
+      "de": "mit",
+      "rank": 19,
+      "_old_primary": "von",
+      "_kaikki_alternatives": [
+        "mit",
+        "mittels",
+        "durch"
+      ]
+    },
+    {
+      "en": "to say",
+      "de": "sagen wir",
+      "rank": 25,
+      "_old_primary": "sagen",
+      "_kaikki_alternatives": [
+        "sagen wir"
+      ]
+    },
+    {
+      "en": "great",
+      "de": "prima",
+      "rank": 29,
+      "_old_primary": "großartig",
+      "_kaikki_alternatives": [
+        "prima",
+        "super"
+      ]
+    },
+    {
+      "en": "to tell",
+      "de": "unterscheiden",
+      "rank": 30,
+      "_old_primary": "erzählen",
+      "_kaikki_alternatives": [
+        "unterscheiden",
+        "erkennen",
+        "sagen"
+      ]
+    },
+    {
+      "en": "what",
+      "de": "welch",
+      "rank": 31,
+      "_old_primary": "was",
+      "_kaikki_alternatives": [
+        "welch",
+        "was für"
+      ]
+    },
+    {
+      "en": "anyway",
+      "de": "wie auch immer",
+      "rank": 49,
+      "_old_primary": "überhaupt",
+      "_kaikki_alternatives": [
+        "wie auch immer"
+      ]
+    },
+    {
+      "en": "however",
+      "de": "egal wie",
+      "rank": 49,
+      "_old_primary": "doch",
+      "_kaikki_alternatives": [
+        "egal wie"
+      ]
+    },
+    {
+      "en": "there",
+      "de": "dort",
+      "rank": 58,
+      "_old_primary": "hier",
+      "_kaikki_alternatives": [
+        "dort",
+        "da",
+        "dorthin"
+      ]
+    },
+    {
+      "en": "back",
+      "de": "Rücken",
+      "rank": 60,
+      "_old_primary": "wieder",
+      "_kaikki_alternatives": [
+        "Rücken",
+        "Ende",
+        "Fond"
+      ]
+    },
+    {
+      "en": "to give",
+      "de": "nachgeben",
+      "rank": 61,
+      "_old_primary": "lassen",
+      "_kaikki_alternatives": [
+        "nachgeben"
+      ]
+    },
+    {
+      "en": "clear",
+      "de": "roden",
+      "rank": 62,
+      "_old_primary": "klar",
+      "_kaikki_alternatives": [
+        "roden"
+      ]
+    },
+    {
+      "en": "to go",
+      "de": "machen",
+      "rank": 71,
+      "_old_primary": "gehen",
+      "_kaikki_alternatives": [
+        "machen"
+      ]
+    },
+    {
+      "en": "right",
+      "de": "ganz",
+      "rank": 77,
+      "_old_primary": "rechts",
+      "_kaikki_alternatives": [
+        "ganz"
+      ]
+    },
+    {
+      "en": "to know",
+      "de": "kennen",
+      "rank": 84,
+      "_old_primary": "wissen",
+      "_kaikki_alternatives": [
+        "kennen",
+        "wüsse"
+      ]
+    },
+    {
+      "en": "really",
+      "de": "(ach) ja?",
+      "rank": 85,
+      "_old_primary": "schon",
+      "_kaikki_alternatives": [
+        "(ach) ja?",
+        "echt?",
+        "wirklich?"
+      ]
+    },
+    {
+      "en": "minor",
+      "de": "gering",
+      "rank": 86,
+      "_old_primary": "unerheblich",
+      "_kaikki_alternatives": [
+        "gering",
+        "geringfügig",
+        "klein"
+      ]
+    },
+    {
+      "en": "as",
+      "de": "wie",
+      "rank": 88,
+      "_old_primary": "so",
+      "_kaikki_alternatives": [
+        "wie",
+        "so wie"
+      ]
+    },
+    {
+      "en": "out",
+      "de": "draußen",
+      "rank": 93,
+      "_old_primary": "aus",
+      "_kaikki_alternatives": [
+        "draußen",
+        "fern",
+        "aus-"
+      ]
+    },
+    {
+      "en": "quite",
+      "de": "ganz",
+      "rank": 101,
+      "_old_primary": "aber",
+      "_kaikki_alternatives": [
+        "ganz",
+        "völlig",
+        "ganz und gar"
+      ]
+    },
+    {
+      "en": "leave",
+      "de": "weggehen",
+      "rank": 102,
+      "_old_primary": "verlassen",
+      "_kaikki_alternatives": [
+        "weggehen",
+        "fortgehen",
+        "wegfahren"
+      ]
+    },
+    {
+      "en": "to leave",
+      "de": "weggehen",
+      "rank": 102,
+      "_old_primary": "gehen",
+      "_kaikki_alternatives": [
+        "weggehen",
+        "fortgehen",
+        "wegfahren"
+      ]
+    },
+    {
+      "en": "to arise",
+      "de": "sich erheben",
+      "rank": 111,
+      "_old_primary": "entstehen",
+      "_kaikki_alternatives": [
+        "sich erheben",
+        "aufstehen"
+      ]
+    },
+    {
+      "en": "something",
+      "de": "klein",
+      "rank": 114,
+      "_old_primary": "etwas",
+      "_kaikki_alternatives": [
+        "klein"
+      ]
+    },
+    {
+      "en": "to state",
+      "de": "Zustand",
+      "rank": 115,
+      "_old_primary": "angeben",
+      "_kaikki_alternatives": [
+        "Zustand",
+        "erklären"
+      ]
+    },
+    {
+      "en": "to talk",
+      "de": "Gespräch",
+      "rank": 121,
+      "_old_primary": "reden",
+      "_kaikki_alternatives": [
+        "Gespräch"
+      ]
+    },
+    {
+      "en": "score",
+      "de": "Stiege",
+      "rank": 125,
+      "_old_primary": "Punktzahl",
+      "_kaikki_alternatives": [
+        "Stiege"
+      ]
+    },
+    {
+      "en": "way",
+      "de": "Weise",
+      "rank": 130,
+      "_old_primary": "weg",
+      "_kaikki_alternatives": [
+        "Weise",
+        "Art",
+        "Methode"
+      ]
+    },
+    {
+      "en": "to pay",
+      "de": "sich lohnen",
+      "rank": 134,
+      "_old_primary": "zu bezahlen",
+      "_kaikki_alternatives": [
+        "sich lohnen"
+      ]
+    },
+    {
+      "en": "in",
+      "de": "auf",
+      "rank": 138,
+      "_old_primary": "in",
+      "_kaikki_alternatives": [
+        "auf",
+        "herein",
+        "hinein"
+      ]
+    },
+    {
+      "en": "to perform",
+      "de": "Arbeit leisten",
+      "rank": 141,
+      "_old_primary": "durchführen",
+      "_kaikki_alternatives": [
+        "Arbeit leisten",
+        "Arbeit verrichten",
+        "performen"
+      ]
+    },
+    {
+      "en": "four",
+      "de": "Doppelvierer",
+      "rank": 144,
+      "_old_primary": "vier",
+      "_kaikki_alternatives": [
+        "Doppelvierer"
+      ]
+    },
+    {
+      "en": "to kill",
+      "de": "zunichte machen",
+      "rank": 149,
+      "_old_primary": "töten",
+      "_kaikki_alternatives": [
+        "zunichte machen",
+        "streichen"
+      ]
+    },
+    {
+      "en": "down",
+      "de": "fallen lassen",
+      "rank": 162,
+      "_old_primary": "runter",
+      "_kaikki_alternatives": [
+        "fallen lassen"
+      ]
+    },
+    {
+      "en": "to escort",
+      "de": "Begleitperson",
+      "rank": 162,
+      "_old_primary": "begleiten",
+      "_kaikki_alternatives": [
+        "Begleitperson"
+      ]
+    },
+    {
+      "en": "to wax",
+      "de": "zunehmen",
+      "rank": 169,
+      "_old_primary": "wachsen",
+      "_kaikki_alternatives": [
+        "zunehmen"
+      ]
+    },
+    {
+      "en": "case",
+      "de": "Hülle",
+      "rank": 170,
+      "_old_primary": "Fall",
+      "_kaikki_alternatives": [
+        "Hülle"
+      ]
+    },
+    {
+      "en": "to conduct",
+      "de": "dirigieren",
+      "rank": 172,
+      "_old_primary": "durchführen",
+      "_kaikki_alternatives": [
+        "dirigieren"
+      ]
+    },
+    {
+      "en": "still",
+      "de": "Photographie",
+      "rank": 178,
+      "_old_primary": "trotzdem",
+      "_kaikki_alternatives": [
+        "Photographie",
+        "Standfoto",
+        "Anstieg"
+      ]
+    },
+    {
+      "en": "shit",
+      "de": "(einen) Scheiß",
+      "rank": 184,
+      "_old_primary": "scheiße",
+      "_kaikki_alternatives": [
+        "(einen) Scheiß"
+      ]
+    },
+    {
+      "en": "season",
+      "de": "Jahreszeit",
+      "rank": 186,
+      "_old_primary": "Staffel",
+      "_kaikki_alternatives": [
+        "Jahreszeit"
+      ]
+    },
+    {
+      "en": "term",
+      "de": "Amtszeit",
+      "rank": 186,
+      "_old_primary": "begriff",
+      "_kaikki_alternatives": [
+        "Amtszeit",
+        "Haftstrafe",
+        "Gefängnisstrafe"
+      ]
+    },
+    {
+      "en": "whom",
+      "de": "wen",
+      "rank": 189,
+      "_old_primary": "den",
+      "_kaikki_alternatives": [
+        "wen",
+        "wem"
+      ]
+    },
+    {
+      "en": "even",
+      "de": "gleich",
+      "rank": 190,
+      "_old_primary": "auch",
+      "_kaikki_alternatives": [
+        "gleich"
+      ]
+    },
+    {
+      "en": "over",
+      "de": "vorbei",
+      "rank": 194,
+      "_old_primary": "über",
+      "_kaikki_alternatives": [
+        "vorbei"
+      ]
+    },
+    {
+      "en": "to take away",
+      "de": "wegnehmen",
+      "rank": 195,
+      "_old_primary": "zum mitnehmen",
+      "_kaikki_alternatives": [
+        "wegnehmen"
+      ]
+    },
+    {
+      "en": "to estimate",
+      "de": "Schätzung",
+      "rank": 203,
+      "_old_primary": "schätzen",
+      "_kaikki_alternatives": [
+        "Schätzung",
+        "Abschätzung"
+      ]
+    },
+    {
+      "en": "guy",
+      "de": "Typen",
+      "rank": 204,
+      "_old_primary": "kerl",
+      "_kaikki_alternatives": [
+        "Typen",
+        "Kerle",
+        "Leute"
+      ]
+    },
+    {
+      "en": "true",
+      "de": "wahr",
+      "rank": 205,
+      "_old_primary": "ganz",
+      "_kaikki_alternatives": [
+        "wahr",
+        "echt",
+        "richtig"
+      ]
+    },
+    {
+      "en": "tall",
+      "de": "hoch",
+      "rank": 208,
+      "_old_primary": "groß",
+      "_kaikki_alternatives": [
+        "hoch"
+      ]
+    },
+    {
+      "en": "loose",
+      "de": "lose",
+      "rank": 209,
+      "_old_primary": "locker",
+      "_kaikki_alternatives": [
+        "lose"
+      ]
+    },
+    {
+      "en": "to mean",
+      "de": "beabsichtigen",
+      "rank": 211,
+      "_old_primary": "bedeuten",
+      "_kaikki_alternatives": [
+        "beabsichtigen"
+      ]
+    },
+    {
+      "en": "to answer",
+      "de": "Antwort",
+      "rank": 212,
+      "_old_primary": "antworten",
+      "_kaikki_alternatives": [
+        "Antwort",
+        "Entgegnung"
+      ]
+    },
+    {
+      "en": "to chase",
+      "de": "Verfolgung",
+      "rank": 217,
+      "_old_primary": "jagen",
+      "_kaikki_alternatives": [
+        "Verfolgung",
+        "Jagd"
+      ]
+    },
+    {
+      "en": "matter",
+      "de": "Materie",
+      "rank": 218,
+      "_old_primary": "gegenstand",
+      "_kaikki_alternatives": [
+        "Materie"
+      ]
+    },
+    {
+      "en": "to feel",
+      "de": "spüren",
+      "rank": 219,
+      "_old_primary": "fühlen",
+      "_kaikki_alternatives": [
+        "spüren",
+        "ertasten",
+        "expressed verbally with anfühlen"
+      ]
+    },
+    {
+      "en": "Miss",
+      "de": "verpassen",
+      "rank": 222,
+      "_old_primary": "Miss",
+      "_kaikki_alternatives": [
+        "verpassen"
+      ]
+    },
+    {
+      "en": "deuce",
+      "de": "Zwei",
+      "rank": 227,
+      "_old_primary": "teufel",
+      "_kaikki_alternatives": [
+        "Zwei"
+      ]
+    },
+    {
+      "en": "group",
+      "de": "Benutzergruppe",
+      "rank": 230,
+      "_old_primary": "Gruppe",
+      "_kaikki_alternatives": [
+        "Benutzergruppe"
+      ]
+    },
+    {
+      "en": "assignment",
+      "de": "Zuordnung",
+      "rank": 232,
+      "_old_primary": "Zuweisung",
+      "_kaikki_alternatives": [
+        "Zuordnung"
+      ]
+    },
+    {
+      "en": "party",
+      "de": "Partei",
+      "rank": 233,
+      "_old_primary": "Party",
+      "_kaikki_alternatives": [
+        "Partei",
+        "Partie"
+      ]
+    },
+    {
+      "en": "deal",
+      "de": "austeilen",
+      "rank": 240,
+      "_old_primary": "Deal",
+      "_kaikki_alternatives": [
+        "austeilen",
+        "verteilen",
+        "geben"
+      ]
+    },
+    {
+      "en": "to call",
+      "de": "besuchen",
+      "rank": 240,
+      "_old_primary": "anrufen",
+      "_kaikki_alternatives": [
+        "besuchen",
+        "vorbeischauen"
+      ]
+    },
+    {
+      "en": "agreement",
+      "de": "Kongruenz",
+      "rank": 242,
+      "_old_primary": "vereinbarung",
+      "_kaikki_alternatives": [
+        "Kongruenz"
+      ]
+    },
+    {
+      "en": "hell",
+      "de": "zur Hölle!",
+      "rank": 249,
+      "_old_primary": "Hölle",
+      "_kaikki_alternatives": [
+        "zur Hölle!",
+        "Himmel!",
+        "Teufel!"
+      ]
+    },
+    {
+      "en": "series",
+      "de": "Reihe",
+      "rank": 251,
+      "_old_primary": "Serie",
+      "_kaikki_alternatives": [
+        "Reihe"
+      ]
+    },
+    {
+      "en": "limb",
+      "de": "zergliedern",
+      "rank": 258,
+      "_old_primary": "glied",
+      "_kaikki_alternatives": [
+        "zergliedern"
+      ]
+    },
+    {
+      "en": "straight",
+      "de": "aufrecht",
+      "rank": 263,
+      "_old_primary": "gerade",
+      "_kaikki_alternatives": [
+        "aufrecht",
+        "aufrichtig",
+        "offen"
+      ]
+    },
+    {
+      "en": "issue",
+      "de": "Ausgehen",
+      "rank": 273,
+      "_old_primary": "Nummer",
+      "_kaikki_alternatives": [
+        "Ausgehen"
+      ]
+    },
+    {
+      "en": "to offer",
+      "de": "anbieten",
+      "rank": 281,
+      "_old_primary": "zu bieten",
+      "_kaikki_alternatives": [
+        "anbieten"
+      ]
+    },
+    {
+      "en": "schedule",
+      "de": "Anhang (zu e. juristischen Dokument)",
+      "rank": 284,
+      "_old_primary": "Programm",
+      "_kaikki_alternatives": [
+        "Anhang (zu e. juristischen Dokument)"
+      ]
+    },
+    {
+      "en": "to manage",
+      "de": "hinbekommen",
+      "rank": 288,
+      "_old_primary": "verwalten",
+      "_kaikki_alternatives": [
+        "hinbekommen",
+        "schaffen"
+      ]
+    },
+    {
+      "en": "to nurse",
+      "de": "Krankenschwester",
+      "rank": 288,
+      "_old_primary": "pflegen",
+      "_kaikki_alternatives": [
+        "Krankenschwester",
+        "Krankenpfleger"
+      ]
+    },
+    {
+      "en": "book",
+      "de": "buchen",
+      "rank": 289,
+      "_old_primary": "Buch",
+      "_kaikki_alternatives": [
+        "buchen",
+        "reservieren"
+      ]
+    },
+    {
+      "en": "support",
+      "de": "Support bieten",
+      "rank": 292,
+      "_old_primary": "Halt",
+      "_kaikki_alternatives": [
+        "Support bieten",
+        "betreuen",
+        "unterstützen"
+      ]
+    },
+    {
+      "en": "proposition",
+      "de": "Vorschlag",
+      "rank": 295,
+      "_old_primary": "Aussage",
+      "_kaikki_alternatives": [
+        "Vorschlag"
+      ]
+    },
+    {
+      "en": "to cause",
+      "de": "Ursache",
+      "rank": 298,
+      "_old_primary": "verursachen",
+      "_kaikki_alternatives": [
+        "Ursache",
+        "Anlass",
+        "Grund"
+      ]
+    },
+    {
+      "en": "ice",
+      "de": "einfrieren",
+      "rank": 311,
+      "_old_primary": "Eis",
+      "_kaikki_alternatives": [
+        "einfrieren",
+        "frieren"
+      ]
+    },
+    {
+      "en": "to succeed",
+      "de": "nachfolgen",
+      "rank": 321,
+      "_old_primary": "erfolgreich zu sein",
+      "_kaikki_alternatives": [
+        "nachfolgen",
+        "erfolgreich sein",
+        "Erfolg haben"
+      ]
+    },
+    {
+      "en": "to ask",
+      "de": "bitten",
+      "rank": 326,
+      "_old_primary": "fragen",
+      "_kaikki_alternatives": [
+        "bitten"
+      ]
+    },
+    {
+      "en": "stop",
+      "de": "anhalten",
+      "rank": 346,
+      "_old_primary": "Halt",
+      "_kaikki_alternatives": [
+        "anhalten",
+        "stoppen",
+        "aufhalten"
+      ]
+    },
+    {
+      "en": "to stop",
+      "de": "anhalten",
+      "rank": 346,
+      "_old_primary": "aufzuhören",
+      "_kaikki_alternatives": [
+        "anhalten",
+        "stoppen",
+        "aufhalten"
+      ]
+    },
+    {
+      "en": "service",
+      "de": "bedienen",
+      "rank": 353,
+      "_old_primary": "Dienst",
+      "_kaikki_alternatives": [
+        "bedienen"
+      ]
+    },
+    {
+      "en": "level",
+      "de": "konstant",
+      "rank": 356,
+      "_old_primary": "Ebene",
+      "_kaikki_alternatives": [
+        "konstant"
+      ]
+    },
+    {
+      "en": "plane",
+      "de": "Ebene",
+      "rank": 356,
+      "_old_primary": "flugzeug",
+      "_kaikki_alternatives": [
+        "Ebene"
+      ]
+    },
+    {
+      "en": "full",
+      "de": "komplett",
+      "rank": 362,
+      "_old_primary": "voll",
+      "_kaikki_alternatives": [
+        "komplett",
+        "vollständig"
+      ]
+    },
+    {
+      "en": "worker",
+      "de": "Arbeiterin",
+      "rank": 367,
+      "_old_primary": "Arbeiter",
+      "_kaikki_alternatives": [
+        "Arbeiterin",
+        "Arbeitsameise",
+        "Arbeitsbiene"
+      ]
+    },
+    {
+      "en": "like",
+      "de": "mögen",
+      "rank": 384,
+      "_old_primary": "wie",
+      "_kaikki_alternatives": [
+        "mögen",
+        "gern haben",
+        "gefallen"
+      ]
+    },
+    {
+      "en": "to return",
+      "de": "Rückgabe",
+      "rank": 384,
+      "_old_primary": "Zurückkommen",
+      "_kaikki_alternatives": [
+        "Rückgabe"
+      ]
+    },
+    {
+      "en": "person",
+      "de": "Person",
+      "rank": 385,
+      "_old_primary": "Kopf",
+      "_kaikki_alternatives": [
+        "Person",
+        "Mensch"
+      ]
+    },
+    {
+      "en": "economy",
+      "de": "Ökonomie",
+      "rank": 394,
+      "_old_primary": "Wirtschaft",
+      "_kaikki_alternatives": [
+        "Ökonomie"
+      ]
+    },
+    {
+      "en": "particularly",
+      "de": "besonders",
+      "rank": 396,
+      "_old_primary": "insbesondere",
+      "_kaikki_alternatives": [
+        "besonders"
+      ]
+    },
+    {
+      "en": "to request",
+      "de": "anfordern",
+      "rank": 400,
+      "_old_primary": "nachfragen",
+      "_kaikki_alternatives": [
+        "anfordern",
+        "erwünschen",
+        "verlangen nach"
+      ]
+    },
+    {
+      "en": "to create",
+      "de": "schaffen",
+      "rank": 407,
+      "_old_primary": "erstellen",
+      "_kaikki_alternatives": [
+        "schaffen",
+        "kreieren"
+      ]
+    },
+    {
+      "en": "rock",
+      "de": "schwanken",
+      "rank": 410,
+      "_old_primary": "Felsen",
+      "_kaikki_alternatives": [
+        "schwanken",
+        "schaukeln",
+        "wiegen"
+      ]
+    },
+    {
+      "en": "cheerful",
+      "de": "freundlich",
+      "rank": 411,
+      "_old_primary": "froh",
+      "_kaikki_alternatives": [
+        "freundlich"
+      ]
+    },
+    {
+      "en": "to design",
+      "de": "Absicht",
+      "rank": 412,
+      "_old_primary": "entwerfen",
+      "_kaikki_alternatives": [
+        "Absicht"
+      ]
+    },
+    {
+      "en": "parliament",
+      "de": "Eulenschwarm",
+      "rank": 422,
+      "_old_primary": "Parlament",
+      "_kaikki_alternatives": [
+        "Eulenschwarm"
+      ]
+    },
+    {
+      "en": "rank",
+      "de": "geil",
+      "rank": 425,
+      "_old_primary": "Reihe",
+      "_kaikki_alternatives": [
+        "geil"
+      ]
+    },
+    {
+      "en": "value",
+      "de": "Werte",
+      "rank": 425,
+      "_old_primary": "Wert",
+      "_kaikki_alternatives": [
+        "Werte"
+      ]
+    },
+    {
+      "en": "to love",
+      "de": "Liebe",
+      "rank": 439,
+      "_old_primary": "lieben",
+      "_kaikki_alternatives": [
+        "Liebe",
+        "Zuneigung",
+        "Minne"
+      ]
+    },
+    {
+      "en": "to chat",
+      "de": "Gespräch",
+      "rank": 441,
+      "_old_primary": "zum chatten",
+      "_kaikki_alternatives": [
+        "Gespräch"
+      ]
+    },
+    {
+      "en": "inside",
+      "de": "drinnen",
+      "rank": 445,
+      "_old_primary": "innen",
+      "_kaikki_alternatives": [
+        "drinnen",
+        "hinein"
+      ]
+    },
+    {
+      "en": "belong",
+      "de": "hingehören",
+      "rank": 449,
+      "_old_primary": "gehören",
+      "_kaikki_alternatives": [
+        "hingehören",
+        "dazugehören"
+      ]
+    },
+    {
+      "en": "find out",
+      "de": "herausfinden",
+      "rank": 451,
+      "_old_primary": "finde es heraus",
+      "_kaikki_alternatives": [
+        "herausfinden",
+        "erfahren"
+      ]
+    },
+    {
+      "en": "construction",
+      "de": "Bauwerk",
+      "rank": 455,
+      "_old_primary": "Konstruktion",
+      "_kaikki_alternatives": [
+        "Bauwerk"
+      ]
+    },
+    {
+      "en": "to handle",
+      "de": "Deckname",
+      "rank": 460,
+      "_old_primary": "handhaben",
+      "_kaikki_alternatives": [
+        "Deckname",
+        "Alias",
+        "Spitzname"
+      ]
+    },
+    {
+      "en": "relation",
+      "de": "Relation",
+      "rank": 464,
+      "_old_primary": "beziehung",
+      "_kaikki_alternatives": [
+        "Relation"
+      ]
+    },
+    {
+      "en": "player",
+      "de": "Player",
+      "rank": 469,
+      "_old_primary": "Spieler",
+      "_kaikki_alternatives": [
+        "Player",
+        "Akteur"
+      ]
+    },
+    {
+      "en": "dear",
+      "de": "sehr geehrter/sehr geehrte",
+      "rank": 476,
+      "_old_primary": "wert",
+      "_kaikki_alternatives": [
+        "sehr geehrter/sehr geehrte",
+        "lieber"
+      ]
+    },
+    {
+      "en": "TV",
+      "de": "TV",
+      "rank": 481,
+      "_old_primary": "fernseher",
+      "_kaikki_alternatives": [
+        "TV"
+      ]
+    },
+    {
+      "en": "conservative",
+      "de": "Konservativer",
+      "rank": 485,
+      "_old_primary": "konservativ",
+      "_kaikki_alternatives": [
+        "Konservativer"
+      ]
+    },
+    {
+      "en": "to set",
+      "de": "Satz",
+      "rank": 492,
+      "_old_primary": "einstellen",
+      "_kaikki_alternatives": [
+        "Satz"
+      ]
+    },
+    {
+      "en": "care",
+      "de": "respektieren",
+      "rank": 497,
+      "_old_primary": "Pflege",
+      "_kaikki_alternatives": [
+        "respektieren"
+      ]
+    }
+  ]
+}

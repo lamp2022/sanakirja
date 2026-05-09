@@ -13,6 +13,9 @@
   ],
 
   "overrides": [
-    {"en": "no", "sv": "nej"}
+    {"en": "no", "sv": "nej"},
+    {"en": "reason", "sv": ["anledning", "skäl", "grund"]},
+    {"en": "condition", "sv": "tillstånd"},
+    {"en": "lucky", "sv": "lycklig"}
   ]
 }
