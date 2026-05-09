@@ -205,8 +205,8 @@ function render() {
   const FI = ['🇫🇮', 'Suomi'], EN = ['🇬🇧', 'English'], SV = ['🇸🇪', 'Svenska'],
         DE = ['🇩🇪', 'Deutsch'], IT = ['🇮🇹', 'Italiano'], FR = ['🇫🇷', 'Français'];
   let headerHtml = '';
-  if (current === 'fi-en') headerHtml = head(FI, EN, [SV, DE, IT, FR]);
-  else if (current === 'en-fi') headerHtml = head(EN, FI, [SV, DE, IT, FR]);
+  if (current === 'fi-en') headerHtml = head(FI, EN, [FR, DE, SV, IT]);
+  else if (current === 'en-fi') headerHtml = head(EN, FI, [FR, DE, SV, IT]);
   else if (current === 'sv-en') headerHtml = head(SV, EN, [['',''],['',''],['',''],['','']]);
   else if (current === 'de-en') headerHtml = head(DE, EN, [['',''],['',''],['',''],['','']]);
   else if (current === 'it-en') headerHtml = head(IT, EN, [['',''],['',''],['',''],['','']]);
@@ -243,10 +243,10 @@ function render() {
         ${headLeft}
         ${posBadge}
         ${otherCell}
-        ${makeCell('sv', sv)}
-        ${makeCell('de', de)}
-        ${makeCell('it', it)}
         ${makeCell('fr', fr)}
+        ${makeCell('de', de)}
+        ${makeCell('sv', sv)}
+        ${makeCell('it', it)}
       </div>`;
     } else {
       // X→EN reverse views (sv-en, de-en, it-en, fr-en)
@@ -262,10 +262,10 @@ function render() {
         <div class="fi">${esc(headWord[0] || '')}</div>
         <span></span>
         <div class="en">${esc(en[0] || '')}${altEn}</div>
-        <div class="sv"></div>
-        <div class="de"></div>
-        <div class="it"></div>
         <div class="fr"></div>
+        <div class="de"></div>
+        <div class="sv"></div>
+        <div class="it"></div>
       </div>`;
     }
   }).join('');
