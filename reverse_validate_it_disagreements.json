@@ -1,0 +1,7717 @@
+[
+  {
+    "en": "it",
+    "it": "si",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "yes"
+    ]
+  },
+  {
+    "en": "that",
+    "it": "che",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "who"
+    ]
+  },
+  {
+    "en": "can",
+    "it": "potere",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "able",
+      "allowed",
+      "might",
+      "power"
+    ]
+  },
+  {
+    "en": "you",
+    "it": "la",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "the",
+      "her",
+      "la"
+    ]
+  },
+  {
+    "en": "now",
+    "it": "ora",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "hour"
+    ]
+  },
+  {
+    "en": "good",
+    "it": "bene",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "well",
+      "wealth"
+    ]
+  },
+  {
+    "en": "what",
+    "it": "che",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "who"
+    ]
+  },
+  {
+    "en": "thanks",
+    "it": "grazie",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "thank you"
+    ]
+  },
+  {
+    "en": "yet",
+    "it": "ancora",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "again",
+      "still",
+      "anchor",
+      "anchors"
+    ]
+  },
+  {
+    "en": "ground",
+    "it": "terra",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "earth",
+      "soil",
+      "ager",
+      "praedium"
+    ]
+  },
+  {
+    "en": "off",
+    "it": "spento",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "extinct",
+      "lifeless",
+      "dead",
+      "muffled",
+      "dampened"
+    ]
+  },
+  {
+    "en": "to start",
+    "it": "iniziare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "begin",
+      "join",
+      "incorporate"
+    ]
+  },
+  {
+    "en": "whole",
+    "it": "tutto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "all"
+    ]
+  },
+  {
+    "en": "even if",
+    "it": "se",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "if"
+    ]
+  },
+  {
+    "en": "cabinet",
+    "it": "gabinetto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "private room",
+      "study"
+    ]
+  },
+  {
+    "en": "really",
+    "it": "grande",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "large",
+      "big",
+      "great"
+    ]
+  },
+  {
+    "en": "as",
+    "it": "come",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "how",
+      "подобно"
+    ]
+  },
+  {
+    "en": "such as",
+    "it": "come",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "how",
+      "подобно"
+    ]
+  },
+  {
+    "en": "out",
+    "it": "fuori",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "outside"
+    ]
+  },
+  {
+    "en": "few",
+    "it": "qualche",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "some"
+    ]
+  },
+  {
+    "en": "anything",
+    "it": "tutto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "all"
+    ]
+  },
+  {
+    "en": "attached",
+    "it": "allegato",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "enclosed",
+      "enclosure"
+    ]
+  },
+  {
+    "en": "for example",
+    "it": "tipo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "typical",
+      "type"
+    ]
+  },
+  {
+    "en": "too",
+    "it": "pure",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "even",
+      "go ahead!",
+      "please do!",
+      "by all means!"
+    ]
+  },
+  {
+    "en": "to state",
+    "it": "dichiarare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "declare"
+    ]
+  },
+  {
+    "en": "start",
+    "it": "via",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "away"
+    ]
+  },
+  {
+    "en": "score",
+    "it": "punto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "point",
+      "all dressed up"
+    ]
+  },
+  {
+    "en": "finish",
+    "it": "fine",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "fine",
+      "thin",
+      "slender",
+      "end"
+    ]
+  },
+  {
+    "en": "habit",
+    "it": "uso",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "practice",
+      "exercise",
+      "use"
+    ]
+  },
+  {
+    "en": "amount",
+    "it": "quantità",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "quantity",
+      "multitude",
+      "number",
+      "magnitude"
+    ]
+  },
+  {
+    "en": "certainly",
+    "it": "sicuro",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "safe",
+      "harmless",
+      "secure",
+      "self-assured",
+      "self-confident"
+    ]
+  },
+  {
+    "en": "ever",
+    "it": "mai",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "never"
+    ]
+  },
+  {
+    "en": "many",
+    "it": "tanto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "much"
+    ]
+  },
+  {
+    "en": "yeah",
+    "it": "sì",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "yes"
+    ]
+  },
+  {
+    "en": "activities",
+    "it": "attività",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "activity",
+      "energy",
+      "vitaly",
+      "assets"
+    ]
+  },
+  {
+    "en": "surely",
+    "it": "sicuro",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "safe",
+      "harmless",
+      "secure",
+      "self-assured",
+      "self-confident"
+    ]
+  },
+  {
+    "en": "to be born",
+    "it": "nascere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "born",
+      "bud",
+      "sprout"
+    ]
+  },
+  {
+    "en": "down",
+    "it": "sotto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "below",
+      "under"
+    ]
+  },
+  {
+    "en": "to initiate",
+    "it": "iniziare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "begin",
+      "join",
+      "incorporate"
+    ]
+  },
+  {
+    "en": "case",
+    "it": "caso",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "chance",
+      "coincidence",
+      "incident",
+      "by chance"
+    ]
+  },
+  {
+    "en": "to arrange",
+    "it": "organizzare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "organize"
+    ]
+  },
+  {
+    "en": "slightly",
+    "it": "leggermente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "lightly"
+    ]
+  },
+  {
+    "en": "to lead",
+    "it": "condurre",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "guide",
+      "accompany",
+      "conduct"
+    ]
+  },
+  {
+    "en": "term",
+    "it": "termine",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "terminus",
+      "finis",
+      "extremity",
+      "extreme",
+      "end"
+    ]
+  },
+  {
+    "en": "for one",
+    "it": "uno",
+    "confidence": "none",
+    "native_en_words": [
+      "a",
+      "an",
+      "one"
+    ]
+  },
+  {
+    "en": "resume",
+    "it": "riprendere",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "shoot",
+      "take",
+      "repeat",
+      "reprise",
+      "take back"
+    ]
+  },
+  {
+    "en": "whom",
+    "it": "chi",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "who"
+    ]
+  },
+  {
+    "en": "even",
+    "it": "anche",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "also",
+      "too"
+    ]
+  },
+  {
+    "en": "over",
+    "it": "sopra",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "on",
+      "above"
+    ]
+  },
+  {
+    "en": "to fit",
+    "it": "adattarsi",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "adapt"
+    ]
+  },
+  {
+    "en": "guy",
+    "it": "tipo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "typical",
+      "type"
+    ]
+  },
+  {
+    "en": "set",
+    "it": "insieme",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "together",
+      "jointly",
+      "communally",
+      "at the same time",
+      "simultaneously"
+    ]
+  },
+  {
+    "en": "tall",
+    "it": "grande",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "large",
+      "big",
+      "great"
+    ]
+  },
+  {
+    "en": "such",
+    "it": "come",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "how",
+      "подобно"
+    ]
+  },
+  {
+    "en": "to look",
+    "it": "guardare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "watch"
+    ]
+  },
+  {
+    "en": "in addition to",
+    "it": "inoltre",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "besides",
+      "also",
+      "as well",
+      "moreover"
+    ]
+  },
+  {
+    "en": "run",
+    "it": "punto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "point",
+      "all dressed up"
+    ]
+  },
+  {
+    "en": "kind",
+    "it": "tipo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "typical",
+      "type"
+    ]
+  },
+  {
+    "en": "deuce",
+    "it": "diavolo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "devil"
+    ]
+  },
+  {
+    "en": "upright",
+    "it": "verticale",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "vertical",
+      "perpendicular",
+      "down",
+      "vertical axis"
+    ]
+  },
+  {
+    "en": "deal",
+    "it": "parte",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "part",
+      "side"
+    ]
+  },
+  {
+    "en": "damn",
+    "it": "dannazione",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "damnation"
+    ]
+  },
+  {
+    "en": "else",
+    "it": "altro",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "other",
+      "another"
+    ]
+  },
+  {
+    "en": "cooperation",
+    "it": "cooperazione",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "co-operation",
+      "collaboration"
+    ]
+  },
+  {
+    "en": "inquest",
+    "it": "inchiesta",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "investigation",
+      "inquiry",
+      "report"
+    ]
+  },
+  {
+    "en": "to sound",
+    "it": "suonare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "play"
+    ]
+  },
+  {
+    "en": "fine",
+    "it": "bene",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "well",
+      "wealth"
+    ]
+  },
+  {
+    "en": "issue",
+    "it": "problema",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "problem"
+    ]
+  },
+  {
+    "en": "over-",
+    "it": "sopra",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "on",
+      "above"
+    ]
+  },
+  {
+    "en": "to be worth",
+    "it": "valere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "be",
+      "worth"
+    ]
+  },
+  {
+    "en": "to manage",
+    "it": "gestire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "handle"
+    ]
+  },
+  {
+    "en": "gun",
+    "it": "pistola",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "pistol",
+      "handgun",
+      "dope",
+      "twit",
+      "fool"
+    ]
+  },
+  {
+    "en": "grant",
+    "it": "concessione",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "concession"
+    ]
+  },
+  {
+    "en": "of course",
+    "it": "ovviamente",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "obviously",
+      "clearly",
+      "naturally"
+    ]
+  },
+  {
+    "en": "presentation",
+    "it": "presentazione",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "launch",
+      "debut",
+      "introduction",
+      "preface",
+      "submission"
+    ]
+  },
+  {
+    "en": "to seek",
+    "it": "cercare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "search",
+      "look for"
+    ]
+  },
+  {
+    "en": "to remind",
+    "it": "ricordare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "remember",
+      "recall"
+    ]
+  },
+  {
+    "en": "anew",
+    "it": "di nuovo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "again"
+    ]
+  },
+  {
+    "en": "to participate",
+    "it": "partecipare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "attend",
+      "acquaint",
+      "inform"
+    ]
+  },
+  {
+    "en": "evil",
+    "it": "cattivo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "bad"
+    ]
+  },
+  {
+    "en": "source",
+    "it": "fonte",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "spring"
+    ]
+  },
+  {
+    "en": "to sort out",
+    "it": "sistemare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "to arrange",
+      "to put in order",
+      "to tidy up"
+    ]
+  },
+  {
+    "en": "supposedly",
+    "it": "presumibilmente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "presumably",
+      "probably",
+      "evidently",
+      "allegedly"
+    ]
+  },
+  {
+    "en": "dot",
+    "it": "punto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "point",
+      "all dressed up"
+    ]
+  },
+  {
+    "en": "alright",
+    "it": "bene",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "well",
+      "wealth"
+    ]
+  },
+  {
+    "en": "plane",
+    "it": "piano",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "plan",
+      "even",
+      "level",
+      "smooth",
+      "easy"
+    ]
+  },
+  {
+    "en": "revenue",
+    "it": "reddito",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "income"
+    ]
+  },
+  {
+    "en": "full",
+    "it": "pieno",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "plain"
+    ]
+  },
+  {
+    "en": "nato",
+    "it": "nato",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "innate",
+      "born"
+    ]
+  },
+  {
+    "en": "get married",
+    "it": "sposarsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "marry",
+      "get",
+      "married",
+      "go",
+      "well"
+    ]
+  },
+  {
+    "en": "open",
+    "it": "scoperto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "discovered"
+    ]
+  },
+  {
+    "en": "untied",
+    "it": "sciolto",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "released",
+      "dissolved",
+      "free",
+      "footloose",
+      "liquefied"
+    ]
+  },
+  {
+    "en": "segment",
+    "it": "segmento",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "line segment"
+    ]
+  },
+  {
+    "en": "agent",
+    "it": "agente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "police",
+      "officer"
+    ]
+  },
+  {
+    "en": "either",
+    "it": "o",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "or"
+    ]
+  },
+  {
+    "en": "to spell",
+    "it": "scrivere",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "write",
+      "print",
+      "imprint",
+      "ascribe",
+      "attribute"
+    ]
+  },
+  {
+    "en": "limit",
+    "it": "limite",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "boundary"
+    ]
+  },
+  {
+    "en": "on top of",
+    "it": "sopra",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "on",
+      "above"
+    ]
+  },
+  {
+    "en": "to experience",
+    "it": "sperimentare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "experiment",
+      "test",
+      "try out",
+      "test out"
+    ]
+  },
+  {
+    "en": "usually",
+    "it": "generalmente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "generally"
+    ]
+  },
+  {
+    "en": "practice",
+    "it": "pratica",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "pratcice",
+      "operation",
+      "file",
+      "record",
+      "dossier"
+    ]
+  },
+  {
+    "en": "discourse",
+    "it": "discorso",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "speech",
+      "lecture",
+      "debate"
+    ]
+  },
+  {
+    "en": "to smell",
+    "it": "annusare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "sniff"
+    ]
+  },
+  {
+    "en": "grand",
+    "it": "grande",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "large",
+      "big",
+      "great"
+    ]
+  },
+  {
+    "en": "society",
+    "it": "mondo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "world",
+      "earth",
+      "globe",
+      "mankind",
+      "orb"
+    ]
+  },
+  {
+    "en": "worry",
+    "it": "pensiero",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "thought"
+    ]
+  },
+  {
+    "en": "to explicate",
+    "it": "spiegare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "unfold",
+      "spread",
+      "open out",
+      "lay out",
+      "unfurl"
+    ]
+  },
+  {
+    "en": "to put",
+    "it": "mettere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "put on"
+    ]
+  },
+  {
+    "en": "ratio",
+    "it": "rapporto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "report",
+      "relationship",
+      "rapport",
+      "intercourse",
+      "statement"
+    ]
+  },
+  {
+    "en": "exhibit",
+    "it": "mostra",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "expo",
+      "exhibition hall",
+      "exposition",
+      "exhibition",
+      "show"
+    ]
+  },
+  {
+    "en": "afoot",
+    "it": "a piedi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "on foot"
+    ]
+  },
+  {
+    "en": "housing",
+    "it": "abitativo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "building"
+    ]
+  },
+  {
+    "en": "master",
+    "it": "maestro",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "teacher",
+      "maestro",
+      "main",
+      "craftsman",
+      "past master"
+    ]
+  },
+  {
+    "en": "careful",
+    "it": "attento",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "attentive",
+      "diligent"
+    ]
+  },
+  {
+    "en": "audience",
+    "it": "pubblico",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "public"
+    ]
+  },
+  {
+    "en": "any more",
+    "it": "più",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "more"
+    ]
+  },
+  {
+    "en": "to set out",
+    "it": "partire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "leave",
+      "depart"
+    ]
+  },
+  {
+    "en": "a great deal",
+    "it": "molto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "much",
+      "many",
+      "a lot of",
+      "very",
+      "very much"
+    ]
+  },
+  {
+    "en": "story",
+    "it": "storia",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "history"
+    ]
+  },
+  {
+    "en": "chassis",
+    "it": "telaio",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "framework",
+      "shell",
+      "structure"
+    ]
+  },
+  {
+    "en": "machine",
+    "it": "macchina",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "car",
+      "automobile"
+    ]
+  },
+  {
+    "en": "anywhere",
+    "it": "ovunque",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "wherever",
+      "everywhere"
+    ]
+  },
+  {
+    "en": "doer",
+    "it": "agente",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "police",
+      "officer"
+    ]
+  },
+  {
+    "en": "significant",
+    "it": "tanto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "much"
+    ]
+  },
+  {
+    "en": "forever",
+    "it": "sempre",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "always",
+      "ever"
+    ]
+  },
+  {
+    "en": "kind of",
+    "it": "tipo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "typical",
+      "type"
+    ]
+  },
+  {
+    "en": "motion",
+    "it": "movimento",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "exercise"
+    ]
+  },
+  {
+    "en": "carefully",
+    "it": "piano",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "plan",
+      "even",
+      "level",
+      "smooth",
+      "easy"
+    ]
+  },
+  {
+    "en": "professor",
+    "it": "professore",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "teacher",
+      "know-it-all"
+    ]
+  },
+  {
+    "en": "citizen",
+    "it": "civile",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "civil",
+      "civic",
+      "civilian",
+      "polite",
+      "courteous"
+    ]
+  },
+  {
+    "en": "motif",
+    "it": "motivo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "reason",
+      "theme",
+      "pattern"
+    ]
+  },
+  {
+    "en": "topic",
+    "it": "argomento",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "proof",
+      "evidence",
+      "pretext",
+      "excuse",
+      "reason"
+    ]
+  },
+  {
+    "en": "rate",
+    "it": "saggio",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "wise",
+      "knowledgeable",
+      "prudent",
+      "sage",
+      "sane"
+    ]
+  },
+  {
+    "en": "lovely",
+    "it": "bello",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "beautiful",
+      "beauty"
+    ]
+  },
+  {
+    "en": "to transfer",
+    "it": "trasferire",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "convey"
+    ]
+  },
+  {
+    "en": "on the other hand",
+    "it": "peraltro",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "however",
+      "but"
+    ]
+  },
+  {
+    "en": "to be lying",
+    "it": "mentire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "lie",
+      "fib",
+      "tell lies"
+    ]
+  },
+  {
+    "en": "major",
+    "it": "maggiore",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "greater"
+    ]
+  },
+  {
+    "en": "to thwart",
+    "it": "contrastare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "oppose",
+      "obstruct",
+      "hinder"
+    ]
+  },
+  {
+    "en": "silly",
+    "it": "sciocco",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "inane",
+      "fatuous",
+      "tasteless",
+      "insipid",
+      "fool"
+    ]
+  },
+  {
+    "en": "fast",
+    "it": "presto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "soon",
+      "early",
+      "quickly",
+      "easily"
+    ]
+  },
+  {
+    "en": "at all",
+    "it": "niente",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "nothing",
+      "nothingness"
+    ]
+  },
+  {
+    "en": "not at all",
+    "it": "affatto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "completely",
+      "at all"
+    ]
+  },
+  {
+    "en": "to clean",
+    "it": "pulire",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "polish"
+    ]
+  },
+  {
+    "en": "to control",
+    "it": "controllare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "check",
+      "verify",
+      "supervise",
+      "monitor"
+    ]
+  },
+  {
+    "en": "to rule",
+    "it": "governare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "direct",
+      "govern"
+    ]
+  },
+  {
+    "en": "to steer",
+    "it": "governare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "direct",
+      "govern"
+    ]
+  },
+  {
+    "en": "bracket",
+    "it": "staffa",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "stirrup"
+    ]
+  },
+  {
+    "en": "pleased",
+    "it": "lieto",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "delighted",
+      "joyous",
+      "joyful",
+      "cheerful",
+      "merry"
+    ]
+  },
+  {
+    "en": "native",
+    "it": "nativo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "birth",
+      "inborn",
+      "innate",
+      "congenital"
+    ]
+  },
+  {
+    "en": "poorly",
+    "it": "male",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "badly",
+      "evil"
+    ]
+  },
+  {
+    "en": "honor",
+    "it": "onore",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "honour"
+    ]
+  },
+  {
+    "en": "real",
+    "it": "vero",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "true",
+      "truth"
+    ]
+  },
+  {
+    "en": "balance",
+    "it": "bilancia",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "weighing scale",
+      "libra"
+    ]
+  },
+  {
+    "en": "slope",
+    "it": "costa",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "coast",
+      "sea-coast",
+      "seashore",
+      "seaboard",
+      "rib"
+    ]
+  },
+  {
+    "en": "summons",
+    "it": "chiamata",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "call",
+      "reference mark",
+      "roll-call"
+    ]
+  },
+  {
+    "en": "baby",
+    "it": "bambino",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "childish",
+      "infantil",
+      "child"
+    ]
+  },
+  {
+    "en": "selection",
+    "it": "adozione",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "adoption",
+      "choice",
+      "implementation"
+    ]
+  },
+  {
+    "en": "proper",
+    "it": "proprio",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "really",
+      "one",
+      "own",
+      "her",
+      "its"
+    ]
+  },
+  {
+    "en": "career",
+    "it": "carriera",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "profession",
+      "affirmation",
+      "assertion"
+    ]
+  },
+  {
+    "en": "groove",
+    "it": "scanalatura",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "grooving"
+    ]
+  },
+  {
+    "en": "locus",
+    "it": "luogo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "place"
+    ]
+  },
+  {
+    "en": "answer",
+    "it": "risposta",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "reply"
+    ]
+  },
+  {
+    "en": "being",
+    "it": "essere",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "have",
+      "be",
+      "exist"
+    ]
+  },
+  {
+    "en": "rise",
+    "it": "dosso",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "back"
+    ]
+  },
+  {
+    "en": "batch",
+    "it": "cotta",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "crush",
+      "cassock",
+      "cooked",
+      "baked"
+    ]
+  },
+  {
+    "en": "item",
+    "it": "articolo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "article"
+    ]
+  },
+  {
+    "en": "ahead of time",
+    "it": "in anticipo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "early",
+      "in",
+      "advance",
+      "beforehand"
+    ]
+  },
+  {
+    "en": "means",
+    "it": "via",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "away"
+    ]
+  },
+  {
+    "en": "along",
+    "it": "dietro",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "behind"
+    ]
+  },
+  {
+    "en": "throughout",
+    "it": "tutto",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "all"
+    ]
+  },
+  {
+    "en": "environment",
+    "it": "ambiente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "ambient"
+    ]
+  },
+  {
+    "en": "bottom",
+    "it": "sotto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "below",
+      "under"
+    ]
+  },
+  {
+    "en": "continuously",
+    "it": "continuo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "continuous",
+      "extended",
+      "continual",
+      "continuum"
+    ]
+  },
+  {
+    "en": "constable",
+    "it": "agente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "police",
+      "officer"
+    ]
+  },
+  {
+    "en": "pal",
+    "it": "amico",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "friend",
+      "lover"
+    ]
+  },
+  {
+    "en": "reporter",
+    "it": "reporter",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "journalist"
+    ]
+  },
+  {
+    "en": "clever",
+    "it": "intelligente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "intelligent",
+      "smart"
+    ]
+  },
+  {
+    "en": "smart",
+    "it": "accorto",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "watchful",
+      "wary",
+      "wise",
+      "rational",
+      "observant"
+    ]
+  },
+  {
+    "en": "to compound",
+    "it": "complesso",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "complex",
+      "intricate",
+      "band",
+      "group",
+      "ensemble"
+    ]
+  },
+  {
+    "en": "cock",
+    "it": "cazzo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "prick",
+      "christ",
+      "fuck",
+      "damn"
+    ]
+  },
+  {
+    "en": "to mention",
+    "it": "menzionare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "quote"
+    ]
+  },
+  {
+    "en": "background",
+    "it": "campo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "ground",
+      "field"
+    ]
+  },
+  {
+    "en": "blank",
+    "it": "vuoto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "empty",
+      "vacant",
+      "gap",
+      "vacancy",
+      "vacuum"
+    ]
+  },
+  {
+    "en": "to worry",
+    "it": "preoccuparsi",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "worried",
+      "concerned"
+    ]
+  },
+  {
+    "en": "run away",
+    "it": "fuggire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "escape",
+      "avoid",
+      "flee",
+      "fly",
+      "take"
+    ]
+  },
+  {
+    "en": "ranking",
+    "it": "classifica",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "table",
+      "placing",
+      "hit-parade"
+    ]
+  },
+  {
+    "en": "annoyance",
+    "it": "fastidio",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "trouble",
+      "bother",
+      "nuisance",
+      "to bother",
+      "to annoy"
+    ]
+  },
+  {
+    "en": "to ensure",
+    "it": "garantire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "safeguard",
+      "protect",
+      "guarantee",
+      "warrant"
+    ]
+  },
+  {
+    "en": "publicness",
+    "it": "pubblicità",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "publicity",
+      "advertising",
+      "ad"
+    ]
+  },
+  {
+    "en": "to lock",
+    "it": "bloccare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "block",
+      "hold up",
+      "stop"
+    ]
+  },
+  {
+    "en": "quite a lot",
+    "it": "parecchio",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "rather",
+      "several",
+      "a lot of"
+    ]
+  },
+  {
+    "en": "bloody",
+    "it": "sanguinante",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "bleeding"
+    ]
+  },
+  {
+    "en": "to long for",
+    "it": "desiderare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "wish",
+      "want",
+      "like",
+      "desire",
+      "long"
+    ]
+  },
+  {
+    "en": "budget",
+    "it": "bilancio",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "appraisal"
+    ]
+  },
+  {
+    "en": "fool",
+    "it": "scemo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "stupid",
+      "idiot",
+      "moron"
+    ]
+  },
+  {
+    "en": "hasty",
+    "it": "precoce",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "precocious",
+      "early",
+      "premature"
+    ]
+  },
+  {
+    "en": "handsome",
+    "it": "bello",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "beautiful",
+      "beauty"
+    ]
+  },
+  {
+    "en": "stuck",
+    "it": "bloccato",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "suspended",
+      "arrested",
+      "stopped",
+      "halted",
+      "blocked"
+    ]
+  },
+  {
+    "en": "shore",
+    "it": "costa",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "coast",
+      "sea-coast",
+      "seashore",
+      "seaboard",
+      "rib"
+    ]
+  },
+  {
+    "en": "puny",
+    "it": "gracile",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "delicate",
+      "weak",
+      "frail"
+    ]
+  },
+  {
+    "en": "next to",
+    "it": "accanto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "next",
+      "near",
+      "nearby",
+      "alongside",
+      "beside"
+    ]
+  },
+  {
+    "en": "fight",
+    "it": "battaglia",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "battle",
+      "contest"
+    ]
+  },
+  {
+    "en": "requirement",
+    "it": "requisito",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "requisitioned"
+    ]
+  },
+  {
+    "en": "to scat",
+    "it": "scattare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "sprint",
+      "start",
+      "begin",
+      "jump",
+      "react"
+    ]
+  },
+  {
+    "en": "itself",
+    "it": "si",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "yes"
+    ]
+  },
+  {
+    "en": "suggestion",
+    "it": "suggerimento",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "suggesting"
+    ]
+  },
+  {
+    "en": "to hog",
+    "it": "maiale",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "pig",
+      "pork"
+    ]
+  },
+  {
+    "en": "form",
+    "it": "modulo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "module",
+      "diameter"
+    ]
+  },
+  {
+    "en": "old man",
+    "it": "vecchio",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "old"
+    ]
+  },
+  {
+    "en": "outlook",
+    "it": "veduta",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "view",
+      "vista",
+      "panorama"
+    ]
+  },
+  {
+    "en": "grateful",
+    "it": "grato",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "pleasing"
+    ]
+  },
+  {
+    "en": "the very",
+    "it": "proprio",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "really",
+      "one",
+      "own",
+      "her",
+      "its"
+    ]
+  },
+  {
+    "en": "hearing",
+    "it": "indagine",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "study",
+      "research",
+      "survey",
+      "investigation",
+      "inquiry"
+    ]
+  },
+  {
+    "en": "to object",
+    "it": "opporsi",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "fight"
+    ]
+  },
+  {
+    "en": "faint",
+    "it": "basso",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "low",
+      "short",
+      "bass",
+      "bass guitar"
+    ]
+  },
+  {
+    "en": "grasp",
+    "it": "presa",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "engrossed",
+      "absorbed",
+      "taken",
+      "occupied",
+      "pinch"
+    ]
+  },
+  {
+    "en": "pity",
+    "it": "pena",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "pain",
+      "suffering",
+      "punishment",
+      "penalty"
+    ]
+  },
+  {
+    "en": "to accrue",
+    "it": "maturare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "ripen",
+      "mature"
+    ]
+  },
+  {
+    "en": "swine",
+    "it": "carogna",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "carrion",
+      "rogue",
+      "rascal"
+    ]
+  },
+  {
+    "en": "plenty",
+    "it": "abbondanza",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "abundance"
+    ]
+  },
+  {
+    "en": "to loan",
+    "it": "prestare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "lend",
+      "pay",
+      "give",
+      "pay (attention/attenzione"
+    ]
+  },
+  {
+    "en": "at last",
+    "it": "finalmente",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "finally"
+    ]
+  },
+  {
+    "en": "huge",
+    "it": "enorme",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "enormous",
+      "immense",
+      "great",
+      "oversize",
+      "oversized"
+    ]
+  },
+  {
+    "en": "gap",
+    "it": "buco",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "hole",
+      "pit",
+      "dump",
+      "fix"
+    ]
+  },
+  {
+    "en": "intermediate",
+    "it": "intermedio",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "intermission",
+      "break"
+    ]
+  },
+  {
+    "en": "to crack down",
+    "it": "reprimere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "repress",
+      "restrain",
+      "stifle"
+    ]
+  },
+  {
+    "en": "in person",
+    "it": "di persona",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "personally",
+      "oneself"
+    ]
+  },
+  {
+    "en": "personally",
+    "it": "direttamente",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "directly",
+      "straight",
+      "direct"
+    ]
+  },
+  {
+    "en": "heavy",
+    "it": "grosso",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "big",
+      "large"
+    ]
+  },
+  {
+    "en": "opinion",
+    "it": "viso",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "face"
+    ]
+  },
+  {
+    "en": "compensation",
+    "it": "compenso",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "reimbursement",
+      "payment",
+      "fee"
+    ]
+  },
+  {
+    "en": "to end up",
+    "it": "finire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "finish",
+      "end",
+      "complete",
+      "conclude"
+    ]
+  },
+  {
+    "en": "to retain",
+    "it": "conservare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "conserve"
+    ]
+  },
+  {
+    "en": "futile",
+    "it": "inutile",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "superfluous",
+      "useless",
+      "needless"
+    ]
+  },
+  {
+    "en": "neat",
+    "it": "pulito",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "clean",
+      "clear"
+    ]
+  },
+  {
+    "en": "swamp",
+    "it": "pantano",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "marsh",
+      "fen",
+      "morass",
+      "quagmire",
+      "mess"
+    ]
+  },
+  {
+    "en": "dress",
+    "it": "vestito",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "clothed",
+      "dressed",
+      "suit",
+      "wear",
+      "vetu"
+    ]
+  },
+  {
+    "en": "suit",
+    "it": "abito",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "dress",
+      "clothes",
+      "habit",
+      "custom",
+      "inclination"
+    ]
+  },
+  {
+    "en": "pretty",
+    "it": "bello",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "beautiful",
+      "beauty"
+    ]
+  },
+  {
+    "en": "fault",
+    "it": "colpa",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "crime",
+      "injustice",
+      "guilt",
+      "negligence"
+    ]
+  },
+  {
+    "en": "tax",
+    "it": "tributo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "tribute",
+      "duty"
+    ]
+  },
+  {
+    "en": "morning",
+    "it": "mattina",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "forenoon"
+    ]
+  },
+  {
+    "en": "backward",
+    "it": "arretrato",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "overdue",
+      "behind",
+      "behindhand"
+    ]
+  },
+  {
+    "en": "favor",
+    "it": "favore",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "favour"
+    ]
+  },
+  {
+    "en": "staff",
+    "it": "personale",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "personal",
+      "individual",
+      "private",
+      "intimate",
+      "personale"
+    ]
+  },
+  {
+    "en": "malicious",
+    "it": "malvagio",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "cruel",
+      "wicked",
+      "evil",
+      "contemptible"
+    ]
+  },
+  {
+    "en": "nasty",
+    "it": "sgradevole",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "unpleasant",
+      "disagreeable",
+      "distasteful",
+      "harsh",
+      "metallic"
+    ]
+  },
+  {
+    "en": "presently",
+    "it": "attualmente",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "at the moment",
+      "currently"
+    ]
+  },
+  {
+    "en": "attorney-at-law",
+    "it": "avvocato",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "advocate",
+      "attorney",
+      "lawyer",
+      "solicitor"
+    ]
+  },
+  {
+    "en": "awful",
+    "it": "terribile",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "terrible",
+      "horrible"
+    ]
+  },
+  {
+    "en": "to delete",
+    "it": "eliminare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "eliminate"
+    ]
+  },
+  {
+    "en": "favourable/favorable",
+    "it": "destro",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "right",
+      "right-hand",
+      "adroit",
+      "dexterous",
+      "dexter"
+    ]
+  },
+  {
+    "en": "ring",
+    "it": "giro",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "circle"
+    ]
+  },
+  {
+    "en": "to poke",
+    "it": "colpire",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "hit",
+      "strike",
+      "affect"
+    ]
+  },
+  {
+    "en": "summit",
+    "it": "vertice",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "vertex",
+      "meeting",
+      "assembly"
+    ]
+  },
+  {
+    "en": "to relieve",
+    "it": "alleviare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "alleviate",
+      "ease",
+      "assuage",
+      "soothe"
+    ]
+  },
+  {
+    "en": "sonny",
+    "it": "figliolo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "son"
+    ]
+  },
+  {
+    "en": "judgment",
+    "it": "sentenza",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "judgement",
+      "sentence",
+      "maxim",
+      "saying",
+      "saw"
+    ]
+  },
+  {
+    "en": "to leak",
+    "it": "perdere",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "lose"
+    ]
+  },
+  {
+    "en": "flying",
+    "it": "volare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "fly",
+      "run"
+    ]
+  },
+  {
+    "en": "to rest",
+    "it": "riposare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "sleep",
+      "have",
+      "take",
+      "stand",
+      "lie"
+    ]
+  },
+  {
+    "en": "to deliberate",
+    "it": "deliberare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "decide"
+    ]
+  },
+  {
+    "en": "network",
+    "it": "rete",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "net",
+      "web",
+      "internet"
+    ]
+  },
+  {
+    "en": "to view",
+    "it": "visualizzare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "display",
+      "visualize",
+      "show"
+    ]
+  },
+  {
+    "en": "tuition",
+    "it": "lezioni",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "lessons"
+    ]
+  },
+  {
+    "en": "gate",
+    "it": "porta",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "door"
+    ]
+  },
+  {
+    "en": "port",
+    "it": "porta",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "door"
+    ]
+  },
+  {
+    "en": "most certainly",
+    "it": "sicuramente",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "surely",
+      "decidedly",
+      "certainly",
+      "absolutely",
+      "definitely"
+    ]
+  },
+  {
+    "en": "concerned",
+    "it": "interessato",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "interested"
+    ]
+  },
+  {
+    "en": "foul",
+    "it": "ripugnante",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "repugnant",
+      "disgusting",
+      "revolting"
+    ]
+  },
+  {
+    "en": "attire",
+    "it": "abbigliamento",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "clothing",
+      "clothes"
+    ]
+  },
+  {
+    "en": "outfit",
+    "it": "vestito",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "clothed",
+      "dressed",
+      "suit",
+      "wear",
+      "vetu"
+    ]
+  },
+  {
+    "en": "turn",
+    "it": "giro",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "circle"
+    ]
+  },
+  {
+    "en": "sum",
+    "it": "cifra",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "digit",
+      "numerical digit"
+    ]
+  },
+  {
+    "en": "to calve",
+    "it": "partorire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "give birth",
+      "deliver"
+    ]
+  },
+  {
+    "en": "equipment",
+    "it": "attrezzatura",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "rigging"
+    ]
+  },
+  {
+    "en": "personnel",
+    "it": "personale",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "personal",
+      "individual",
+      "private",
+      "intimate",
+      "personale"
+    ]
+  },
+  {
+    "en": "plot",
+    "it": "pezzo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "piece",
+      "part",
+      "slice",
+      "cut",
+      "por um tempo"
+    ]
+  },
+  {
+    "en": "to appreciate",
+    "it": "apprezzare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "appraise"
+    ]
+  },
+  {
+    "en": "slut",
+    "it": "troia",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "sow",
+      "whore"
+    ]
+  },
+  {
+    "en": "to call out",
+    "it": "chiamare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "call",
+      "address",
+      "summon",
+      "phone",
+      "ring"
+    ]
+  },
+  {
+    "en": "cue ball",
+    "it": "pallino",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "jack",
+      "obsession",
+      "craze",
+      "mania",
+      "fixation"
+    ]
+  },
+  {
+    "en": "commodity",
+    "it": "merce",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "ware"
+    ]
+  },
+  {
+    "en": "goods",
+    "it": "articolo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "article"
+    ]
+  },
+  {
+    "en": "suspected",
+    "it": "sospetto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "suspicious",
+      "dubious",
+      "fishy"
+    ]
+  },
+  {
+    "en": "finale",
+    "it": "finale",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "final"
+    ]
+  },
+  {
+    "en": "loud",
+    "it": "forte",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "strong",
+      "powerful",
+      "tough",
+      "stout",
+      "great"
+    ]
+  },
+  {
+    "en": "priest",
+    "it": "mazza",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "cudgel",
+      "bludgeon",
+      "club",
+      "mace"
+    ]
+  },
+  {
+    "en": "route",
+    "it": "passaggio",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "passing",
+      "passage",
+      "crossing",
+      "way",
+      "pass"
+    ]
+  },
+  {
+    "en": "pastor",
+    "it": "pastore",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "shepherd",
+      "clergyman",
+      "minister"
+    ]
+  },
+  {
+    "en": "girlfriend",
+    "it": "ragazza",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "girl"
+    ]
+  },
+  {
+    "en": "to reminisce",
+    "it": "ricordare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "remember",
+      "recall"
+    ]
+  },
+  {
+    "en": "politician",
+    "it": "politico",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "political"
+    ]
+  },
+  {
+    "en": "to con",
+    "it": "con",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "with",
+      "by",
+      "because",
+      "of",
+      "despite"
+    ]
+  },
+  {
+    "en": "naughty",
+    "it": "cattivo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "bad"
+    ]
+  },
+  {
+    "en": "to check out",
+    "it": "controllare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "check",
+      "verify",
+      "supervise",
+      "monitor"
+    ]
+  },
+  {
+    "en": "neighbour/neighbor",
+    "it": "vicino",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "close",
+      "near",
+      "neighbouring",
+      "nearby",
+      "neighbour"
+    ]
+  },
+  {
+    "en": "unit",
+    "it": "unità",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "singularity",
+      "unity"
+    ]
+  },
+  {
+    "en": "yard",
+    "it": "cortile",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "court",
+      "courtyard"
+    ]
+  },
+  {
+    "en": "tricky",
+    "it": "scaltro",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "sly",
+      "shrewd",
+      "sharp",
+      "astute"
+    ]
+  },
+  {
+    "en": "to dribble",
+    "it": "dribblare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "dribbling"
+    ]
+  },
+  {
+    "en": "extra",
+    "it": "extra",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "best-quality",
+      "top-grade",
+      "first-rate",
+      "choice",
+      "select"
+    ]
+  },
+  {
+    "en": "benefit",
+    "it": "beneficio",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "advantage"
+    ]
+  },
+  {
+    "en": "slight",
+    "it": "leggero",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "airy",
+      "soft"
+    ]
+  },
+  {
+    "en": "record",
+    "it": "ricordo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "souvenir",
+      "memory",
+      "remembrance",
+      "recollection"
+    ]
+  },
+  {
+    "en": "caretaker",
+    "it": "custode",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "guardian",
+      "keeper",
+      "custodian",
+      "doorkeeper"
+    ]
+  },
+  {
+    "en": "to name",
+    "it": "nominare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "appoint"
+    ]
+  },
+  {
+    "en": "to nominate",
+    "it": "nominare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "appoint"
+    ]
+  },
+  {
+    "en": "for starters",
+    "it": "cominciare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "start",
+      "begin",
+      "commence"
+    ]
+  },
+  {
+    "en": "to track",
+    "it": "tracciare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "trace",
+      "mark",
+      "draw",
+      "sketch",
+      "outline"
+    ]
+  },
+  {
+    "en": "shooter",
+    "it": "tiratore",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "shot"
+    ]
+  },
+  {
+    "en": "to secure",
+    "it": "garantire",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "safeguard",
+      "protect",
+      "guarantee",
+      "warrant"
+    ]
+  },
+  {
+    "en": "accursed",
+    "it": "maledetto",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "horrific",
+      "vile",
+      "terrible",
+      "unbearable",
+      "insufferable"
+    ]
+  },
+  {
+    "en": "gear",
+    "it": "rapporto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "report",
+      "relationship",
+      "rapport",
+      "intercourse",
+      "statement"
+    ]
+  },
+  {
+    "en": "to reject",
+    "it": "rifiutare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "turn down",
+      "refuse",
+      "deny"
+    ]
+  },
+  {
+    "en": "charge",
+    "it": "carica",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "office",
+      "tackle"
+    ]
+  },
+  {
+    "en": "prosecution",
+    "it": "accusa",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "charge"
+    ]
+  },
+  {
+    "en": "deep",
+    "it": "alto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "high",
+      "tall"
+    ]
+  },
+  {
+    "en": "gig",
+    "it": "concerto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "concert",
+      "recital",
+      "concerto",
+      "agreement"
+    ]
+  },
+  {
+    "en": "consistent",
+    "it": "coerente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "coherent",
+      "logical",
+      "congruent",
+      "cohesive"
+    ]
+  },
+  {
+    "en": "world cup",
+    "it": "mondiale",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "world",
+      "worldwide",
+      "planetary",
+      "fantastic"
+    ]
+  },
+  {
+    "en": "forecast",
+    "it": "previsto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "foreseen",
+      "expected",
+      "anticipated",
+      "reckoned"
+    ]
+  },
+  {
+    "en": "nutcase",
+    "it": "pazzo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "mad",
+      "insane",
+      "lunatic",
+      "crazy",
+      "eccentric"
+    ]
+  },
+  {
+    "en": "visitation",
+    "it": "visita",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "visit",
+      "check-up"
+    ]
+  },
+  {
+    "en": "to employ",
+    "it": "impiegare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "hire",
+      "use"
+    ]
+  },
+  {
+    "en": "map",
+    "it": "carta",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "paper"
+    ]
+  },
+  {
+    "en": "to bait",
+    "it": "amo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "hook",
+      "fishhook"
+    ]
+  },
+  {
+    "en": "card",
+    "it": "carta",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "paper"
+    ]
+  },
+  {
+    "en": "aware",
+    "it": "saggio",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "wise",
+      "knowledgeable",
+      "prudent",
+      "sage",
+      "sane"
+    ]
+  },
+  {
+    "en": "to grab",
+    "it": "afferrare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "seize",
+      "gras"
+    ]
+  },
+  {
+    "en": "erect",
+    "it": "duro",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "hard",
+      "solid",
+      "tough",
+      "resistant"
+    ]
+  },
+  {
+    "en": "locked",
+    "it": "bloccato",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "suspended",
+      "arrested",
+      "stopped",
+      "halted",
+      "blocked"
+    ]
+  },
+  {
+    "en": "to focus",
+    "it": "concentrarsi",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "concentrate",
+      "assemble",
+      "converge",
+      "centre"
+    ]
+  },
+  {
+    "en": "to clear",
+    "it": "cancellare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "erase",
+      "efface",
+      "cancel",
+      "delete",
+      "strike out"
+    ]
+  },
+  {
+    "en": "tape",
+    "it": "nastro",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "ribbon"
+    ]
+  },
+  {
+    "en": "couple",
+    "it": "coppia",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "pair"
+    ]
+  },
+  {
+    "en": "to pursue",
+    "it": "perseguire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "pursu",
+      "chase",
+      "follow",
+      "prosecute"
+    ]
+  },
+  {
+    "en": "climax",
+    "it": "culminante",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "culminating"
+    ]
+  },
+  {
+    "en": "top",
+    "it": "sopra",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "on",
+      "above"
+    ]
+  },
+  {
+    "en": "ownership",
+    "it": "proprietà",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "possession",
+      "dominion"
+    ]
+  },
+  {
+    "en": "control",
+    "it": "controllare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "check",
+      "verify",
+      "supervise",
+      "monitor"
+    ]
+  },
+  {
+    "en": "layer",
+    "it": "pellicola",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "film",
+      "pellicle"
+    ]
+  },
+  {
+    "en": "desire",
+    "it": "desiderio",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "wish"
+    ]
+  },
+  {
+    "en": "fortune",
+    "it": "fortuna",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "fate",
+      "luck",
+      "fortuna"
+    ]
+  },
+  {
+    "en": "arse",
+    "it": "culo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "faggot",
+      "backside"
+    ]
+  },
+  {
+    "en": "ass",
+    "it": "culo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "faggot",
+      "backside"
+    ]
+  },
+  {
+    "en": "mess",
+    "it": "casino",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "whorehouse",
+      "brothel"
+    ]
+  },
+  {
+    "en": "export",
+    "it": "esportatore",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "exporter"
+    ]
+  },
+  {
+    "en": "funny",
+    "it": "divertente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "amusing",
+      "fun"
+    ]
+  },
+  {
+    "en": "camp",
+    "it": "campo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "ground",
+      "field"
+    ]
+  },
+  {
+    "en": "board",
+    "it": "asse",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "axis"
+    ]
+  },
+  {
+    "en": "texture",
+    "it": "struttura",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "structure",
+      "frame",
+      "framework",
+      "composition",
+      "make-up"
+    ]
+  },
+  {
+    "en": "to shake down",
+    "it": "scuotere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "shake"
+    ]
+  },
+  {
+    "en": "to record",
+    "it": "registrare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "register",
+      "adjust",
+      "set",
+      "regulate",
+      "tape"
+    ]
+  },
+  {
+    "en": "little one",
+    "it": "piccolo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "small",
+      "little"
+    ]
+  },
+  {
+    "en": "in advance",
+    "it": "in anticipo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "early",
+      "in",
+      "advance",
+      "beforehand"
+    ]
+  },
+  {
+    "en": "dump",
+    "it": "scarico",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "empty",
+      "unloaded"
+    ]
+  },
+  {
+    "en": "assumed",
+    "it": "assunto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "employed",
+      "hired",
+      "employee",
+      "assumption",
+      "proposition"
+    ]
+  },
+  {
+    "en": "stance",
+    "it": "posizione",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "position",
+      "location",
+      "spot",
+      "arrangement",
+      "layout"
+    ]
+  },
+  {
+    "en": "scary",
+    "it": "allarmante",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "alarming",
+      "disturbing",
+      "frightening",
+      "worrying"
+    ]
+  },
+  {
+    "en": "principle",
+    "it": "principio",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "beginning",
+      "start"
+    ]
+  },
+  {
+    "en": "flash",
+    "it": "distintivo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "characteristic",
+      "distinctive",
+      "individual",
+      "singular",
+      "distinguishing"
+    ]
+  },
+  {
+    "en": "fairy tale",
+    "it": "fiaba",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "fable",
+      "legend",
+      "myth"
+    ]
+  },
+  {
+    "en": "warrior",
+    "it": "guerriero",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "warlike",
+      "hostile",
+      "bellicose"
+    ]
+  },
+  {
+    "en": "nicely",
+    "it": "bene",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "well",
+      "wealth"
+    ]
+  },
+  {
+    "en": "passenger",
+    "it": "passeggeri",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "passengers"
+    ]
+  },
+  {
+    "en": "headmaster",
+    "it": "preside",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "headteacher",
+      "dean"
+    ]
+  },
+  {
+    "en": "cool",
+    "it": "freddo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "cold"
+    ]
+  },
+  {
+    "en": "property",
+    "it": "proprietà",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "possession",
+      "dominion"
+    ]
+  },
+  {
+    "en": "relaxedly",
+    "it": "rilassato",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "relaxed",
+      "easy",
+      "calm",
+      "loose",
+      "lax"
+    ]
+  },
+  {
+    "en": "freely",
+    "it": "liberamente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "freelly",
+      "liberally"
+    ]
+  },
+  {
+    "en": "vice-chairman",
+    "it": "vicepresidente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "vice president",
+      "vice-president",
+      "vice chairman"
+    ]
+  },
+  {
+    "en": "signal",
+    "it": "campo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "ground",
+      "field"
+    ]
+  },
+  {
+    "en": "hint",
+    "it": "suggerimento",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "suggesting"
+    ]
+  },
+  {
+    "en": "arrangement",
+    "it": "accordo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "harmony",
+      "concord",
+      "concordance",
+      "agreement",
+      "accord"
+    ]
+  },
+  {
+    "en": "wallop",
+    "it": "colpo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "blow",
+      "knock",
+      "shock",
+      "punch",
+      "hit"
+    ]
+  },
+  {
+    "en": "mail",
+    "it": "posta",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "established",
+      "post",
+      "place"
+    ]
+  },
+  {
+    "en": "advertisement",
+    "it": "annuncio",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "announcement",
+      "notice",
+      "proclamation",
+      "news",
+      "omen"
+    ]
+  },
+  {
+    "en": "sickness",
+    "it": "malattia",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "disease"
+    ]
+  },
+  {
+    "en": "living",
+    "it": "essere",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "have",
+      "be",
+      "exist"
+    ]
+  },
+  {
+    "en": "to stick",
+    "it": "attaccare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "yoke",
+      "attack",
+      "condemn",
+      "corrode"
+    ]
+  },
+  {
+    "en": "archive",
+    "it": "archivio",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "archives"
+    ]
+  },
+  {
+    "en": "break",
+    "it": "rottura",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "drag",
+      "hassle",
+      "rupt"
+    ]
+  },
+  {
+    "en": "to elope",
+    "it": "fuggire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "escape",
+      "avoid",
+      "flee",
+      "fly",
+      "take"
+    ]
+  },
+  {
+    "en": "to sprawl",
+    "it": "espandersi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "expand",
+      "grow"
+    ]
+  },
+  {
+    "en": "ability",
+    "it": "capacità",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "capacity"
+    ]
+  },
+  {
+    "en": "capability",
+    "it": "capacità",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "capacity"
+    ]
+  },
+  {
+    "en": "bulk",
+    "it": "massa",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "mass",
+      "heap",
+      "lot",
+      "lots",
+      "load"
+    ]
+  },
+  {
+    "en": "comrade",
+    "it": "compagno",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "mate",
+      "partner"
+    ]
+  },
+  {
+    "en": "defense",
+    "it": "difesa",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "defended",
+      "fortified",
+      "sheltered",
+      "protected",
+      "defence"
+    ]
+  },
+  {
+    "en": "memento",
+    "it": "ricordo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "souvenir",
+      "memory",
+      "remembrance",
+      "recollection"
+    ]
+  },
+  {
+    "en": "supporter",
+    "it": "supporto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "support",
+      "help",
+      "backing"
+    ]
+  },
+  {
+    "en": "to pledge",
+    "it": "impegnarsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "devote",
+      "oneself",
+      "engage",
+      "give",
+      "apply"
+    ]
+  },
+  {
+    "en": "engine",
+    "it": "motore",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "driving",
+      "motor"
+    ]
+  },
+  {
+    "en": "to be interested in",
+    "it": "interessarsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "be",
+      "interested",
+      "interfere",
+      "see",
+      "go"
+    ]
+  },
+  {
+    "en": "to vilify",
+    "it": "diffamare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "defame",
+      "slander",
+      "libel"
+    ]
+  },
+  {
+    "en": "labor force",
+    "it": "forza lavoro",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "manpower"
+    ]
+  },
+  {
+    "en": "flow",
+    "it": "portata",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "dish",
+      "course",
+      "payload",
+      "range",
+      "capacity"
+    ]
+  },
+  {
+    "en": "to charge",
+    "it": "caricare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "load"
+    ]
+  },
+  {
+    "en": "tonne",
+    "it": "tonnellata",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "ton"
+    ]
+  },
+  {
+    "en": "producer",
+    "it": "produttore",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "manufacturer",
+      "maker"
+    ]
+  },
+  {
+    "en": "to ring",
+    "it": "suonare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "play"
+    ]
+  },
+  {
+    "en": "to manifest itself",
+    "it": "manifestarsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "appear",
+      "arise"
+    ]
+  },
+  {
+    "en": "leading",
+    "it": "primo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "oldest",
+      "eldest",
+      "first",
+      "starter",
+      "premiere"
+    ]
+  },
+  {
+    "en": "channel",
+    "it": "canale",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "canal"
+    ]
+  },
+  {
+    "en": "aid",
+    "it": "aiuto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "help"
+    ]
+  },
+  {
+    "en": "historic",
+    "it": "storico",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "historical",
+      "historian",
+      "historiographer"
+    ]
+  },
+  {
+    "en": "yield",
+    "it": "prodotto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "product",
+      "result",
+      "effect",
+      "consequence"
+    ]
+  },
+  {
+    "en": "comeback",
+    "it": "ritorno",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "return",
+      "repayment",
+      "restitution"
+    ]
+  },
+  {
+    "en": "to portray",
+    "it": "ritrarre",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "withdraw",
+      "gain",
+      "portay"
+    ]
+  },
+  {
+    "en": "to hire",
+    "it": "assumere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "assume",
+      "take",
+      "on",
+      "engage",
+      "employ"
+    ]
+  },
+  {
+    "en": "sparse",
+    "it": "disperso",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "missing",
+      "lost"
+    ]
+  },
+  {
+    "en": "puck",
+    "it": "disco",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "disk",
+      "°"
+    ]
+  },
+  {
+    "en": "betterment",
+    "it": "miglioramento",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "improvement"
+    ]
+  },
+  {
+    "en": "societal",
+    "it": "sociale",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "social"
+    ]
+  },
+  {
+    "en": "cent",
+    "it": "cento",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "hundred"
+    ]
+  },
+  {
+    "en": "to soar",
+    "it": "volare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "fly",
+      "run"
+    ]
+  },
+  {
+    "en": "figure",
+    "it": "figura",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "form",
+      "shape",
+      "face card",
+      "court card",
+      "picture card"
+    ]
+  },
+  {
+    "en": "favorite",
+    "it": "preferito",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "favourite",
+      "cherished",
+      "darling",
+      "pet",
+      "bookmark"
+    ]
+  },
+  {
+    "en": "favourite/favorite",
+    "it": "preferito",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "favourite",
+      "cherished",
+      "darling",
+      "pet",
+      "bookmark"
+    ]
+  },
+  {
+    "en": "to content oneself",
+    "it": "accontentarsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "content",
+      "satisfied"
+    ]
+  },
+  {
+    "en": "to settle for",
+    "it": "accontentarsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "content",
+      "satisfied"
+    ]
+  },
+  {
+    "en": "to prepare for",
+    "it": "prepararsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "prepare",
+      "get",
+      "ready",
+      "make",
+      "preparations"
+    ]
+  },
+  {
+    "en": "particular",
+    "it": "particolare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "characteristic",
+      "unique"
+    ]
+  },
+  {
+    "en": "fierce",
+    "it": "capitale",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "fundamental",
+      "crucial",
+      "paramount",
+      "capital",
+      "city"
+    ]
+  },
+  {
+    "en": "to walk into",
+    "it": "entrare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "enter"
+    ]
+  },
+  {
+    "en": "appeal",
+    "it": "appello",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "roll call",
+      "attendance"
+    ]
+  },
+  {
+    "en": "hurdle",
+    "it": "ostacolo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "obstacle",
+      "barrier"
+    ]
+  },
+  {
+    "en": "stage",
+    "it": "scena",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "set",
+      "scene",
+      "setting",
+      "scenery",
+      "tantrum"
+    ]
+  },
+  {
+    "en": "defender",
+    "it": "difensore",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "pholder",
+      "supporter",
+      "champion"
+    ]
+  },
+  {
+    "en": "liter",
+    "it": "litro",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "litre"
+    ]
+  },
+  {
+    "en": "newspaper",
+    "it": "giornale",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "journal"
+    ]
+  },
+  {
+    "en": "square",
+    "it": "casa",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "house",
+      "home"
+    ]
+  },
+  {
+    "en": "exchange",
+    "it": "cambio",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "change"
+    ]
+  },
+  {
+    "en": "display",
+    "it": "video",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "video"
+    ]
+  },
+  {
+    "en": "monitor",
+    "it": "video",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "video"
+    ]
+  },
+  {
+    "en": "vocalist",
+    "it": "cantante",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "singer"
+    ]
+  },
+  {
+    "en": "measuring",
+    "it": "misurazione",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "measure",
+      "gauge"
+    ]
+  },
+  {
+    "en": "to seize",
+    "it": "cogliere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "pick",
+      "cull",
+      "crop",
+      "hit",
+      "centre"
+    ]
+  },
+  {
+    "en": "contention",
+    "it": "contesa",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "hard-fought",
+      "quarrel",
+      "argument",
+      "dispute"
+    ]
+  },
+  {
+    "en": "to enable",
+    "it": "abilitare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "qualify"
+    ]
+  },
+  {
+    "en": "to test",
+    "it": "testare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "taste"
+    ]
+  },
+  {
+    "en": "character",
+    "it": "battuta",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "defeated",
+      "frequented",
+      "widely-know",
+      "joke",
+      "gag"
+    ]
+  },
+  {
+    "en": "to bear",
+    "it": "sopportare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "support"
+    ]
+  },
+  {
+    "en": "contract",
+    "it": "scrittura",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "writing",
+      "composition"
+    ]
+  },
+  {
+    "en": "to supplement",
+    "it": "integrare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "complete",
+      "complement",
+      "assimalte",
+      "integrate"
+    ]
+  },
+  {
+    "en": "instead of",
+    "it": "invece",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "instead",
+      "but",
+      "whereas",
+      "on the contrary",
+      "rather than"
+    ]
+  },
+  {
+    "en": "to get excited",
+    "it": "emozionarsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "get",
+      "excited",
+      "moved",
+      "touched"
+    ]
+  },
+  {
+    "en": "downright",
+    "it": "decisamente",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "decidedly",
+      "certainly"
+    ]
+  },
+  {
+    "en": "litigation",
+    "it": "litigio",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "argument",
+      "fight",
+      "quarrel",
+      "row",
+      "wrangler"
+    ]
+  },
+  {
+    "en": "passenger car",
+    "it": "autovettura",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "car"
+    ]
+  },
+  {
+    "en": "bombing",
+    "it": "bombardamento",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "bombardment"
+    ]
+  },
+  {
+    "en": "tumbler",
+    "it": "bicchiere",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "glass"
+    ]
+  },
+  {
+    "en": "foodstuff",
+    "it": "commestibile",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "edible"
+    ]
+  },
+  {
+    "en": "fund",
+    "it": "fondo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "bottom",
+      "editorial",
+      "leader",
+      "land",
+      "pilot"
+    ]
+  },
+  {
+    "en": "writing",
+    "it": "scritto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "written"
+    ]
+  },
+  {
+    "en": "coil",
+    "it": "spirale",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "spiral"
+    ]
+  },
+  {
+    "en": "reel",
+    "it": "pizza",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "pizza",
+      "bore",
+      "can"
+    ]
+  },
+  {
+    "en": "count-off",
+    "it": "conteggio alla rovescia",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "countdown"
+    ]
+  },
+  {
+    "en": "tightly",
+    "it": "strettamente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "closely",
+      "strictly"
+    ]
+  },
+  {
+    "en": "dissertation",
+    "it": "tesi",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "tense",
+      "taut",
+      "stretched",
+      "anxious",
+      "nervous"
+    ]
+  },
+  {
+    "en": "achievement",
+    "it": "risultato",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "result",
+      "score"
+    ]
+  },
+  {
+    "en": "pattern",
+    "it": "modello",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "model",
+      "example",
+      "role modem",
+      "paragon",
+      "mock-up"
+    ]
+  },
+  {
+    "en": "prolonged",
+    "it": "prolungato",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "lengthened",
+      "extended"
+    ]
+  },
+  {
+    "en": "tyre",
+    "it": "tiro",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "draught",
+      "trick",
+      "turn",
+      "fire",
+      "drag"
+    ]
+  },
+  {
+    "en": "imprisonment",
+    "it": "reclusione",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "inmprisonment"
+    ]
+  },
+  {
+    "en": "speed",
+    "it": "velocità",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "velocity"
+    ]
+  },
+  {
+    "en": "pursuit",
+    "it": "caccia",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "hunting",
+      "hunt",
+      "chase",
+      "search",
+      "manhun"
+    ]
+  },
+  {
+    "en": "to seal",
+    "it": "sigillare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "close"
+    ]
+  },
+  {
+    "en": "ride",
+    "it": "passeggiata",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "stroll",
+      "walk",
+      "cinch",
+      "pushover"
+    ]
+  },
+  {
+    "en": "companion",
+    "it": "compagno",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "mate",
+      "partner"
+    ]
+  },
+  {
+    "en": "to ignite",
+    "it": "accendere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "light",
+      "kindle",
+      "set fire",
+      "turn on",
+      "inflame"
+    ]
+  },
+  {
+    "en": "to pass away",
+    "it": "morire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "die"
+    ]
+  },
+  {
+    "en": "eagerness",
+    "it": "ansia",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "anxiety",
+      "anxiousness",
+      "longing",
+      "yearning"
+    ]
+  },
+  {
+    "en": "tense",
+    "it": "tempo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "time",
+      "period",
+      "weather",
+      "in time"
+    ]
+  },
+  {
+    "en": "to tense",
+    "it": "tendere",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "stretch",
+      "tighten",
+      "make",
+      "spread",
+      "extend"
+    ]
+  },
+  {
+    "en": "topical",
+    "it": "topico",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "decisive"
+    ]
+  },
+  {
+    "en": "occupational",
+    "it": "professionale",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "professional"
+    ]
+  },
+  {
+    "en": "rationale",
+    "it": "logica",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "logic"
+    ]
+  },
+  {
+    "en": "to advise",
+    "it": "consigliare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "suggest",
+      "recommend",
+      "advice",
+      "counsel",
+      "caution"
+    ]
+  },
+  {
+    "en": "defendant",
+    "it": "convenuto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "agreed",
+      "fixed",
+      "settled",
+      "agreement",
+      "settlement"
+    ]
+  },
+  {
+    "en": "readiness",
+    "it": "prontezza",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "promptness"
+    ]
+  },
+  {
+    "en": "natural",
+    "it": "naturale",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "proper"
+    ]
+  },
+  {
+    "en": "sidekick",
+    "it": "aiutante",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "assistant",
+      "helper",
+      "abetter",
+      "adjutant"
+    ]
+  },
+  {
+    "en": "to take up",
+    "it": "prendere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "seize",
+      "catch",
+      "grip",
+      "grasp",
+      "pick up"
+    ]
+  },
+  {
+    "en": "humour/humor",
+    "it": "umore",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "temper",
+      "mood",
+      "humor"
+    ]
+  },
+  {
+    "en": "social democrat",
+    "it": "socialdemocratico",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "social democratic"
+    ]
+  },
+  {
+    "en": "waste",
+    "it": "spreco",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "wastefulness",
+      "squandering",
+      "squander"
+    ]
+  },
+  {
+    "en": "viewport",
+    "it": "vista",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "sight",
+      "vision",
+      "eyesight",
+      "view"
+    ]
+  },
+  {
+    "en": "household",
+    "it": "famiglia",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "family"
+    ]
+  },
+  {
+    "en": "to free oneself",
+    "it": "liberarsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "release",
+      "emanate",
+      "free",
+      "break",
+      "shake"
+    ]
+  },
+  {
+    "en": "e.g",
+    "it": "esempio",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "model",
+      "example",
+      "instance",
+      "paragon"
+    ]
+  },
+  {
+    "en": "to become filled",
+    "it": "riempirsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "fill",
+      "fill up",
+      "be",
+      "filled",
+      "stuff"
+    ]
+  },
+  {
+    "en": "to undermine",
+    "it": "minare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "mine",
+      "injure",
+      "ruin"
+    ]
+  },
+  {
+    "en": "townie",
+    "it": "cittadino",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "urban",
+      "town",
+      "citizen"
+    ]
+  },
+  {
+    "en": "to rejoice",
+    "it": "rallegrarsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "congratulate"
+    ]
+  },
+  {
+    "en": "district",
+    "it": "quartiere",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "quarter",
+      "flat",
+      "apartment"
+    ]
+  },
+  {
+    "en": "manufacturing",
+    "it": "produzione",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "production"
+    ]
+  },
+  {
+    "en": "overpowering",
+    "it": "prepotente",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "overbearing",
+      "arrogant",
+      "domineering",
+      "bully"
+    ]
+  },
+  {
+    "en": "overwhelming",
+    "it": "prepotente",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "overbearing",
+      "arrogant",
+      "domineering",
+      "bully"
+    ]
+  },
+  {
+    "en": "getting started",
+    "it": "iniziare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "begin",
+      "join",
+      "incorporate"
+    ]
+  },
+  {
+    "en": "to suit",
+    "it": "adattarsi",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "adapt"
+    ]
+  },
+  {
+    "en": "aircraft",
+    "it": "aereo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "aerial",
+      "airplane",
+      "aeroplane"
+    ]
+  },
+  {
+    "en": "to sign for",
+    "it": "firmare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "sign",
+      "endorse"
+    ]
+  },
+  {
+    "en": "landfill",
+    "it": "discarica",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "tip",
+      "dump",
+      "dumping ground"
+    ]
+  },
+  {
+    "en": "bureau",
+    "it": "ufficio",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "office"
+    ]
+  },
+  {
+    "en": "fix",
+    "it": "soluzione",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "solution",
+      "solving",
+      "answer",
+      "explanation",
+      "decision"
+    ]
+  },
+  {
+    "en": "shade",
+    "it": "bacio",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "kiss"
+    ]
+  },
+  {
+    "en": "poleaxe",
+    "it": "mazzapicchio",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "paviour's ram"
+    ]
+  },
+  {
+    "en": "wage earner",
+    "it": "salariato",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "salaried",
+      "jobholder"
+    ]
+  },
+  {
+    "en": "thinking",
+    "it": "pensiero",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "thought"
+    ]
+  },
+  {
+    "en": "striker",
+    "it": "calciatore",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "footballer",
+      "soccer",
+      "player"
+    ]
+  },
+  {
+    "en": "extensively",
+    "it": "ampiamente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "amply",
+      "fully",
+      "abundantly",
+      "thoroughly"
+    ]
+  },
+  {
+    "en": "widely",
+    "it": "ampiamente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "amply",
+      "fully",
+      "abundantly",
+      "thoroughly"
+    ]
+  },
+  {
+    "en": "distress",
+    "it": "angoscia",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "anguish",
+      "stress",
+      "angst"
+    ]
+  },
+  {
+    "en": "artifact",
+    "it": "artefatto",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "contrived",
+      "affected",
+      "artificial"
+    ]
+  },
+  {
+    "en": "block",
+    "it": "pane",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "bread"
+    ]
+  },
+  {
+    "en": "insurance",
+    "it": "assicurazione",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "assurance"
+    ]
+  },
+  {
+    "en": "to please",
+    "it": "favorire",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "favour",
+      "favor",
+      "help",
+      "aid",
+      "support"
+    ]
+  },
+  {
+    "en": "trouble",
+    "it": "pena",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "pain",
+      "suffering",
+      "punishment",
+      "penalty"
+    ]
+  },
+  {
+    "en": "guerrilla",
+    "it": "guerriglia",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "guerrilla warfare"
+    ]
+  },
+  {
+    "en": "to cut off",
+    "it": "tagliare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "cut"
+    ]
+  },
+  {
+    "en": "to plummet",
+    "it": "precipitare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "fall",
+      "crash",
+      "slump",
+      "hasten"
+    ]
+  },
+  {
+    "en": "release",
+    "it": "esplosione",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "explosion",
+      "blast",
+      "blasting",
+      "burst",
+      "blow-up"
+    ]
+  },
+  {
+    "en": "enlargement",
+    "it": "allargamento",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "widening",
+      "broadening",
+      "opening",
+      "extension"
+    ]
+  },
+  {
+    "en": "to get worried",
+    "it": "preoccuparsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "worried",
+      "concerned"
+    ]
+  },
+  {
+    "en": "labor market",
+    "it": "mercato del lavoro",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "labour market"
+    ]
+  },
+  {
+    "en": "eager",
+    "it": "desideroso",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "desirous",
+      "longing",
+      "thirsty",
+      "yearning",
+      "lustful"
+    ]
+  },
+  {
+    "en": "dock",
+    "it": "bacino",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "basin",
+      "pelvis"
+    ]
+  },
+  {
+    "en": "criminality",
+    "it": "criminalità",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "crime"
+    ]
+  },
+  {
+    "en": "treasury",
+    "it": "tesoro",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "treasure",
+      "hoard",
+      "cache",
+      "darling",
+      "honey"
+    ]
+  },
+  {
+    "en": "to unite",
+    "it": "legare",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "tie up",
+      "tie",
+      "bind",
+      "join",
+      "connect"
+    ]
+  },
+  {
+    "en": "merger",
+    "it": "fusione",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "fusion"
+    ]
+  },
+  {
+    "en": "manuscript",
+    "it": "manoscritto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "handwritten",
+      "manuscrip"
+    ]
+  },
+  {
+    "en": "script",
+    "it": "soggetto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "subject"
+    ]
+  },
+  {
+    "en": "graphics",
+    "it": "grafica",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "graphic design"
+    ]
+  },
+  {
+    "en": "soft",
+    "it": "piano",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "plan",
+      "even",
+      "level",
+      "smooth",
+      "easy"
+    ]
+  },
+  {
+    "en": "racing",
+    "it": "corsa",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "run",
+      "running",
+      "race"
+    ]
+  },
+  {
+    "en": "magnitude",
+    "it": "grandezza",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "size",
+      "greatness",
+      "tamaño",
+      "altura"
+    ]
+  },
+  {
+    "en": "feedback",
+    "it": "ritorno",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "return",
+      "repayment",
+      "restitution"
+    ]
+  },
+  {
+    "en": "management board",
+    "it": "consiglio di amministrazione",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "board of directors"
+    ]
+  },
+  {
+    "en": "yak",
+    "it": "già",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "already"
+    ]
+  },
+  {
+    "en": "delivery",
+    "it": "consegna",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "delivering",
+      "consignment",
+      "giving-out",
+      "distribution",
+      "handing-out"
+    ]
+  },
+  {
+    "en": "hearer",
+    "it": "ascoltatore",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "auditor"
+    ]
+  },
+  {
+    "en": "listener",
+    "it": "ascoltatore",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "auditor"
+    ]
+  },
+  {
+    "en": "to adjust",
+    "it": "regolare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "legitimate"
+    ]
+  },
+  {
+    "en": "shot",
+    "it": "campo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "ground",
+      "field"
+    ]
+  },
+  {
+    "en": "gaming",
+    "it": "gioco",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "game",
+      "sport",
+      "distraction"
+    ]
+  },
+  {
+    "en": "docent",
+    "it": "docente",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "teaching",
+      "academic",
+      "teacher",
+      "educator",
+      "instructor"
+    ]
+  },
+  {
+    "en": "to bemoan",
+    "it": "lamentarsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "complain",
+      "grumble"
+    ]
+  },
+  {
+    "en": "gloomy",
+    "it": "cupola",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "dome"
+    ]
+  },
+  {
+    "en": "grim",
+    "it": "cupo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "dark",
+      "gloomy",
+      "obscure",
+      "sullen",
+      "despondent"
+    ]
+  },
+  {
+    "en": "young man",
+    "it": "giovane",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "young",
+      "youthful",
+      "fresh",
+      "new",
+      "younger"
+    ]
+  },
+  {
+    "en": "to guide",
+    "it": "guidare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "drive"
+    ]
+  },
+  {
+    "en": "purchase",
+    "it": "spesa",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "spending",
+      "expenditure"
+    ]
+  },
+  {
+    "en": "checkout",
+    "it": "guardare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "watch"
+    ]
+  },
+  {
+    "en": "specimen",
+    "it": "esempio",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "model",
+      "example",
+      "instance",
+      "paragon"
+    ]
+  },
+  {
+    "en": "catch",
+    "it": "presa",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "engrossed",
+      "absorbed",
+      "taken",
+      "occupied",
+      "pinch"
+    ]
+  },
+  {
+    "en": "valuation",
+    "it": "valutazione",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "estimate",
+      "appraisal",
+      "assessment",
+      "judgment",
+      "evaluation"
+    ]
+  },
+  {
+    "en": "safeguarding",
+    "it": "salvaguardia",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "safeguard",
+      "care",
+      "custody"
+    ]
+  },
+  {
+    "en": "gray",
+    "it": "grigio",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "sad",
+      "gloomy"
+    ]
+  },
+  {
+    "en": "to refine",
+    "it": "affinare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "expŏlīre"
+    ]
+  },
+  {
+    "en": "elevation",
+    "it": "alzato",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "enhanced",
+      "in chief"
+    ]
+  },
+  {
+    "en": "colorful",
+    "it": "colorato",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "coloured",
+      "colored"
+    ]
+  },
+  {
+    "en": "hostess",
+    "it": "padrona",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "mistress",
+      "owner",
+      "homeowner"
+    ]
+  },
+  {
+    "en": "provisions",
+    "it": "disposto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "willing",
+      "provision"
+    ]
+  },
+  {
+    "en": "dual",
+    "it": "doppio",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "double",
+      "twofold",
+      "doubly"
+    ]
+  },
+  {
+    "en": "twosome",
+    "it": "coppia",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "pair"
+    ]
+  },
+  {
+    "en": "cramped",
+    "it": "angusto",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "narrow",
+      "difficult",
+      "narrow-minded"
+    ]
+  },
+  {
+    "en": "recipient",
+    "it": "destinatario",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "addressee",
+      "usufructuary",
+      "listener"
+    ]
+  },
+  {
+    "en": "sorrow",
+    "it": "pena",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "pain",
+      "suffering",
+      "punishment",
+      "penalty"
+    ]
+  },
+  {
+    "en": "edge",
+    "it": "bordo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "border",
+      "side",
+      "board"
+    ]
+  },
+  {
+    "en": "rim",
+    "it": "bordo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "border",
+      "side",
+      "board"
+    ]
+  },
+  {
+    "en": "to tug",
+    "it": "tirare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "pull",
+      "throw",
+      "shoot",
+      "yank",
+      "pluck"
+    ]
+  },
+  {
+    "en": "conductor",
+    "it": "conduttore",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "driving",
+      "driver"
+    ]
+  },
+  {
+    "en": "workmanship",
+    "it": "lavorazione",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "work",
+      "working",
+      "manufacture"
+    ]
+  },
+  {
+    "en": "roughly",
+    "it": "sommariamente",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "briefly"
+    ]
+  },
+  {
+    "en": "flood",
+    "it": "diluvio",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "deluge"
+    ]
+  },
+  {
+    "en": "doubt",
+    "it": "forse",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "uncertainty",
+      "maybe",
+      "perhaps",
+      "about"
+    ]
+  },
+  {
+    "en": "suspicion",
+    "it": "sospetto",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "suspicious",
+      "dubious",
+      "fishy"
+    ]
+  },
+  {
+    "en": "to consume",
+    "it": "consumare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "comsume"
+    ]
+  },
+  {
+    "en": "coffee shop",
+    "it": "caffetteria",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "cafeteria",
+      "coffeehouse"
+    ]
+  },
+  {
+    "en": "to retract",
+    "it": "ritrarre",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "withdraw",
+      "gain",
+      "portay"
+    ]
+  },
+  {
+    "en": "setting",
+    "it": "tramonto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "sunset",
+      "sundown"
+    ]
+  },
+  {
+    "en": "transfer",
+    "it": "vendita",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "sale",
+      "trade"
+    ]
+  },
+  {
+    "en": "liquor",
+    "it": "soluzione",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "solution",
+      "solving",
+      "answer",
+      "explanation",
+      "decision"
+    ]
+  },
+  {
+    "en": "evenly",
+    "it": "parimenti",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "equally",
+      "likewise"
+    ]
+  },
+  {
+    "en": "link",
+    "it": "anello",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "ring",
+      "loop",
+      "circuit"
+    ]
+  },
+  {
+    "en": "to input",
+    "it": "inserire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "insert",
+      "connect",
+      "enter"
+    ]
+  },
+  {
+    "en": "approximately",
+    "it": "circa",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "concerning"
+    ]
+  },
+  {
+    "en": "computing",
+    "it": "informatico",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "computer",
+      "computer scientist",
+      "computer technician",
+      "informatician"
+    ]
+  },
+  {
+    "en": "staggering",
+    "it": "sconcertante",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "disconcerting",
+      "bewildering",
+      "baffling",
+      "stunnin",
+      "puzzling"
+    ]
+  },
+  {
+    "en": "rumor",
+    "it": "voce",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "voice"
+    ]
+  },
+  {
+    "en": "to launder",
+    "it": "riciclare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "recycle"
+    ]
+  },
+  {
+    "en": "intense",
+    "it": "carico",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "strong",
+      "burdened",
+      "load",
+      "loading",
+      "lading"
+    ]
+  },
+  {
+    "en": "quick-tempered",
+    "it": "irascibile",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "irascible"
+    ]
+  },
+  {
+    "en": "fence",
+    "it": "recinzione",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "enclosure"
+    ]
+  },
+  {
+    "en": "to repeal",
+    "it": "abrogare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "abrogate"
+    ]
+  },
+  {
+    "en": "to turn over",
+    "it": "girare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "turn",
+      "twist",
+      "tour",
+      "visit",
+      "flip"
+    ]
+  },
+  {
+    "en": "to voyage",
+    "it": "viaggiare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "travel",
+      "journey",
+      "tour",
+      "fly",
+      "run"
+    ]
+  },
+  {
+    "en": "greatly",
+    "it": "notevolmente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "remarkably",
+      "notably",
+      "considerably"
+    ]
+  },
+  {
+    "en": "neighbourhood",
+    "it": "quartiere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "quarter",
+      "flat",
+      "apartment"
+    ]
+  },
+  {
+    "en": "builder",
+    "it": "costruttore",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "building",
+      "construction",
+      "maker",
+      "constructor"
+    ]
+  },
+  {
+    "en": "threesome",
+    "it": "terzetto",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "trio"
+    ]
+  },
+  {
+    "en": "bend",
+    "it": "curva",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "curve"
+    ]
+  },
+  {
+    "en": "curve",
+    "it": "sesto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "sixth"
+    ]
+  },
+  {
+    "en": "to match",
+    "it": "abbinare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "couple"
+    ]
+  },
+  {
+    "en": "holding",
+    "it": "presa",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "engrossed",
+      "absorbed",
+      "taken",
+      "occupied",
+      "pinch"
+    ]
+  },
+  {
+    "en": "to reclaim",
+    "it": "reclamare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "protest",
+      "complain",
+      "object",
+      "claim",
+      "call"
+    ]
+  },
+  {
+    "en": "to cherish",
+    "it": "amare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "sad",
+      "painful",
+      "love",
+      "bitter"
+    ]
+  },
+  {
+    "en": "savage",
+    "it": "attaccare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "yoke",
+      "attack",
+      "condemn",
+      "corrode"
+    ]
+  },
+  {
+    "en": "to rush",
+    "it": "correre",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "run"
+    ]
+  },
+  {
+    "en": "draw",
+    "it": "disegno",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "drawing",
+      "pattern",
+      "bill"
+    ]
+  },
+  {
+    "en": "fasting",
+    "it": "dieta",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "diet"
+    ]
+  },
+  {
+    "en": "conveniently",
+    "it": "convenientemente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "suitably",
+      "profitably"
+    ]
+  },
+  {
+    "en": "appellant",
+    "it": "ricorrente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "recurrent",
+      "recursive",
+      "repeated",
+      "petitioner",
+      "claimant"
+    ]
+  },
+  {
+    "en": "estate",
+    "it": "proprietà",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "possession",
+      "dominion"
+    ]
+  },
+  {
+    "en": "licentiate",
+    "it": "licenza",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "licence",
+      "leave",
+      "diploma",
+      "permission",
+      "permit"
+    ]
+  },
+  {
+    "en": "bodily",
+    "it": "corporeo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "corporal",
+      "physical",
+      "corporeal",
+      "material"
+    ]
+  },
+  {
+    "en": "to delve into",
+    "it": "approfondire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "deepen"
+    ]
+  },
+  {
+    "en": "to pick",
+    "it": "scegliere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "choose"
+    ]
+  },
+  {
+    "en": "to pick up",
+    "it": "raccogliere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "collect",
+      "harvest",
+      "pick",
+      "gather"
+    ]
+  },
+  {
+    "en": "to join",
+    "it": "unirsi",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "unite",
+      "get together",
+      "join up",
+      "merge",
+      "mingle with"
+    ]
+  },
+  {
+    "en": "credibility",
+    "it": "credibilità",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "trust",
+      "dependability"
+    ]
+  },
+  {
+    "en": "likelihood",
+    "it": "probabilità",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "probability"
+    ]
+  },
+  {
+    "en": "coupling",
+    "it": "aggancio",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "contacts"
+    ]
+  },
+  {
+    "en": "to cancel out",
+    "it": "annullare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "annul",
+      "nullify",
+      "quash"
+    ]
+  },
+  {
+    "en": "to contract",
+    "it": "scrittura",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "writing",
+      "composition"
+    ]
+  },
+  {
+    "en": "sore",
+    "it": "irritato",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "irritated",
+      "angered",
+      "annoyed",
+      "distressed",
+      "vexed"
+    ]
+  },
+  {
+    "en": "carriage",
+    "it": "trasporto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "transport"
+    ]
+  },
+  {
+    "en": "to haggle",
+    "it": "contrattare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "bargain",
+      "negotiate",
+      "contract"
+    ]
+  },
+  {
+    "en": "trading",
+    "it": "commercio",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "trade",
+      "commerce"
+    ]
+  },
+  {
+    "en": "to pitch",
+    "it": "lanciare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "throw",
+      "toss",
+      "launch"
+    ]
+  },
+  {
+    "en": "disagreement",
+    "it": "disaccordo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "conflict",
+      "contention",
+      "contrast",
+      "discord",
+      "discordance"
+    ]
+  },
+  {
+    "en": "fisher",
+    "it": "pescatore",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "angler"
+    ]
+  },
+  {
+    "en": "fisherman",
+    "it": "pescatore",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "angler"
+    ]
+  },
+  {
+    "en": "to speed up",
+    "it": "accelerare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "accelerate"
+    ]
+  },
+  {
+    "en": "parish priest",
+    "it": "parroco",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "parson",
+      "rector",
+      "vicar"
+    ]
+  },
+  {
+    "en": "evidence",
+    "it": "prova",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "test",
+      "examination",
+      "exam",
+      "experiment",
+      "trial"
+    ]
+  },
+  {
+    "en": "directive",
+    "it": "direttiva",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "guideline"
+    ]
+  },
+  {
+    "en": "power station",
+    "it": "centrale elettrica",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "power plant"
+    ]
+  },
+  {
+    "en": "easing",
+    "it": "attenuazione",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "softening"
+    ]
+  },
+  {
+    "en": "shelf",
+    "it": "mensola",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "corbel",
+      "bracket",
+      "console"
+    ]
+  },
+  {
+    "en": "newly",
+    "it": "recentemente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "recently"
+    ]
+  },
+  {
+    "en": "to penalize",
+    "it": "penalizzare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "penalise",
+      "handicap",
+      "disadvantage",
+      "hinder"
+    ]
+  },
+  {
+    "en": "to descend",
+    "it": "scendere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "go down"
+    ]
+  },
+  {
+    "en": "beverage",
+    "it": "bevanda",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "drink"
+    ]
+  },
+  {
+    "en": "minus",
+    "it": "meno",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "less"
+    ]
+  },
+  {
+    "en": "to burst",
+    "it": "scoppiare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "burst out"
+    ]
+  },
+  {
+    "en": "to analyze",
+    "it": "analizzare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "analyse"
+    ]
+  },
+  {
+    "en": "neighborhood",
+    "it": "quartiere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "quarter",
+      "flat",
+      "apartment"
+    ]
+  },
+  {
+    "en": "base",
+    "it": "base",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "basis",
+      "bottom",
+      "basement"
+    ]
+  },
+  {
+    "en": "path",
+    "it": "traccia",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "track",
+      "trail",
+      "print",
+      "footprint",
+      "footmark"
+    ]
+  },
+  {
+    "en": "kurd",
+    "it": "curdo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "kurdish"
+    ]
+  },
+  {
+    "en": "meager",
+    "it": "magro",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "slender",
+      "thin",
+      "skinny"
+    ]
+  },
+  {
+    "en": "to advocate",
+    "it": "difendere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "defend",
+      "safeguard",
+      "protect"
+    ]
+  },
+  {
+    "en": "present day",
+    "it": "oggi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "today"
+    ]
+  },
+  {
+    "en": "to die down",
+    "it": "morire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "die"
+    ]
+  },
+  {
+    "en": "to hone",
+    "it": "affinare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "expŏlīre"
+    ]
+  },
+  {
+    "en": "successively",
+    "it": "successivamente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "then",
+      "subsequently",
+      "after",
+      "afterwards",
+      "later"
+    ]
+  },
+  {
+    "en": "to like",
+    "it": "piacere",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "pleasure",
+      "joy",
+      "delight",
+      "please"
+    ]
+  },
+  {
+    "en": "to abridge",
+    "it": "abbreviare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "abbreviate"
+    ]
+  },
+  {
+    "en": "gains",
+    "it": "guadagni",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "earnings"
+    ]
+  },
+  {
+    "en": "poverty",
+    "it": "miseria",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "misery",
+      "unhappiness",
+      "distress",
+      "trouble",
+      "pittance"
+    ]
+  },
+  {
+    "en": "unnecessary",
+    "it": "inutile",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "superfluous",
+      "useless",
+      "needless"
+    ]
+  },
+  {
+    "en": "refurbishment",
+    "it": "ristrutturazione",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "reorganization",
+      "restoration",
+      "alteration",
+      "renovation"
+    ]
+  },
+  {
+    "en": "fluctuation",
+    "it": "fluttuazione",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "tossing",
+      "surging",
+      "floating"
+    ]
+  },
+  {
+    "en": "to startle",
+    "it": "spaventare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "frighten",
+      "scare",
+      "spook"
+    ]
+  },
+  {
+    "en": "to become established",
+    "it": "affermarsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "establish",
+      "spread",
+      "acquit",
+      "come",
+      "succeed"
+    ]
+  },
+  {
+    "en": "shorty",
+    "it": "breve",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "brief",
+      "short"
+    ]
+  },
+  {
+    "en": "ambivalent",
+    "it": "ambivalente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "bivalent"
+    ]
+  },
+  {
+    "en": "contradictory",
+    "it": "contraddittorio",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "paradoxically"
+    ]
+  },
+  {
+    "en": "knowingly",
+    "it": "consapevolmente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "aware"
+    ]
+  },
+  {
+    "en": "to break off",
+    "it": "rompere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "break"
+    ]
+  },
+  {
+    "en": "to leaven",
+    "it": "lievitare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "rise",
+      "ferment"
+    ]
+  },
+  {
+    "en": "to coerce",
+    "it": "costringere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "force",
+      "compel",
+      "oblige",
+      "make"
+    ]
+  },
+  {
+    "en": "to dispose of",
+    "it": "smaltire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "digest"
+    ]
+  },
+  {
+    "en": "regular",
+    "it": "regolare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "legitimate"
+    ]
+  },
+  {
+    "en": "to get bored",
+    "it": "rompersi",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "break"
+    ]
+  },
+  {
+    "en": "sensitively",
+    "it": "sensibilmente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "substantially",
+      "considerably"
+    ]
+  },
+  {
+    "en": "thoroughly",
+    "it": "completamente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "completely",
+      "utterly",
+      "quite",
+      "fully",
+      "entirely"
+    ]
+  },
+  {
+    "en": "expectedly",
+    "it": "prevedibilmente",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "predictably"
+    ]
+  },
+  {
+    "en": "dim",
+    "it": "debole",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "weak"
+    ]
+  },
+  {
+    "en": "memorial",
+    "it": "lapide",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "stone",
+      "tombstone",
+      "gravestone",
+      "headstone",
+      "tablet"
+    ]
+  },
+  {
+    "en": "to sum up",
+    "it": "riassumere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "recap",
+      "summarize",
+      "reemploy",
+      "resume"
+    ]
+  },
+  {
+    "en": "beat",
+    "it": "colpo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "blow",
+      "knock",
+      "shock",
+      "punch",
+      "hit"
+    ]
+  },
+  {
+    "en": "punch",
+    "it": "pugno",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "fist"
+    ]
+  },
+  {
+    "en": "cleanly",
+    "it": "pulito",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "clean",
+      "clear"
+    ]
+  },
+  {
+    "en": "to plead",
+    "it": "supplicare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "entreat",
+      "beseech",
+      "implore",
+      "beg"
+    ]
+  },
+  {
+    "en": "to get organized",
+    "it": "organizzarsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "organize"
+    ]
+  },
+  {
+    "en": "handicraft",
+    "it": "artigianato",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "craft",
+      "arts and crafts"
+    ]
+  },
+  {
+    "en": "smoking",
+    "it": "fumare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "smoke"
+    ]
+  },
+  {
+    "en": "odd",
+    "it": "strano",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "strange",
+      "peculiar",
+      "weird",
+      "eccentric",
+      "bizarre"
+    ]
+  },
+  {
+    "en": "amplitude",
+    "it": "ampiezza",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "largeness",
+      "abundance",
+      "expanse",
+      "exten"
+    ]
+  },
+  {
+    "en": "scope",
+    "it": "motivo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "reason",
+      "theme",
+      "pattern"
+    ]
+  },
+  {
+    "en": "taxman",
+    "it": "fisco",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "fisc"
+    ]
+  },
+  {
+    "en": "suitably",
+    "it": "adeguatamente",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "convenablement",
+      "suffisamment",
+      "correctement"
+    ]
+  },
+  {
+    "en": "frame",
+    "it": "telaio",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "framework",
+      "shell",
+      "structure"
+    ]
+  },
+  {
+    "en": "trunk",
+    "it": "statale",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "state",
+      "government",
+      "trunk road",
+      "civil servant",
+      "state employee"
+    ]
+  },
+  {
+    "en": "effectivity",
+    "it": "efficacia",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "effectiveness",
+      "efficacy"
+    ]
+  },
+  {
+    "en": "clearance",
+    "it": "luce",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "light"
+    ]
+  },
+  {
+    "en": "lustily",
+    "it": "vigorosamente",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "strongly",
+      "vigorously"
+    ]
+  },
+  {
+    "en": "reservoir",
+    "it": "serbatoio",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "cistern"
+    ]
+  },
+  {
+    "en": "tub",
+    "it": "vasca",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "vat",
+      "tank",
+      "bathtub"
+    ]
+  },
+  {
+    "en": "consultant",
+    "it": "consulente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "consulting",
+      "advisor",
+      "adviser",
+      "counsel",
+      "counsellor"
+    ]
+  },
+  {
+    "en": "brisk",
+    "it": "vivace",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "lively",
+      "vital",
+      "bright",
+      "keen",
+      "hardheaded"
+    ]
+  },
+  {
+    "en": "trough",
+    "it": "fossa",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "hole",
+      "pit"
+    ]
+  },
+  {
+    "en": "to shinny",
+    "it": "brillare",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "shine",
+      "excel"
+    ]
+  },
+  {
+    "en": "worksite",
+    "it": "cantiere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "dockyard",
+      "shipyard"
+    ]
+  },
+  {
+    "en": "diligent",
+    "it": "atteso",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "exspectatus"
+    ]
+  },
+  {
+    "en": "spike",
+    "it": "chiodo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "nail"
+    ]
+  },
+  {
+    "en": "measurement",
+    "it": "misurazione",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "measure",
+      "gauge"
+    ]
+  },
+  {
+    "en": "dike",
+    "it": "diga",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "dam"
+    ]
+  },
+  {
+    "en": "thorough",
+    "it": "completo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "complete",
+      "whole",
+      "full",
+      "absolute",
+      "total"
+    ]
+  },
+  {
+    "en": "tactic",
+    "it": "tattica",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "tactics"
+    ]
+  },
+  {
+    "en": "renunciation",
+    "it": "rinuncia",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "sacrifice"
+    ]
+  },
+  {
+    "en": "depth",
+    "it": "quota",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "share",
+      "part",
+      "tranche",
+      "instalment"
+    ]
+  },
+  {
+    "en": "interrogation",
+    "it": "interrogatorio",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "interrogative",
+      "questioning"
+    ]
+  },
+  {
+    "en": "mundane",
+    "it": "banale",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "banal",
+      "trite",
+      "commonplace",
+      "uninteresting",
+      "common"
+    ]
+  },
+  {
+    "en": "openness",
+    "it": "apertura",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "opening",
+      "beginning"
+    ]
+  },
+  {
+    "en": "blunder",
+    "it": "errore",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "mistake",
+      "error",
+      "fault",
+      "transgression",
+      "sin"
+    ]
+  },
+  {
+    "en": "to introduce oneself",
+    "it": "presentarsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "present",
+      "show",
+      "appear",
+      "face",
+      "arrive"
+    ]
+  },
+  {
+    "en": "graduation",
+    "it": "laurea",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "bachelor",
+      "master",
+      "degree"
+    ]
+  },
+  {
+    "en": "businesslike",
+    "it": "professionale",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "professional"
+    ]
+  },
+  {
+    "en": "blocking",
+    "it": "blocco",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "obsidio",
+      "notebook",
+      "writing pad",
+      "bloc",
+      "coalition"
+    ]
+  },
+  {
+    "en": "motive",
+    "it": "motivo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "reason",
+      "theme",
+      "pattern"
+    ]
+  },
+  {
+    "en": "to clean up",
+    "it": "pulire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "polish"
+    ]
+  },
+  {
+    "en": "sewage",
+    "it": "fognatura",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "sewers"
+    ]
+  },
+  {
+    "en": "to become interested",
+    "it": "interessarsi",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "be",
+      "interested",
+      "interfere",
+      "see",
+      "go"
+    ]
+  },
+  {
+    "en": "critic",
+    "it": "critico",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "critical",
+      "crisis",
+      "reviewer"
+    ]
+  },
+  {
+    "en": "lap",
+    "it": "giro",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "circle"
+    ]
+  },
+  {
+    "en": "accusation",
+    "it": "accusa",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "charge"
+    ]
+  },
+  {
+    "en": "2-dimensional",
+    "it": "bidimensionale",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "bidimensional",
+      "two-dimensional"
+    ]
+  },
+  {
+    "en": "3-dimensional",
+    "it": "tridimensionale",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "three-dimensional",
+      "3d"
+    ]
+  },
+  {
+    "en": "addiction",
+    "it": "scimmia",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "monkey",
+      "ape"
+    ]
+  },
+  {
+    "en": "analog",
+    "it": "analogico",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "analogical"
+    ]
+  },
+  {
+    "en": "analytic",
+    "it": "analitico",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "analitic",
+      "analitical"
+    ]
+  },
+  {
+    "en": "apathetic",
+    "it": "abulico",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "abulic",
+      "aboulic",
+      "lacking in will power"
+    ]
+  },
+  {
+    "en": "aria",
+    "it": "aria",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "air",
+      "enviroment",
+      "look",
+      "appearance"
+    ]
+  },
+  {
+    "en": "arrest",
+    "it": "arresto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "detention"
+    ]
+  },
+  {
+    "en": "axle",
+    "it": "asse",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "axis"
+    ]
+  },
+  {
+    "en": "beanie",
+    "it": "berretto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "cap",
+      "beret"
+    ]
+  },
+  {
+    "en": "belly button",
+    "it": "ombelico",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "navel",
+      "nombril point"
+    ]
+  },
+  {
+    "en": "bitchy",
+    "it": "stronza",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "bitch"
+    ]
+  },
+  {
+    "en": "blueberry",
+    "it": "mirtillo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "bilberry"
+    ]
+  },
+  {
+    "en": "brace",
+    "it": "braccia",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "arms"
+    ]
+  },
+  {
+    "en": "candy",
+    "it": "caramella",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "sweet",
+      "praline",
+      "toffee"
+    ]
+  },
+  {
+    "en": "cattle",
+    "it": "bestiame",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "livestock"
+    ]
+  },
+  {
+    "en": "comic book",
+    "it": "fumetto",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "balloon",
+      "soap",
+      "comics"
+    ]
+  },
+  {
+    "en": "cranberry",
+    "it": "mirtillo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "bilberry"
+    ]
+  },
+  {
+    "en": "creek",
+    "it": "torrente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "stream",
+      "torrent",
+      "flood",
+      "flow"
+    ]
+  },
+  {
+    "en": "dash",
+    "it": "trattino",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "hyphen"
+    ]
+  },
+  {
+    "en": "downcast",
+    "it": "abbattuto",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "sad",
+      "despondent",
+      "depressed",
+      "toppled",
+      "dejected"
+    ]
+  },
+  {
+    "en": "downhill",
+    "it": "discesa",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "descent",
+      "downgrade",
+      "fall",
+      "drop"
+    ]
+  },
+  {
+    "en": "driftwood",
+    "it": "legni",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "woodwinds"
+    ]
+  },
+  {
+    "en": "entrance hall",
+    "it": "ingresso",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "entrance",
+      "entry",
+      "way in",
+      "doorway",
+      "threshold"
+    ]
+  },
+  {
+    "en": "footnote",
+    "it": "lettera",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "letter",
+      "epistle"
+    ]
+  },
+  {
+    "en": "framed",
+    "it": "inquadrato",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "square"
+    ]
+  },
+  {
+    "en": "genuinely",
+    "it": "sinceramente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "sincerely",
+      "candidly",
+      "honestly",
+      "frankly"
+    ]
+  },
+  {
+    "en": "grandparent",
+    "it": "nonno",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "grandfather",
+      "grandpa"
+    ]
+  },
+  {
+    "en": "hoodie",
+    "it": "felpa",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "plush",
+      "sweatshirt"
+    ]
+  },
+  {
+    "en": "initial",
+    "it": "primo",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "oldest",
+      "eldest",
+      "first",
+      "starter",
+      "premiere"
+    ]
+  },
+  {
+    "en": "journal",
+    "it": "diario",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "diary"
+    ]
+  },
+  {
+    "en": "light blue",
+    "it": "azzurro",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "light-blue",
+      "azure",
+      "sapphire",
+      "jupiter"
+    ]
+  },
+  {
+    "en": "loophole",
+    "it": "uscita",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "exit",
+      "way out"
+    ]
+  },
+  {
+    "en": "low-lying",
+    "it": "basso",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "low",
+      "short",
+      "bass",
+      "bass guitar"
+    ]
+  },
+  {
+    "en": "lowland",
+    "it": "pianura",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "plain",
+      "plains",
+      "flatland",
+      "terrace in base"
+    ]
+  },
+  {
+    "en": "medication",
+    "it": "farmaco",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "drug",
+      "medicine"
+    ]
+  },
+  {
+    "en": "metro",
+    "it": "metropolitana",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "subway",
+      "underground",
+      "underground railway"
+    ]
+  },
+  {
+    "en": "nonalcoholic",
+    "it": "analcolico",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "non-alcoholic",
+      "soft",
+      "alcohol-free"
+    ]
+  },
+  {
+    "en": "old woman",
+    "it": "vecchia",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "old"
+    ]
+  },
+  {
+    "en": "owl",
+    "it": "gufo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "long-eared owl",
+      "eagle owl",
+      "misanthrope",
+      "jinx"
+    ]
+  },
+  {
+    "en": "pie",
+    "it": "torta",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "cake",
+      "gateau",
+      "roundel",
+      "torteau",
+      "hurt"
+    ]
+  },
+  {
+    "en": "pool",
+    "it": "piscina",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "swimming pool"
+    ]
+  },
+  {
+    "en": "prime",
+    "it": "primo",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "oldest",
+      "eldest",
+      "first",
+      "starter",
+      "premiere"
+    ]
+  },
+  {
+    "en": "primer",
+    "it": "iniettore",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "injector"
+    ]
+  },
+  {
+    "en": "rail",
+    "it": "sbarra",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "bar",
+      "spar",
+      "rod",
+      "barrier",
+      "bend sinister"
+    ]
+  },
+  {
+    "en": "reprieve",
+    "it": "tregua",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "truce"
+    ]
+  },
+  {
+    "en": "roadway",
+    "it": "carreggiata",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "carriageway"
+    ]
+  },
+  {
+    "en": "rug",
+    "it": "tappeto",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "carpet"
+    ]
+  },
+  {
+    "en": "severity",
+    "it": "gravità",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "gravity",
+      "seriousness",
+      "gravitation"
+    ]
+  },
+  {
+    "en": "sided",
+    "it": "lato",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "wide",
+      "broad",
+      "side",
+      "edge"
+    ]
+  },
+  {
+    "en": "skirted",
+    "it": "gonna",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "skirt"
+    ]
+  },
+  {
+    "en": "slipper",
+    "it": "pantofola",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "idle",
+      "slipper-maker",
+      "slipper seller",
+      "lazybones"
+    ]
+  },
+  {
+    "en": "somber",
+    "it": "cupo",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "dark",
+      "gloomy",
+      "obscure",
+      "sullen",
+      "despondent"
+    ]
+  },
+  {
+    "en": "sour",
+    "it": "acido",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "acidic",
+      "acid"
+    ]
+  },
+  {
+    "en": "supper",
+    "it": "cena",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "dinner",
+      "she/he has dinner"
+    ]
+  },
+  {
+    "en": "thumb",
+    "it": "pollice",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "inch"
+    ]
+  },
+  {
+    "en": "tights",
+    "it": "collant",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "pantyhose"
+    ]
+  },
+  {
+    "en": "to abstract",
+    "it": "estratto",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "selected",
+      "drawn",
+      "extracted",
+      "extract",
+      "essence"
+    ]
+  },
+  {
+    "en": "to scar",
+    "it": "cicatrizzare",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "cicatrize"
+    ]
+  },
+  {
+    "en": "to sense",
+    "it": "percepire",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "perceive",
+      "discern",
+      "detect"
+    ]
+  },
+  {
+    "en": "to subject",
+    "it": "corso",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "flow",
+      "flowing",
+      "course",
+      "corsican"
+    ]
+  },
+  {
+    "en": "to suppress",
+    "it": "sopprimere",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "abolish",
+      "cancel",
+      "scrap",
+      "eliminate",
+      "eradicate"
+    ]
+  },
+  {
+    "en": "to wipe",
+    "it": "pulire",
+    "confidence": "gt_only",
+    "native_en_words": [
+      "polish"
+    ]
+  },
+  {
+    "en": "underdog",
+    "it": "perdente",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "losing",
+      "failure",
+      "loser"
+    ]
+  },
+  {
+    "en": "up-to-date",
+    "it": "attuale",
+    "confidence": "kaikki_only",
+    "native_en_words": [
+      "present",
+      "existing",
+      "currentl"
+    ]
+  },
+  {
+    "en": "washing machine",
+    "it": "lavatrice",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "washing-machine",
+      "washer"
+    ]
+  },
+  {
+    "en": "yogurt",
+    "it": "yogurt",
+    "confidence": "kaikki+gt",
+    "native_en_words": [
+      "yoghurt"
+    ]
+  }
+]
