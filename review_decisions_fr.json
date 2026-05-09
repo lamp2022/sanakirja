@@ -1,0 +1,19 @@
+{
+  "fixes": [
+    {"en": "mr.", "old": "m.", "new": "monsieur", "reason": "'m.' is the written abbreviation; the lemma form for the dictionary is the full word 'monsieur'"},
+    {"en": "for one", "old": "un", "new": "pour ma part", "reason": "'un' = 'a/one' (numeral); 'for one' (as in 'I for one') = 'pour ma part'"},
+    {"en": "resume", "old": "cv", "new": "curriculum vitae", "reason": "'cv' is an abbreviation; the dictionary lemma should be the full form 'curriculum vitae'"},
+    {"en": "to lower", "old": "moindre", "new": "abaisser", "reason": "PoS error: moindre is an adjective ('lesser'); the verb 'to lower' = abaisser/baisser"},
+    {"en": "in attendance", "old": "en présence", "new": "présent", "reason": "'en présence' standalone = 'face-to-face/in confrontation'; 'in attendance' (present at an event) = présent"},
+    {"en": "to said", "old": "dire", "new": "dire", "reason": "kept lemma — 'to said' is malformed English; 'dire' (to say) is the only sensible reading"},
+    {"en": "lower", "old": "moindre", "new": "inférieur", "reason": "moindre = 'lesser' (formal/limited use); the general comparative 'lower' = inférieur or plus bas"},
+    {"en": "tenner", "old": "dix", "new": "billet de dix", "reason": "'dix' = the number ten; 'tenner' specifically = a ten-pound/euro note = billet de dix"},
+    {"en": "fireman", "old": "chauffeur", "new": "pompier", "reason": "false friend: chauffeur = driver (or historically stoker); modern 'fireman' (firefighter) = pompier"},
+    {"en": "peak", "old": "culminer", "new": "sommet", "reason": "PoS mismatch: culminer is a verb; the noun 'peak' = sommet/pic"}
+  ],
+  "removals": [
+    {"en": "to be lying", "old": "mentir", "reason": "EN phrase is genuinely ambiguous between 'telling untruths' (mentir) and 'being recumbent' (être allongé/couché); no single primary dominates"},
+    {"en": "shorty", "old": "shorty", "reason": "in French 'shorty' only denotes boyshorts underwear, not a short person; English 'shorty' has multiple senses (nickname, short person, garment) with no single dominant FR equivalent"}
+  ],
+  "kept": 176
+}

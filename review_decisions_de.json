@@ -1,0 +1,31 @@
+{
+  "fixes": [
+    {"en": "who", "old": "die", "new": "wer", "reason": "die = relative 'who'/'the'; primary sense of interrogative 'who' = wer"},
+    {"en": "to belong", "old": "dazugehören", "new": "gehören", "reason": "dazugehören = 'to be part of a group'; general 'to belong' = gehören"},
+    {"en": "onward", "old": "an", "new": "weiter", "reason": "an = preposition 'to/at'; onward (forward in motion) = weiter"},
+    {"en": "well-behaved", "old": "lieb", "new": "artig", "reason": "lieb = 'sweet/dear'; standard 'well-behaved' (esp. of children) = artig"},
+    {"en": "awkward", "old": "gewollt", "new": "unangenehm", "reason": "gewollt = 'intended/forced'; awkward (uncomfortable) = unangenehm"},
+    {"en": "action", "old": "wirkung", "new": "handlung", "reason": "Wirkung = 'effect/impact'; action (act/deed) = Handlung"},
+    {"en": "person", "old": "kopf", "new": "person", "reason": "Kopf = 'head' (only colloquial for person in 'pro Kopf'); standard person = Person"},
+    {"en": "cheerful", "old": "froh", "new": "fröhlich", "reason": "froh = 'glad' (about something); cheerful (disposition) = fröhlich"},
+    {"en": "afoot", "old": "fuß", "new": "im gange", "reason": "Fuß = noun 'foot'; afoot (in progress) = im Gange"},
+    {"en": "native", "old": "angeboren", "new": "einheimisch", "reason": "angeboren = 'innate/congenital'; native (of a place) = einheimisch"},
+    {"en": "to close in", "old": "einschließen", "new": "umzingeln", "reason": "einschließen = 'to lock in/include'; to close in (surround) = umzingeln"},
+    {"en": "prostitute", "old": "nutte", "new": "prostituierte", "reason": "Nutte = vulgar slang ('whore'); standard register = Prostituierte"},
+    {"en": "constantly", "old": "immer", "new": "ständig", "reason": "immer = 'always'; constantly (without interruption) = ständig"},
+    {"en": "some sort of", "old": "irgendwie", "new": "irgendein", "reason": "irgendwie = adverb 'somehow'; 'some sort of' is determiner = irgendein"},
+    {"en": "defeat", "old": "verlust", "new": "niederlage", "reason": "Verlust = 'loss' (general); defeat (in battle/contest) = Niederlage"},
+    {"en": "compensation", "old": "ersatz", "new": "entschädigung", "reason": "Ersatz = 'replacement/substitute'; compensation (payment for loss) = Entschädigung"},
+    {"en": "likely", "old": "möglich", "new": "wahrscheinlich", "reason": "möglich = 'possible'; likely (probable) = wahrscheinlich"},
+    {"en": "friendly", "old": "nett", "new": "freundlich", "reason": "nett = 'nice'; friendly = freundlich (the precise cognate)"},
+    {"en": "socialist", "old": "sozi", "new": "sozialist", "reason": "Sozi = colloquial/jocular abbreviation; standard noun = Sozialist"},
+    {"en": "unhappy", "old": "unzufrieden", "new": "unglücklich", "reason": "unzufrieden = 'dissatisfied'; unhappy (emotionally) = unglücklich"},
+    {"en": "postal", "old": "post", "new": "postalisch", "reason": "Post = noun 'mail'; the adjective 'postal' = postalisch"},
+    {"en": "southern", "old": "süd", "new": "südlich", "reason": "Süd = prefix/cardinal-direction noun; the adjective 'southern' = südlich"}
+  ],
+  "removals": [
+    {"en": "to be found", "old": "finden", "reason": "finden = active 'to find'; passive 'to be found' has no clean single-word German primary (sich finden / gefunden werden / vorkommen all valid)"},
+    {"en": "issue", "old": "nummer", "reason": "Nummer covers magazine-issue sense only; 'issue' is highly polysemous (Problem/Frage/Ausgabe/Streitpunkt) with no dominant single primary"}
+  ],
+  "kept": 151
+}

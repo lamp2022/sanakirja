@@ -27,17 +27,6 @@
     "confidence": "kaikki+gt+native"
   },
   {
-    "en": "it",
-    "it": [
-      "si",
-      "lei",
-      "gli"
-    ],
-    "rank": 3,
-    "confidence": "kaikki_only",
-    "it_gt": "esso"
-  },
-  {
     "en": "he",
     "it": [
       "lui",
@@ -1238,10 +1227,11 @@
   },
   {
     "en": "for example",
-    "it": "tipo",
+    "it": "per esempio",
     "rank": 101,
-    "confidence": "kaikki_only",
-    "it_gt": "per esempio"
+    "confidence": "manual_review_native",
+    "it_gt": "per esempio",
+    "fix_reason": "tipo is colloquial 'like'; standard 'for example' = per esempio"
   },
   {
     "en": "quite",
@@ -1548,13 +1538,14 @@
   {
     "en": "habit",
     "it": [
-      "uso",
+      "abitudine",
       "abito",
       "veste"
     ],
     "rank": 130,
-    "confidence": "kaikki_only",
-    "it_gt": "abitudine"
+    "confidence": "manual_review_native",
+    "it_gt": "abitudine",
+    "fix_reason": "uso = use/usage; habit (regular practice) = abitudine"
   },
   {
     "en": "immediately",
@@ -2607,12 +2598,13 @@
   {
     "en": "tall",
     "it": [
-      "grande",
+      "alto",
       "eminente"
     ],
     "rank": 208,
-    "confidence": "kaikki_only",
-    "it_gt": "alto"
+    "confidence": "manual_review_native",
+    "it_gt": "alto",
+    "fix_reason": "grande = big/great; tall (height) = alto"
   },
   {
     "en": "loose",
@@ -2712,17 +2704,6 @@
     "it": "guidare",
     "rank": 217,
     "confidence": "kaikki+gt+native"
-  },
-  {
-    "en": "run",
-    "it": [
-      "punto",
-      "mandata",
-      "montata"
-    ],
-    "rank": 217,
-    "confidence": "kaikki_only",
-    "it_gt": "correre"
   },
   {
     "en": "to chase",
@@ -4452,13 +4433,13 @@
   {
     "en": "open",
     "it": [
-      "scoperto",
       "aperto",
       "a vuoto"
     ],
     "rank": 368,
-    "confidence": "kaikki_only",
-    "it_gt": "aprire"
+    "confidence": "manual_review_native",
+    "it_gt": "aprire",
+    "fix_reason": "scoperto = uncovered/discovered; open = aperto"
   },
   {
     "en": "untied",
@@ -5771,10 +5752,11 @@
   },
   {
     "en": "housing",
-    "it": "abitativo",
+    "it": "alloggio",
     "rank": 483,
-    "confidence": "kaikki_only",
-    "it_gt": "alloggiamento"
+    "confidence": "manual_review_native",
+    "it_gt": "alloggiamento",
+    "fix_reason": "abitativo is adjective ('residential'); housing (noun) = alloggio"
   },
   {
     "en": "development",
@@ -6468,10 +6450,11 @@
   },
   {
     "en": "significant",
-    "it": "tanto",
+    "it": "significativo",
     "rank": 542,
-    "confidence": "kaikki_only",
-    "it_gt": "significativo"
+    "confidence": "manual_review_native",
+    "it_gt": "significativo",
+    "fix_reason": "tanto = much/a lot; significant = significativo"
   },
   {
     "en": "night",
@@ -6958,13 +6941,14 @@
   {
     "en": "on the other hand",
     "it": [
-      "peraltro",
+      "d'altra parte",
       "dall'altro lato",
       "in compenso"
     ],
     "rank": 589,
-    "confidence": "kaikki_only",
-    "it_gt": "d'altra parte"
+    "confidence": "manual_review_native",
+    "it_gt": "d'altra parte",
+    "fix_reason": "peraltro = 'moreover/besides'; 'on the other hand' = d'altra parte"
   },
   {
     "en": "secondly",
@@ -8866,13 +8850,13 @@
   {
     "en": "bottom",
     "it": [
-      "sotto",
       "fondo",
       "fondale"
     ],
     "rank": 751,
-    "confidence": "kaikki_only",
-    "it_gt": "metter il fondo a"
+    "confidence": "manual_review_native",
+    "it_gt": "metter il fondo a",
+    "fix_reason": "sotto = below (adv/prep); bottom (noun) = fondo"
   },
   {
     "en": "constantly",
@@ -10083,12 +10067,13 @@
   {
     "en": "hasty",
     "it": [
-      "precoce",
+      "frettoloso",
       "precipitevole"
     ],
     "rank": 860,
-    "confidence": "kaikki_only",
-    "it_gt": "frettoloso"
+    "confidence": "manual_review_native",
+    "it_gt": "frettoloso",
+    "fix_reason": "precoce = precocious/early; hasty = frettoloso"
   },
   {
     "en": "success",
@@ -11540,13 +11525,14 @@
   {
     "en": "personally",
     "it": [
-      "direttamente",
+      "personalmente",
       "presenzialmente",
       "in carne ed ossa"
     ],
     "rank": 977,
-    "confidence": "kaikki_only",
-    "it_gt": "personalmente"
+    "confidence": "manual_review_native",
+    "it_gt": "personalmente",
+    "fix_reason": "direttamente = directly; personally = personalmente"
   },
   {
     "en": "episode",
@@ -11590,13 +11576,14 @@
   {
     "en": "heavy",
     "it": [
-      "grosso",
+      "pesante",
       "grave",
       "peso"
     ],
     "rank": 982,
-    "confidence": "kaikki_only",
-    "it_gt": "pesante"
+    "confidence": "manual_review_native",
+    "it_gt": "pesante",
+    "fix_reason": "grosso = big/large; heavy (weight) = pesante"
   },
   {
     "en": "rule",
@@ -14636,10 +14623,11 @@
   },
   {
     "en": "for starters",
-    "it": "cominciare",
+    "it": "per cominciare",
     "rank": 1287,
-    "confidence": "gt_only",
-    "it_gt": "per cominciare"
+    "confidence": "manual_review_native",
+    "it_gt": "per cominciare",
+    "fix_reason": "cominciare = 'to start' (verb); 'for starters' (idiom) = per cominciare"
   },
   {
     "en": "forbidden",
@@ -15574,12 +15562,13 @@
   {
     "en": "to bait",
     "it": [
-      "amo",
+      "adescare",
       "pastura"
     ],
     "rank": 1378,
-    "confidence": "kaikki_only",
-    "it_gt": "esca"
+    "confidence": "manual_review_native",
+    "it_gt": "esca",
+    "fix_reason": "amo = hook/fishhook (noun); to bait (verb) = adescare"
   },
   {
     "en": "to tempt",
@@ -15873,10 +15862,11 @@
   },
   {
     "en": "climax",
-    "it": "culminante",
+    "it": "culmine",
     "rank": 1406,
-    "confidence": "kaikki_only",
-    "it_gt": "climax"
+    "confidence": "manual_review_native",
+    "it_gt": "climax",
+    "fix_reason": "culminante is adjective ('culminating'); climax (noun) = culmine"
   },
   {
     "en": "safe",
@@ -15961,13 +15951,14 @@
   {
     "en": "layer",
     "it": [
-      "pellicola",
+      "strato",
       "ripiano",
       "posatore"
     ],
     "rank": 1412,
-    "confidence": "kaikki_only",
-    "it_gt": "strato"
+    "confidence": "manual_review_native",
+    "it_gt": "strato",
+    "fix_reason": "pellicola = film/thin film; layer = strato"
   },
   {
     "en": "concern",
@@ -16069,10 +16060,11 @@
   },
   {
     "en": "export",
-    "it": "esportatore",
+    "it": "esportazione",
     "rank": 1423,
-    "confidence": "kaikki_only",
-    "it_gt": "esportare"
+    "confidence": "manual_review_native",
+    "it_gt": "esportare",
+    "fix_reason": "esportatore = exporter (person); export (noun, the act) = esportazione"
   },
   {
     "en": "suicide",
@@ -18393,10 +18385,11 @@
   },
   {
     "en": "sparse",
-    "it": "disperso",
+    "it": "sparso",
     "rank": 1732,
-    "confidence": "kaikki_only",
-    "it_gt": "scarso"
+    "confidence": "manual_review_native",
+    "it_gt": "scarso",
+    "fix_reason": "disperso = scattered/missing/lost; sparse = sparso/rado"
   },
   {
     "en": "early year",
@@ -21762,12 +21755,12 @@
   {
     "en": "humour/humor",
     "it": [
-      "umore",
       "umorismo"
     ],
     "rank": 2417,
-    "confidence": "kaikki_only",
-    "it_gt": "umorismo/umorismo"
+    "confidence": "manual_review_native",
+    "it_gt": "umorismo/umorismo",
+    "fix_reason": "umore = mood/temper; humor (funniness) = umorismo"
   },
   {
     "en": "literary",
@@ -22774,13 +22767,14 @@
   {
     "en": "shade",
     "it": [
-      "bacio",
+      "ombra",
       "tono",
       "uggia"
     ],
     "rank": 2608,
-    "confidence": "kaikki_only",
-    "it_gt": "ombra"
+    "confidence": "manual_review_native",
+    "it_gt": "ombra",
+    "fix_reason": "bacio = kiss; shade = ombra (unrelated false primary)"
   },
   {
     "en": "battle axe",
@@ -22850,13 +22844,14 @@
   {
     "en": "striker",
     "it": [
-      "calciatore",
+      "attaccante",
       "martelletto",
       "fantasista"
     ],
     "rank": 2618,
-    "confidence": "kaikki_only",
-    "it_gt": "attaccante"
+    "confidence": "manual_review_native",
+    "it_gt": "attaccante",
+    "fix_reason": "calciatore = footballer (any role); striker (forward) = attaccante"
   },
   {
     "en": "extensively",
@@ -24856,9 +24851,10 @@
   },
   {
     "en": "checkout",
-    "it": "guardare",
+    "it": "cassa",
     "rank": 2987,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "guardare = to look at (verb); checkout (store register) = cassa"
   },
   {
     "en": "steep",

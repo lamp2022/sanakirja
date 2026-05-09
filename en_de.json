@@ -552,13 +552,13 @@
   {
     "en": "who",
     "de": [
-      "die",
-      "der",
-      "wer"
+      "wer",
+      "der"
     ],
     "rank": 47,
-    "confidence": "kaikki_only",
-    "de_gt": "who"
+    "confidence": "manual_review_native",
+    "de_gt": "who",
+    "fix_reason": "die = relative 'who'/'the'; primary sense of interrogative 'who' = wer"
   },
   {
     "en": "man",
@@ -1180,9 +1180,10 @@
   },
   {
     "en": "to belong",
-    "de": "dazugehören",
+    "de": "gehören",
     "rank": 96,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "dazugehören = 'to be part of a group'; general 'to belong' = gehören"
   },
   {
     "en": "any",
@@ -1715,13 +1716,6 @@
     "rank": 136,
     "confidence": "kaikki+gt+native",
     "de_gt": "sohn"
-  },
-  {
-    "en": "to be found",
-    "de": "finden",
-    "rank": 137,
-    "confidence": "gt_only",
-    "de_gt": "zu finden"
   },
   {
     "en": "to there be",
@@ -2686,10 +2680,11 @@
   },
   {
     "en": "onward",
-    "de": "an",
+    "de": "weiter",
     "rank": 204,
-    "confidence": "kaikki_only",
-    "de_gt": "weiter"
+    "confidence": "manual_review_native",
+    "de_gt": "weiter",
+    "fix_reason": "an = preposition 'to/at'; onward (forward in motion) = weiter"
   },
   {
     "en": "true",
@@ -2930,12 +2925,13 @@
   {
     "en": "well-behaved",
     "de": [
-      "lieb",
+      "artig",
       "wohlerzogen"
     ],
     "rank": 223,
-    "confidence": "kaikki_only",
-    "de_gt": "brav"
+    "confidence": "manual_review_native",
+    "de_gt": "brav",
+    "fix_reason": "lieb = 'sweet/dear'; standard 'well-behaved' (esp. of children) = artig"
   },
   {
     "en": "to be able to",
@@ -3487,13 +3483,14 @@
   {
     "en": "awkward",
     "de": [
-      "gewollt",
+      "unangenehm",
       "unbehaglich",
       "umständlich"
     ],
     "rank": 266,
-    "confidence": "kaikki_only",
-    "de_gt": "unangenehm"
+    "confidence": "manual_review_native",
+    "de_gt": "unangenehm",
+    "fix_reason": "gewollt = 'intended/forced'; awkward (uncomfortable) = unangenehm"
   },
   {
     "en": "difficult",
@@ -3574,13 +3571,6 @@
     "rank": 272,
     "confidence": "kaikki+gt+native",
     "de_gt": "mittwoch"
-  },
-  {
-    "en": "issue",
-    "de": "Nummer",
-    "rank": 273,
-    "confidence": "kaikki_only",
-    "de_gt": "ausgabe"
   },
   {
     "en": "question",
@@ -4425,13 +4415,14 @@
   {
     "en": "action",
     "de": [
-      "Wirkung",
+      "handlung",
       "Action",
       "Maßnahme"
     ],
     "rank": 345,
-    "confidence": "kaikki_only",
-    "de_gt": "aktion"
+    "confidence": "manual_review_native",
+    "de_gt": "aktion",
+    "fix_reason": "Wirkung = 'effect/impact'; action (act/deed) = Handlung"
   },
   {
     "en": "spring",
@@ -4978,12 +4969,13 @@
   {
     "en": "person",
     "de": [
-      "Kopf",
+      "person",
       "Subjekt"
     ],
     "rank": 385,
-    "confidence": "kaikki_only",
-    "de_gt": "person"
+    "confidence": "manual_review_native",
+    "de_gt": "person",
+    "fix_reason": "Kopf = 'head' (only colloquial for person in 'pro Kopf'); standard person = Person"
   },
   {
     "en": "in attendance",
@@ -5310,13 +5302,13 @@
   {
     "en": "cheerful",
     "de": [
-      "froh",
       "fröhlich",
       "aufgeräumt"
     ],
     "rank": 411,
-    "confidence": "kaikki_only",
-    "de_gt": "heiter"
+    "confidence": "manual_review_native",
+    "de_gt": "heiter",
+    "fix_reason": "froh = 'glad' (about something); cheerful (disposition) = fröhlich"
   },
   {
     "en": "church",
@@ -6066,10 +6058,11 @@
   },
   {
     "en": "afoot",
-    "de": "fuß",
+    "de": "im gange",
     "rank": 479,
-    "confidence": "none",
-    "de_gt": "zu fuß"
+    "confidence": "manual_review_native",
+    "de_gt": "zu fuß",
+    "fix_reason": "Fuß = noun 'foot'; afoot (in progress) = im Gange"
   },
   {
     "en": "experience",
@@ -7938,13 +7931,14 @@
   {
     "en": "native",
     "de": [
-      "angeboren",
+      "einheimisch",
       "nativ",
       "genuin"
     ],
     "rank": 634,
-    "confidence": "kaikki_only",
-    "de_gt": "einheimisch"
+    "confidence": "manual_review_native",
+    "de_gt": "einheimisch",
+    "fix_reason": "angeboren = 'innate/congenital'; native (of a place) = einheimisch"
   },
   {
     "en": "holder",
@@ -8397,9 +8391,10 @@
   },
   {
     "en": "to close in",
-    "de": "einschließen",
+    "de": "umzingeln",
     "rank": 667,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "einschließen = 'to lock in/include'; to close in (surround) = umzingeln"
   },
   {
     "en": "choice",
@@ -8954,13 +8949,14 @@
   {
     "en": "prostitute",
     "de": [
-      "Nutte",
+      "prostituierte",
       "Professionelle",
       "Kalle"
     ],
     "rank": 717,
-    "confidence": "kaikki_only",
-    "de_gt": "prostituierte"
+    "confidence": "manual_review_native",
+    "de_gt": "prostituierte",
+    "fix_reason": "Nutte = vulgar slang ('whore'); standard register = Prostituierte"
   },
   {
     "en": "to point out",
@@ -9379,13 +9375,14 @@
   {
     "en": "constantly",
     "de": [
-      "immer",
+      "ständig",
       "stets",
       "immerfort"
     ],
     "rank": 753,
-    "confidence": "kaikki_only",
-    "de_gt": "ständig"
+    "confidence": "manual_review_native",
+    "de_gt": "ständig",
+    "fix_reason": "immer = 'always'; constantly (without interruption) = ständig"
   },
   {
     "en": "continually",
@@ -11200,9 +11197,10 @@
   },
   {
     "en": "some sort of",
-    "de": "irgendwie",
+    "de": "irgendein",
     "rank": 903,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "irgendwie = adverb 'somehow'; 'some sort of' is determiner = irgendein"
   },
   {
     "en": "post",
@@ -11264,9 +11262,10 @@
   },
   {
     "en": "defeat",
-    "de": "verlust",
+    "de": "niederlage",
     "rank": 908,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "Verlust = 'loss' (general); defeat (in battle/contest) = Niederlage"
   },
   {
     "en": "in vain",
@@ -12466,13 +12465,14 @@
   {
     "en": "compensation",
     "de": [
-      "Ersatz",
+      "entschädigung",
       "Genugtuung",
       "Ausgleich"
     ],
     "rank": 1006,
-    "confidence": "kaikki_only",
-    "de_gt": "entschädigung"
+    "confidence": "manual_review_native",
+    "de_gt": "entschädigung",
+    "fix_reason": "Ersatz = 'replacement/substitute'; compensation (payment for loss) = Entschädigung"
   },
   {
     "en": "from top of",
@@ -12878,10 +12878,11 @@
   },
   {
     "en": "likely",
-    "de": "möglich",
+    "de": "wahrscheinlich",
     "rank": 1047,
-    "confidence": "kaikki_only",
-    "de_gt": "wahrscheinlich"
+    "confidence": "manual_review_native",
+    "de_gt": "wahrscheinlich",
+    "fix_reason": "möglich = 'possible'; likely (probable) = wahrscheinlich"
   },
   {
     "en": "tax",
@@ -13038,12 +13039,13 @@
   {
     "en": "friendly",
     "de": [
-      "nett",
+      "freundlich",
       "persönlich"
     ],
     "rank": 1061,
-    "confidence": "kaikki_only",
-    "de_gt": "freundlich"
+    "confidence": "manual_review_native",
+    "de_gt": "freundlich",
+    "fix_reason": "nett = 'nice'; friendly = freundlich (the precise cognate)"
   },
   {
     "en": "malicious",
@@ -14605,10 +14607,11 @@
   },
   {
     "en": "socialist",
-    "de": "Sozi",
+    "de": "sozialist",
     "rank": 1214,
-    "confidence": "kaikki_only",
-    "de_gt": "sozialistisch"
+    "confidence": "manual_review_native",
+    "de_gt": "sozialistisch",
+    "fix_reason": "Sozi = colloquial/jocular abbreviation; standard noun = Sozialist"
   },
   {
     "en": "department",
@@ -17791,9 +17794,10 @@
   },
   {
     "en": "unhappy",
-    "de": "unzufrieden",
+    "de": "unglücklich",
     "rank": 1514,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "unzufrieden = 'dissatisfied'; unhappy (emotionally) = unglücklich"
   },
   {
     "en": "accuser",
@@ -18035,10 +18039,11 @@
   },
   {
     "en": "postal",
-    "de": "post",
+    "de": "postalisch",
     "rank": 1542,
-    "confidence": "kaikki_only",
-    "de_gt": "post-"
+    "confidence": "manual_review_native",
+    "de_gt": "post-",
+    "fix_reason": "Post = noun 'mail'; the adjective 'postal' = postalisch"
   },
   {
     "en": "ad",
@@ -23373,10 +23378,11 @@
   },
   {
     "en": "southern",
-    "de": "süd",
+    "de": "südlich",
     "rank": 2508,
-    "confidence": "kaikki_only",
-    "de_gt": "süd-"
+    "confidence": "manual_review_native",
+    "de_gt": "süd-",
+    "fix_reason": "Süd = prefix/cardinal-direction noun; the adjective 'southern' = südlich"
   },
   {
     "en": "philosophy",

@@ -681,9 +681,10 @@
   },
   {
     "en": "Mr.",
-    "fr": "m.",
+    "fr": "monsieur",
     "rank": 59,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "'m.' is the written abbreviation; the lemma form for the dictionary is the full word 'monsieur'"
   },
   {
     "en": "mister",
@@ -2365,10 +2366,11 @@
   },
   {
     "en": "for one",
-    "fr": "un",
+    "fr": "pour ma part",
     "rank": 187,
-    "confidence": "none",
-    "fr_gt": "pour un"
+    "confidence": "manual_review_native",
+    "fr_gt": "pour un",
+    "fix_reason": "'un' = 'a/one' (numeral); 'for one' (as in 'I for one') = 'pour ma part'"
   },
   {
     "en": "to meet",
@@ -2384,9 +2386,10 @@
   },
   {
     "en": "resume",
-    "fr": "cv",
+    "fr": "curriculum vitae",
     "rank": 188,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "'cv' is an abbreviation; the dictionary lemma should be the full form 'curriculum vitae'"
   },
   {
     "en": "to continue",
@@ -3259,10 +3262,11 @@
   },
   {
     "en": "to lower",
-    "fr": "moindre",
+    "fr": "abaisser",
     "rank": 259,
-    "confidence": "kaikki_only",
-    "fr_gt": "abaisser"
+    "confidence": "manual_review_native",
+    "fr_gt": "abaisser",
+    "fix_reason": "PoS error: moindre is an adjective ('lesser'); the verb 'to lower' = abaisser/baisser"
   },
   {
     "en": "inquest",
@@ -4708,9 +4712,10 @@
   },
   {
     "en": "in attendance",
-    "fr": "en présence",
+    "fr": "présent",
     "rank": 386,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "'en présence' standalone = 'face-to-face/in confrontation'; 'in attendance' (present at an event) = présent"
   },
   {
     "en": "on the spot",
@@ -6971,12 +6976,6 @@
     ],
     "rank": 589,
     "confidence": "kaikki+gt+native"
-  },
-  {
-    "en": "to be lying",
-    "fr": "mentir",
-    "rank": 589,
-    "confidence": "gt_only"
   },
   {
     "en": "to lie",
@@ -11273,7 +11272,8 @@
     "en": "to said",
     "fr": "dire",
     "rank": 963,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "kept lemma — 'to said' is malformed English; 'dire' (to say) is the only sensible reading"
   },
   {
     "en": "Christmas",
@@ -25128,10 +25128,11 @@
   },
   {
     "en": "lower",
-    "fr": "moindre",
+    "fr": "inférieur",
     "rank": 3133,
-    "confidence": "kaikki_only",
-    "fr_gt": "inférieur"
+    "confidence": "manual_review_native",
+    "fr_gt": "inférieur",
+    "fix_reason": "moindre = 'lesser' (formal/limited use); the general comparative 'lower' = inférieur or plus bas"
   },
   {
     "en": "briefing",
@@ -25244,9 +25245,10 @@
   },
   {
     "en": "tenner",
-    "fr": "dix",
+    "fr": "billet de dix",
     "rank": 3163,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "'dix' = the number ten; 'tenner' specifically = a ten-pound/euro note = billet de dix"
   },
   {
     "en": "theory",
@@ -27207,10 +27209,11 @@
   },
   {
     "en": "fireman",
-    "fr": "chauffeur",
+    "fr": "pompier",
     "rank": 3564,
-    "confidence": "kaikki_only",
-    "fr_gt": "pompier"
+    "confidence": "manual_review_native",
+    "fr_gt": "pompier",
+    "fix_reason": "false friend: chauffeur = driver (or historically stoker); modern 'fireman' (firefighter) = pompier"
   },
   {
     "en": "city orchestra",
@@ -29346,12 +29349,6 @@
     "confidence": "kaikki+gt"
   },
   {
-    "en": "shorty",
-    "fr": "shorty",
-    "rank": 4017,
-    "confidence": "gt_only"
-  },
-  {
     "en": "snippet",
     "fr": "fragment",
     "rank": 4017,
@@ -29631,9 +29628,10 @@
   },
   {
     "en": "peak",
-    "fr": "culminer",
+    "fr": "sommet",
     "rank": 4061,
-    "confidence": "gt_only"
+    "confidence": "manual_review_native",
+    "fix_reason": "PoS mismatch: culminer is a verb; the noun 'peak' = sommet/pic"
   },
   {
     "en": "e-mail",

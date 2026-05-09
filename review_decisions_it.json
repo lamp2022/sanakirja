@@ -1,0 +1,30 @@
+{
+  "fixes": [
+    {"en": "for example", "old": "tipo", "new": "per esempio", "reason": "tipo is colloquial 'like'; standard 'for example' = per esempio"},
+    {"en": "habit", "old": "uso", "new": "abitudine", "reason": "uso = use/usage; habit (regular practice) = abitudine"},
+    {"en": "tall", "old": "grande", "new": "alto", "reason": "grande = big/great; tall (height) = alto"},
+    {"en": "open", "old": "scoperto", "new": "aperto", "reason": "scoperto = uncovered/discovered; open = aperto"},
+    {"en": "housing", "old": "abitativo", "new": "alloggio", "reason": "abitativo is adjective ('residential'); housing (noun) = alloggio"},
+    {"en": "significant", "old": "tanto", "new": "significativo", "reason": "tanto = much/a lot; significant = significativo"},
+    {"en": "on the other hand", "old": "peraltro", "new": "d'altra parte", "reason": "peraltro = 'moreover/besides'; 'on the other hand' = d'altra parte"},
+    {"en": "bottom", "old": "sotto", "new": "fondo", "reason": "sotto = below (adv/prep); bottom (noun) = fondo"},
+    {"en": "hasty", "old": "precoce", "new": "frettoloso", "reason": "precoce = precocious/early; hasty = frettoloso"},
+    {"en": "personally", "old": "direttamente", "new": "personalmente", "reason": "direttamente = directly; personally = personalmente"},
+    {"en": "heavy", "old": "grosso", "new": "pesante", "reason": "grosso = big/large; heavy (weight) = pesante"},
+    {"en": "for starters", "old": "cominciare", "new": "per cominciare", "reason": "cominciare = 'to start' (verb); 'for starters' (idiom) = per cominciare"},
+    {"en": "to bait", "old": "amo", "new": "adescare", "reason": "amo = hook/fishhook (noun); to bait (verb) = adescare"},
+    {"en": "climax", "old": "culminante", "new": "culmine", "reason": "culminante is adjective ('culminating'); climax (noun) = culmine"},
+    {"en": "layer", "old": "pellicola", "new": "strato", "reason": "pellicola = film/thin film; layer = strato"},
+    {"en": "export", "old": "esportatore", "new": "esportazione", "reason": "esportatore = exporter (person); export (noun, the act) = esportazione"},
+    {"en": "sparse", "old": "disperso", "new": "sparso", "reason": "disperso = scattered/missing/lost; sparse = sparso/rado"},
+    {"en": "humour/humor", "old": "umore", "new": "umorismo", "reason": "umore = mood/temper; humor (funniness) = umorismo"},
+    {"en": "shade", "old": "bacio", "new": "ombra", "reason": "bacio = kiss; shade = ombra (unrelated false primary)"},
+    {"en": "striker", "old": "calciatore", "new": "attaccante", "reason": "calciatore = footballer (any role); striker (forward) = attaccante"},
+    {"en": "checkout", "old": "guardare", "new": "cassa", "reason": "guardare = to look at (verb); checkout (store register) = cassa"}
+  ],
+  "removals": [
+    {"en": "it", "old": "si", "reason": "si = reflexive 'oneself'; English 'it' has no single dominant Italian primary (lo/la/esso/ciò are context-dependent and subject 'it' is usually omitted)"},
+    {"en": "run", "old": "punto", "reason": "punto = point/dot, semantically unrelated; 'run' (noun) is highly polysemous in Italian (corsa/corso/serie/tirata) with no single dominant primary"}
+  ],
+  "kept": 156
+}
