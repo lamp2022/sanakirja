@@ -1,15 +1,15 @@
 [
   {
-    "en": "No",
-    "fi": "ei",
-    "rank": 1
-  },
-  {
     "en": "be",
     "fi": [
       "olla",
       "voida"
     ],
+    "rank": 1
+  },
+  {
+    "en": "No",
+    "fi": "ei",
     "rank": 1
   },
   {
@@ -258,6 +258,11 @@
     "rank": 23
   },
   {
+    "en": "not",
+    "fi": "ei",
+    "rank": 25
+  },
+  {
     "en": "to do not",
     "fi": "älä",
     "rank": 25
@@ -315,6 +320,11 @@
       "mittava"
     ],
     "rank": 29
+  },
+  {
+    "en": "she",
+    "fi": "hän",
+    "rank": 30
   },
   {
     "en": "to multiply",
@@ -602,12 +612,12 @@
     "rank": 58
   },
   {
-    "en": "Mr.",
+    "en": "mister",
     "fi": "herra",
     "rank": 59
   },
   {
-    "en": "mister",
+    "en": "Mr.",
     "fi": "herra",
     "rank": 59
   },
@@ -755,6 +765,14 @@
   {
     "en": "always",
     "fi": "aina",
+    "rank": 70
+  },
+  {
+    "en": "from",
+    "fi": [
+      "luota",
+      "alkaen"
+    ],
     "rank": 70
   },
   {
@@ -1136,12 +1154,12 @@
     "rank": 98
   },
   {
-    "en": "Closed",
+    "en": "attached",
     "fi": "kiinni",
     "rank": 99
   },
   {
-    "en": "attached",
+    "en": "Closed",
     "fi": "kiinni",
     "rank": 99
   },
@@ -1205,12 +1223,12 @@
     "rank": 107
   },
   {
-    "en": "Turku",
+    "en": "marketplace",
     "fi": "turku",
     "rank": 108
   },
   {
-    "en": "marketplace",
+    "en": "Turku",
     "fi": "turku",
     "rank": 108
   },
@@ -1734,16 +1752,16 @@
     "rank": 149
   },
   {
-    "en": "Yeah",
-    "fi": "joo",
-    "rank": 151
-  },
-  {
     "en": "car",
     "fi": [
       "auto",
       "-auto"
     ],
+    "rank": 151
+  },
+  {
+    "en": "Yeah",
+    "fi": "joo",
     "rank": 151
   },
   {
@@ -2041,11 +2059,6 @@
     "rank": 172
   },
   {
-    "en": "Mrs.",
-    "fi": "rouva",
-    "rank": 173
-  },
-  {
     "en": "competition",
     "fi": [
       "kilpailu",
@@ -2061,6 +2074,11 @@
   },
   {
     "en": "mrs",
+    "fi": "rouva",
+    "rank": 173
+  },
+  {
+    "en": "Mrs.",
     "fi": "rouva",
     "rank": 173
   },
@@ -2608,16 +2626,16 @@
     "rank": 219
   },
   {
+    "en": "big",
+    "fi": "iso",
+    "rank": 220
+  },
+  {
     "en": "Swedish",
     "fi": [
       "ruotsi",
       "ruotsalainen"
     ],
-    "rank": 220
-  },
-  {
-    "en": "big",
-    "fi": "iso",
     "rank": 220
   },
   {
@@ -2876,16 +2894,16 @@
     "rank": 242
   },
   {
-    "en": "Monday",
-    "fi": "maanantai",
-    "rank": 244
-  },
-  {
     "en": "damn",
     "fi": [
       "vittu",
       "hitto"
     ],
+    "rank": 244
+  },
+  {
+    "en": "Monday",
+    "fi": "maanantai",
     "rank": 244
   },
   {
@@ -2930,14 +2948,6 @@
     "rank": 247
   },
   {
-    "en": "Sunday",
-    "fi": [
-      "sunnuntai",
-      "pyhä"
-    ],
-    "rank": 248
-  },
-  {
     "en": "bell",
     "fi": "kello",
     "rank": 248
@@ -2945,6 +2955,14 @@
   {
     "en": "clock",
     "fi": "kello",
+    "rank": 248
+  },
+  {
+    "en": "Sunday",
+    "fi": [
+      "sunnuntai",
+      "pyhä"
+    ],
     "rank": 248
   },
   {
@@ -2990,13 +3008,13 @@
     "rank": 253
   },
   {
-    "en": "Saturday",
-    "fi": "lauantai",
+    "en": "for real",
+    "fi": "oikeasti",
     "rank": 254
   },
   {
-    "en": "for real",
-    "fi": "oikeasti",
+    "en": "Saturday",
+    "fi": "lauantai",
     "rank": 254
   },
   {
@@ -3247,16 +3265,16 @@
     "rank": 278
   },
   {
+    "en": "llc",
+    "fi": "oy",
+    "rank": 279
+  },
+  {
     "en": "Ltd",
     "fi": [
       "oy",
       "oyj"
     ],
-    "rank": 279
-  },
-  {
-    "en": "llc",
-    "fi": "oy",
     "rank": 279
   },
   {
@@ -3508,11 +3526,6 @@
     "rank": 298
   },
   {
-    "en": "Wait a minute",
-    "fi": "hetkinen",
-    "rank": 299
-  },
-  {
     "en": "to plan to do",
     "fi": "aikoa",
     "rank": 299
@@ -3520,6 +3533,11 @@
   {
     "en": "to purpose",
     "fi": "aikoa",
+    "rank": 299
+  },
+  {
+    "en": "Wait a minute",
+    "fi": "hetkinen",
     "rank": 299
   },
   {
@@ -5030,16 +5048,16 @@
     "rank": 454
   },
   {
-    "en": "Finnish translation",
-    "fi": "suomennos",
-    "rank": 455
-  },
-  {
     "en": "construction",
     "fi": [
       "rakentaminen",
       "rakennustyö"
     ],
+    "rank": 455
+  },
+  {
+    "en": "Finnish translation",
+    "fi": "suomennos",
     "rank": 455
   },
   {
@@ -5313,18 +5331,18 @@
     "rank": 480
   },
   {
-    "en": "TV",
-    "fi": [
-      "tv",
-      "televisio"
-    ],
-    "rank": 481
-  },
-  {
     "en": "broad",
     "fi": [
       "laaja",
       "leveä"
+    ],
+    "rank": 481
+  },
+  {
+    "en": "TV",
+    "fi": [
+      "tv",
+      "televisio"
     ],
     "rank": 481
   },
@@ -6816,16 +6834,16 @@
     "rank": 626
   },
   {
-    "en": "Member of Parliament",
-    "fi": "kansanedustaja",
-    "rank": 627
-  },
-  {
     "en": "fly",
     "fi": [
       "lentää",
       "kärpänen"
     ],
+    "rank": 627
+  },
+  {
+    "en": "Member of Parliament",
+    "fi": "kansanedustaja",
     "rank": 627
   },
   {
@@ -7274,16 +7292,16 @@
     "rank": 664
   },
   {
-    "en": "June",
-    "fi": "kesäkuu",
-    "rank": 665
-  },
-  {
     "en": "baby",
     "fi": [
       "vauva",
       "beibi"
     ],
+    "rank": 665
+  },
+  {
+    "en": "June",
+    "fi": "kesäkuu",
     "rank": 665
   },
   {
@@ -7975,13 +7993,13 @@
     "rank": 736
   },
   {
-    "en": "October",
-    "fi": "lokakuu",
+    "en": "heart",
+    "fi": "sydän",
     "rank": 737
   },
   {
-    "en": "heart",
-    "fi": "sydän",
+    "en": "October",
+    "fi": "lokakuu",
     "rank": 737
   },
   {
@@ -8367,13 +8385,13 @@
     "rank": 778
   },
   {
-    "en": "July",
-    "fi": "heinäkuu",
+    "en": "clever",
+    "fi": "fiksu",
     "rank": 779
   },
   {
-    "en": "clever",
-    "fi": "fiksu",
+    "en": "July",
+    "fi": "heinäkuu",
     "rank": 779
   },
   {
@@ -8552,6 +8570,11 @@
     "rank": 799
   },
   {
+    "en": "no one",
+    "fi": "ei kukaan",
+    "rank": 800
+  },
+  {
     "en": "run away",
     "fi": "karkuun",
     "rank": 801
@@ -8604,11 +8627,6 @@
     "rank": 804
   },
   {
-    "en": "Turkey",
-    "fi": "turkki",
-    "rank": 806
-  },
-  {
     "en": "fur",
     "fi": "turkki",
     "rank": 806
@@ -8616,6 +8634,11 @@
   {
     "en": "pleasure",
     "fi": "ilo",
+    "rank": 806
+  },
+  {
+    "en": "Turkey",
+    "fi": "turkki",
     "rank": 806
   },
   {
@@ -8650,13 +8673,13 @@
     "rank": 809
   },
   {
-    "en": "November",
-    "fi": "marraskuu",
+    "en": "gay man",
+    "fi": "homo",
     "rank": 810
   },
   {
-    "en": "gay man",
-    "fi": "homo",
+    "en": "November",
+    "fi": "marraskuu",
     "rank": 810
   },
   {
@@ -9331,11 +9354,6 @@
     "rank": 882
   },
   {
-    "en": "Lahti",
-    "fi": "lahti",
-    "rank": 883
-  },
-  {
     "en": "bay",
     "fi": "lahti",
     "rank": 883
@@ -9348,6 +9366,11 @@
   {
     "en": "female",
     "fi": "narttu",
+    "rank": 883
+  },
+  {
+    "en": "Lahti",
+    "fi": "lahti",
     "rank": 883
   },
   {
@@ -9803,11 +9826,6 @@
     "rank": 931
   },
   {
-    "en": "February",
-    "fi": "helmikuu",
-    "rank": 933
-  },
-  {
     "en": "accurately",
     "fi": "tarkasti",
     "rank": 933
@@ -9818,6 +9836,11 @@
       "tarkasti",
       "tiiviisti"
     ],
+    "rank": 933
+  },
+  {
+    "en": "February",
+    "fi": "helmikuu",
     "rank": 933
   },
   {
@@ -10316,16 +10339,16 @@
     "rank": 981
   },
   {
-    "en": "I notice",
-    "fi": "huomaan",
-    "rank": 982
-  },
-  {
     "en": "heavy",
     "fi": [
       "raskas",
       "rankka"
     ],
+    "rank": 982
+  },
+  {
+    "en": "I notice",
+    "fi": "huomaan",
     "rank": 982
   },
   {
@@ -10358,16 +10381,16 @@
     "rank": 984
   },
   {
+    "en": "liar",
+    "fi": "valehtelija",
+    "rank": 985
+  },
+  {
     "en": "Russian",
     "fi": [
       "venäläinen",
       "venäjä"
     ],
-    "rank": 985
-  },
-  {
-    "en": "liar",
-    "fi": "valehtelija",
     "rank": 985
   },
   {
@@ -10524,16 +10547,16 @@
     "rank": 999
   },
   {
-    "en": "European",
-    "fi": "eurooppalainen",
-    "rank": 1000
-  },
-  {
     "en": "clean",
     "fi": [
       "puhdas",
       "siisti"
     ],
+    "rank": 1000
+  },
+  {
+    "en": "European",
+    "fi": "eurooppalainen",
     "rank": 1000
   },
   {
@@ -10813,16 +10836,16 @@
     "rank": 1040
   },
   {
-    "en": "Spain",
-    "fi": "espanja",
-    "rank": 1041
-  },
-  {
     "en": "guard",
     "fi": [
       "vartija",
       "vahtia"
     ],
+    "rank": 1041
+  },
+  {
+    "en": "Spain",
+    "fi": "espanja",
     "rank": 1041
   },
   {
@@ -12604,13 +12627,13 @@
     "rank": 1256
   },
   {
-    "en": "Tavastian",
-    "fi": "hämäläinen",
+    "en": "ship",
+    "fi": "laiva",
     "rank": 1257
   },
   {
-    "en": "ship",
-    "fi": "laiva",
+    "en": "Tavastian",
+    "fi": "hämäläinen",
     "rank": 1257
   },
   {
@@ -12788,16 +12811,16 @@
     "rank": 1278
   },
   {
+    "en": "caretaker",
+    "fi": "hoitaja",
+    "rank": 1279
+  },
+  {
     "en": "German",
     "fi": [
       "saksalainen",
       "saksa"
     ],
-    "rank": 1279
-  },
-  {
-    "en": "caretaker",
-    "fi": "hoitaja",
     "rank": 1279
   },
   {
@@ -13344,16 +13367,16 @@
     "rank": 1338
   },
   {
-    "en": "Jewish",
-    "fi": "juutalainen",
-    "rank": 1340
-  },
-  {
     "en": "degree",
     "fi": [
       "aste",
       "tutkinto"
     ],
+    "rank": 1340
+  },
+  {
+    "en": "Jewish",
+    "fi": "juutalainen",
     "rank": 1340
   },
   {
@@ -13454,11 +13477,6 @@
     "rank": 1351
   },
   {
-    "en": "Karelia",
-    "fi": "karjala",
-    "rank": 1353
-  },
-  {
     "en": "above",
     "fi": "edellä",
     "rank": 1353
@@ -13466,6 +13484,11 @@
   {
     "en": "before",
     "fi": "edellä",
+    "rank": 1353
+  },
+  {
+    "en": "Karelia",
+    "fi": "karjala",
     "rank": 1353
   },
   {
@@ -14692,6 +14715,11 @@
     "rank": 1499
   },
   {
+    "en": "to exist",
+    "fi": "olla olemassa",
+    "rank": 1500
+  },
+  {
     "en": "passenger",
     "fi": "matkustaja",
     "rank": 1501
@@ -15601,11 +15629,6 @@
     "rank": 1618
   },
   {
-    "en": "Waiter",
-    "fi": "tarjoilija",
-    "rank": 1619
-  },
-  {
     "en": "labor force",
     "fi": "työvoima",
     "rank": 1619
@@ -15613,6 +15636,11 @@
   {
     "en": "manpower",
     "fi": "työvoima",
+    "rank": 1619
+  },
+  {
+    "en": "Waiter",
+    "fi": "tarjoilija",
     "rank": 1619
   },
   {
@@ -17347,12 +17375,12 @@
     "rank": 2052
   },
   {
-    "en": "Hungary",
+    "en": "hungarian language",
     "fi": "unkari",
     "rank": 2053
   },
   {
-    "en": "hungarian language",
+    "en": "Hungary",
     "fi": "unkari",
     "rank": 2053
   },
@@ -23158,12 +23186,12 @@
     "rank": 3449
   },
   {
-    "en": "Ministry of the Interior",
+    "en": "interior ministry",
     "fi": "sisäministeriö",
     "rank": 3450
   },
   {
-    "en": "interior ministry",
+    "en": "Ministry of the Interior",
     "fi": "sisäministeriö",
     "rank": 3450
   },
@@ -23808,12 +23836,12 @@
     "rank": 3612
   },
   {
-    "en": "Minister of the Interior",
+    "en": "interior minister",
     "fi": "sisäministeri",
     "rank": 3613
   },
   {
-    "en": "interior minister",
+    "en": "Minister of the Interior",
     "fi": "sisäministeri",
     "rank": 3613
   },
@@ -24335,12 +24363,12 @@
     "rank": 3756
   },
   {
-    "en": "VAT",
+    "en": "value added tax",
     "fi": "arvonlisävero",
     "rank": 3758
   },
   {
-    "en": "value added tax",
+    "en": "VAT",
     "fi": "arvonlisävero",
     "rank": 3758
   },
@@ -24937,12 +24965,12 @@
     "rank": 3910
   },
   {
-    "en": "Spanish",
+    "en": "a spanish person",
     "fi": "espanjalainen",
     "rank": 3911
   },
   {
-    "en": "a spanish person",
+    "en": "Spanish",
     "fi": "espanjalainen",
     "rank": 3911
   },
@@ -25458,16 +25486,16 @@
     "rank": 4038
   },
   {
+    "en": "dane",
+    "fi": "tanskalainen",
+    "rank": 4040
+  },
+  {
     "en": "Danish",
     "fi": [
       "tanskalainen",
       "tanska"
     ],
-    "rank": 4040
-  },
-  {
-    "en": "dane",
-    "fi": "tanskalainen",
     "rank": 4040
   },
   {
@@ -26961,12 +26989,12 @@
     "rank": 4405
   },
   {
-    "en": "Minister of Justice",
+    "en": "justice minister",
     "fi": "oikeusministeri",
     "rank": 4406
   },
   {
-    "en": "justice minister",
+    "en": "Minister of Justice",
     "fi": "oikeusministeri",
     "rank": 4406
   },
@@ -28024,16 +28052,6 @@
     "rank": 9999
   },
   {
-    "en": "ABC book rooster",
-    "fi": "aapiskukko",
-    "rank": 9999
-  },
-  {
-    "en": "Baltic herring",
-    "fi": "silakka",
-    "rank": 9999
-  },
-  {
     "en": "abbess",
     "fi": "abbedissa",
     "rank": 9999
@@ -28041,6 +28059,11 @@
   {
     "en": "abbot",
     "fi": "apotti",
+    "rank": 9999
+  },
+  {
+    "en": "ABC book rooster",
+    "fi": "aapiskukko",
     "rank": 9999
   },
   {
@@ -28469,6 +28492,11 @@
   {
     "en": "balcony",
     "fi": "parveke",
+    "rank": 9999
+  },
+  {
+    "en": "Baltic herring",
+    "fi": "silakka",
     "rank": 9999
   },
   {
