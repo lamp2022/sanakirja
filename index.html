@@ -13,8 +13,12 @@ h1 { font-size: 24px; margin-bottom: 2px; }
 .tabs { display: flex; gap: 4px; margin-bottom: 12px; }
 .tab { padding: 8px 16px; background: #eee; border-radius: 6px 6px 0 0; cursor: pointer; user-select: none; font-size: 14px; }
 .tab.active { background: #fff; font-weight: 600; box-shadow: 0 -1px 0 0 #e5e5e5 inset; }
-.search { width: 100%; padding: 11px 14px; font-size: 16px; border: 1px solid #ccc; border-radius: 6px; margin-bottom: 12px; background: #fff; }
+.searchrow { display: flex; gap: 8px; margin-bottom: 12px; }
+.search { flex: 1; padding: 11px 14px; font-size: 16px; border: 1px solid #ccc; border-radius: 6px; background: #fff; }
 .search:focus { outline: none; border-color: #0070f3; box-shadow: 0 0 0 2px rgba(0,112,243,.18); }
+.surprise { padding: 0 14px; font-size: 16px; border: 1px solid #ccc; border-radius: 6px; background: #fff; cursor: pointer; user-select: none; white-space: nowrap; transition: transform .12s ease, background .12s ease; }
+.surprise:hover { background: #fffbe6; border-color: #f5c518; }
+.surprise:active { transform: scale(.96); background: #fff3a0; }
 .stats { color: #888; font-size: 13px; margin-bottom: 8px; }
 .list { background: #fff; border: 1px solid #e5e5e5; border-radius: 6px; overflow: hidden; }
 .list .head:first-child { border-top-left-radius: 6px; border-top-right-radius: 6px; }
@@ -59,7 +63,10 @@ h1 { font-size: 24px; margin-bottom: 2px; }
     <div class="tab" data-tab="it-en">IT → EN</div>
     <div class="tab" data-tab="fr-en">FR → EN</div>
   </div>
-  <input class="search" id="q" placeholder="Search…" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+  <div class="searchrow">
+    <input class="search" id="q" placeholder="Search…" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+    <button class="surprise" id="surprise" title="Random word">🎲 Random</button>
+  </div>
   <div class="stats" id="stats"></div>
   <div class="list" id="list"><div class="loading">Loading dictionary…</div></div>
   <div class="footer">
@@ -283,6 +290,40 @@ document.querySelectorAll('.tab').forEach(t => {
   };
 });
 document.getElementById('q').addEventListener('input', render);
+
+document.getElementById('surprise').onclick = () => {
+  const data = current === 'fi-en' ? fiEn
+    : current === 'en-fi' ? enFi
+    : current === 'sv-en' ? svEn
+    : current === 'de-en' ? deEn
+    : current === 'it-en' ? itEn
+    : frEn;
+  if (!data.length) return;
+  // Primary-headword field per tab (matches the leftmost column)
+  const headField = current === 'fi-en' ? 'fi'
+    : current === 'en-fi' ? 'en'
+    : current === 'sv-en' ? 'sv'
+    : current === 'de-en' ? 'de'
+    : current === 'it-en' ? 'it'
+    : 'fr';
+  // Try up to 8 picks — accept the first one with a non-empty primary headword
+  let pick = '';
+  for (let i = 0; i < 8 && !pick; i++) {
+    const e = data[Math.floor(Math.random() * data.length)];
+    const v = Array.isArray(e[headField]) ? e[headField][0] : e[headField];
+    if (v) pick = String(v);
+  }
+  if (!pick) return;
+  const q = document.getElementById('q');
+  q.value = pick;
+  render();
+  // Scroll the matched row into view
+  requestAnimationFrame(() => {
+    const row = document.querySelector('.row.match-exact');
+    if (row) row.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  });
+};
+
 document.getElementById('q').focus();
 load();
 </script>
